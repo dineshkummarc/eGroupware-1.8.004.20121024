@@ -1,0 +1,33 @@
+actions	polls	it	azioni
+add answer to poll	polls	it	Aggiungi risposta al Sondaggio
+add answers	polls	it	Aggiungi risposte
+add new poll question	polls	it	Aggiungi nuova domanda al Sondaggio
+add questions	polls	it	Aggiungi domande
+allow users to vote more then once	polls	it	Permetti agli utenti di votare più volte
+answer	polls	it	Risposta
+answer has been added to poll	polls	it	La risposta è stata aggiunta al sondaggio
+answer has been updated	polls	it	La risposta è stata aggiornata
+answers	polls	it	Risposte
+are you sure want to delete this answer ?	polls	it	Sei sicuro di voler cancellare questa risposta?
+are you sure want to delete this question ?	polls	it	Sei sicuro di voler cancellare questa domanda?
+current poll	polls	it	Sondaggio corrente
+edit answer	polls	it	Modifica risposta
+edit poll question	polls	it	Modifica domanda Sondaggio
+enter poll question	polls	it	Inserisci domanda Sondaggio
+new poll has been added.  you should now add some answers for this poll	polls	it	Il nuovo Sondaggio è stato aggiunto. Ora devi aggiungere alcune risposte per questo sondaggio
+poll question	polls	it	Domanda Sondaggio
+poll settings	common	it	Impostazioni Sondaggio
+polls	common	it	Sondaggi
+question has been updated	polls	it	La domanda è stata aggiornata
+select current poll	polls	it	Seleziona Sondaggio attuale
+settings	polls	it	Impostazioni
+settings updated	polls	it	Impostazioni aggiornate
+show answers	polls	it	Mostra risposte
+show questions	common	it	Mostra domande
+total votes	polls	it	Totale
+view poll	polls	it	Vedi Sondaggio
+view results	polls	it	Vedi Risultati
+vote	polls	it	Vota
+voting booth admin	admin	it	Cabina votazioni
+voting booth administration	polls	it	Amministrazione Cabina votazioni
+which poll	polls	it	Quale Sondaggio

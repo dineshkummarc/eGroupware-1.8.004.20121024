@@ -1,0 +1,121 @@
+13: error occured	registration	pl	13: wystąpił błąd
+<br>please contact the site administrator.	registration	pl	<br />Skontaktuj się z administratorem serwisu.
+[unknown first name]	registration	pl	[nieznane imię]
+[unknown last name]	registration	pl	[nieznane nazwisko]
+account %1 record could not be found, report to site administrator	registration	pl	Wpis dla konta %1 nie został znaleziony - zgłoś to do administratora.
+account password retrieval	registration	pl	Odzyskiwanie hasła do konta
+account registration	registration	pl	Rejestracja konta
+activate account	admin	pl	Aktywuj konto
+address	registration	pl	Adres
+after you enter your email address, the user accounts associated with this email address will be mailed to that address.	registration	pl	Po wpisaniu adresu email, konta użytkowników przypisane do tego emaila zostaną przesłane na ten adres.
+after you enter your username, instructions to change your password will be sent to you by e-mail to the address you gave when you registered.	registration	pl	Po wprowadzeniu nazwy użytkownika na adres podany przy rejestracji zostaną przesłane instrukcje zmiany hasła.
+an error occured while updating your password. please contact the site administrator.	registration	pl	Wystąpił błąd przy aktualizacji hasła. Skontaktuj się z administratorem.
+an error occured. please contact our technical support and let them know.	registration	pl	Wystąpił błąd. Proszę skontaktować się z pomocą techniczną i powiadomić ją o tym problemie.
+an error occured. please remove your cookies and try again.	registration	pl	Wystąpił błąd. Usuń ciasteczka i spróbuj jeszcze raz.
+an unknown error occured. <a href="%1">please try registering again.</a>	registration	pl	Wystąpił nieznany błąd. <a href="%1">Spróbuj ponownie.</a>
+anonymous password	admin	pl	Hasło dostępu anonimowego
+birthday	registration	pl	Data urodzin
+challenge question	registration	pl	Pytanie pomocnicze
+change login	registration	pl	Zmień login
+change password for user	registration	pl	Zmień hasło dla użytkownika
+checkbox	registration	pl	Pola zaznaczenia
+choose language	registration	pl	Wybierz język
+choose your language	registration	pl	Wybierz Twój język
+city	registration	pl	Miasto
+click to log into your account	registration	pl	Kliknij, aby zalogować się do Twojego konta
+close window	registration	pl	Zamknij okno
+convert user login id to 7 bit string	admin	pl	Skonwertuj login użytkownika na 7bitowy ciąg
+country	registration	pl	Kraj
+current fields:	registration	pl	Bieżące pola:
+days until trial accounts expire	admin	pl	Liczba dni po których konto testowe wygasa
+display terms of service?	admin	pl	Pokazać dokument licencyjny 'Warunki użytkowania'?
+dropdown	registration	pl	Lista rozwijalna
+dropdown from table	registration	pl	Lista rozwijana z tabeli
+email address	registration	pl	adres poczty elektronicznej
+email address to display for support	admin	pl	adres poczty elektronicznej do wiadomości pomocy technicznej
+email address to send notices from	admin	pl	adres poczty elektronicznej z którego będą wysyłane powiadomienia
+enable registration?	admin	pl	Umożliwić rejestrację?
+enter your new password	registration	pl	Podaj nowe hasło
+error: dropdown from table '%1' is not correctly configured	registration	pl	Błąd: Lista rozwijana z tabeli '%1' nie jest skonfigurowana
+error: dropdown list '%1' has no values	registration	pl	Błąd: Lista rozwijana '%1' nie ma wartości
+female	registration	pl	Kobieta
+gender	registration	pl	Płeć
+hi	registration	pl	Cześć
+http password	admin	pl	Hasło HTTP
+http username	admin	pl	Login HTTP
+i have read the terms and conditions and agree by them.	registration	pl	Przeczytałem warunki umowy i zgadzam się z nimi
+if you did not request this account, simply ignore this message.	registration	pl	Jeżeli nie żądana rejestracji tego konta, proszę zignorować tą wiadomość.
+if you did not request this change, simply ignore this message.	registration	pl	Jeżeli nie żądana rejestracji takiej zmiany, proszę zignorować tą wiadomość.
+immediately	admin	pl	Natychmiast
+lost login id	login	pl	Zapomniano nazwę konta
+lost password	login	pl	Zapomniano hasło
+lost password link at login screen?	admin	pl	Link przypomnienia hasła na stronie logowania?
+lost user account retrieval	registration	pl	Odzyskiwanie zagubionej nazwy użytkownika
+lost user id	registration	pl	Zapomniano nazwy użytkownika
+lost user id link at login screen?	admin	pl	Link odzyskania nazwy użytkownika na stronie logowania?
+lost_user_id_message	registration	pl	Oto lista kont użytkowników, które są skojarzone z tym adresem poczty elektronicznej:
+male	registration	pl	Mężczyzna
+manage fields	admin	pl	Zarządzaj polami
+name (blank unless text, textarea, dropdown, checkbox; else alphanumeric only)	registration	pl	Nazwa (puste chyba że jest jednym z typów: Tekst, Obszar tekstowy, Lista rozwijana, Checkbox; w przeciwnym wypadku tylko wartości alfanumeryczne)
+name sender to send notices from	admin	pl	Podaj nadawcę dla wysyłanych wiadomości
+not a user yet? register now	login	pl	Nie masz konta? Zapisz się teraz!
+on-line registration is not activated. please contact the site administrator for more information about registration.	registration	pl	Samodzielne zakładanie kont nie jest aktywowane. Proszę skontaktować się z administratorami serwisu w celu uzyskania dalszych informacji z zakresu rejestracji.
+order	registration	pl	Kolejność
+password is	admin	pl	Twoje hasło
+phone	registration	pl	Numer telefonu
+please contact the site administrator.	registration	pl	Skontaktuj się z administratorem
+problem sending email:	registration	pl	Problem przy wysyłaniu wiadomości
+re-enter password	registration	pl	Powtórz hasło
+re-enter your password	registration	pl	Powtórz hasło
+register	common	pl	rejestracja
+register link at login screen?	admin	pl	Pokazywać adres rejestracji na ekranie logowania?
+registration	common	pl	Rejestracja
+registration settings	admin	pl	Ustawienia rejestracji
+remove	registration	pl	Usuń
+report all problems and abuse to	registration	pl	Zgłaszaj wszelkie problemy i niechciane wiadomości do
+required	registration	pl	Wymagane
+response	registration	pl	Odpowiedź
+send email	admin	pl	Wyślij wiadomość
+sorry, no account exists for	registration	pl	Nie istnieje konto dla
+sorry, that username does not exist.	registration	pl	Podany użytkownik nie istnieje
+sorry, that username is already taken.	registration	pl	Podana nazwa użytkownika jest już zajęta.
+sorry, we are having a problem activating your account. note that links sent by e-mail are only valid during two hours. if you think this delay was expired, just retry. otherwise, please contact the site administrator.	registration	pl	Przepraszamy, mamy problem z aktywacją twojego konta. Linki przesłane pocztą email mają ważność tylko 2 godzin. Jeśli myślisz że czas minął spróbuj jeszcze raz, w przeciwnym wypadku skontaktuj się z administratorem.
+sorry, we are having a problem retrieving the information needed for changing your password. note that links sent by e-mail are only valid during two hours. if you think this delay was expired, just retry. otherwise, please contact the site administrator.	registration	pl	Przepraszamy, mamy problemy z odzyskaniem informacji potrzebnej do zmiany twojego hasła. Linki przesłane pocztą email mają ważność tylko 2 godzin. Jeśli myślisz że czas minął spróbuj jeszcze raz, w przeciwnym wypadku skontaktuj się z administratorem.
+state	registration	pl	Stan
+subject for confirmation email	admin	pl	Temat wiadomości służącej potwierdzeniu
+terms of service	registration	pl	Warunki użytkowania
+terms of service text	admin	pl	Tekst Warunków użytkowania
+text	registration	pl	Tekst
+textarea	registration	pl	Obszar tekstowy
+the passwords you entered don't match	registration	pl	Podane hasła nie są zgodne
+the two passwords are not the same	registration	pl	Podane hasła nie są identyczne
+this is a confirmation email for your new account.  click on the following link to finish activating your account. this link will expire in 2 hours.	registration	pl	To jest email potwierdzający dla twojego nowego konta. Kliknij na poniższy link aby dokończyć aktywację konta. Ten link utraci ważność w 2 godziny.
+type	registration	pl	Typ
+unable to send mail, contact your administrator	registration	pl	Nie udało się wysłać poczty elektronicznej, skontaktuj się z administratorem.
+unknown first name	registration	pl	Nieznane imię
+unknown last name	registration	pl	Nieznane nazwisko
+update/add	registration	pl	Aktualizuj/Dodaj
+use html	admin	pl	użyj HTML
+use trial accounts?	admin	pl	Używać kont testowych?
+username is	admin	pl	Twoja nazwa użytkownika
+values 'for dropdown': comma separated), for 'dropdown from table': table,valuefield,displayfield	registration	pl	Wartości do menu rozwijanego: rozdzielone przecinkiem. Dla menu rozwijanego z tabeli: tabela, pole wartości, pole wyswietlania
+values (for dropdown only; comma separated)	registration	pl	Wartości (tylko dla menu rozwijanego; rozdzielone przecinkiem)
+we have sent a confirmation email to your email address. you must click on the link within 2 hours. if you do not, it may take a few days until your loginid will become available again.	registration	pl	Wysłaliśmy email potwierdzający na twój adres. Musisz kliknąć na link w przeciągu 2 godzin, jeśli tego nie zrobisz może minąć kilka dni zanim twój wybrany login będzie z powrotem dostępny.
+we have sent a mail to your email account: %s with your lost user ids.	registration	pl	Wysłaliśmy wiadomość na twoje konto pocztowe: %s z odzyskanymi loginami.
+we have sent a mail with instructions to change your password. you should follow the included link within two hours. if you do not, you will have to go to the lost password screen again.	registration	pl	Wysłaliśmy wiadomość z instrukcją zmiany hasła. Musisz kliknać w przesłany link w ciągu 2 godzin, w przeciwnym wypadku odwiedź jeszcze raz ekran odzyskiwania hasła.
+wrong session	registration	pl	Nieprawidłowy klucz sesji
+you can go back to the login page	registration	pl	Można powrócić na stronę logowania
+you have entered an invalid birthday	registration	pl	Wprowadzono nieprawidłową datę urodzenia
+you have entered an invalid email address	registration	pl	Podano nieprawidłowy adres poczty elektronicznej
+you must enter a password	registration	pl	Musisz podać hasło
+you must enter a username	registration	pl	Musisz podać nazwę użytkownika
+you must enter an email account	registration	pl	Musisz podać nazwę konta poczty elektronicznej
+you must enter an email address	registration	pl	Musisz podać adres email
+you must fill in all of the required fields	registration	pl	Musisz wypełnić wszystkie wymagane pola
+you requested to change your password. please follow the url below to do so. this url will expire in two hours. after this delay you should go thru the lost password procedure again.	registration	pl	Zażądano zmiany hasła. Proszę odwiedzić poniższy odnośnik, aby to zrobić. Wskazana strona zmiany hasła wygaśnie po dwóch godzinach. Po upływie tego czasu należy wykonać procedurę odzyskiwania hasła ponownie.
+you specified a value for %1 that is not a choice	registration	pl	Podano wartość dla pola %1, która jest spoza dozwolnego zbioru
+your account is now active!	registration	pl	Twoje konto jest aktywne od tego momentu!
+your login is not available. time is expired	registration	pl	Twój login nie jest dostępny. Czas minął
+your password was changed.	registration	pl	Twoje hasło zostało zmienione.
+your registration code is missing or incorrect.	registration	pl	Brak lub niepoprawny kod rejestracji.
+zip/postal	registration	pl	Kod pocztowy

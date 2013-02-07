@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<mosinstall type="template">
+	<name>idots</name>
+	<creationDate>2003/4</creationDate>
+	<author>Ralf Becker</author>
+	<copyright>This template is relased under GPL as part of eGroupWare's SiteMgr.</copyright>
+	<authorEmail>RalfBecker@outdoor-training.de</authorEmail>
+	<authorUrl>www.eGroupWare.org</authorUrl>
+	<version>1.0</version>
+	<description>SiteMgr's idots template is based on Pim Snels phantastic eGroupWare template-set.</description>
+</mosinstall>

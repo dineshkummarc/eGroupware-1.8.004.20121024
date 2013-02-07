@@ -1,0 +1,24 @@
+%1 - %2 of %3	sambaadmin	pt	%1 - %2 de %3
+add workstation	sambaadmin	pt	Adicionar estação de trabalho
+check ldap setup (experimental!!!)	admin	pt	Verificar configuração do Idap (experimental!!!)
+computer group	admin	pt	grupo do computador
+computer ou	admin	pt	computador ou
+displayname	sambaadmin	pt	nome apresentado
+do you really want to delete selected workstation accounts?	sambaadmin	pt	Deseja realmente eliminar as contas da estação de trabalho seleccionada?
+homedrive	admin	pt	Pasta pessoal
+homepath	sambaadmin	pt	Caminho para a página inicial
+logonscript	admin	pt	Script de acesso
+new account defaults	admin	pt	Definições por omissão da nova conta
+participants	sambaadmin	pt	Participantes
+path to mkntpwd	admin	pt	Caminha para mkntpwd
+profilepath	admin	pt	Caminho para o perfil
+samba config	sambaadmin	pt	Configurar samba
+samba settings	common	pt	Configuração do Samba
+samba sid	admin	pt	SID do Samba
+smb homepath	admin	pt	Caminho para a página inicial do Samba
+workstation account for	sambaadmin	pt	conta de estação de trabalho para
+workstation configuration	sambaadmin	pt	Configuração da estação de trabalho
+workstation list	sambaadmin	pt	Lista de estações de trabalho
+workstation name	sambaadmin	pt	Nome da estação de trabalho
+workstationaccount active	sambaadmin	pt	Conta de estação de trabalho activa
+workstations	sambaadmin	pt	Estações de trabalho

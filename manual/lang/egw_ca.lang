@@ -1,0 +1,15 @@
+%1 manual page(s) added or updated	manual	ca	%1 pàgina(es) de manual afegida(es) o modificada(es)
+allow anonymous access to the manual, only necessary to act as remote manual	admin	ca	Permet accés anònim al manual, només és necessari actuar com a manual remot
+anonymous password	admin	ca	Contrasenya anònima
+anonymous username	admin	ca	Nom d'usuari anònim
+download	manual	ca	baixar
+index	manual	ca	Índex
+install or update the manual-pages	admin	ca	instal·lar o actualitzar les pàgines del manual
+manual	common	ca	Manual / Ajuda
+page(s) %1 not found !!!	manual	ca	Pàgina(es) %1 no trobada(es) !!!
+remote egroupware url for the manual to use, empty for a local manual, default	admin	ca	URL de eGroupWare remot pel manual a utilitzar, buit per a manual local, predeterminat
+search for	manual	ca	Cerca
+starting import from %1, this might take several minutes (specialy if you start it the first time) ...	manual	ca	Iniciant la importació de %1. Això pot trigar alguns minuts (sobretot si és la primera vegada que s'executa) ...
+the search returned no result!	manual	ca	La recerca no ha aconseguit cap resultat!
+update url for the local manual, default	admin	ca	Actualitza URL pel manual local, predeterminat
+wiki id for the local manual, default 1, 0 to use the wiki to edit the manual pages	admin	ca	Id Wiki pel manual local, predeterminat 1, 0 per utilitzar el wiki per editar les pàgines manuals

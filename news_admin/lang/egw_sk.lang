@@ -1,0 +1,110 @@
+%1 module	news_admin	sk	%1 modul
+%1 news imported (%2 new).	news_admin	sk	%1 aktualít bolo naimportovaných (%2 nových).
+%s hours	news_admin	sk	%s hodín
+actions	news_admin	sk	Akcie
+active	news_admin	sk	Aktívne
+add new article	news_admin	sk	Pridať nový článok
+add new news	news_admin	sk	Pridať novú aktualitu
+add news item	news_admin	sk	Pridať položku Aktualít
+all news	news_admin	sk	Všetky aktuality
+always	news_admin	sk	Vždy
+by date	news_admin	sk	Podľa dátumu
+categories to displayed on main page?	news_admin	sk	Kategórie, ktoré sa majú zobrazovať na hlavnej stránke?
+category deleted.	news_admin	sk	Kategóriia bola odstránená.
+category saved.	news_admin	sk	Kategória bola uložená.
+choose a category	news_admin	sk	Vyberte kategóriu
+configuration	news_admin	sk	Konfigurácia
+configure access permissions	common	sk	Nastaviť prístupové práva
+configure rss exports	common	sk	Nastaviť RSS exporty
+contains html	news_admin	sk	Obsahuje HTML
+content	news_admin	sk	Obsah
+count	news_admin	sk	Počet
+date and time	news_admin	sk	Dátum a čas
+delete this news	news_admin	sk	Odstrániť túto správu
+do you want to publish a rss feed for this news category	news_admin	sk	Želáte si publikovať RSS kanál pre túto kategóriu aktualít
+edit news item	news_admin	sk	Upraviť položku Aktualít
+end	news_admin	sk	Koniec
+error importing the feed!	news_admin	sk	Chyba pri importovaní kanála!
+error saving the category!	news_admin	sk	Chyba pri ukladaní kategórie!
+error saving the news!	news_admin	sk	Chyba počas ukladania správ!
+failed to add message	news_admin	sk	Nepodarilo sa pridať novú správu
+format for links to items	news_admin	sk	Formát pre odkaz na položky
+format of export	news_admin	sk	Formát exportu
+from	news_admin	sk	Od
+from all	news_admin	sk	Od všetkých
+future	news_admin	sk	Budúce
+global categories	news_admin	sk	Globálne kategórie
+global news	news_admin	sk	Globálne aktuality
+global_news	news_admin	sk	Globálne_aktuality
+headline	news_admin	sk	Titulok
+headline with link	news_admin	sk	Titulok s odkazom
+image link	news_admin	sk	Odkaz na obrázok
+image title	news_admin	sk	Titulok obrázka
+image url	news_admin	sk	URL obrázka
+implies read permission	news_admin	sk	implikuje právo čítania
+import every	news_admin	sk	Importovať všetkých
+import now	news_admin	sk	Importovať teraz
+import url	news_admin	sk	Importovať URL
+imported feeds can not be writable!	news_admin	sk	Importované kanály sa NEDAJÚ upravovať!
+item has been deleted	news_admin	sk	Položka bola odstránená
+item not found	news_admin	sk	Položka sa nenašla
+last updated	news_admin	sk	Naposledy aktualizované
+link	news_admin	sk	Odkaz
+main	news_admin	sk	Hlavné
+maintain	news_admin	sk	Udržiavať
+maintain news	admin	sk	Udržiavať Aktuality
+message has been added	news_admin	sk	Správa bola pridaná
+more news	news_admin	sk	Viacej aktualít
+more news link	news_admin	sk	Odkaz na viacej aktualít
+new item has been added	news_admin	sk	Nová položka bola pridaná
+news	news_admin	sk	Aktuality
+news admin	news_admin	sk	Správca Aktualít
+news administration	news_admin	sk	Správa Aktualít
+news deleted.	news_admin	sk	Aktuality boli odstránené.
+news item has been added	news_admin	sk	Položka Aktualít bola pridaná
+news item has been updated	news_admin	sk	Položka Aktualít bola upravená
+news saved.	news_admin	sk	Aktuality uložené.
+news_admin	common	sk	Správca Aktualít
+no entries found	news_admin	sk	žiadne záznamy sa nenašli
+no matching news item	news_admin	sk	Nenašli sa žiadne zodpovedajúce položky Aktualít
+no news	news_admin	sk	V kategórii nie sú v súčasnosti žiadne dostupné aktuality
+no rss export	news_admin	sk	Žiadny RSS export
+now	news_admin	sk	Teraz
+number of articles to display on the main screen	news_admin	sk	Počet článkov zobrazených na hlavnej stránke
+number of news items to be displayed on page	news_admin	sk	Počet aktualít zobrazovaných na stránke
+old	news_admin	sk	Staré
+on	news_admin	sk	na
+page-name the item should be displayed (empty = current page)	news_admin	sk	Názov stránky, pod ktorým sa má táto položka zobrazovať (prázdne = súčasná stránka)
+parent	news_admin	sk	Rodič
+picture upload (leave the upload directory empty to disable the upload)	admin	sk	Nahrať obrázok (ak chcete vypnúť nahrávanie, ponechajte adresár prázdny)
+please select a category	news_admin	sk	Prosím vyberte kategóriu
+publish date	news_admin	sk	Dátum publikovania
+read more	news_admin	sk	čítať ďalej
+read news	news_admin	sk	Čítať aktuality
+read permissions	news_admin	sk	Oprávnenia k čítaniu
+reload	news_admin	sk	Znovunačítať
+send mail to others	news_admin	sk	Poslať ostatným mail
+should news_admin display the latest article headlines on the main screen.	news_admin	sk	Chcete, aby Správca Aktualít zobrazoval titulok najnovšieho článku na hlavnej stránke?
+show latest news articles?	news_admin	sk	Zobraziť najnovší článok z Aktualít?
+show news articles on main page?	news_admin	sk	Zobraziť články Aktualít na hlavnej stránke?
+small view	news_admin	sk	Zmenšený pohľad
+start	news_admin	sk	Začiatok
+submitted by	common	sk	Pridal
+submitted by %1 on %2	news_admin	sk	Odoslal %1 k %2
+submitted by and date	news_admin	sk	Odoslané kým a dátum
+teaser	news_admin	sk	Spojovač
+teaser with read more link	news_admin	sk	Spojovač s odkazom na 'zobraziť celé'
+the news content is missing	news_admin	sk	Obsah aktuality chýba
+the number of articles to display on the main screen.	news_admin	sk	Počet článkov zobrazovaných na hlavnej stránke
+the subject is missing	news_admin	sk	Chýba predmet
+there no such translation.	news_admin	sk	Taký preklad neexistuje.
+this module publishes news from the news_admin application on your website. be aware of news_admin's acl restrictions.	news_admin	sk	Tento modul publikuje na Vašej webstránke aktuality z aplikácie Správca Aktualít (news_admin). Dajte si pozor na ACL obmedzenia aplikácie Správca Aktualít (news_admin).
+until	news_admin	sk	až do
+url of the rss or atom feed, empty for own news feed	news_admin	sk	URL pre RSS alebo Atom kanál, prázdne znamená vlastný kanál aktualít
+view this category	news_admin	sk	Zobraziť túto kategóriu
+visible	news_admin	sk	Viditeľné
+webpage news admin	news_admin	sk	Správca aktualít webstránky
+which information do you want to show (css class)	news_admin	sk	Ktoré informácie chcete zobraziť (CSS trieda)
+which news categories should be displayed on the main screen.	news_admin	sk	Ktoré kategórie aktualít sa majú zobrazovať na hlavnej stránke.
+write	news_admin	sk	Zápis
+write permissions	news_admin	sk	Oprávnenia k zápisu

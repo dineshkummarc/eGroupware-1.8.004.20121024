@@ -1,0 +1,45 @@
+%1 group	polls	ca	%1 grup
+actions	polls	ca	accions
+add answer to poll	polls	ca	Afegir respostes al sondeig
+add answers	polls	ca	Afegir respostes
+add new poll question	polls	ca	Afegir nova pregunta al sondeig
+add questions	polls	ca	Afegir preguntes
+administrators	polls	ca	Administradors
+allow users to vote more then once	polls	ca	Permetre als usuaris votar més d'un cop
+allways use latest poll	polls	ca	Utilitzeu sempre el darrer sondeig
+answer	polls	ca	Resposta
+answer has been added to poll	polls	ca	Resposta afegida al sondeig
+answer has been updated	polls	ca	Resposta actualitzada
+answers	polls	ca	Respostes
+are you sure want to delete this answer ?	polls	ca	Esteu segurs d'esborrar aquesta resposta?
+are you sure want to delete this question ?	polls	ca	Esteu segurs d'esborrar aquesta pregunta?
+current poll	polls	ca	Sondeig actual
+edit answer	polls	ca	Editar resposta
+edit poll question	polls	ca	Editar pregunta del sondeig
+egroupware users (non-anonymous)	polls	ca	usuaris de eGroupWare (no anònims)
+enter poll question	polls	ca	Entrar pregunta al sondeig
+everyone incl. anonymous users	polls	ca	Tothom inclou usuaris anònims
+new poll has been added.  you should now add some answers for this poll	polls	ca	S'ha afegit un nou sondeig. Heu d'afegir ara les respostes per aquest sondeig.
+noone	polls	ca	Ningú
+poll question	polls	ca	Pregunta del sondeig
+poll votable by	polls	ca	Votar el sondeig per
+polls	common	ca	Sondejos/Votacions
+question has been updated	polls	ca	Pregunta actualitzada
+result visible to	polls	ca	Resultat visible per
+select current poll	polls	ca	Seleccionar sondeig actual
+settings updated	polls	ca	Configuració actualitzada
+show answers	polls	ca	Mostra respostes
+show bullet if allowed to vote and result else	polls	ca	Mostra les opcions si es pot votar i si no el resultat
+show only the ballot	polls	ca	Mostra només el vot
+show only the result	polls	ca	Mostra només el resultat
+show questions	common	ca	Mostra preguntes
+this module displays polls.	polls	ca	Aquest mòdul mostra sondejos/votacions.
+total votes	polls	ca	Total
+view poll	polls	ca	Veure sondeig
+view results	polls	ca	Veure Resultats
+vote	polls	ca	Votar
+voting booth admin	admin	ca	Situació del vot
+voting booth administration	polls	ca	Administració de situacions de vot
+what to show	polls	ca	Què mostrar
+which poll	polls	ca	Quin sondeig
+you are not (yet) allowed view the result of this vote.	polls	ca	No teniu (encara) permís per veure el resultat d'aquesta votació.

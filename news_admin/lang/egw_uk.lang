@@ -1,0 +1,58 @@
+active	news_admin	uk	
+add new article	news_admin	uk	Додати нову статтю
+add new news	news_admin	uk	Додати нову новину
+add news item	news_admin	uk	Додати запис новини
+all news	news_admin	uk	Всі новини
+always	news_admin	uk	Завжди
+configuration	news_admin	uk	Конфігурація
+configure access permissions	news_admin	uk	Надати Права доступу
+configure rss exports	news_admin	uk	Конфігурувати експорт RSS
+contains html	news_admin	uk	Містить HTML
+content	news_admin	uk	Зміст
+edit news item	news_admin	uk	Редагувати запис новин
+failed to add message	news_admin	uk	Додати нове повідомлення не вдалось
+format for links to items	news_admin	uk	Формат посилань до записів
+format of export	news_admin	uk	Формат експорту
+from	news_admin	uk	З
+global news	news_admin	uk	Глобальні новини
+global_news	news_admin	uk	Глобальні новини
+image link	news_admin	uk	Посилання на зображення
+image title	news_admin	uk	Назва зображення
+image url	news_admin	uk	URL зображення
+implies read permission	news_admin	uk	Включає дозвіл на читання
+item has been deleted	news_admin	uk	Запис видалено
+item not found	news_admin	uk	Запис не знайдено
+link	news_admin	uk	Посилання
+main	news_admin	uk	
+maintain	news_admin	uk	Обслуговування
+maintain news	admin	uk	Обслуговування Новин
+message has been added	news_admin	uk	Повідомлення додано
+more news	news_admin	uk	Більше новин
+new item has been added	news_admin	uk	Новий запис додано
+news admin	news_admin	uk	Новини
+news administration	news_admin	uk	Керування новинами
+news item has been added	news_admin	uk	Новину додано
+news item has been updated	news_admin	uk	Новина змінена
+news_admin	common	uk	Новини
+no entries found	news_admin	uk	записів не знайдено
+no news	news_admin	uk	В категорії зараз немає новин
+no rss export	news_admin	uk	Немає RSS експорту
+number of articles to display on the main screen	news_admin	uk	Кількість статей для показу на основному екрані
+on	news_admin	uk	
+publish date	news_admin	uk	Дата публікації
+read permissions	news_admin	uk	Дозвіл на читання
+should news_admin display the latest article headlines on the main screen.	news_admin	uk	Чи повинні Новини показувати заголовки останніх новин на основному екрані
+show latest news articles?	news_admin	uk	Показувати останні новини?
+show news articles on main page?	news_admin	uk	Показувати останні новини на основній сторінці?
+small view	news_admin	uk	Зменшений вигляд
+submitted by	common	uk	Надіслано
+teaser	news_admin	uk	Анотація
+the news content is missing	news_admin	uk	Відсутній зміст новини
+the number of articles to display on the main screen.	news_admin	uk	Кількість статей для показу на основному екрані.
+the subject is missing	news_admin	uk	Відсутня тема
+until	news_admin	uk	до
+view this category	news_admin	uk	Переглянути категорію
+visible	news_admin	uk	Видиме
+webpage news admin	news_admin	uk	
+write	news_admin	uk	Запис
+write permissions	news_admin	uk	Дозвіл на запис

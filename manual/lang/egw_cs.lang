@@ -1,0 +1,15 @@
+%1 manual page(s) added or updated	manual	cs	%1 stránek manuálu přidáno nebo zaktualizováno
+allow anonymous access to the manual, only necessary to act as remote manual	admin	cs	Povolit anonymní přístup k manuálu. Je zapotřebí jen pokud se používá jako vzdálený manuál.
+anonymous password	admin	cs	Anonymní heslo
+anonymous username	admin	cs	Anonymní uživatelské jméno
+download	manual	cs	stáhnout
+index	manual	cs	Index
+install or update the manual-pages	admin	cs	instalovat nebo aktualizovat stránky manuálu
+manual	common	cs	Manuál / Nápověda
+page(s) %1 not found !!!	manual	cs	Strana(y) %1 nenalezena(y) !!!
+remote egroupware url for the manual to use, empty for a local manual, default	admin	cs	URL vzdáleného eGroupWare, které má manuál používat. Pro použití lokálního manuálu ponechte prázdné (výchozí nastavení)
+search for	manual	cs	Hledat (co)
+starting import from %1, this might take several minutes (specialy if you start it the first time) ...	manual	cs	Začínám importovat od %1. Proces může trvat několik minut (zejména pokud ho spouštíte poprvé)...
+the search returned no result!	manual	cs	Hledání nevrátilo žádné výsledky!
+update url for the local manual, default	admin	cs	Aktualizovat URL pro lokální manuál (výchozí)
+wiki id for the local manual, default 1, 0 to use the wiki to edit the manual pages	admin	cs	Wiki Id pro lokální manuál. Výchozí hodnota je 1. Nastavte 0 pokud chcete pomocí Wiki editovat stránky manuálu.

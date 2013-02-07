@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<mosinstall type="template">
+	<name>Simple and Plain</name>
+	<creationDate>08/25/08</creationDate>
+	<copyright>This Template is property of Stylite GmbH</copyright>
+	<version>1.0</version>
+	<description>The Emty Template is to integrate part of the Sitemgr to a website outsite of egroupware, e.g. to integrate the contactform to a existing website </description>
+	<files>
+		<filename>index.php</filename>
+		
+	</files>
+	<images>
+	</images>
+	<css>
+		<filename>css/style.css</filename>
+	</css>
+</mosinstall>

@@ -1,0 +1,110 @@
+(don't offer the possibility)	admin	zh-tw	(不提供這個項目)
+<em>but</em> display at least this many entries in recentchanges and other subscription lists:	wiki	zh-tw	<em>但是</em>在最新異動中顯示至少這些資料與其他訂購清單：
+add document to category	wiki	zh-tw	新增這個類別的文件
+added	wiki	zh-tw	已經新增
+administration features are disabled for this wiki.	wiki	zh-tw	管理功能是被關閉的。
+admins	wiki	zh-tw	管理者
+after how many days should old versions of a page be removed (0 for never)	admin	zh-tw	一個舊版本的頁面要保留多少天？（0表示永久保留）
+allow anonymous access	admin	zh-tw	允許訪客存取
+anonymous password	admin	zh-tw	訪客密碼
+anonymous session type	admin	zh-tw	訪客連線種類
+anonymous username	admin	zh-tw	訪客暱稱
+automatically convert pages with wiki-syntax to richtext (if edited)?	admin	zh-tw	自動轉換wiki與法成為網頁格式(編輯後)？
+block	wiki	zh-tw	鎖定
+block / unblock hosts	common	zh-tw	鎖定 / 解除鎖定主機
+blocked ip address ranges	wiki	zh-tw	鎖定 IP 位址區段
+cancel without saving	wiki	zh-tw	取消不儲存
+changed	wiki	zh-tw	已經修改
+changes by last author	wiki	zh-tw	最後一位作者的異動
+choose your current time here, so the server may figure out what time zone you are in.	wiki	zh-tw	在這裡選擇您目前的時間，系統會自動計算您所在位置的時區。
+columns	wiki	zh-tw	欄位
+compute difference	wiki	zh-tw	比對異動資料
+converts the page to richtext	wiki	zh-tw	轉換成網頁
+current version	wiki	zh-tw	目前版本
+deleted	wiki	zh-tw	已刪除
+deletes this page	wiki	zh-tw	刪除這一頁
+difference between versions	wiki	zh-tw	版本之間的差異
+differences in	wiki	zh-tw	版本差異
+different languages can have different titles	wiki	zh-tw	不同的語言可以使用不同的標題
+document last modified	wiki	zh-tw	最後異動日期
+edit box	wiki	zh-tw	編輯區
+edit this <em>archive version</em> of this document	wiki	zh-tw	編輯這個文件的<em>保存版本</em>
+edit this document	wiki	zh-tw	編輯這個文件
+edit with preview	admin	zh-tw	編輯與預覽
+editable	admin	zh-tw	可編輯
+editing	wiki	zh-tw	編輯中
+emailaddress administrator	admin	zh-tw	管理者信箱
+enable free links	admin	zh-tw	啟用自由連結
+enable wiki links	admin	zh-tw	啟用Wiki連結
+enter here the maximum number of entries to display in a document's history list.	wiki	zh-tw	輸入文件異動記錄最多顯示幾筆資料。
+enter here the number of days of edits to display on recentchanges or any other subscription list.  set this to zero if you wish to see all pages in recentchanges, regardless of how recently they were edited.	wiki	zh-tw	輸入最新異動清單或其他訂閱清單要顯示資料的天數，如果您希望看到全部可以設為0 。
+enter ip address range in form <tt>12.*</tt>, <tt>34.56.*</tt>, or <tt>78.90.123.*</tt>	wiki	zh-tw	輸入 IP 位址區段，格式為 <tt>12.*</tt>, <tt>34.56.*</tt>, 或<tt>78.90.123.*</tt>
+error creating temporary file.	wiki	zh-tw	建立暫存檔案時發生錯誤
+error writing to temporary file.	wiki	zh-tw	寫入暫存檔案時發生錯誤
+everyone	wiki	zh-tw	所有人
+find	wiki	zh-tw	搜尋
+history	wiki	zh-tw	歷史
+history display should show <em>all</em> changes made by the latest author.  otherwise, show only the last change made.	wiki	zh-tw	歷史會顯示最後一位作者<em>所有</em>的異動。
+history lists	wiki	zh-tw	歷史清單
+history of	wiki	zh-tw	歷史
+interwikiprefix	admin	zh-tw	Wiki文中前置字元
+invalid page name.	wiki	zh-tw	錯誤的頁面名稱
+load	wiki	zh-tw	讀取
+loads the named page in the given language, all change so far get lost !!!	wiki	zh-tw	讀取指定語言的頁面，所有的異動將會遺失！
+lock / unlock pages	common	zh-tw	鎖定 / 取消鎖定頁面
+locked	wiki	zh-tw	已鎖定
+name wiki home link	admin	zh-tw	wiki 首頁連結
+newer	wiki	zh-tw	更新
+no never	admin	zh-tw	從未
+no only on request	admin	zh-tw	否,只有在發出請求時
+not set	wiki	zh-tw	未設定
+older	wiki	zh-tw	更舊
+on all pages	wiki	zh-tw	在全部頁面
+only if browser supports a richtext-editor	admin	zh-tw	請確認您的瀏覽器支援所見即所得編輯器
+only on the first page	wiki	zh-tw	只在首頁
+page '%1' not found !!!	wiki	zh-tw	找不到 '%1' 頁面！
+path of the upload directory (has to be writable by the webserver!)	admin	zh-tw	上傳檔案的路徑（網頁伺服器要能夠寫入！）
+picture upload via richtext editor (leave the upload directory empty to disable the upload)	admin	zh-tw	透過所見即所得編輯器上傳圖片（上傳資料夾空白表示停用上傳功能）
+please contact the %1administrator%2 for assistance.	wiki	zh-tw	請聯絡%1管理員%2。
+preview	wiki	zh-tw	預覽
+preview of current version	wiki	zh-tw	預覽目前版本
+rate control / ip blocking disabled	wiki	zh-tw	評分控制 / 取消IP鎖定
+readable by	wiki	zh-tw	可讀取
+readonly	admin	zh-tw	唯讀
+recent changes	wiki	zh-tw	最新異動
+renames page to the given name and language	wiki	zh-tw	指定名稱和語言來修改頁面
+richtext	wiki	zh-tw	網頁
+rows	wiki	zh-tw	列
+save the changes and exit	wiki	zh-tw	儲存後離開
+saves and continues editing	wiki	zh-tw	儲存後繼續編輯
+search for	wiki	zh-tw	搜尋
+see complete list (%1 entries)	wiki	zh-tw	顯示完整列表(%1 筆資料)
+show a search	wiki	zh-tw	顯示搜尋
+show the title of the wiki page	wiki	zh-tw	顯示 wiki 頁面的標題
+summary	wiki	zh-tw	概要
+summary of change	wiki	zh-tw	異動概要
+the search returned no result!	wiki	zh-tw	沒有找到任何資料！
+this page can not be edited.	wiki	zh-tw	這篇文章無法邊擊
+twin pages	wiki	zh-tw	重複頁
+unblock	wiki	zh-tw	取消鎖定
+updates the preview	wiki	zh-tw	更新預覽
+url of the upload directory	admin	zh-tw	上傳資料夾對應的網址
+use this module for displaying wiki-pages	wiki	zh-tw	用這個模組來顯示 wiki 頁面
+users	wiki	zh-tw	使用者
+view document history	wiki	zh-tw	顯示文件歷史
+visit %1 to set your user name	wiki	zh-tw	在 %1 設定您的名稱
+warning: since you started editing, this document has been changed by someone else.  please merge your edits into the current version of this document.	wiki	zh-tw	注意：當您開始編輯後，這份文件也被其他人編輯過了，請整合您編輯的資料到目前的版本。
+who should be able to edit this page	wiki	zh-tw	誰能夠編輯這份文件
+who should be able to read this page	wiki	zh-tw	誰能夠閱讀這份文件
+wiki	common	zh-tw	Wiki
+wiki administration	wiki	zh-tw	Wiki管理
+wiki menu	wiki	zh-tw	Wiki選單
+wiki startpage	wiki	zh-tw	wiki 首頁
+writable by	wiki	zh-tw	可修改
+yes always	admin	zh-tw	全部皆是
+you have been denied access to this site.	wiki	zh-tw	您沒有權限瀏覽這個網站！
+you have entered an invalid user name.	wiki	zh-tw	您輸入了一個錯誤的名稱
+you have exeeded the number of pages you are allowed to visit in a given period of time. please return later.	wiki	zh-tw	您在同一段時間裡存取了超過系統設定的資料量，請稍後再回來繼續閱讀。
+you have no rights to view wiki content !!!	wiki	zh-tw	您沒有檢視這個頁面的權限！
+your changes	wiki	zh-tw	您做的修正
+your user name is "%1".	wiki	zh-tw	您的帳號是 "%1"

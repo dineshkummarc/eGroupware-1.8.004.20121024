@@ -1,0 +1,90 @@
+%1 module	news_admin	zh-tw	%1 模組
+actions	news_admin	zh-tw	操作
+active	news_admin	zh-tw	啟用
+add new article	news_admin	zh-tw	新增文章
+add new news	news_admin	zh-tw	新增新聞
+add news item	news_admin	zh-tw	新增新聞項目
+all news	news_admin	zh-tw	所有新聞
+always	news_admin	zh-tw	預設
+by date	news_admin	zh-tw	按日期
+choose a category	news_admin	zh-tw	選擇一個類別
+configuration	news_admin	zh-tw	設定
+configure access permissions	common	zh-tw	設定存取權限
+configure rss exports	common	zh-tw	設定RSS匯出
+contains html	news_admin	zh-tw	包含HTML
+content	news_admin	zh-tw	內容
+date and time	news_admin	zh-tw	日期與時間
+delete this news	news_admin	zh-tw	刪除這則新聞
+do you want to publish a rss feed for this news category	news_admin	zh-tw	是否要透過 RSS 發佈這個新聞類別的文章？
+edit news item	news_admin	zh-tw	編輯新聞項目
+end	news_admin	zh-tw	結束
+error saving the news!	news_admin	zh-tw	儲存這則新聞時發生錯誤！
+failed to add message	news_admin	zh-tw	無法新增訊息
+format for links to items	news_admin	zh-tw	連結項目格式
+format of export	news_admin	zh-tw	匯出格式
+from	news_admin	zh-tw	來源
+from all	news_admin	zh-tw	所有來源
+future	news_admin	zh-tw	未來
+global categories	news_admin	zh-tw	全域類別
+global news	news_admin	zh-tw	全域新聞
+global_news	news_admin	zh-tw	全域新聞
+headline	news_admin	zh-tw	標題
+headline with link	news_admin	zh-tw	標題連結
+image link	news_admin	zh-tw	圖片連結
+image title	news_admin	zh-tw	圖片標題
+image url	news_admin	zh-tw	圖片網址
+implies read permission	news_admin	zh-tw	表示讀取權限
+item has been deleted	news_admin	zh-tw	刪除完成
+item not found	news_admin	zh-tw	沒有這個項目
+link	news_admin	zh-tw	連結
+main	news_admin	zh-tw	主要
+maintain	news_admin	zh-tw	維護
+maintain news	admin	zh-tw	維護新聞
+message has been added	news_admin	zh-tw	新增訊息完成
+more news	news_admin	zh-tw	更多新聞
+more news link	news_admin	zh-tw	更多新聞連結
+new item has been added	news_admin	zh-tw	新增項目完成
+news	news_admin	zh-tw	新聞
+news admin	news_admin	zh-tw	新聞管理
+news administration	news_admin	zh-tw	新聞管理
+news deleted.	news_admin	zh-tw	新聞刪除了
+news item has been added	news_admin	zh-tw	新增新聞項目完成
+news item has been updated	news_admin	zh-tw	更新新聞項目完成
+news saved.	news_admin	zh-tw	新聞儲存了
+news_admin	common	zh-tw	新聞管理
+no entries found	news_admin	zh-tw	找不到任何資料
+no matching news item	news_admin	zh-tw	沒有符合的新聞
+no news	news_admin	zh-tw	這個類別目前沒有任何新聞
+no rss export	news_admin	zh-tw	沒有RSS匯出
+now	news_admin	zh-tw	現在
+number of articles to display on the main screen	news_admin	zh-tw	在主要畫面顯數新聞數量
+number of news items to be displayed on page	news_admin	zh-tw	頁面要顯示的新聞數量
+old	news_admin	zh-tw	舊的
+on	news_admin	zh-tw	在
+picture upload (leave the upload directory empty to disable the upload)	admin	zh-tw	上傳圖片（如果不使用請保留空白）
+please select a category	news_admin	zh-tw	請選擇一個類別
+publish date	news_admin	zh-tw	發布日期
+read more	news_admin	zh-tw	閱讀全文
+read news	news_admin	zh-tw	讀取新聞
+read permissions	news_admin	zh-tw	讀取權限
+send mail to others	news_admin	zh-tw	發送郵件給其他人
+should news_admin display the latest article headlines on the main screen.	news_admin	zh-tw	是否要在主畫面顯示最新文章？
+show latest news articles?	news_admin	zh-tw	顯示最新文章？
+show news articles on main page?	news_admin	zh-tw	在主頁面顯示新聞？
+small view	news_admin	zh-tw	縮小
+start	news_admin	zh-tw	開始
+submitted by	common	zh-tw	發布者
+submitted by %1 on %2	news_admin	zh-tw	提供者 %1 / %2
+teaser	news_admin	zh-tw	維護者
+teaser with read more link	news_admin	zh-tw	維護者與閱讀全文連結
+the news content is missing	news_admin	zh-tw	新聞內容遺失
+the number of articles to display on the main screen.	news_admin	zh-tw	在主要畫面顯示的新聞文章數量。
+the subject is missing	news_admin	zh-tw	您沒有輸入主題
+this module publishes news from the news_admin application on your website. be aware of news_admin's acl restrictions.	news_admin	zh-tw	這個模組會從 news_admin 模組發佈新聞到網站，記得檢查 news_admin 的權限設定。
+until	news_admin	zh-tw	直到
+view this category	news_admin	zh-tw	瀏覽這個類別
+visible	news_admin	zh-tw	啟用
+webpage news admin	news_admin	zh-tw	網頁新聞管理
+which information do you want to show (css class)	news_admin	zh-tw	要顯示的資訊 (CSS class)
+write	news_admin	zh-tw	寫入
+write permissions	news_admin	zh-tw	寫入權限

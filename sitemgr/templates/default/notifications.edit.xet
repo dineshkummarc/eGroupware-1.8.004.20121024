@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<!-- $Id$ -->
+<overlay>
+	<template id="sitemgr.notifications.edit" template="" lang="" group="0" version="0.0.006">
+		<grid>
+			<columns>
+				<column/>
+				<column/>
+			</columns>
+			<rows>
+				<row>
+					<description no_lang="1" id="msg"/>
+					<description/>
+				</row>
+				<row class="th">
+					<description span="all" value="edit notification"/>
+				</row>
+				<row class="row">
+					<description value="Site"/>
+					<menulist>
+						<menupopup id="site_id"/>
+					</menulist>
+				</row>
+				<row class="row">
+					<description value="Email address" needed="1"/>
+					<textbox size="40" id="email"/>
+				</row>
+				<row class="row" disabled="@multilingual">
+					<description value="Language"/>
+					<menulist>
+						<menupopup no_lang="1" id="site_language"/>
+					</menulist>
+				</row>
+				<row class="row">
+					<description value="Category"/>
+					<menulist>
+						<menupopup type="select-cat" id="cat_id"/>
+					</menulist>
+				</row>
+				<row>
+					<hbox>
+						<button label="Save" id="button[save]"/>
+						<button id="button[cancel]" label="Cancel"/>
+					</hbox>
+					<button label="Delete" align="right" id="button[delete]" onclick="return confirm('Delete this entry');"/>
+				</row>
+			</rows>
+		</grid>
+	</template>
+</overlay>

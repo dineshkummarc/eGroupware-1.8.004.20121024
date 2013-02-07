@@ -1,0 +1,45 @@
+%1 group	polls	ru	Группа %1
+actions	polls	ru	действия
+add answer to poll	polls	ru	Добавить ответ в опрос
+add answers	polls	ru	Добавить ответы
+add new poll question	polls	ru	Добавить новый вопрос для опроса
+add questions	polls	ru	Добавить вопросы
+administrators	polls	ru	Администраторы
+allow users to vote more then once	polls	ru	Разрешить пользователям голосовать неоднократно
+allways use latest poll	polls	ru	Всегда использовать самый последний опрос
+answer	polls	ru	Ответы
+answer has been added to poll	polls	ru	Ответы добавлены в опрос
+answer has been updated	polls	ru	Ответ обновлен
+answers	polls	ru	Ответы
+are you sure want to delete this answer ?	polls	ru	Вы точно хотите удалить этот ответ?
+are you sure want to delete this question ?	polls	ru	Вы точно хотите удалить этот вопрос?
+current poll	polls	ru	Текущий Опрос
+edit answer	polls	ru	Изменить ответ
+edit poll question	polls	ru	Изменить вопрос опроса
+egroupware users (non-anonymous)	polls	ru	пользователи eGroupWare (не анонимы)
+enter poll question	polls	ru	Ввести вопрос опроса
+everyone incl. anonymous users	polls	ru	Все, в т.ч. анонимные пользователи
+new poll has been added.  you should now add some answers for this poll	polls	ru	Добавлен новый опрос. Сейчас Вы должны добавить несколько ответов для этого опроса
+noone	polls	ru	Никто
+poll question	polls	ru	Вопрос опроса
+poll votable by	polls	ru	Участники опроса
+polls	common	ru	Опросы
+question has been updated	polls	ru	Вопрос был обновлен
+result visible to	polls	ru	Результаты видны
+select current poll	polls	ru	Выбрать текущий опрос
+settings updated	polls	ru	Установки обновлены
+show answers	polls	ru	Показать ответы
+show bullet if allowed to vote and result else	polls	ru	Показать маркер, если разрешено голосовать, иначе - результат
+show only the ballot	polls	ru	Показать только голосование
+show only the result	polls	ru	Показать только результат
+show questions	common	ru	Показать вопросы
+this module displays polls.	polls	ru	Этот модуль показывает опросы.
+total votes	polls	ru	Итого
+view poll	polls	ru	Смотреть опрос
+view results	polls	ru	Смотреть результаты
+vote	polls	ru	Голосовать
+voting booth admin	admin	ru	Кабинка для голосования
+voting booth administration	polls	ru	Администрирование кабинки для голосования
+what to show	polls	ru	Что показывать
+which poll	polls	ru	Который опрос
+you are not (yet) allowed view the result of this vote.	polls	ru	Вам (еще) не разрешено видеть результат этого голоса.

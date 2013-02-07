@@ -1,0 +1,238 @@
+%1 entries updated.	tracker	pt-br	%1 registro(s) atualizado(s).
+%1 tickets have been converted	tracker	pt-br	%1 tickets foram convertidos
+&#9830; not closed	tracker	pt-br	Não fechados
+&#9830; own not closed	tracker	pt-br	Meus / Não fechados
+&#9830; own without reply not closed	tracker	pt-br	Meus / Sem resposta / Não fechados
+&#9830; without 30 days reply not closed	tracker	pt-br	Sem resposta por 30 dias / Não fechados
+&#9830; without reply not closed	tracker	pt-br	Sem resposta / Não fechados
+(new tickets as	tracker	pt-br	(Novos tickets como
+--> choose a project from the drop-down list	tracker	pt-br	--> escolha um projeto da lista
+--> enter new name	tracker	pt-br	--> informe o novo nome
+1 - lowest	tracker	pt-br	1 - menor
+5 - medium	tracker	pt-br	5 - média
+9 - highest	tracker	pt-br	9 - maior
+accepted	tracker	pt-br	Aceito
+actions	tracker	pt-br	Ações
+activate users queue access control	tracker	pt-br	Ativar acesso de controle aos elementos dos usuários
+add additionally	tracker	pt-br	adicionar incrementando
+add assigned	tracker	pt-br	Adicionar designado
+add comment	tracker	pt-br	Adicionar comentário
+add timesheet entry	tracker	pt-br	Adicionar registro da Planilha de Tempo
+after	tracker	pt-br	após
+after how many days a not replied item should be marked overdue?	tracker	pt-br	Após quantos dias um ticket sem resposta deverá ser marcado como arquivado ?
+after how many days pending items should be closed automatic	tracker	pt-br	Após quantos dias pendente tickets deverão ser fechados automaticamente ?
+all tickets are already converted to tracker	tracker	pt-br	todos os tickets já estão convertidos para o Sistema de Tickets
+allow bounties	tracker	pt-br	Permitir pagamento
+allow default projects for tracker	tracker	pt-br	Permitir projetos padrões para o Sistema de Tickets
+allow editing by	tracker	pt-br	Permitir edição por
+allow the predefinition of projects that will be assigned to new tracker-items.	tracker	pt-br	Permitir a definição prévia de projetos que serão designados para novos tickets.
+allow to assign groups to tracker items	tracker	pt-br	Permitir designar grupos para tickets
+allow voting	tracker	pt-br	Permitir votação
+allow voting on tracker items, show and sort after the votes	tracker	pt-br	Permitir votação nos tickets, exibir e ordenar após o voto
+already escalated	tracker	pt-br	já escalado
+amount	tracker	pt-br	Quantidade
+assign to project	tracker	pt-br	Designar para projeto
+assigned to	tracker	pt-br	Designado para
+assigning groups	tracker	pt-br	Grupos designados
+attachments & links	tracker	pt-br	Anexos e links
+autoassign to	tracker	pt-br	Auto designar para
+automatic email handling	tracker	pt-br	Tratamento automático de email
+bounties	tracker	pt-br	Pagamentos
+bounty confirmed	tracker	pt-br	Pagamento confirmado
+bounty confirmed.	tracker	pt-br	Pagamento confirmado
+bounty deleted	tracker	pt-br	Pagamento removido
+bounty deleted.	tracker	pt-br	Pagamento removido
+bounty set	tracker	pt-br	Definição de pagamento
+canned response	tracker	pt-br	Resposta automática
+canned responses	tracker	pt-br	Respostas automáticas
+categories, versions, canned responses	tracker	pt-br	Categorias, versões, respostas automáticas
+changes made below will be lost, if not applied before!	tracker	pt-br	Alterações realizadas abaixo serão perdidas se não aplicadas antes.
+check all	tracker	pt-br	Marcar todos
+check mail interval	tracker	pt-br	Intervalo para checagem de email
+choose a project from the drop-down list	tracker	pt-br	escolha um projeto da lista
+close pending	tracker	pt-br	Fechar pendentes em quantos dias ?
+closed	tracker	pt-br	Fechado
+comment by %1 at %2:	tracker	pt-br	Comentário feito por %1 em %2:
+comments	tracker	pt-br	Comentários
+completed	tracker	pt-br	Completado
+configuration	tracker	pt-br	Configuração
+configuration for all trackers	tracker	pt-br	Configuração para todos os elementos
+configuration updated.	tracker	pt-br	Configuração atualizada
+configuration, acl, notifications	tracker	pt-br	Configuração, ACL, Notificações
+confirm that you pay the specified bounty to implement or fix the issue	tracker	pt-br	Confirma que você deseja pagar o valor especificado para resolver esta entrada ?
+confirm the receipt of money for this bounty	tracker	pt-br	Confirma o recebimento deste pagamento ?
+confirmed	tracker	pt-br	Confirmado
+convert all closed tickets	tracker	pt-br	converter todos os tickets fechados
+convert all open tickets	tracker	pt-br	converter todos os tickets abertos
+converted count	tracker	pt-br	quantidade convertidos
+copy to	tracker	pt-br	Com cópia para
+create new links	tracker	pt-br	Criar novos links
+created	tracker	pt-br	Criado
+creation date	tracker	pt-br	data de criação
+creator	tracker	pt-br	Criador
+custom tracker priorities	tracker	pt-br	Prioridades personalizadas para tipos de ticket
+date opened	tracker	pt-br	Data de abertura
+define escalations	common	pt-br	Definir escalas
+delete mails from server	tracker	pt-br	Remover emails do servidor
+delete this bounty	tracker	pt-br	Remover este pagamento
+delete this canned response	tracker	pt-br	Remover esta resposta automática
+delete this category	tracker	pt-br	Remover esta categoria
+delete this entry	tracker	pt-br	Remover este registro
+delete this escalation	tracker	pt-br	Remover esta escala
+delete this status	tracker	pt-br	Remover este status
+delete this tracker including all it's items and categories	tracker	pt-br	Remover este tipo de ticket, incluindo todas suas categorias e tickets
+delete this version	tracker	pt-br	Remover esta versão
+delete unrecognized mails from the server, even if 'delete mails' above is not tagged.	tracker	pt-br	Remover emails não reconhecidos do servidor, mesmo se 'Remover emails' acima não estiver definido.
+deleted	tracker	pt-br	Removido
+do you want to vote for this item	tracker	pt-br	Você deseja votar neste ticket ?
+donator name to show	tracker	pt-br	Nome do doador a ser exibido
+duplicate	tracker	pt-br	Duplicado
+e-mail address to which a copy of all tracker-notifications should be send	tracker	pt-br	E-mail para o qual uma cópia de todas as notificações deverá ser enviada
+e-mail notifications	tracker	pt-br	Notificações por e-mail
+edit %1	tracker	pt-br	Editar %1
+edit entry	tracker	pt-br	Editar registro
+email address to contact you	tracker	pt-br	E-mail para contactar você
+email handling can be configured only for all trackers	tracker	pt-br	Tratamento de email pode ser configurado apenas para todos os tipos de tickets.
+enter an email address here if unrecognized mails should be forwarded	tracker	pt-br	Informe um endereço de email aqui se emails não reconhecidos precisarem ser encaminhados.
+enter the imap server from which emails should be fetched	tracker	pt-br	Informe o servidor IMAP do qual emails deverão ser recuperados
+enter the mail address that will be read.	tracker	pt-br	Informe o endereço de emailque será lido
+entry saved	tracker	pt-br	Entrada salva
+error adding the new tracker!	tracker	pt-br	Erro incluindo o novo tipo de ticket
+error deleting escalation!	tracker	pt-br	Erro removendo escala!
+error saving the entry!!!	tracker	pt-br	Erro salvando a entrada
+escalation	tracker	pt-br	Escala
+escalation added.	tracker	pt-br	Escala adicionada.
+escalation deleted.	tracker	pt-br	Escala removida.
+escalation not found!	tracker	pt-br	Escala não encontrada!
+escalation saved.	tracker	pt-br	Escala salva.
+everybody	tracker	pt-br	Todos
+existing links	tracker	pt-br	Links existentes
+field	tracker	pt-br	Campo
+fixed	tracker	pt-br	Resolvido
+forward to	tracker	pt-br	Encaminhar para
+forward unrecognized mails to the email address that has to be specified here.	tracker	pt-br	Encaminhar emails não reconhecidos para o endereço de email que deve ser informado aqui.
+from	tracker	pt-br	De
+history	tracker	pt-br	Histórico
+html editing	tracker	pt-br	Editar em HTML
+id	tracker	pt-br	ID
+if this item is important for you, please consider to set a bounty for it!	tracker	pt-br	Se esta entrada é importante para você, considere definir um pagamento por ela!
+if this item is important for you, please vote for it.	tracker	pt-br	Se esta entrada é importante para você, por favor vote por ela.
+ignore	tracker	pt-br	Ignorar
+ignore unrecognized mails. they will not be deleted from the server, even if 'delete mails' above is tagged.	tracker	pt-br	Ignorar emails não reconhecidos. Eles não serão removidos do servidor, mesmo se 'Remover emails' estiver definido.
+import tts tickets	tracker	pt-br	Importar Tickets
+incoming mail folder	tracker	pt-br	Pasta de entrada para emails
+incoming mail rules	tracker	pt-br	Regras para recebimento de emails
+incoming mail server	tracker	pt-br	Servidor para recebimento de emails
+interval in minutes for checking the incoming mails	tracker	pt-br	Intervalo, em minutos, para checagem de novos emails
+invalid	tracker	pt-br	Inválido
+item assignee	tracker	pt-br	Ticket designado
+item creator	tracker	pt-br	Criador do ticket
+language for the copy	tracker	pt-br	Idioma para a cópia
+last modified	tracker	pt-br	Última alteração
+last reply	tracker	pt-br	última resposta
+later	tracker	pt-br	Depois
+list of coma separated email address	tracker	pt-br	Lista de e-mails separados por vírgulas
+mail handling	tracker	pt-br	Tratamento de email
+matching filter	tracker	pt-br	filtro usado
+new %1	tracker	pt-br	Novo %1
+new items	tracker	pt-br	Novos tickets
+new ticket submitted by %1 at %2	tracker	pt-br	Novo ticket adicionado por %1 em %2
+new tracker item submitted by %1 at %2	tracker	pt-br	Novo ticket adicionado por %1 em %2
+no change	tracker	pt-br	Sem alteração
+no trackers found, aborting	tracker	pt-br	Nenhum Elemento do Sistema de Tickets encontrato, abortando
+non-anonymous users	tracker	pt-br	Usuários não anônimos
+noone	tracker	pt-br	Nenhum
+notification	tracker	pt-br	Notificação
+open	tracker	pt-br	Aberto
+out of date	tracker	pt-br	Desatualizado
+overdue after	tracker	pt-br	Arquivar após
+ownership of the ticket	tracker	pt-br	Propriedade do ticket
+pending	tracker	pt-br	Pendente
+pending items never get close automatic.	tracker	pt-br	Tickets pendentes nunca serão fechados automaticamente
+pending items will be closed automatic after %1 days without response.	tracker	pt-br	Tickets pendentes serão fechados automaticamente após %1 dia(s) sem reposta.
+permission denied !!!	tracker	pt-br	Permissão negada !!!
+permit html editing in overview and comments	tracker	pt-br	Permitir editar em HTML na descrição e nos comentários
+port number	tracker	pt-br	Número da porta
+postponed	tracker	pt-br	Prorrogado
+print entry	tracker	pt-br	Imprimir registro
+priorities	tracker	pt-br	Prioridades
+priorities with empty label are not available to the user	tracker	pt-br	Prioridades com rótulo vazio não estão disponíveis ao usuário
+project selection	tracker	pt-br	Seleção de projeto
+projects	tracker	pt-br	Projetos
+queue	tracker	pt-br	Elementos
+read mail address	tracker	pt-br	Ler endereço de email
+receive notifications about assigned tracker-items	tracker	pt-br	Receber notificações sobre designamento de tickets
+receive notifications about created tracker-items	tracker	pt-br	Receber notificações sobre criação de tickets
+receive notifications in html	tracker	pt-br	Receber notificações em HTML
+rejected	tracker	pt-br	Rejeitado
+remind	tracker	pt-br	Lembrar
+resolution	tracker	pt-br	Resolução
+restict tracker items to the creator and the staff only	tracker	pt-br	Restringir tickets somente ao criador e à equipe
+restict tracker items to the creators primary group and the staff only	tracker	pt-br	Restringir tickets somente ao grupo principal do criador e à equipe
+restrict tracker items to staff and:	tracker	pt-br	Restringir tickets à equipe e:
+restriction	tracker	pt-br	Restrição
+select a default tracker for new tickets or 'reject' to disallow ticket creation via mail.	tracker	pt-br	Selecionar um tipo de ticket para novos tickets ou 'Rejeitar' para não permitir criação de tickets por email.
+select multiple	tracker	pt-br	Selecionar múltiplos
+select tracker queue	tracker	pt-br	selecionar elemento do Sistema de Tickets
+select which categories should be used in tracker for the tts categories	tracker	pt-br	selecione quais categorias deverão ser utilizadas no Sistema de Tickets para as categorias do Tickets (TTS)
+select which username should be used when unrecognized mails are handled.	tracker	pt-br	Selecionar qual nome de usuário deverá ser utilizado quando emails não reconhecidos forem tratados.
+select which username should be used when unrecognized replies are handled	tracker	pt-br	Selecionar qual nome de usuário deverá ser utilizado quando respostas não reconhecidas forem tratadas.
+sender address	tracker	pt-br	Endereço do remetente
+sender address for all notifications, eg. noreply@egroupware.org	tracker	pt-br	Endereço do remetente para todas as notificações, por exemplo: nao_responda@egroupware.org
+server type	tracker	pt-br	Tipo de servidor
+set %1	tracker	pt-br	Definir %1
+set an own bounty (in %s)	tracker	pt-br	Definir um pagamento (em %s)
+set bounty	tracker	pt-br	Definir pagamento
+should the actions column in the tracker list-view be shown?	tracker	pt-br	As colunas de ações na lista de tickets deverão ser exibidas?
+should the tracker send you notification mails, if tracker items assigned to you get updated?	tracker	pt-br	O Sistema de Tickets deverá notificá-lo, por e-mail, caso um ticket designado a você seja atualizado ?
+should the tracker send you notification mails, if tracker items you created get updated?	tracker	pt-br	O Sistema de Tickets deverá notificá-lo, por e-mail, caso um ticket que você criou seja atualizado ?
+show actions in tracker listing	tracker	pt-br	Exibir ações na lista de tickets
+staff	tracker	pt-br	Equipe
+state	tracker	pt-br	Estado
+stati	tracker	pt-br	Estado
+store as	tracker	pt-br	Guardar como
+summary	tracker	pt-br	Resumo
+technicians	tracker	pt-br	Técnicos
+thank you for setting this bounty.	tracker	pt-br	Obrigado por definir este pagamento
+thank you for voting.	tracker	pt-br	Obrigado por votar
+the bounty will not be shown, until the money is received.	tracker	pt-br	O pagamento NÃO será exibido, até o dinheiro ser recebido.
+the canned response will be prefix the text you type.	tracker	pt-br	A resposta automática precederá o texto que você digitar.
+there already an escalation for that filter!	tracker	pt-br	Já existe uma escala para este filtro!
+this module displays information from the tracker.	tracker	pt-br	Este módulo exibe informação sobre o Sistema de Tickets
+this tracker item was closed automatically by the system. it was previously set to a pending status, and the original submitter did not respond within %1 days.	tracker	pt-br	Este ticket foi fechado automaticamente pelo sistema. O mesmo foi, previamente, definido como Pendente e o criador não respondeu em %1 dia(s).
+ticket count	tracker	pt-br	quantidade de tickets
+ticket modified by %1 at %2	tracker	pt-br	Ticket modificado por %1 em %2
+times	tracker	pt-br	Horários
+tracker	common	pt-br	Sistema de Tickets
+tracker added	tracker	pt-br	Elemento do Sistema de Tickets adicionado
+tracker admins	tracker	pt-br	Administradores do Sistema de Tickets
+tracker admins & technicians	tracker	pt-br	Administradores e Técnicos do Sistema de Tickets
+tracker configuration	tracker	pt-br	Configuração do Sistema de Tickets
+tracker deleted	tracker	pt-br	Elemento do Sistema de Tickets removido
+tracker for new tickets	tracker	pt-br	Tipo de ticket para novos tickets
+tracker item modified by %1 at %2	tracker	pt-br	Ticket modificado por %1 em %2
+tracker item not found !!!	tracker	pt-br	Ticket não encontrado !!!
+tracker queue	tracker	pt-br	Elemento do Sistema de Tickets
+tracker-%1 '%2' added.	tracker	pt-br	Tipo de Ticket - %1 '%2' adicionado
+tracker-%1 '%2' updated.	tracker	pt-br	Tipo de Ticket - %1 '%2' atualizado
+tracker-%1 deleted.	tracker	pt-br	Tipo de Ticket - %1 removido
+unchanged	tracker	pt-br	Inalterado
+unrecognized mails	tracker	pt-br	Emails não reconhecidos
+url of the tracker	tracker	pt-br	URL do Sistema de Tickets
+url to be included in the notification, eg. to the page with the sitemgr module, default tracker inside egw	tracker	pt-br	URL para ser inclusa nas notificações
+use a default user for mails that where not recognized	tracker	pt-br	Usar um usuário padrão para emails que não forem reconhecidos
+versions	tracker	pt-br	Versões
+vote for it!	tracker	pt-br	Vote !
+votes	tracker	pt-br	Votos
+wont fix	tracker	pt-br	Não será resolvido
+works for me	tracker	pt-br	Funciona para mim
+yes, display groups first	tracker	pt-br	Sim, exibir grupos primeiro
+yes, display users first	tracker	pt-br	Sim, exibir usuários primeiro
+yes, with larger fontsize	tracker	pt-br	Sim, com fontes grandes
+you can enable/disable the queue access restrictions in the configuration tab (for all queues)	tracker	pt-br	Você pode habilitar/desabilitar as restrições de acesso aos elementos na aba Configuração (para todos os elementos)
+you can respond by visiting:	tracker	pt-br	Você pode responder visitando:
+you need to enter a name	tracker	pt-br	Você precisa informar um nome
+you need to login to vote!	tracker	pt-br	Você precisa fazer login para votar
+you need to select something to change and some tracker items!	tracker	pt-br	Você precisa selecionar algo para alterar E alguns tickets!
+you need to specify amount, donators name and email address!	tracker	pt-br	Você precisa especificar valor, nome do doador E e-mail
+you voted %1.	tracker	pt-br	Você votou %1

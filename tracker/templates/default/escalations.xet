@@ -1,0 +1,209 @@
+<?xml version="1.0"?>
+<!-- $Id$ -->
+<overlay>
+	<template id="tracker.escalations.rows" template="" lang="" group="0" version="1.5.001">
+		<grid width="100%">
+			<columns>
+				<column width="20%"/>
+				<column/>
+				<column/>
+				<column/>
+				<column/>
+				<column/>
+				<column/>
+				<column/>
+				<column/>
+			</columns>
+			<rows>
+				<row class="th">
+					<nextmatch-sortheader label="Title" id="esc_title"/>
+					<nextmatch-filterheader options="Queue" id="tr_tracker"/>
+					<nextmatch-header id="cat_id" label="Category"/>
+					<nextmatch-header id="tr_version" label="Version"/>
+					<nextmatch-header label="Status" id="tr_status"/>
+					<nextmatch-sortheader label="Priority" id="tr_priority"/>
+					<nextmatch-header id="esc_action_label" label="Action"/>
+					<nextmatch-sortheader label="Time" id="esc_time"/>
+					<description/>
+				</row>
+				<row class="row">
+					<description no_lang="1" id="${row}[esc_title]"/>
+					<menulist>
+						<menupopup type="select-cat" options="All" id="${row}[tr_tracker]" readonly="true"/>
+					</menulist>
+					<menulist>
+						<menupopup type="select-cat" options="All" id="${row}[cat_id]" readonly="true"/>
+					</menulist>
+					<menulist>
+						<menupopup type="select-cat" options="All" id="${row}[tr_version]" readonly="true"/>
+					</menulist>
+					<menulist>
+						<menupopup options="All" id="${row}[tr_status]" readonly="true"/>
+					</menulist>
+					<description id="${row}[prio_label]"/>
+					<textbox multiline="true" id="${row}[esc_action_label]" readonly="true"/>
+					<vbox options="0,0">
+						<date-duration id="${row}[esc_time]" readonly="true" options=",dhm,24"/>
+						<menulist>
+							<menupopup id="${row}[esc_type]" readonly="true" label="after"/>
+						</menulist>
+					</vbox>
+					<hbox options="0,0">
+						<button image="edit" label="Edit" id="edit[$row_cont[esc_id]]"/>
+						<button image="delete" label="Delete" id="delete[$row_cont[esc_id]]" statustext="Delete this escalation" onclick="return confirm('Delete this escalation');"/>
+					</hbox>
+				</row>
+			</rows>
+		</grid>
+	</template>
+	<template id="tracker.escalations" template="" lang="" group="0" version="1.5.001">
+		<grid width="100%">
+			<columns>
+				<column width="100"/>
+				<column width="500"/>
+				<column/>
+			</columns>
+			<rows>
+				<row>
+					<nextmatch span="all" id="nm" options="tracker.escalations.rows"/>
+				</row>
+				<row>
+					<hrule span="all"/>
+				</row>
+				<row>
+					<description span="all" class="redItalic" id="msg"/>
+					<description/>
+					<description/>
+				</row>
+				<row>
+					<description value="Title"/>
+					<textbox size="80" maxlength="128" id="esc_title" span="all"/>
+				</row>
+				<row>
+					<description value="Time"/>
+					<hbox options="0,0">
+						<date-duration id="esc_time" options=",dhm,24"/>
+						<menulist class="leftPad5">
+							<menupopup label="after" id="esc_type"/>
+						</menulist>
+					</hbox>
+					<description/>
+				</row>
+				<row>
+					<groupbox span="2">
+						<caption label="Filter"/>
+						<grid>
+							<columns>
+								<column width="87"/>
+								<column width="150"/>
+								<column width="60"/>
+								<column/>
+							</columns>
+							<rows>
+								<row>
+									<description value="Queue"/>
+									<menulist span="all">
+										<menupopup options="All" id="tr_tracker" onchange="1"/>
+									</menulist>
+								</row>
+								<row>
+									<description value="Category"/>
+									<menulist>
+										<menupopup options="All" id="cat_id"/>
+									</menulist>
+									<description value="Version"/>
+									<menulist>
+										<menupopup options="All" id="tr_version"/>
+									</menulist>
+								</row>
+								<row>
+									<description value="Status"/>
+									<hbox options="0,0">
+										<menulist>
+											<menupopup options="All" id="tr_status"/>
+										</menulist>
+										<buttononly options="navbar" label="Select multiple" class="mStatus" onclick="if (selectbox=document.getElementById(form::name('tr_status'))) { selectbox.size=3; selectbox.multiple=true; if(selectbox.options[0].value=='')selectbox.options[0]=null; selectbox.name+='[]';}  return false;"/>
+									</hbox>
+									<description value="Priority"/>
+									<menulist>
+										<menupopup options="All" id="tr_priority"/>
+									</menulist>
+								</row>
+							</rows>
+						</grid>
+					</groupbox>
+					<description/>
+				</row>
+				<row>
+					<groupbox span="2">
+						<caption label="Action"/>
+						<grid width="100%" id="set">
+							<columns>
+								<column width="87"/>
+								<column width="150"/>
+								<column width="60"/>
+								<column/>
+							</columns>
+							<rows>
+								<row>
+									<description value="Queue"/>
+									<menulist span="all">
+										<menupopup options="Unchanged" id="tr_tracker" onchange="1"/>
+									</menulist>
+								</row>
+								<row>
+									<description value="Category"/>
+									<menulist>
+										<menupopup options="Unchanged" id="cat_id"/>
+									</menulist>
+									<description value="Version"/>
+									<menulist>
+										<menupopup options="Unchanged" id="tr_version"/>
+									</menulist>
+								</row>
+								<row>
+									<description value="Status"/>
+									<menulist>
+										<menupopup options="Unchanged" id="tr_status"/>
+									</menulist>
+									<description value="Priority"/>
+									<menulist>
+										<menupopup options="Unchanged" id="tr_priority"/>
+									</menulist>
+								</row>
+								<row>
+									<description value="Assigned to"/>
+									<hbox options="0,0" span="all">
+										<menulist>
+											<menupopup options="Unchanged" id="tr_assigned"/>
+										</menulist>
+										<buttononly options="users" label="Select multiple" class="leftPad5" onclick="if (selectbox=document.getElementById(form::name('tr_assigned'))) { selectbox.size=3; selectbox.multiple=true; if(selectbox.options[0].value=='')selectbox.options[0]=null; selectbox.name+='[]';}  return false;"/>
+										<checkbox id="add_assigned" label="add additionally" class="leftPad5"/>
+									</hbox>
+								</row>
+								<row valign="top">
+									<description value="Comment"/>
+									<textbox multiline="true" rows="3" id="reply_message" span="all" class="reply"/>
+									<description/>
+									<description/>
+								</row>
+							</rows>
+						</grid>
+					</groupbox>
+					<description/>
+				</row>
+				<row>
+					<hbox span="all">
+						<button label="Save" id="button[save]"/>
+						<button label="Apply" id="button[apply]"/>
+						<button id="button[cancel]" label="Cancel"/>
+					</hbox>
+				</row>
+			</rows>
+		</grid>
+		<styles>
+			.reply textarea { width: 100%; }
+.mStatus img { width: 16px; height: 16px; padding-left: 5px; }
+		</styles>
+	</template>
+</overlay>

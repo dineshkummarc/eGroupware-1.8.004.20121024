@@ -1,0 +1,77 @@
+%1 bookmarks have been deleted	bookmarks	ca	Esborrades %1 adreces d'interès
+%1 bookmarks imported from %2 successfully.	bookmarks	ca	Importades correctament %1 de %2 adreces d'interès
+(comma separate multiple addresses)	bookmarks	ca	(la coma separa vàries adreces)
+<b>note:</b> this currently works with netscape bookmarks only	bookmarks	ca	<b>Nota:</b> Actualment només funciona amb adreces d'interès de Netscape/Mozilla
+all bookmarks	bookmarks	ca	Totes les adreces d'interès
+and	bookmarks	ca	I
+append this message to mailed bookmarks	bookmarks	ca	Afegir aquest missatge a les adreces d'interès enviades
+ascending	bookmarks	ca	Ascendent
+book marks	common	ca	Adreces d'Interès
+bookmark changed sucessfully	bookmarks	ca	Adreça d'interès canviada correctament
+bookmark created successfully.	bookmarks	ca	Adreça d'interès creada correctament
+bookmark deleted successfully	bookmarks	ca	Adreça d'interès esborrada correctament.
+bookmark deleted successfully.	bookmarks	ca	Adreça d'interès esborrada correctament.
+bookmark not editable	bookmarks	ca	Adreça d'interès no editable
+bookmark not readable	bookmarks	ca	Adreça d'interès no llegible
+bookmarks	common	ca	Adreces d'Interès
+bookmarks settings	bookmarks	ca	Configuració de les adreces d'interès
+change bookmark	bookmarks	ca	Canviar adreça d'interès
+choose the categories to display	bookmarks	ca	Trieu les categories per mostrar
+close this window to return	bookmarks	ca	tancar aquesta ventana per tornar
+create bookmark	bookmarks	ca	Crear adreça d'interès
+create new bookmark	bookmarks	ca	Crear nova adreça d'interès
+date added	bookmarks	ca	Data afegida
+date changed	bookmarks	ca	Data canviada
+date last updated	bookmarks	ca	Data de la darrera actualització
+date last visited	bookmarks	ca	Data de la darrera visita
+descending	bookmarks	ca	Descendent
+edit bookmark	bookmarks	ca	Editar adreça d'interès
+edit this bookmark	bookmarks	ca	Editar aquesta adreça d'interès
+enter the name of the netscape bookmark file<br>that you want imported into bookmarker below.	bookmarks	ca	entreu el nom de l'arxiu d'Adreces d'Interès de Netscape<br>que volgueu importar a continuació.
+export bookmarks	common	ca	Exportar adreça d'interès
+fewer	bookmarks	ca	Menys
+filter by	bookmarks	ca	Filtrar per
+found a link you might like	bookmarks	ca	Trobat un enllaç interessant
+from	bookmarks	ca	De
+from category %1	bookmarks	ca	de categoria %º
+global categories	bookmarks	ca	Categories globals
+highest	bookmarks	ca	La més alta
+i thought you would be interested in the following link(s):	bookmarks	ca	Hem trobat que potser són interessants els següents enllaços:
+import bookmarks	common	ca	Importar Adreces d'Interès
+like	bookmarks	ca	com
+list view	bookmarks	ca	Llista
+lowest	bookmarks	ca	La més baixa
+mail this bookmark	bookmarks	ca	Enviar aquesta adreça d'interès
+mail-this-link message sent to %1.	bookmarks	ca	Missatge enviar-aquest-enllaç enviat a %1
+mass update:	bookmarks	ca	Actualització massiva:
+message from	bookmarks	ca	Missatge de
+more	bookmarks	ca	Més
+name	bookmarks	ca	Nom
+name is required	bookmarks	ca	El nom és obligatori
+netscape bookmark file	bookmarks	ca	Arxiu d'Adreces d'Interès de Netscape
+netscape bookmark filename is required!	bookmarks	ca	El nom de l'arxiu d'Adreces d'Interès de Netscape és obligatori
+new	bookmark	ca	Nou
+new bookmark	bookmarks	ca	nova adreça d'interès
+or	bookmarks	ca	o
+please fill out <b>to e-mail address</b>, <b>subject</b>, and <b>message</b>!	bookmarks	ca	Ompliu <b>Adreça de correu destí</b>, <b>Assumpte</b> i <b>Missatge</b>
+please select the categories to export	bookmarks	ca	Si us plau, seleccioneu les categories a exportar
+query condition	bookmarks	ca	Condició de consulta
+rating	bookmarks	ca	Estimació
+search for:	bookmarks	ca	Cercar:
+select the format you would like to export to	bookmarks	ca	Seleccioneu el format amb que ho voleu exportar
+send bookmark	bookmarks	ca	Enviar adreça d'interès
+sub category	bookmarks	ca	Subcategoria
+this module displays bookmarks in a javascript based tree	bookmarks	ca	Aquest mòdul mostra adreces d'interès en un arbre basat en javascript
+to address %1 invalid. format must be <strong>user@domain</strong> and domain must exist!	bookmarks	ca	L'adreça Per: %1 no es vàlida. El format ha de ser <strong>usuari@domini</strong> i el domini ha d'existir.
+to e-mail addresses	bookmarks	ca	Adreces de correu destí
+to which category should the imported folder hierarchy be attached	bookmarks	ca	A quina categoria s'ha d'afegir la jerarquia de la carpeta importada
+total visits	bookmarks	ca	visites totals
+tree view	bookmarks	ca	Vista d'arbre
+unable to open temp file %1 for import.	bookmarks	ca	No es pot obrir l'arxiu temporal %1 per importar
+url is required.	bookmarks	ca	URL obligatòria
+view bookmark	bookmarks	ca	Veure adreça d'interès
+view this bookmark	bookmarks	ca	Veure aquesta adreça d'interès
+warning	bookmarks	ca	Avís
+you are viewing this site outside of egroupware	bookmarks	ca	Esteu veient aquest lloc des de fora d'eGroupWare
+you must select a category	bookmarks	ca	Heu de seleccionar una categoria
+you need to select a category!	bookmarks	ca	Heu de seleccionar una categoria!

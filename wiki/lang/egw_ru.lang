@@ -1,0 +1,112 @@
+(don't offer the possibility)	admin	ru	(возможность не предлагать)
+<em>but</em> display at least this many entries in recentchanges and other subscription lists:	wiki	ru	<em>Но</em> отображать минимум это множество записей в НедавниеИзменения и в других списках подписки
+add document to category	wiki	ru	Добавить документ в категорию
+added	wiki	ru	Добавлено
+administration features are disabled for this wiki.	wiki	ru	Административные настройки в этом Вики отключены
+admins	wiki	ru	администраторы
+after how many days should old versions of a page be removed (0 for never)	admin	ru	Через сколько дней старые версии страницы должны быть удалены (0, если никогда)
+allow anonymous access	admin	ru	разрешить анонимный доступ
+anonymous password	admin	ru	пароль анонимного пользователя пользователя
+anonymous session type	admin	ru	Тип анонимного сеанса
+anonymous username	admin	ru	имя анонимного пользователя
+automatically convert pages with wiki-syntax to richtext (if edited)?	admin	ru	Автоматически конвертирует страницы из синтаксиса Вики в richtext (если отредактированно)?
+block	wiki	ru	Заблокировать
+block / unblock hosts	common	ru	Блокировать/Разблоктровать хосты
+blocked ip address ranges	wiki	ru	Диапазон заблокированных адресов IP
+cancel without saving	wiki	ru	Отменить без сохранения
+changed	wiki	ru	Изменено
+changes by last author	wiki	ru	Изменено последним автором
+choose your current time here, so the server may figure out what time zone you are in.	wiki	ru	Выберите здесь свое текущее время чтобы сервер мог выяснить в какой Вы временной зоне.
+columns	wiki	ru	Колонки
+compute difference	wiki	ru	Вычислить Разницу
+converts the page to richtext	wiki	ru	Конвертировать страницы в richtext
+current version	wiki	ru	Текущая Версия
+deleted	wiki	ru	Удалено
+deletes this page	wiki	ru	Удаляет эту страницу
+difference between versions	wiki	ru	Различия между версиями
+differences in	wiki	ru	Различия в
+different languages can have different titles	wiki	ru	Разные языки могут иметь разные заголовки
+document last modified	wiki	ru	Документ, измененный последним
+edit box	wiki	ru	Блок редактирования
+edit this <em>archive version</em> of this document	wiki	ru	Редактировать эту <em>АРХИВНУЮ ВЕРСИЮ</em> этого документа
+edit this document	wiki	ru	Редактировать этот документ
+edit with preview	admin	ru	Редактировать с предварительным просмотром
+editable	admin	ru	редактируемое
+editing	wiki	ru	В процессе редактирования
+emailaddress administrator	admin	ru	Адрес электронной почты Администратора
+enable free links	admin	ru	Разрешить свободные ссылки
+enable wiki links	admin	ru	Разрешить ссылки Вики
+enter here the maximum number of entries to display in a document's history list.	wiki	ru	Введите здесь максимальное число записей для отображения их в списке истории документа.
+enter here the number of days of edits to display on recentchanges or any other subscription list.  set this to zero if you wish to see all pages in recentchanges, regardless of how recently they were edited.	wiki	ru	Введите здесь количество дней редактирования в НедавниеИзменения или любом другом списке подписки. Установите в ноль если хотите видеть все страницы в НедавниеИзменения, несмотря на то, как давно они редактировались.
+enter ip address range in form <tt>12.*</tt>, <tt>34.56.*</tt>, or <tt>78.90.123.*</tt>	wiki	ru	введите ip адрес в форме <tt>12.*<tt>34.56.*<tt> или <tt>78.90.123.*<tt>
+error creating temporary file.	wiki	ru	Ошибка при создании временного файла
+error writing to temporary file.	wiki	ru	Ошибка при записи во временный файл
+everyone	wiki	ru	каждый
+find	wiki	ru	Найти
+history	wiki	ru	история
+history display should show <em>all</em> changes made by the latest author.  otherwise, show only the last change made.	wiki	ru	Страница истории должен отображать <em>все</em> изменения, сделанные последним редактором. В противном случае будет отображаться только последнее изменение.
+history lists	wiki	ru	Список истории
+history of	wiki	ru	История
+interwikiprefix	admin	ru	InterWikiPrefix
+invalid page name.	wiki	ru	Неверное имя страницы.
+load	wiki	ru	Загрузить
+loads the named page in the given language, all change so far get lost !!!	wiki	ru	Заргужает именованную страницу на данном языке, все изменения будут потеряны !!!
+lock / unlock pages	common	ru	Блокировать/Разблокировать Страницы
+locked	wiki	ru	Заблокировано
+name wiki home link	admin	ru	Назовите ссылку на домашнюю страницу Вики
+newer	wiki	ru	Новее
+no never	admin	ru	Не никогда
+no only on request	admin	ru	Не только по запросу
+not set	wiki	ru	не установлено
+older	wiki	ru	Старше
+on all pages	wiki	ru	на всех страницах
+only if browser supports a richtext-editor	admin	ru	только если браузер поддерживает редактор richtext
+only on the first page	wiki	ru	только на первой странице
+page '%1' not found !!!	wiki	ru	Страница '%1' не найдена !!!
+path of the upload directory (has to be writable by the webserver!)	admin	ru	Путь к каталогу выгрузки (должен быть доступен на запись веб-сервром!)
+picture upload via richtext editor (leave the upload directory empty to disable the upload)	admin	ru	Выгрузка изображения с помощью редактора richtext (оставить каталог выгрузки незаполненным чтобы отключить выгрузку)
+please contact the %1administrator%2 for assistance.	wiki	ru	Пожалуйста, обратитесь к %1Администратору%2 для помощи.
+preview	wiki	ru	Предварительный просмотр
+preview of current version	wiki	ru	Предварительный просмотр текущей версии
+rate control / ip blocking disabled	wiki	ru	Контроль норм/блокировка IP неактивны
+readable by	wiki	ru	Чтение доступно для
+readonly	admin	ru	только для чтения
+recent changes	wiki	ru	Последние Изменения
+renames page to the given name and language	wiki	ru	Переименовывает страницу в данное имя и язык
+richtext	wiki	ru	Richtext
+rows	wiki	ru	Ряды
+save the changes and exit	wiki	ru	сохранить изенения и выйти
+saves and continues editing	wiki	ru	Сохранить и продолжить редактирование
+search for	wiki	ru	Искать
+see complete list (%1 entries)	wiki	ru	Посмотреть полный список (%1 записей)
+show a search	wiki	ru	Показать поиск
+show the title of the wiki page	wiki	ru	Показать заголовок страницы Вики
+site configuration	wiki	ru	Настройки Сайта
+summary	wiki	ru	Итого
+summary of change	wiki	ru	Итого изменений
+the search returned no result!	wiki	ru	Поиск не дал результатов!
+this page can not be edited.	wiki	ru	Эта страница не может быть отредактирована
+twin pages	wiki	ru	Страницы-близнецы
+unblock	wiki	ru	Разблокировать
+updates the preview	wiki	ru	Обновляет предварительный просмотр
+url of the upload directory	admin	ru	URL каталога выгрузки
+use this module for displaying wiki-pages	wiki	ru	Используйте этот модуль для просмотра страниц Вики
+users	wiki	ru	пользователи
+view document history	wiki	ru	Посмотреть историю документа
+visit %1 to set your user name	wiki	ru	Посетить %1 для установки вашего имени пользователя
+warning: since you started editing, this document has been changed by someone else.  please merge your edits into the current version of this document.	wiki	ru	Внимание: с тех пор, как Вы начали редактирование, этот документ был изменен еще кем то. Пожалуйста, объедините ваши изменения в текущей версии документа.
+who should be able to edit this page	wiki	ru	кто может редактировать эту страницу
+who should be able to read this page	wiki	ru	кто может получить читать эту страницу
+wiki	common	ru	Вики
+wiki administration	wiki	ru	Администрация Вики
+wiki menu	wiki	ru	Меню Вики
+wiki startpage	wiki	ru	Начальная страница Вики
+writable by	wiki	ru	Запись разрешена
+yes always	admin	ru	Всегда да
+yes with navbar	admin	ru	Да с панелью навигации
+you have been denied access to this site.	wiki	ru	Вам запрещен доступ к этому сайту
+you have entered an invalid user name.	wiki	ru	Вы ввели неверное имя пользователя
+you have exeeded the number of pages you are allowed to visit in a given period of time. please return later.	wiki	ru	Вы превысили лимит количество страниц, которое Вам разрешено посетить за указанный период времени. Пожалуйста, вернитесь позже.
+you have no rights to view wiki content !!!	wiki	ru	У вас нет доступа к просмотру содержания Вики !!!
+your changes	wiki	ru	Ваши изменения
+your user name is "%1".	wiki	ru	Ваша имя пользователя "%1"

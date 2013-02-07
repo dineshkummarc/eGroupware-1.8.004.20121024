@@ -1,0 +1,38 @@
+actions	polls	fi	Toimenpiteet
+add answer to poll	polls	fi	Lisää uusi vastaus äänestykseen
+add answers	polls	fi	Lisää vastauksia
+add new poll question	polls	fi	Lisää uusi kysymys äänestykseen
+add questions	polls	fi	Lisää kysymyksiä
+administrators	polls	fi	Pääkäyttäjät
+allow users to vote more then once	polls	fi	Salli käyttäjien vastata useasti äänestykseen
+allways use latest poll	polls	fi	Käytä aina viimeisintä äänestystä
+answer	polls	fi	Vastaus
+answer has been added to poll	polls	fi	Vastaus on lisätty äänestykseen
+answer has been updated	polls	fi	Vastaus on päivitetty
+answers	polls	fi	Vastaukset
+are you sure want to delete this answer ?	polls	fi	Haluatko varmasti poistaa tämän vastauksen ?
+are you sure want to delete this question ?	polls	fi	Haluatko varmasti poistaa tämän kysymyksen ?
+current poll	polls	fi	Nykyinen äänestys
+edit answer	polls	fi	Muokkaa vastausta
+edit poll question	polls	fi	Muokkaa kysymystä
+egroupware users (non-anonymous)	polls	fi	eGroupWaren käyttäjät (ei anonyymejä)
+enter poll question	polls	fi	Syötä kysymys
+everyone incl. anonymous users	polls	fi	Kaikki, myös anonyymit käyttäjät
+new poll has been added.  you should now add some answers for this poll	polls	fi	Uusi äänestys on lisätty. Lisää seuraavaksi muutama vastausvaihtoehto äänestykseen.
+poll question	polls	fi	Äänestyksen kysymys
+poll votable by	polls	fi	On äänestettävissä
+polls	common	fi	Äänestykset
+question has been updated	polls	fi	Kysymys on päivitetty
+result visible to	polls	fi	Vastaukset näytetään
+select current poll	polls	fi	Valitse nykyinen äänestys
+settings updated	polls	fi	Asetukset päivitetty
+show answers	polls	fi	Näytä vastaukset
+show questions	common	fi	Näytä kysymykset
+total votes	polls	fi	Yhteensä
+view poll	polls	fi	Näytä äänestykset
+view results	polls	fi	Näytä tulokset
+vote	polls	fi	Ääni
+voting booth admin	admin	fi	Äänestyskoppi
+voting booth administration	polls	fi	Pääkäyttäjän äänestyskoppi
+which poll	polls	fi	Mikä äänestys
+you are not (yet) allowed view the result of this vote.	polls	fi	Sinulla ei ole (vielä) oikeutta nähdä äänestyksen tuloksia.

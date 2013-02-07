@@ -1,0 +1,111 @@
+%1 module	news_admin	de	%1 Module
+%1 news imported (%2 new).	news_admin	de	%1 Nachrichten importiert (%2 neue).
+%s hours	news_admin	de	%s Stunden
+actions	news_admin	de	Befehle
+active	news_admin	de	Aktiv
+add new article	news_admin	de	Neue Nachricht hinzufügen
+add new news	news_admin	de	Neue Nachricht hinzufügen
+add news item	news_admin	de	Eine neue Nachricht hinzufügen
+all news	news_admin	de	Alle Nachrichten
+always	news_admin	de	Immer
+by date	news_admin	de	Nach Datum
+categories to displayed on main page?	news_admin	de	Kategorien zum Anzeigen auf der Startseite?
+category deleted.	news_admin	de	Kategorie gelöscht.
+category saved.	news_admin	de	Kategorie gespeichert.
+choose a category	news_admin	de	Wählen Sie eine Kategorie
+configuration	news_admin	de	Konfiguration
+configure access permissions	common	de	Zugriffsrechte konfigurieren
+configure rss exports	common	de	RSS Export konfigurieren
+contains html	news_admin	de	Beinhaltet HTML
+content	news_admin	de	Inhalt
+count	news_admin	de	Anzahl
+date and time	news_admin	de	Datum und Uhrzeit
+delete this news	news_admin	de	Diese Nachricht löschen
+do you want to publish a rss feed for this news category	news_admin	de	Wollen Sie einen RSS link für diese Kategorie anzeigen
+edit news item	news_admin	de	Nachricht bearbeiten
+end	news_admin	de	Ende
+error importing the feed!	news_admin	de	Fehler beim Importieren des Feeds!
+error saving the category!	news_admin	de	Fehler beim Speichern der Kategorie!
+error saving the news!	news_admin	de	Fehler beim Spechern der Nachricht!
+failed to add message	news_admin	de	Hinzufügen einer neuen Nachricht fehlgeschlagen
+format for links to items	news_admin	de	Format für Verweise auf Einträge
+format of export	news_admin	de	Exportformat
+from	news_admin	de	Von
+from all	news_admin	de	Von allen
+future	news_admin	de	Zukünftig
+global categories	news_admin	de	Globale Kategorien
+global news	news_admin	de	Globale Nachrichten
+global_news	news_admin	de	Globale Nachrichten
+headline	news_admin	de	Schlagzeile
+headline with link	news_admin	de	Schlagzeile mit Link
+image link	news_admin	de	Link des Bildes
+image title	news_admin	de	Titel des Bildes
+image url	news_admin	de	URL des Bildes
+implies read permission	news_admin	de	beinhaltet Leserechte
+import every	news_admin	de	Importieren alle
+import now	news_admin	de	Jetzt Importieren
+import url	news_admin	de	Import URL
+imported feeds can not be writable!	news_admin	de	Importierte Feeds können NICHT beschreibbar sein!
+item has been deleted	news_admin	de	Nachricht gelöscht
+item not found	news_admin	de	Nachricht nicht gefunden
+last updated	news_admin	de	Zuletzt aktualisiert
+link	news_admin	de	Link
+main	news_admin	de	Hauptmenü
+maintain	news_admin	de	Pflegen
+maintain news	admin	de	Nachrichten pflegen
+message has been added	news_admin	de	Nachricht wurde hinzugefügt
+more news	news_admin	de	Mehr News
+more news link	news_admin	de	Mehr News Link
+new item has been added	news_admin	de	Neue Nachricht wurde hinzugefügt
+news	news_admin	de	Nachrichten
+news admin	news_admin	de	Nachrichten Administrator
+news administration	news_admin	de	Nachrichten Administration
+news deleted.	news_admin	de	Nachricht gelöscht.
+news item has been added	news_admin	de	Nachrichten wurde hinzugefügt
+news item has been updated	news_admin	de	Nachrichten wurde upgedatet
+news saved.	news_admin	de	Nachricht gespeichert.
+news_admin	common	de	Nachrichten
+no anonymous user accounts installed.  notify the administrator.	news_admin	de	ES ist keine Anonymer Benutzeraccount installiert. Benachrichtigen Sie den Administrator.
+no entries found	news_admin	de	Keine Einträge gefunden
+no matching news item	news_admin	de	Keine zutreffenden Nachrichten
+no news	news_admin	de	In dieser Kategorie sind keine News vorhanden
+no rss export	news_admin	de	Kein RSS export
+now	news_admin	de	Jetzt
+number of articles to display on the main screen	news_admin	de	Anzahl der Nachrichten welche auf der Startseite angezeit werden.
+number of news items to be displayed on page	news_admin	de	Anzahl Nachrichten die auf einer Seite angezeigt werden
+old	news_admin	de	Alte
+on	news_admin	de	An
+page-name the item should be displayed (empty = current page)	news_admin	de	Seitenname auf der die Einträge angezeigt werden sollen (leer = aktuelle Seite)
+parent	news_admin	de	Eltern
+picture upload (leave the upload directory empty to disable the upload)	admin	de	Hochladen von Dateien (Lassen sie die Felder frei um das Hochladen abzuschalten)
+please select a category	news_admin	de	Bitte wählen Sie eine Kategorie
+publish date	news_admin	de	Veröffentlichungsdatum
+read more	news_admin	de	weiter lesen
+read news	news_admin	de	Nachrichten lesen
+read permissions	news_admin	de	Leserechte
+reload	news_admin	de	Nachladen
+send mail to others	news_admin	de	Mail an andere senden
+should news_admin display the latest article headlines on the main screen.	news_admin	de	Sollen die neuesten Nachrichten auf der Startseite angezeigt werden.
+show latest news articles?	news_admin	de	Neuest Nachrichten anzeigen?
+show news articles on main page?	news_admin	de	Neue Nachrichten auf der Startseite anzeigen
+small view	news_admin	de	schmale Anzeige
+start	news_admin	de	Anfang
+submitted by	common	de	Eingetragen von
+submitted by %1 on %2	news_admin	de	Eingetragen von %1 am %2
+submitted by and date	news_admin	de	Eingetragen von und mit Datum
+teaser	news_admin	de	Anreiser
+teaser with read more link	news_admin	de	Anreise mit weiter lesen Link
+the news content is missing	news_admin	de	Es ist kein Inhalt der Nachricht vorhanden
+the number of articles to display on the main screen.	news_admin	de	Anzahl der Nachrichten welche auf der Übersichtsseite angezeigt werden sollen
+the subject is missing	news_admin	de	Diese Nachricht hat keinen Titel
+there no such translation.	news_admin	de	Für diese Nachricht gibt es keine Übersetzung
+this module publishes news from the news_admin application on your website. be aware of news_admin's acl restrictions.	news_admin	de	Diese Module zeigt Nachrichten der Nachrichten Anwendung auf Ihrer Website and. Bitte beachten Sie die ACL's der Nachrichten Anwendung.
+until	news_admin	de	bis
+url of the rss or atom feed, empty for own news feed	news_admin	de	URL des RSS oder Atome Feed, leer für einen eigenen Nachrichten Feed
+view this category	news_admin	de	Diese Kategorie anzeigen
+visible	news_admin	de	Sichtbar
+webpage news admin	news_admin	de	Webseite Nachrichten
+which information do you want to show (css class)	news_admin	de	Welche Informationen sollen angezeigt werden (CSS Klasse)
+which news categories should be displayed on the main screen.	news_admin	de	Welche Nachrichten Kategorien sollen auf der Startseite angezeigt werden.
+write	news_admin	de	Schreiben
+write permissions	news_admin	de	Schreibrechte

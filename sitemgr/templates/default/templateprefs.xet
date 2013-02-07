@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<!-- $Id$ -->
+<overlay>
+	<template id="sitemgr.templateprefs.prefs" template="" lang="" group="0" version="1.8.001">
+		<grid width="100%" height="400" overflow="auto">
+			<columns>
+				<column/>
+			</columns>
+			<rows>
+				<row>
+					<customfields/>
+				</row>
+			</rows>
+		</grid>
+		<styles>
+			.templateName {
+   font-weight: bold;
+   font-size: 120%;
+}
+tr &gt; td {
+   white-space: nowrap;
+}
+.th {
+   font-weight: bold;
+}
+		</styles>
+	</template>
+	<template id="sitemgr.templateprefs.css" template="" lang="" group="0" version="1.8.001">
+		<grid width="100%" height="400" overflow="auto">
+			<columns>
+				<column/>
+				<column/>
+			</columns>
+			<rows>
+				<row class="row">
+					<description value="Logo URL" options=",,,logo_url"/>
+					<textbox id="logo_url" size="64" class="inputFullWidth" statustext="Specify the URL (NOT path or filename) of your logo (requires the correct custom CSS to overwrite the logo of your template!)"/>
+				</row>
+				<row class="row" valign="top">
+					<description value="Custom CSS" options=",,,custom_css"/>
+					<textbox multiline="true" id="custom_css" rows="25" cols="64" class="textareaFullWidth"/>
+				</row>
+				<row>
+					<description/>
+					<html class="gray" id="custom_css_help"/>
+				</row>
+			</rows>
+		</grid>
+	</template>
+	<template id="sitemgr.templateprefs" template="" lang="" group="0" version="1.8.002">
+		<grid width="100%">
+			<columns>
+				<column/>
+			</columns>
+			<rows>
+				<row disabled="!@msg">
+					<description id="msg" class="redItalic"/>
+				</row>
+				<row>
+					<description id="name" class="templateName"/>
+				</row>
+				<row>
+					<tabbox id="tabs">
+						<tabs>
+							<tab label="Template preferences" statustext=""/>
+							<tab label="Logo, custom CSS" statustext=""/>
+						</tabs>
+						<tabpanels>
+							<template id="sitemgr.templateprefs.prefs"/>
+							<template id="sitemgr.templateprefs.css"/>
+						</tabpanels>
+					</tabbox>
+				</row>
+				<row>
+					<hbox>
+						<button label="Save" id="button[save]"/>
+						<button id="button[apply]" label="Apply"/>
+						<button id="button[cancel]" label="Cancel" onclick="window.close(); return false;"/>
+					</hbox>
+				</row>
+			</rows>
+		</grid>
+		<styles>
+			.templateName {
+   font-weight: bold;
+   font-size: 120%;
+}
+tr &gt; td {
+   white-space: nowrap;
+}
+.th {
+   font-weight: bold;
+}
+.inputFullWidth input {
+  width: 100%;
+}
+.textareaFullWidth textarea {
+  width: 100%;
+}
+		</styles>
+	</template>
+</overlay>

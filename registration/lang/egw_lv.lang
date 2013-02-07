@@ -1,0 +1,58 @@
+[unknown first name]	registration	lv	[nezināms vārds]
+[unknown last name]	registration	lv	[nezināms uzvārds]
+dropdown	registration	lv	Nolaižamais lodziņš
+email address	registration	lv	e-pasta adrese
+email address to display for support	admin	lv	E-pasta adrese atbalstam
+email address to send notices from	admin	lv	E-pasta adrese, no kuras sūtīt paziņojumus
+enable registration?	admin	lv	Atļaut reģistrāciju?
+enter your new password	registration	lv	Ievadi jauno paroli
+female	registration	lv	Sieviete
+gender	registration	lv	Dzimums
+http password	admin	lv	HTTP parole
+http username	admin	lv	HTTP lietotājvards
+i have read the terms and conditions and agree by them.	registration	lv	Esmu izlasījis nosacījumus un noteikumus un pierītu tiem.
+if you did not request this account, simply ignore this message.	registration	lv	Ja tu šō kontu nepieprasīji, vienkārši ignorē šo vēstuli
+if you did not request this change, simply ignore this message.	registration	lv	Ja tu nepieprasīji izmaiņas, vienkārši ignorē šo vēstuli
+immediately	admin	lv	Nekavējoties
+lost login id	login	lv	Pazudis pieteikšanās id
+lost password	registration	lv	Pazaudēta parole
+lost user account retrieval	registration	lv	Pazaudēta lietotāja konta izgūšana
+lost user id	registration	lv	Pazaudēts lietotāja id
+lost user id link at login screen?	admin	lv	Pazaudēta lietotāja id saite pieteikšanās logā?
+male	registration	lv	Vīrietis
+manage fields	admin	lv	Pārvaldīt laukus
+not a user yet? register now	login	lv	Vēl neesi lietotājs? Reģistrēties tagad
+on-line registration is not activated. please contact the site administrator for more information about registration.	registration	lv	Tiešsaites reģīstrācija nav aktivizēta. Lūdzu sazinieties ar vietnes administratoru, lai iegūtu vairak informācijas par reģistrāciju
+order	registration	lv	Kārtība
+password is	admin	lv	Parole ir
+phone	registration	lv	Telefons
+re-enter password	registration	lv	Vēlreiz ievadi paroli
+re-enter your password	registration	lv	Vēlreiz ievadi savu paroli
+register link at login screen?	admin	lv	Reģistrēt saiti pieteikšanās logā?
+registration	common	lv	Reģistrācija
+registration settings	admin	lv	Reģistrācijas uzstādījumi
+remove	registration	lv	Pārvietot
+report all problems and abuse to	registration	lv	Par visām problēmām un nelegālām izmantošanām ziņot uz
+required	registration	lv	Pieprasīts
+send email	admin	lv	Sūtīt e-pastu
+sorry, that username does not exist.	registration	lv	Atvaino, šāds lietotājvārds neeksistē
+sorry, that username is already taken.	registration	lv	Atvaino, šis lietotājvārds jau ir aizņēmts
+sorry, we are having a problem activating your account. note that links sent by e-mail are only valid during two hours. if you think this delay was expired, just retry. otherwise, please contact the site administrator.	registration	lv	Atvaino, mums ir problēmas aktivizējot tavu kontu. Atceries, ka saites, kuras nosūtītas pa e-pastu ir derīgas tikai divas stundas. Ja tu domā, ka laiks ir beidzies, pamēģini vēlreiz.Ja nesanāk, sazinies ar administratoru.
+state	registration	lv	Štats
+subject for confirmation email	admin	lv	Apstuprinājuma e-pasta temats
+terms of service	registration	lv	Apkalpošanas nosacījumi
+terms of service text	admin	lv	Apkalpošanas nosacījumu teksts
+text	registration	lv	Teksts
+textarea	registration	lv	Teksta lauks
+the passwords you entered don't match	registration	lv	Ievadītās paroles nesakrīt
+the two passwords are not the same	registration	lv	Divas paroles nav vienādas
+this is a confirmation email for your new account.  click on the following link to finish activating your account. this link will expire in 2 hours.	registration	lv	Šī ir apstiprinājuma vēstule tavam jaunajam kontam. Uzklikšķini uz sekojošās saites, lai pabeigtu konta aktivēšanu. Šī saite derīga 2 stundas.
+unable to send mail, contact your administrator	registration	lv	Nevar nosūtīt vēstuli, sazinieties ar savu administratoru.
+unknown first name	registration	lv	Nezināms vārds
+unknown last name	registration	lv	Nezināms uzvārds
+update/add	registration	lv	Atjaunināt/pievienot
+use html	admin	lv	lieto HTML
+use trial accounts?	admin	lv	Lietot izmēginajuma kontus?
+username is	admin	lv	Lietotājvārds ir
+values (for dropdown only; comma separated)	registration	lv	Vērtības (ar komatu atdalītas,tikai nolaižamajam lodziņam)
+we have sent a confirmation email to your email address. you must click on the link within 2 hours. if you do not, it may take a few days until your loginid will become available again.	registration	lv	Mēs nosūtījām apstiprinājuma vēstuli uz tavu e-pasta adresi. Tev jānoklikšķina uz saitēm divu stundu laikā. Ja to neizdarīsi, iespejams tavs pieteikšanās ID būs pieejams tikai pēc dažām dienām.

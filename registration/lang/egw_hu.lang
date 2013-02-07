@@ -1,0 +1,121 @@
+13: error occured	registration	hu	Péntek 13: Hiba történt
+<br>please contact the site administrator.	registration	hu	<br>Kérem értesítse a webhely adminisztrátorát.
+[unknown first name]	registration	hu	[ismeretlen vezetéknév]
+[unknown last name]	registration	hu	[ismeretlen keresztnév]
+account %1 record could not be found, report to site administrator	registration	hu	%1 felhasználói hozzáférés nem található, értesítse a webhely adminisztrátorát
+account password retrieval	registration	hu	Felhasználó jelszavának lekérése
+account registration	registration	hu	Felhasználó regisztrációja
+activate account	admin	hu	Felhasználó aktiválása
+address	registration	hu	Cím
+after you enter your email address, the user accounts associated with this email address will be mailed to that address.	registration	hu	Miután megadta az email címét, a létrehozott felhasználó adatai elküldésre kerülnek erre a címre.
+after you enter your username, instructions to change your password will be sent to you by e-mail to the address you gave when you registered.	registration	hu	Miután megadta a felhasználói nevét, a jelszó változtatáshoz szükséges információk a regisztrációkor megadott címre kerülnek postázásra.
+an error occured while updating your password. please contact the site administrator.	registration	hu	A jelszó frissítése közben hiba történt. Lépjen kapcsolatba a webhely adminisztrátorával.
+an error occured. please contact our technical support and let them know.	registration	hu	Hiba történt. Kérem lépjen kapcsolatba a webadminnal és ismertesse a problémát.
+an error occured. please remove your cookies and try again.	registration	hu	Hiba történt. Törölje a gépéről az összes 'sütit' (cookie) és próbálja újra.
+an unknown error occured. <a href="%1">please try registering again.</a>	registration	hu	Ismeretlen hiba történt. <a href="%1">Próbáljon újra regisztrálni.</a>
+anonymous password	admin	hu	Anonymous jelszó
+birthday	registration	hu	Születésnap
+challenge question	registration	hu	Találóskérdés
+change login	registration	hu	Bejelentkezés megváltoztatása
+change password for user	registration	hu	Felhasználó jelszavának megváltoztatása
+checkbox	registration	hu	Checkbox
+choose language	registration	hu	Nyelv választás
+choose your language	registration	hu	Válassza ki a nyelvet
+city	registration	hu	Város
+click to log into your account	registration	hu	Kattintson a felhasználó fiókjába bejelentkezéshez
+close window	registration	hu	Ablak bezárása
+convert user login id to 7 bit string	admin	hu	Felhasználói bejelentkezési azonosító konvertálása 7 bitessé
+country	registration	hu	Ország
+current fields:	registration	hu	Aktuális mezők:
+days until trial accounts expire	admin	hu	Próba hozzáférések alapértelmezett lejárati ideje napokban
+display terms of service?	admin	hu	Felhasználási feltételek megjelenítése?
+dropdown	registration	hu	Legördülő
+dropdown from table	registration	hu	Legördülő táblából
+email address	registration	hu	email cím
+email address to display for support	admin	hu	Technikai támogatás email elérhetősége
+email address to send notices from	admin	hu	Értesítések küldésekor a küldő címe
+enable registration?	admin	hu	Regisztráció engedélyezve?
+enter your new password	registration	hu	Adja meg az új jelszavát
+error: dropdown from table '%1' is not correctly configured	registration	hu	Hiba: Legördülő táblából '%1' nincs rendesen felkonfigurálva
+error: dropdown list '%1' has no values	registration	hu	Hiba: Legördülő lista '%1' nem tartalmaz elemeket
+female	registration	hu	Nő
+gender	registration	hu	Nem
+hi	registration	hu	Üdv
+http password	admin	hu	HTTP jelszó
+http username	admin	hu	HTTP felhasználónév
+i have read the terms and conditions and agree by them.	registration	hu	Elolvastam a felhasználási feltételeket és egyetértek velük
+if you did not request this account, simply ignore this message.	registration	hu	Ha nem ön kérte ezt a felhasználói hozzáférést, kérem hagyja figyelmen kívül ezt az üzenetet. Viszont akkor valaki az ön címét használta fel!
+if you did not request this change, simply ignore this message.	registration	hu	Ha nem ön kérte ezt a változtatást, akkor figyelmen kívül hagyhatja ezt az üzenetet. Ebben az esetben viszont valaki ön helyett kérte a változtatást!
+immediately	admin	hu	Azonnal
+lost login id	login	hu	Elfelejtett azonosító
+lost password	login	hu	Elfelejtett jelszó
+lost password link at login screen?	admin	hu	Bejelentkezési oldalon megjelenjen az "Elfelejtett jelszó" hivatkozás?
+lost user account retrieval	registration	hu	Elfelejtett felhasználói hozzáférés lekérése
+lost user id	registration	hu	Elfelejtett felhasználói azonosító
+lost user id link at login screen?	admin	hu	Bejelentkezési oldalon megjelenjen az "Elfelejtett azonosító" hivatkozás?
+lost_user_id_message	registration	hu	Íme az email címhez rendelt felhasználói hozzáférések:
+male	registration	hu	Férfi
+manage fields	admin	hu	Mezők kezelése
+name (blank unless text, textarea, dropdown, checkbox; else alphanumeric only)	registration	hu	Név (üres, kivéve Tet, Textarea, Dropdown, Checkbox; egyébként alfanumerikus)
+name sender to send notices from	admin	hu	Értesítéskor a feladó neve
+not a user yet? register now	login	hu	Még nem regisztrált tag? Nosza!
+on-line registration is not activated. please contact the site administrator for more information about registration.	registration	hu	Az online regisztráció nem engedélyezett. Kérem lépjen kapcsolatba a webadminnal, hogy többet tudjon meg a regisztrációról.
+order	registration	hu	Sorrend
+password is	admin	hu	A jelszó
+phone	registration	hu	Telefon
+please contact the site administrator.	registration	hu	Kérem lépjen kapcsolatba a webhely adminisztrátorával.
+problem sending email:	registration	hu	Hiba az email küldéskor:
+re-enter password	registration	hu	Jelszó újra
+re-enter your password	registration	hu	Jelszó újra
+register	common	hu	Regisztrál
+register link at login screen?	admin	hu	Regisztráció hivatkozás megjelenítése a bejelentkező képernyőn?
+registration	common	hu	Regisztráció
+registration settings	admin	hu	Regisztrációs beállítások
+remove	registration	hu	Eltávolít
+report all problems and abuse to	registration	hu	Az összes probléma és gond bejelentése
+required	registration	hu	Szükséges
+response	registration	hu	Válaszol
+send email	admin	hu	Email küldés
+sorry, no account exists for	registration	hu	Elnézést, nem létezik ilyen hozzáférés
+sorry, that username does not exist.	registration	hu	Elnézést, de a felhasználói név nem létezik.
+sorry, that username is already taken.	registration	hu	Elnézést, de a felhasználói név már foglalt.
+sorry, we are having a problem activating your account. note that links sent by e-mail are only valid during two hours. if you think this delay was expired, just retry. otherwise, please contact the site administrator.	registration	hu	Elnézést, problémáink vannak az ön hozzáférésének az aktiválásával. Vegye figyelembe, hogy az emailben elküldött hivatkozás csak két órán keresztül érvényesek. Ha úgy gondolja, hogy a határidő járt le, akkor próbálkozzon újra. Egyéb esetben keresse meg a webadmint.
+sorry, we are having a problem retrieving the information needed for changing your password. note that links sent by e-mail are only valid during two hours. if you think this delay was expired, just retry. otherwise, please contact the site administrator.	registration	hu	Elnézést, van egy kis probléma a jelszóváltoztatásához szükséges információk kinyerésével. Figyeljen arra, hogy a hivatkozás, amit email-ben küldtünk, csak két óráig érvényes. Ha úgy gondolja, hogy csak a határidő járt le, próbálja újra. Egyéb esetben kérem lépjen kapcsolatba a webhely adminisztrátorával.
+state	registration	hu	Állam
+subject for confirmation email	admin	hu	Engedélyező email tárgy sora
+terms of service	registration	hu	Felhasználási feltételek
+terms of service text	admin	hu	Felhasználási feltételek szöveg
+text	registration	hu	Szöveg
+textarea	registration	hu	Szöveges terület
+the passwords you entered don't match	registration	hu	A megadott jelszavak nem egyeznek
+the two passwords are not the same	registration	hu	A két jelszó nem egyezik
+this is a confirmation email for your new account.  click on the following link to finish activating your account. this link will expire in 2 hours.	registration	hu	Ez egy engedélyező email az ön új felhasználói hozzáféréséhez. Az alábbi hivatkozásra kattintva be tudja fejezni a hozzáférése aktiválását. Az alábbi hivatkozást 2 órán belül fel kell használnia, különben lejár az érvényessége.
+type	registration	hu	Típus
+unable to send mail, contact your administrator	registration	hu	Email küldése nem lehetséges, lépjen kapcsolatba a webadminnal
+unknown first name	registration	hu	Ismeretlen vezetéknév
+unknown last name	registration	hu	Ismeretlen keresztnév
+update/add	registration	hu	Frissít / Hozzáad
+use html	admin	hu	HTML használata
+use trial accounts?	admin	hu	Próba felhasználói hozzáférések? (automatikusan lejár)
+username is	admin	hu	A felhasználónév
+values 'for dropdown': comma separated), for 'dropdown from table': table,valuefield,displayfield	registration	hu	Értékek a 'Legördülő dobozhoz': vesszővel elválasztva), 'Legördülő táblából': tábla,értékmező,megjelenítőmező
+values (for dropdown only; comma separated)	registration	hu	Értékek (Csak a legördülő dobozhoz; vesszővel elválasztva)
+we have sent a confirmation email to your email address. you must click on the link within 2 hours. if you do not, it may take a few days until your loginid will become available again.	registration	hu	Elküldtük a megadott email címre az engedélyező emailt. A levélben található hivatkozásra két órán belül rá kell kattintani, különben pár napnak el kell telnie, hogy a kért belépési azonosító újra elérhető legyen.
+we have sent a mail to your email account: %s with your lost user ids.	registration	hu	%s címre elküldtük a belépési azonosítóját.
+we have sent a mail with instructions to change your password. you should follow the included link within two hours. if you do not, you will have to go to the lost password screen again.	registration	hu	Elküldtük a megadott címre a jelszó megváltoztatáshoz szükséges utasításokat. A hivatkozáson keresztül két órán belül meg kell változtatnia a jelszavát, újra kérnie kell egy jelszó változtatást.
+wrong session	registration	hu	Rossz session
+you can go back to the login page	registration	hu	Visszatérhet a bejelentkező oldalra
+you have entered an invalid birthday	registration	hu	Érvénytelen születési évet adott meg
+you have entered an invalid email address	registration	hu	Érvénytelen email címet adott meg
+you must enter a password	registration	hu	Meg kell adnia egy jelszót
+you must enter a username	registration	hu	Meg kell adnia egy felhasználói nevet
+you must enter an email account	registration	hu	Meg kell adnia egy email címet
+you must enter an email address	registration	hu	Meg kell adnia egy email címet
+you must fill in all of the required fields	registration	hu	Az összes szükséges mezőt ki kell töltenie
+you requested to change your password. please follow the url below to do so. this url will expire in two hours. after this delay you should go thru the lost password procedure again.	registration	hu	Jelszó változtatást kért. Kérem kövesse az alábbi hivatkozást két órán belül, hogy jelszavát meg tudja változtatni, ellenkező esetben újra kérnie kell a jelszó változtatást.
+you specified a value for %1 that is not a choice	registration	hu	A megadott érték (%1) nem használható
+your account is now active!	registration	hu	Felhasználói azonosítója most már érvényes!
+your login is not available. time is expired	registration	hu	Felhasználói azonosítója érvénytelen. Lejárt az ideje.
+your password was changed.	registration	hu	Jelszava megváltozott.
+your registration code is missing or incorrect.	registration	hu	Regisztrációs kódja hiányzik vagy hibás.
+zip/postal	registration	hu	Postai irányítószám

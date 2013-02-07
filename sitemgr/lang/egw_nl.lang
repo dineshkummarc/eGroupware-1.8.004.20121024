@@ -1,0 +1,584 @@
+%1 content manager	sitemgr	nl	%1 beheer inhoud
+%1 module manager	sitemgr	nl	%1 beheer modulen
+'%1' is no valid sitemgr-site directory !!!	sitemgr	nl	'%1' is geen sitemgr-site folder!
+(do not put spaces or punctuation in the name field.)	sitemgr	nl	(Gebruik geen spaties of leestekens in het Naam veld.)
+(leave blank to allow insecure logins)	sitemgr	nl	(leeg laten om onbeveiligde logins toe te staan)
+(leave blank to stay on current page)	sitemgr	nl	(leeg laten om op de huidige pagina te blijven)
+(only used in case of single file)	sitemgr	nl	(alleen gebruikt in het geval van een enkel bestand)
+1 day	common	nl	1 Dag
+1 hour	common	nl	1 Uur
+1 month	common	nl	1 Maand
+1 week	common	nl	1 Week
+<b>autoregistration is not enabled / configured in the registration app !!!</b><br>you need to do so, to get the autoregistration link working.	sitemgr	nl	<b>Auto-registraite is niet ingeschakeld / geconfigureerd in de registratie toepassing !!!</b>U moet dit doen om de auto-registratie link werkend te krijgen.
+<b>want more templates?</b><br />just download one from the template gallery at %1www.egroupware.org%2 or use a %3mambo open source%4 version 4.5 compatible template eg. from %5. unpack the downloaded template in your templates directory (%6).	sitemgr	nl	<b>Meer sjablonen?</b><br />Download ze bij %1www.eGroupWare.org%2 of gebruik een %3Mambo Open Source%4 Versie 4.5 compatible sjabloon. Bijv. van %5. Pak het gedownloade sjabloon uit in uw sjabloon folder (%6).
+a simple picture galery	sitemgr	nl	Een eenvoudig foto-album
+actif	sitemgr	nl	Actief
+actions	sitemgr	nl	Acties
+add a category	sitemgr	nl	Voeg een categorie toe
+add a new application	sitemgr	nl	Voeg een applicatie toe
+add a new guestbook	sitemgr	nl	Voeg een nieuw gastenboek toe
+add block ...	sitemgr	nl	Voeg een katern toe...
+add block to content area %1	sitemgr	nl	Voeg een katern toe aan de inhoud %1
+add category	sitemgr	nl	Voeg een categorie toe
+add new page to this category	sitemgr	nl	Voeg een pagina toe aan deze categorie
+add page	sitemgr	nl	Voeg een pagina toe
+add page to category	sitemgr	nl	Voeg een pagina toe aan deze categorie
+add website	sitemgr	nl	Voeg een website toe
+administration	sitemgr	nl	Beheer
+administrative menu	sitemgr	nl	Menu beheer
+administrators	sitemgr	nl	Beheerders
+advanced plus google: also show google search	sitemgr	nl	Geavanceerd plug Google: Ook google zoeken weergeven
+all available languages	sitemgr	nl	Alle beschikbare talen
+all categories	sitemgr	nl	Alle categoriën
+all forums in category %1	sitemgr	nl	Alle forums in categorie %1
+all languages	sitemgr	nl	alle talen
+all sites	sitemgr	nl	Alle sites
+all words	sitemgr	nl	Alle woorden
+allignment of navigation elements	sitemgr	nl	Uitlijning van navigatie elementen
+allow customer to input a note	sitemgr	nl	Sta klant toe een notitie in te voeren
+allow posting of questions	sitemgr	nl	Sta het inzenden van vragen toe
+amazon	sitemgr	nl	Amazon
+amazon server (without www), eg. amazon.com	sitemgr	nl	Amazon server (zonder www), bijv. amazon.com
+an application directory	sitemgr	nl	Een applicatie folder
+anonymous	sitemgr	nl	anoniem
+anonymous user login domain	sitemgr	nl	Domein anonieme gebruiker
+anonymous user's password	sitemgr	nl	Wachtwoord anonieme gebruiker
+anonymous user's username	sitemgr	nl	Naam anonieme gebruiker
+anvanced: show all search modes	sitemgr	nl	Geavanceerd: Toon alle zoek mogelijkheden
+any words	sitemgr	nl	Ieder woord
+applet	sitemgr	nl	Applet
+application	sitemgr	nl	Toepassing
+application '%1' is not installed !!!<br>please install it, to be able to use the block.	sitemgr	nl	Toepassing '%1' is niet geinstalleerd !!!<br />A.u.b. installeren om dit katern te kunnen gebruiken.
+application sitemgr_module_guestbook must be installed as a egroupware application for this module to run	sitemgr	nl	De toepassing sitemgr_module_guestbook moet geinstalleerd zijn als een eGroupWare toepassing voordat deze module gebruikt kan worden
+apply permissions also to subcategories?	sitemgr	nl	Permissies ook toepassen op sub-categoriën?
+archived	sitemgr	nl	gearchiveerd
+archived content	sitemgr	nl	Gearchiveerde inhoud
+are contributors allowed to define new guestbooks?	sitemgr	nl	Mogen auteurs zelf nieuwe gastenboeken aanmaken?
+are you sure you want to delete site %1 and all its content? you cannot retrieve it if you continue.	sitemgr	nl	Weet u zeker dat u %1 en alle inhoud wilt verwijderen? U kunt het niet meer terughalen.
+are you sure you want to delete the category %1 and all of its associated pages?  you cannot retrieve the deleted pages if you continue.	sitemgr	nl	Weet u zeker dat u categorie %1 en alle onderliggende pagina's wilt verwijderen? U kunt het niet meer terughalen.
+as	common	nl	als
+asin[=title] pairs (title is optional)	sitemgr	nl	ASIN[=titel] paren (titel is optioneel)
+ask customer	sitemgr	nl	Vraag de klant
+attempt to access information outside current website	sitemgr	nl	Poging om informatie te krijgen buiten de huidige website
+attempt to edit non-editable block	sitemgr	nl	Poging een niet wijzigbare katern te wijzigen
+automatic index	sitemgr	nl	Automatische inhoudsopgave
+automatically generated notification	sitemgr	nl	Automatisch aangemaakte mededeling
+back to module manager	sitemgr	nl	Terug naar module beheer
+back to the list of languages	sitemgr	nl	Terug naar de lijst van talen
+basic settings	sitemgr	nl	Basis instellingen
+before the public web site can be viewed, you must configure the various locations and preferences.  please go to the sitemgr setup page by following this link:	sitemgr-link	nl	Voordat de publieke website bekeken kan worden moet u eerst verschillende locaties en voorkeuren configureren. Ga a.u.b. naar de sitemgr setup pagina door deze link te volgen:
+block not found.	sitemgr	nl	Katern niet gevonden.
+block reloaded	sitemgr	nl	Katern opnieuw geladen
+block returned no content.	sitemgr	nl	Katern heeft geen inhoud.
+block saved	sitemgr	nl	Katern opgeslagen
+bookmarks	sitemgr	nl	Favorieten
+buy at %1	sitemgr	nl	Koop bij %1
+calendar	sitemgr	nl	Calender
+can't open an url or execute a script, because allow_url_fopen is not set in your php.ini !!!	sitemgr	nl	Kan de URL niet openen of een script niet uitvoeren omdat allow_url_fopen niet is ingeschakeld in uw php.ini !!!
+cancel the delete	sitemgr	nl	Annuleer het verwijderen
+cannot move page until it has been saved.	sitemgr	nl	Kan de pagina niet verplaatsten voordat het is opgeslagen
+category	sitemgr	nl	Categorie
+category description	sitemgr	nl	Omschrijving categorie
+category manager	sitemgr	nl	Beheer categoriën
+category name	sitemgr	nl	Naam categorie
+category saved	sitemgr	nl	Categorie opgeslagen
+cats are numeric, pages strings	sitemgr	nl	categorieen zijn numeriek, pagina's tekst
+center	sitemgr	nl	Centreer
+changes saved.	sitemgr	nl	Wijzigingen opgeslagen
+check here after every upgrade	sitemgr	nl	controleer hier voor iedere wijziging
+check to hide from condensed site index.	sitemgr	nl	Aankruizen om te verbergen in verdichte site index.
+choose a category	sitemgr	nl	Kies een categorie
+choose a format	sitemgr	nl	Kies een formaat
+choose a guestbook	sitemgr	nl	Kies een gastenboek
+choose language	sitemgr	nl	Kies een taal
+choose template	sitemgr	nl	Kies een sjabloon
+choose the categories to display	sitemgr	nl	Kies welke categoriën te tonen
+choose the valid html type (note: not all icons are available):	sitemgr	nl	Kies het JUISTE HTML type (noot: niet alle iconen zijn beschikbaar):
+choose your site's theme or template.  note that if you changed the above checkbox you need to save before choosing a theme or template.	sitemgr	nl	Kies uw thema of sjabloon. Als u bovenstaande checkbox heeft gewijzigd moet u eerst opslaan voordat u een thema of sjabloon kiest.
+click here to login through a safe connection.	sitemgr	nl	Klik hier om via een veilige verbinding in te loggen.
+code file	sitemgr	nl	Code bestand
+codebase url	sitemgr	nl	Codebase URL
+collapse threads	sitemgr	nl	Discussies uitklappen
+comment	sitemgr	nl	Commentaar
+commit changes	sitemgr	nl	Wijzigingen doorvoeren
+common prefix of the image-name (a number starting with 1 will be appended)	sitemgr	nl	algemene prefix van de afbeeldingsnaam (een getal dat begint met een 1 wordt er achter geplakt)
+configure module properties	sitemgr	nl	Configureer modulen
+configure sitemgr	sitemgr	nl	Configureer SiteMgr
+configure website	sitemgr	nl	Configureer WebSite
+contact the administrator.	sitemgr	nl	Neem contact op met beheerder.
+content areas	sitemgr	nl	Inhoud gebieden
+content blocks	sitemgr	nl	Inhoud katernen
+content blocks for category	sitemgr	nl	Inhoud katernen voor categorie
+content manager	sitemgr	nl	Inhoud beheer
+contentarea	sitemgr	nl	Inhoudgebied
+contributor menu	sitemgr	nl	Auteur menu
+copyright	sitemgr	nl	Copyright
+create new version	sitemgr	nl	Maak een nieuwe versie
+css styles	sitemgr	nl	CSS stijlen
+currency code of the value specified in amount (eg. usd, eur)	sitemgr	nl	Valuta code van de waarde die bij bedrag is ingevuld (bijvoorbeeld USD, EUR)
+current section	sitemgr	nl	Huidige sektie
+custom	sitemgr	nl	aangepast
+default	sitemgr	nl	Standaard
+default home page id number	sitemgr	nl	Standaard homepage ID nummer
+define websites	common	nl	Aanmaken websites
+delete block	sitemgr	nl	Verwijder katern
+delete category	sitemgr	nl	Verwijder categorie
+delete page	sitemgr	nl	Verwijder pagina
+delete this application	sitemgr	nl	Verwijder deze applicatie
+delete this block	sitemgr	nl	Verwijder dit katern
+delete this guestbook	sitemgr	nl	Verwijder dit gastenboek
+delete version	sitemgr	nl	Verwijder versie
+deleting all data for %1	sitemgr	nl	Alle data voor %1 wordt verwijderd
+details for language %1 (%2)	sitemgr	nl	Details van taal %1 (%2)
+directory is not writable by the webserver --> disabling upload	sitemgr	nl	Directory is NIET beschrijfbaar voor de webserver --> uploaden wordt uitgeschakeld
+discussions	sitemgr	nl	Discussies
+display link to autoregistration below login form?	sitemgr	nl	Toon autoregistratie link onder het aanmeld formulier?
+do you realy want to delete the selected categories (including all pages), pages and blocks?	sitemgr	nl	Wilt u de geselecteerde categorieën werkelijk verwijderen (inclusief alle pagina's), pagina's en katernen?
+do you realy want to delete this block?	sitemgr	nl	Wilt u dit katern echt verwijderen?
+do you realy want to delete this page?	sitemgr	nl	Wilt u deze pagina echt verwijderen?
+do you want to delete them?	sitemgr	nl	Wilt u ze echt verwijderen?
+documentation	sitemgr	nl	Documentatie
+domain-name (offical dns-name eg. www.egroupware.org) if you want to give the user a choice between searching this site or the whole web. leaving it empty allows to search the web only.	sitemgr	nl	Domein-naam (officiële DNS-naam bijv. www.egroupware.org) als u de gebruiker de keuze wilt geven tussen deze site of het web te doorzoeken. Als u het leeg laat wordt het web doorzocht.
+don't have an account?	sitemgr	nl	U heeft geen account?
+don't show hiden pages in the path way	sitemgr	nl	Verborgen pagina's niet in het pad weergeven
+don't use egroupware css ">" separator (for templates that uses images/symbols for lists)	sitemgr	nl	Gebruik NIET het eGroupWare css ">" scheidingsteken (voor sjablonen die afbeeldingen of symbolen voor lijsten gebruiken)
+done	sitemgr	nl	Klaar
+dont ask	sitemgr	nl	Vraag niet
+download as zip-archiv	sitemgr	nl	Downloaden als ZIP-archief
+downloaded	sitemgr	nl	gedownload
+draft	sitemgr	nl	klad
+draft mode	sitemgr	nl	Klad mode
+edit categories and permissions	common	nl	Catergorieën en permissies aanpassen
+edit category	sitemgr	nl	Categorie aanpassen
+edit individual pages	common	nl	Individuele pagina's aanpassen
+edit mode	sitemgr	nl	Wijzig mode
+edit notification	sitemgr	nl	Bewerk notificatie
+edit notification message	sitemgr	nl	Bewerk notificatie tekst
+edit page	sitemgr	nl	Wijzig pagina
+edit properties of module %1 for %2 with scope %3	sitemgr	nl	Wijzig eigenschappen voor module %1 voor %2 met scope %3
+edit site	sitemgr	nl	Site aanpassen
+edit site header and footer	common	nl	Site Kop en Voet aanpassen
+edit this block	sitemgr	nl	Dit katern aanpassen
+edit website	sitemgr	nl	WebSite aanpassen
+egw users	sitemgr	nl	egw gebruikers
+element successfully deleted.	sitemgr	nl	Element met succes verwijderd.
+email address	sitemgr	nl	Email adres
+email address of the paypal account selling the item	sitemgr	nl	Email adres van het PayPal account dat het item verkoopt
+enter a name	sitemgr	nl	Geen een naam op
+enter the block content here	sitemgr	nl	Geef de inhoud van het katern hier
+enter the email to be notified about changes of the website.	sitemgr	nl	Vul het emailadres in voor meldingen van wijzigingen van de website.
+enter the email to be notified about changes of the website:	sitemgr	nl	Vul het emailadres in waarop u meldingen over wijzigingen van de website wilt ontvangen:
+enter the page content here	sitemgr	nl	Geef de inhoud van de pagina hier
+enterprise knowledge articles repository	sitemgr	nl	Enterprise Knowledge artikelen repository
+entry deleted	sitemgr	nl	Invoer verwijderd
+entry duplicated.	sitemgr	nl	Invoer is gedupliceerd.
+entry saved	sitemgr	nl	Invoer bewaard
+entry saved.	sitemgr	nl	Invoer is bewaard.
+error accessing page	common	nl	Fout bij het benaderen van pagina
+error deleting the element.	sitemgr	nl	Fout bij het verwijderen van het element.
+error deleting the entry!!!	sitemgr	nl	Fout bij het verwijderen van de invoer!!!
+error saving the entry!!!	sitemgr	nl	Fout bij het bewaren van de invoer!!!
+error writing to the database.	sitemgr	nl	Fout bij het schrijven naar de database.
+error writing to the database: %1.	sitemgr	nl	Fout bij het schrijven naar de database: %1.
+everybody	sitemgr	nl	iedereen
+exact phrase	sitemgr	nl	Exacte bewoording
+expand current category	sitemgr	nl	Huidige categorie uitklappen
+file %1 is not readable by the webserver !!!	sitemgr	nl	Bestand %1 is niet leesbaar voor de webserver!
+file %1 is outside the docroot of the webserver !!!<br>this module does not allow - for security reasons - to open files outside the docroot.	sitemgr	nl	Bestand %1 ligt buiten de docroot van de webserver!!!<br />Deze module staat NIET toe - om veiligheidsredenen - dat bestanden buiten de docroot worden geopend.
+file contents	sitemgr	nl	Inhoud bestand
+file download	sitemgr	nl	Download bestand
+filename	sitemgr	nl	Bestandsnaam
+filesystem path of the directory where xml files are stored	sitemgr	nl	Folder op het systeem waar de XML bestanden worden bewaard
+filesystem path of the image-directory	sitemgr	nl	Folder op het systeem van de afbeeldingen directory
+filesystem path to sitemgr-site directory	sitemgr	nl	Folder op het systeem van de SiteMgr-Site directory
+fill in permissions from parent category? if you check this, below values will be ignored	sitemgr	nl	Permissie van bovenliggende categorie overnemen? Als u dit aankruist worden onderstaande waarden geneheerd.
+flag symbols	sitemgr	nl	Markeer symbolen
+following new modules registed: %1	sitemgr	nl	De volgende nieuwe modules zijn geregistreerd: %1
+footer editor	sitemgr	nl	Voettekst wijzigen
+forever	common	nl	Voor altijd
+forum	sitemgr	nl	Forum
+full path of the xslt file that should be applied to the xml files	sitemgr	nl	Volledige folder van het XSLT dat moet worden toegepast voor de XML bestanden
+galerie	sitemgr	nl	Galerij
+gallery plus chooser	sitemgr	nl	Galerij en voorbeeld
+gallery plus chooser and download	sitemgr	nl	Galerij en voorbeeld en dowload
+gallery plus download	sitemgr	nl	Galerij en download
+go	sitemgr	nl	Ga
+go back to page manager	sitemgr	nl	Terug naar pagina-beheer
+go back to the category manager.	sitemgr	nl	Terug naar categorie-beheer
+go to	sitemgr	nl	Ga naar
+go to page manager	sitemgr	nl	Ga naar pagina-beheer
+google	sitemgr	nl	Google
+google search	sitemgr	nl	Google zoeken
+group access permissions	sitemgr	nl	Groep toegang-permissies
+group name	sitemgr	nl	Groe naam
+header editor	sitemgr	nl	Koptekst wijzigen
+headlines	sitemgr	nl	Koppen
+hello	sitemgr	nl	Hallo
+hello world	sitemgr	nl	Hallo wereld
+helps you respect html/xhtml standards.	sitemgr	nl	Helpt u de HTML/XHTML standaard te respecteren.
+horizontal	sitemgr	nl	Horizontaal
+html frame	sitemgr	nl	HTML Frame
+html module	sitemgr	nl	HTML module
+i'm sorry, you do not have write permissions for any site categories.	sitemgr	nl	U heeft geen schrijf-permissies voor enige categorie.
+id	sitemgr	nl	ID
+identifier you can use to track an internal inventory number	sitemgr	nl	Idenficatie waarmee u een intern voorraad nummer kunt volgen
+if nonsecure redirect to:	sitemgr	nl	Indien onbeveiligd omleiden naar:
+if you haven't done so already, create a user that will be used for public viewing of the site.  recommended name: anonymous.	sitemgr	nl	Maak indien nodig een gebruiker aan dat het publieke gedeeldte van de sit mag zien. Geadviseerde naam: anoniem.
+image type	sitemgr	nl	Type plaatje
+implies read permission	sitemgr	nl	verondersteld lees permissie
+index	sitemgr	nl	Inhoudsopgave
+individual access permission	sitemgr	nl	Individuele toegangsrechten
+individual access permissions	sitemgr	nl	Individuele toegangsrechten
+interface to google website	sitemgr	nl	Koppeling met de google-website
+invalid template directory '%1' !!!	sitemgr	nl	Ongeldige sjabloondirectory '%1' !!!
+knowledge base	sitemgr	nl	Kennisbank
+language:	sitemgr	nl	Taal:
+languages the site user can choose from	sitemgr	nl	Talen waaruit de gebruiker kan kiezen
+last entries to the guestbook	sitemgr	nl	Laatste invoer in het gastenboek
+latest reply	sitemgr	nl	Laatste reactie
+links for the tabs (comma seperated)	sitemgr	nl	Links voor de tabbladen (komma gescheiden)
+list of permitted modules specific to content area %1	sitemgr	nl	Lijst met toegestane module voor inhoud gebied %1
+loged in as:	sitemgr	nl	Ingelogd als
+login	sitemgr	nl	Aanmelden
+login name	sitemgr	nl	Login naam
+main content	sitemgr	nl	Hoofdinhoud
+mains	sitemgr	nl	Hoofdzaken
+manage archived content	sitemgr	nl	Beheer gearchiveerde inhoud
+manage categories	sitemgr	nl	Beheer categoriën
+manage categories and pages	sitemgr	nl	Beheer categoriën en pagina's
+manage category wide content	sitemgr	nl	Beheer categorie-breede inhoud
+manage category wide module properties	sitemgr	nl	Beheer categorie-breede module eigenschappen
+manage content	sitemgr	nl	Beheer inhoud
+manage modules	sitemgr	nl	Beheer modulen
+manage notification messages	sitemgr	nl	Beheer notificatie teksten
+manage notifications	sitemgr	nl	Beheer notificaties
+manage page specific content	sitemgr	nl	Beheer pagina-specifieke inhoud
+manage pages	common	nl	Beheer pagina's
+manage site content	sitemgr	nl	Beheer site-inhoud
+manage site-wide content	sitemgr	nl	Beheer site-breede inhoud
+manage site-wide module properties	sitemgr	nl	Beheer site-breede module eigenschappen
+manage translations	sitemgr	nl	Beheer vertalingen
+master list of permitted modules	sitemgr	nl	Hoofdlijst met toegestane modulen
+maximal category depth to be shown	sitemgr	nl	Maximale categorie diepte die weergegeven mag worden
+maximal page depth to be shown	sitemgr	nl	Maximale pagina diepte die weergegeven mag worden
+message not found !!!	sitemgr	nl	Bericht niet gevonden !!!
+message text:	sitemgr	nl	Bericht tekst:
+messages are defined for all site languages.	sitemgr	nl	Er zijn berichten gedefinieerd voor alle talen.
+migrating data for %1 to %2	sitemgr	nl	Migratie dat voor %1 naar %2
+module %1 is not permitted in this context!	sitemgr	nl	Module %1 is niet toegestaan in deze context.
+module '%1' not found in: %2! --> exiting	sitemgr	nl	Module '%1' niet gevonden in: %2! --> wordt beeindigd
+module manager	sitemgr	nl	Module-beheer
+module: %1, scope: %2, contentarea: %3, viewable: %4	sitemgr	nl	Module: %1, Scope: %2, Inhoudsgebied: %3, Zichtbaar: %4
+move block down (increase sort order)	sitemgr	nl	Katern naar onderen verplaatsen
+move block up (decrease sort order)	sitemgr	nl	Katern naar boven verplaatsen
+move to	sitemgr	nl	Verplaats naar
+name	sitemgr	nl	Naam
+name has been translated to lower case	sitemgr	nl	Naam is in kleine letters geplaatst
+name of page or numeric category to go to, if website was selected above:	sitemgr	nl	Naam van pagina of numerieke categorie waar naar toe gegaan moet worden indien de website hierboven was geselecteerd:
+name of the item for sale	sitemgr	nl	Naam van het item dat te koop is
+name of the tabs (comma seperated)	sitemgr	nl	Naam van de tabbladen (komma gescheiden)
+new application	sitemgr	nl	Nieuwe applicatie
+new guestbook	sitemgr	nl	Nieuw gastenboek
+new sitemgr site	sitemgr	nl	Nieuwe SiteMgr-Site
+no additional arguments required	sitemgr	nl	Geen aanvullende argumenten vereist
+no anonymous user accounts installed.  notify the administrator.	sitemgr	nl	Er is geen anonieme gebruiker aangemaakt. Waarschuw de beheerder.
+no content areas found in selected template	sitemgr	nl	Geen inhoudsgebieden gevonden in geselecteerd sjabloon
+no content found	sitemgr	nl	Geen inhoud gevonden
+no groups defined.	sitemgr	nl	Geen groepen aangemaakt.
+no link to full index	sitemgr	nl	Geen link in de volledige index.
+no modules permitted for this content area/category	sitemgr	nl	Geen modules toegestaan voor dit inhouds-gebied/categorie
+no new modules found !!!	sitemgr	nl	Geen nieuwe modules gevonden !!!
+no options available.	sitemgr	nl	Geen opties aanwezig.
+no pages available	sitemgr	nl	Geen pagina's aanwezig.
+no sitelanguages configured	sitemgr	nl	Geen talen ingesteld.
+no states defined	sitemgr	nl	Geen statussen gedefinieerd
+no template file found.	sitemgr	nl	Sjabloon bestand niet gevonden
+no templates found.	sitemgr	nl	Geen sjablonen gevonden.
+no thumbnail availible	sitemgr	nl	Geen miniatuur beschikbaar
+no users defined.	sitemgr	nl	Geen gebruikers aangemaakt.
+no websites defined	sitemgr	nl	Geen websites aangemaakt
+no, chooser only (for side-areas)	sitemgr	nl	Nee, alleen kiezen (voor kantlijn gebieden)
+no, chooser with preview	sitemgr	nl	Nee, kiezen met voorbeeld
+not	common	nl	not
+not yet translated	sitemgr	nl	nog niet vertaald
+note that you may get this message if your preferences are incorrect.  for example, if config.inc.php is not found in the directory that you specified.	sitemgr-link	nl	Letop dat u dit bericht kunt krijgen als uw voorkeuren onjuist zijn. Bijvoorbeeld: als config.inc.php niet gevonden wordt in de directory die u heeft opgegeven.
+notification message not found !!!	sitemgr	nl	Notificatie tekst niet gevonden !!!
+notification not found !!!	sitemgr	nl	Notificatie niet gevonden !!!
+number of results	sitemgr	nl	Aantal resultaten
+on all pages	sitemgr	nl	op alle pagina's
+only gallery	sitemgr	nl	Alleen gallerij
+only on the first page	sitemgr	nl	alleen op de eerste pagina
+options in search result page	sitemgr	nl	Opties in zoek resultaten pagina
+or enter the title for a new guestbook	sitemgr	nl	of vul de titel van een nieuw gastenboek in
+other websites	sitemgr	nl	Overige websites
+overview of all available categories	sitemgr	nl	Overzicht van alle categoriën
+overview of one specific category	sitemgr	nl	Overzicht van één specifieke categorie
+own amazon partner-id or empty to donate to the egroupware project	sitemgr	nl	Eigen Amazon partner-id of leeg als u wilt doneren aan het eGroupWare project
+page	sitemgr	nl	Pagina
+page content	sitemgr	nl	Pagina inhoud
+page manager	sitemgr	nl	Pagina beheer
+page name	sitemgr	nl	Naam pagina
+page saved	sitemgr	nl	Pagina opgeslagen
+page saved.	sitemgr	nl	Pagina opgeslagen.
+page subtitle	sitemgr	nl	Pagina subtitel
+page title	sitemgr	nl	Pagina titel
+pages	sitemgr	nl	Pagina's
+pages:	sitemgr	nl	Pagina's:
+parent	sitemgr	nl	Bovenliggend
+parent directory	sitemgr	nl	bovenliggende directory
+parent section:	sitemgr	nl	Bovenliggende sectie
+password	sitemgr	nl	Wachtwoord
+password that you assigned for the anonymous user account.	sitemgr	nl	Wachtwoord van de anonieme gebruiker.
+path	sitemgr	nl	Pad
+path to image-directory '%1' is not valid or readable by the webserver !!!	sitemgr	nl	Pad naar de afbeeldingendirectory '%1' is onjuist of niet leesbaar voor de webserver !!!
+path to zip binary if not in path of the webserver	sitemgr	nl	Folder naar het zip-bestand indien niet opgenomen in zoekpath van de webserver
+pay with paypal	sitemgr	nl	Betaal met PayPal
+paypal	sitemgr	nl	PayPal
+paypal pay now button	sitemgr	nl	PayPal nu betalen knop
+percentage	sitemgr	nl	Percentage
+phrases in total	sitemgr	nl	Totaal aantal zinnen
+plain selectbox	sitemgr	nl	Normaal keuzeveld
+please enter a name for that site !	sitemgr	nl	Geen een naam op voor de site!
+please sign the guestbook	sitemgr	nl	Teken ons gastenboek
+post a message to this thread	sitemgr	nl	Plaats een bericht in deze discussie
+prepublished	sitemgr	nl	voorgepubliceerd
+preunpublished	sitemgr	nl	pre-gearchiveerd
+previous	sitemgr	nl	Vorige
+price of the item (empty allows buyer to choose, eg. for donations)	sitemgr	nl	Prijs van het item (leeg biedt de koper om zelf te kiezen, bijvoorbeeld voor donaties)
+production mode	sitemgr	nl	Productie versie
+published	sitemgr	nl	gepubliceerd
+quantity items (empty allows buyer to specify)	sitemgr	nl	Hoeveelheid items (leeg laten maakt het mogelijk dat de koper het zelf specificeert)
+reactivate content	sitemgr	nl	Heractiveer inhoud
+read permission	sitemgr	nl	Lees rechten
+redirection	sitemgr	nl	Verwijzing
+refresh	sitemgr	nl	Verversen
+register for one now.	sitemgr	nl	Meld nu voor één aan.
+register new modules	sitemgr	nl	Registeer nieuw modulen
+reload	sitemgr	nl	Herladen
+remember me	common	nl	onthoud mij
+replies	sitemgr	nl	Antwoorden
+required	sitemgr	nl	Vereist
+required fields	sitemgr	nl	Verplichte velden
+reset	sitemgr	nl	Herstarten
+return to forums	sitemgr	nl	Terug naar forums
+return to main menu.	sitemgr	nl	Terug naar het hoofdmenu
+return to message list	sitemgr	nl	Terug naar berichten lijst
+root site index	sitemgr	nl	Hoofdindex
+save	sitemgr	nl	Opslaan
+save block	sitemgr	nl	Sla katern op
+saved	sitemgr	nl	Opgeslagen
+scope	sitemgr	nl	Scope
+search keyword	sitemgr	nl	zoek zoekterm
+search language options	sitemgr	nl	Zoek taal opties
+search modes	sitemgr	nl	Zoek modi
+search with	sitemgr	nl	Zoeken met
+seen by	sitemgr	nl	Gezien door
+select a category	sitemgr	nl	Kies een categorie
+select a forum	sitemgr	nl	Kies een forum
+select allowed modules	sitemgr	nl	Kies toegestane modulen
+select layout for lang selection	sitemgr	nl	Selecteer layout voor taal selectie
+select persons and groups that are entitled to configure the website.	sitemgr	nl	Kies personen en groepen die de website mogen configureren.
+select the templates the user is allowed to see	sitemgr	nl	Kies de sjablonen die de gebruiker mag zien
+select type of navigation	sitemgr	nl	Kies het navigatietype
+selected template %1 does not exist.	sitemgr	nl	Het gekozen sjabloon %1 bestaat niet.
+selected theme %1 does not exist.	sitemgr	nl	Het gekozen thema %1 bestaat niet.
+seperate cats / pages of one tab by :	sitemgr	nl	Categorieen / Pagina's op een tabblad scheiden door:
+shipping address	sitemgr	nl	Verzend adres
+should the file be viewed in the browser or downloaded	sitemgr	nl	Moet het bestand in de browser getoond worden of als download aangeboden worden
+show a template-gallery (thumbnail and informations)	sitemgr	nl	Toon een sjabloongalerij (miniatuur en informatie)
+show contents of a directory	sitemgr	nl	Toon de inhoud van een directory
+show contents of a directory with subdirectories	sitemgr	nl	Toon de inhoud van een directory met subdirectories
+show current section only	sitemgr	nl	Toon alleen de huidige sectie
+show details for the applications	sitemgr	nl	Toon details voor de toepassingen
+show files including the ones from subdirectories	sitemgr	nl	Toon bestanden inclusief die in subdirectories
+show only (in the next field) selected templates	sitemgr	nl	Toon uitsluitend (in het volgende veld) de gekozen sjablonen
+show path?	sitemgr	nl	pad tonen?
+show searchbox	sitemgr	nl	Toon zoekkader
+show site index	sitemgr	nl	Toon index
+show subcategories	sitemgr	nl	Toon subcategoriën
+show the title of the wiki page	sitemgr	nl	Toon de titel van de wiki pagina
+simple: only selected mode, no more options displayed	sitemgr	nl	Eenvoudig: Alleen geselecteerde modus, geen andere opties worden getoond
+single file download	sitemgr	nl	Enkele bestandsdownload
+site	sitemgr	nl	Site
+site %1 has been added, you need to %2configure the site%3 now	sitemgr	nl	Site %1 is toegevoegd, nu moet u de site%3 gaan %2configureren
+site %1 has been updated	sitemgr	nl	Site %1 is gewijzigd
+site administrators	sitemgr	nl	Site beheerders
+site description	sitemgr	nl	Site beschrijving
+site format manager	sitemgr	nl	Site format beheerder
+site index	sitemgr	nl	Index
+site language	sitemgr	nl	Site taal
+site name	sitemgr	nl	Naam site
+site setup	common	nl	Instellingen site
+site tree menu	sitemgr	nl	Site boomstructuur menu
+site wide	sitemgr	nl	Site breed
+sitemgr	common	nl	SiteMgr
+sitemgr manual	sitemgr	nl	SiteMgr handboek
+sitemgr options	sitemgr	nl	SiteMgr opties
+sitemgr setup instructions	sitemgr	nl	SiteMgr installatie instructies
+sitemgr setup page	sitemgr-link	nl	sitemgr setup pagina
+sitemgr web content manager	common	nl	SiteMgr Web inhoud beheerder
+sitemgr websites	sitemgr	nl	SiteMgr Websites
+sitemgr-link	common	nl	Website
+size	sitemgr	nl	Grootte
+sorry, no content found for you search criteria	sitemgr	nl	Sorry, er werd geen content gevonden bij jouw zoek criteria
+sort order	sitemgr	nl	Volgorde
+state	sitemgr	nl	Status
+strip html from block content?	sitemgr	nl	HTML uit inhoud verwijderen?
+subcategories	sitemgr	nl	Subcategorieën:
+subsections:	sitemgr	nl	Subsecties:
+subtext for image %1	sitemgr	nl	Subtekst voor afbeelding %1
+subtitle	sitemgr	nl	Subtitel
+summary of one forum	sitemgr	nl	Samevattin van één forum
+suppress link to index (show all)	sitemgr	nl	Link naar index onderdrukken (alles weergeven)
+suppress link to parent category	sitemgr	nl	Link naar bovenliggende categorie onderdrukken
+suppress main categories	sitemgr	nl	Onderdruk hoofd categorie
+suppress the current category	sitemgr	nl	Onderdruk de huidige categorie
+suppress the current page	sitemgr	nl	De huidige pagina onderdrukken
+table of contents	sitemgr	nl	Inhoudsopgave
+template based navigation module	sitemgr	nl	Op sjabloon gebaseerde navigatie module
+template select	sitemgr	nl	Kies sjabloon
+text allignment	sitemgr	nl	Tekst uitlijning
+text of page links	sitemgr	nl	Tekst  bij pagina links
+textarea	sitemgr	nl	tekstkader
+the category to display, 0 for complete table of contents	sitemgr	nl	Welke catoregorie moet getoond worden (0 voor de volledige inhoudsopgave)
+the complete url or path to a file to be included	sitemgr	nl	De volledige URL of pad naar een bestand dat geincludeerd moet worden
+the config.inc.php file needs to be edited to point to the egroupware directory. copy the config.inc.php.template file to config.inc.php and then edit it.	sitemgr	nl	Het config.inc.php bestand moet gewijzigd worden zodat het verwijst naar de eGroupWare directory. Kopieer het config.inc.php.template bestand naar config.inc.php en bewerk het daarna.
+the file to be downloaded	sitemgr	nl	Het bestand dat moet worden gedownload
+the filesystem path to your sitemgr-site directory '%1' is probably wrong. go to sitemgr --> define websites and edit/fix the concerned site.	sitemgr	nl	Het bestandspad naar uw sitemgr-site directory '%1' is waarschijnlijk onjuist. Ga naar SiteMgr --> Definieer Websites en wijzig/corrigeer de betreffende Site.
+the first directory to think about is sitemgr-link.  if you move this to the parent directory of sitemgr (your egroupware root directory) then you can use setup to install the app and everyone with access to the app will get an icon on their navbar that links them directly to the public web site.  if you don't want this icon, there's no reason to ever bother with the directory.	sitemgr	nl	De eerste directory waarover u moet nadenken is sitemgr-link. Als u deze verplaatst naar de bovenliggende directory van sitemgr (uw eGroupWare root directory) kunt u setup gebruiken om de toepassing te installeren en iedereen met toegang tot de toepassing krijg een icoon op de menubalk die hen direct naar de publieke website brengt. Als u dit icoon niet wilt hebben is er geen enkele reden waarom u met de directory zou gaan schuiven.
+the messages for changes in this language will use the default text, if available.	sitemgr	nl	De tekst voor wijzigingen in deze taal zullen worden gebruikt als de standaard tekst, indien beschikbaar.
+the name field cannot contain punctuation or spaces (field modified).	sitemgr	nl	Het naamveld kan geen leestekens of spaties bevatten (veld is aangepast).
+the page name must be unique.	sitemgr	nl	De pagina moet uniek zijn
+the page was successfully saved.	sitemgr	nl	De pagina is opgeslagen.
+the path to the file to be downloaded	sitemgr	nl	Het pad naar het bestand dat gedownload moet worden
+the person to say hello to	sitemgr	nl	De persoon die u wilt begroeten
+the second directory is the sitemgr-site directory.  this can be moved <i>anywhere</i>.  it can also be named <i>anything</i>.  wherever it winds up, when you point a web browser to it, you will get the generated website.  assuming, of course, that you've accurately completed the setup fields below and also <b><i>edited the config.inc.php</i></b> file.	sitemgr	nl	De tweede directory is de sitemgr-site directory. Deze kan <i>overal</i> naartoe verplaatst worden. Hij mag ook <i>iedere</i> naam hebben. Waar hij ook staat, u wijst uw webbrowser daar naar toe en u krijgt de gegenereerde website te zien. Uiteraard nemen we aan dat u alle instellingenvelden hieronder correct heeft ingevuld en ook <b><i>het config.inc.php heeft bewerkt</i></b>.
+the text for the link, if empty the module returns the raw url (without a link)	sitemgr	nl	De tekst voor de link, indien leeg zal de module de ruwe URL tonen (zonder een link)
+the url can be relative or absolute.  name must end in a slash.	sitemgr	nl	De URL kan zowel relatief als absoluut zijn. De naam moet eindigen met een slash.
+the url must be absolute and end in a slash, for example http://mydomain.com/mysite/	sitemgr	nl	De URL moet absoluut zijn en afgesloten zijn met een slash, bijvoorbeeld http://mijndomein.nl/mijnsite/
+the url to display	sitemgr	nl	De URL die getoond moet worden
+the url to redirect to	sitemgr	nl	De URL waarnaar verwezen wordt
+the web	sitemgr	nl	het web
+the website has changed. too see the change, follow this url: $url.	sitemgr	nl	De website is gewijzigd. Om de veranderingen te zien, volg deze URL: $URL.
+the whole page	sitemgr	nl	de hele pagina
+the xml files' common name	sitemgr	nl	de normale naam voor de XML bestanden
+theme or template select	sitemgr	nl	Kies thema of sjabloon
+there are %1 elements in the list.	sitemgr	nl	Er zijn %1 elementen in de lijst.
+there are no categories	sitemgr	nl	Er zijn geen categoriën
+there are no forums in this category	sitemgr	nl	Er zijn geen forums in deze categorie
+there are no pages in this section	sitemgr	nl	Er zijn geen pagina's in deze sectie
+there are no properties defined for this module	sitemgr	nl	Er zijn geen eigenschappen opgegeven voor deze module
+there are no sections available to you.	sitemgr	nl	Er zijn voor u geen secties aanwezig.
+there are two subdirectories off of your sitemgr directory that you should move before you do anything else.  you don't <i>have</i> to move either of these directories, although you will probably want to.	sitemgr	nl	Er zijn twee subdirectories buiten uw sitemgr directory die u zou moeten verplaatsen voordat u iets anders gaat doen. U bent niet <i>verplicht</i> om een van beiden te verplaatsen, maar het is wel waarschijnlijk dat u dit wilt doen.
+there can only be one version in (pre(un))published state, with the one exeption that one prepublished version can coexist with one preunpublished version	sitemgr	nl	Er kan slechts één versie in (voor(on)gepubliceerde staat zijn, met de uitzondering dat één voorgepubliceerde versie tegelijk met een voorgepubliceerde versie kan bestaan.
+there is no website configured for url %1.  notify the administrator.	sitemgr	nl	ERIS GEEN WEBSITE GECONFIGUREERD VOOR URL %1. WAARSCHUW DE BEHEERDER.
+there is nothing to list.	sitemgr	nl	Er is niets te tonen
+there was an error accessing the requested page. either you do not have permission to view this page, or the page does not exist.	common	nl	Er trad een fout op bij het benaderen van de gevraagde pagina. Ofwel u heeft geen rechten om de pagina te bekijken of de pagina bestaat niet.
+there was an error writing to the database.	sitemgr	nl	Er was een fout bij het schrijven naar de database.
+this block displays a javascript based tree menu	sitemgr	nl	Dit katern toont een JavaScript Tree-Menu
+this block displays the current section's table of contents	sitemgr	nl	Dit katern toont de inhoudsopgave van de huidige sectie.
+this category has no pages.	sitemgr	nl	Deze categorie bevat geen pagina's.
+this is a simple sample module	sitemgr	nl	Dit is een eenvoudige voorbeeld module
+this is only used as an internal name for the website.	sitemgr	nl	Dit wordt alleen gebruikt als een interne naam voor de website
+this is used chiefly for meta data and the title bar. if you change the site languages below you have to save before being able to set this preference for a new language.	sitemgr	nl	Dit wordt met name gebruikt voor meta data en de titelbalk. Indien u de site talen hieronder wijzigt, moet u eerst opslaan voordat u de voorkeuren van een nieuwe taal kunt instellen.
+this is used chiefly for meta data. if you change the site languages below you have to save before being able to set this preference for a new language.	sitemgr	nl	Dit wordt met name gebruikt voor meta data. Indien u de site talen hieronder wijzigt, moet u eerst opslaan voordat u de voorkeuren van een nieuwe taal kunt instellen.
+this module create a link for downloading a file from the vfs	sitemgr	nl	Deze module maakt een link aan t.b.v. het downloaden van een bestand uit het virtuele bestandssysteem.
+this module create a link for downloading a file(s) from the vfs	sitemgr	nl	Deze module maakt een link aan voor het downloaden van bestanden uit het virtuele bestandssysteem
+this module demonstrates how handling data stored in xml and building an interacvite interface from it	sitemgr	nl	Deze module toont hoe in XML opgeslagen gegevens behandeld moeten worden en er een interactieve interface mee gebouwd kan worden
+this module displays a login form	sitemgr	nl	Deze module toont een aanmeld formulier
+this module displays any kind of navigation element.	sitemgr	nl	Deze module toont iedere soort navigatie element.
+this module displays bookmarks in a javascript based tree	sitemgr	nl	Deze module toont bladwijzers in een javascript boomstructuur
+this module displays the current month	sitemgr	nl	Deze module toont de huidige maand
+this module displays the egw forums on the web site	sitemgr	nl	Deze module toont de eGW forums op de website
+this module displays the root categories in one block each, with pages and subcategories (incl. their pages if activated).	sitemgr	nl	Deze module toont de root categorieën ieder in een katern met pagina's en subcategorieën (incl. hun pagina's als die actief zijn).
+this module displays the root categories, its pages and evtl. subcategories. it is meant for side areas	sitemgr	nl	Deze module toont de root categorieën, hun pagina's en eventuele subcategorieën. Dit is bedoeld voor de zijkanten.
+this module includes the contents of an url or file (readable by the webserver and in its docroot !)	sitemgr	nl	Deze module geeft de inhoud van een URL of bestand weer (moet leesbaar zijn voor de webserver en in de docroot van de site staan !)
+this module is a customisable navigation element	sitemgr	nl	Deze module is een aanpasbaar navigatie element.
+this module is a selectbox to change the mode (production, draft or edit) plus a link back to sitemgr and to log out. it is meant for registered users only	sitemgr	nl	Deze module is een selectielijst om de modus te wijzigen (productie, ontwerp of bewerken) plus een link terug naar de SiteMgr en om uit te loggen. Het is uitsluitend bedoeld voor ingelogde gebruikers.
+this module is a simple html editor	sitemgr	nl	Deze module is een eenvoudige HTML editor
+this module lets the users choose a template or shows a template gallery	sitemgr	nl	Deze module laat gebruikers een sjabloon kiezen of toont een sjablonengalerij
+this module lets users choose language	sitemgr	nl	Deze module laat de gebruikers een taal kiezen
+this module lets you define pages that redirect to another url, if you use it, there should be no other block defined for the page	sitemgr	nl	Deze module laat u pagina's opstellen die omleiden naar een andere URL. Als u dit wilt gebruiken moet er geen ander katern voor deze pagina gedefinieerd zijn
+this module lets you include an applet into the page.	sitemgr	nl	Deze module laat u een applet in de pagina opnemen.
+this module lets you show a given url inside an iframe in the page.	sitemgr	nl	Deze module biedt u de mogelijkheid om een bepaalde URL in een IFRAME in de pagina weer te geven.
+this module permits browsing through xml files stored in a directory, and transformed by xslt	sitemgr	nl	Deze module biedt de mogelijkheid om door een directory met XML bestanden te bladeren en ze te laten transformeren door een XSLT bestand
+this module provides a complete table of contents, it is automatically used by the toc and category_id get parameters	sitemgr	nl	Deze module biedt u een complete inhoudsopgave, hij wordt automatisch gebruikt door de toc en category_id GET parameters
+this module provides a condensed table of contents, meant for side areas	sitemgr	nl	Deze module biedt u een gecomprimeerde inhoudsopgave, bedoeld voor de zijkanten
+this module provides tabs	sitemgr	nl	Deze module biedt tabbladen
+this module provides the path to the element currently shown	sitemgr	nl	Deze module biedt u een pad naar het huidige getoonde element
+this module provides the site index, it is automatically used by the index get parameter	sitemgr	nl	Deze module biedt u site index, hij wordt automatisch gebruikt door de index GET parameter
+this module search throw the content (page title/description and html content)	sitemgr	nl	Deze module zoekt in alle inhoud (Pagina titel, omschrijving en html inhoud)
+this module show the status / percentage of the translation of egw	sitemgr	nl	Deze module toont de status / het percentage van de vertaling van eGW
+this must be an absolute directory location.  <b>no trailing slash</b>.	sitemgr	nl	Dit moet een absolute directory locatie zijn. <b>Geen afsluitende slash</b>.
+this should be a comma-separated list of language-codes.	sitemgr	nl	Dit moet een kommagescheiden lijst van taalcodes zijn.
+this should be a page that is readable by everyone. if you leave this blank, the site index will be shown by default.	sitemgr	nl	Dit moet een pagina zijn die voor iedereen toegankelijk is. Als u dit leeg laat wordt automatisch de site index getoond.
+this site	sitemgr	nl	Deze site
+title	sitemgr	nl	Titel
+topic	sitemgr	nl	Onderwerp
+translate	sitemgr	nl	Vertaal
+translate category	sitemgr	nl	Vertaal categorie
+translate page	sitemgr	nl	Vertaal pagina
+translate site-wide content blocks	sitemgr	nl	Vertaal site-breede inhoudskaders
+translation manager	sitemgr	nl	Vertaalhulpmiddel
+translation status	sitemgr	nl	Vertalingstatus
+unsubscribe	sitemgr	nl	Afmelden
+up to parent	sitemgr	nl	Naar bovenliggende
+up to table of contents	sitemgr	nl	Naar de inhoudsopgave
+update notification	sitemgr	nl	Melding bijwerken
+updating to new category system	sitemgr	nl	Het categoriesysteem bijwerken
+url pointing to the image-directory	sitemgr	nl	URL die verwijst naar de afbeeldingendirectory
+url to sitemgr-site	sitemgr	nl	URL naar de SiteMgr-Site
+use current user selected language	sitemgr	nl	Gebruik de door de huidige gebruiker geselecteerde taal
+use phpnuke themes instead of templates	sitemgr	nl	Gebruik phpNuke thema's in plaats van sjablonen
+use this module for displaying book ads for the amazon web site	sitemgr	nl	Gebruik deze module om boekadvertenties van de Amazon website te tonen
+use this module for displaying wiki-pages	sitemgr	nl	Gebruik deze module om wiki-pagina's te tonen
+user name	sitemgr	nl	Gebruikersnaam
+validator	sitemgr	nl	Validator
+vertical	sitemgr	nl	Verticaal
+view administrative menu	sitemgr	nl	Toon beheerders menu
+view full index	sitemgr	nl	Toon volledige index
+view generated site	sitemgr	nl	Toon gegenereerde site
+view template on this site	sitemgr	nl	Toon sjabloon met deze site
+view threads	sitemgr	nl	Toon discussies
+viewed	sitemgr	nl	getoond
+web content manager	common	nl	SiteMgrWeb Content beheerder
+web content manager administration	sitemgr	nl	Web Content Beheer beheer
+web site manager	sitemgr	nl	Website beheerder
+website	sitemgr	nl	Website
+week	sitemgr	nl	week
+what do you want to do with existing translations of categories and pages for this language?	sitemgr	nl	Wat wilt u doen met de bestaande vertalingen van categorieën en pagina's voor deze taal?
+when is a tab activated?	sitemgr	nl	Wanneer is een tabblad actief?
+which application should be executed after login?	sitemgr	nl	Welke toepassing moet uitgevoerd worden na het inloggen?
+which main categories should be included (comma separated list, empty for all)	sitemgr	nl	Welke hoofd categorieen moeten worden gebruikt (komma gescheiden lijst, leeg voor alles)
+wiki	sitemgr	nl	Wiki
+wiki startpage	sitemgr	nl	Wiki startpagina
+with which view should the module be displayed in the beginning?	sitemgr	nl	Met welke weergave moet de module gestart worden?
+write permission	sitemgr	nl	Schrijfrechten
+xml browser	sitemgr	nl	XML verkenner
+yes, please delete it	sitemgr	nl	Ja, verwijderen
+you are not entitled to change the scope of block %1 to cat %2 and page %3	sitemgr	nl	U bent niet bevoegd de scope te wijzigen van katern %1 naar cat %2 en pagina %3
+you are not entitled to create module %1 on this scope	sitemgr	nl	U bent niet bevoegd om module %1 binnen deze scope aan te maken
+you are not entitled to edit block %1	sitemgr	nl	U bent niet bevoegd om katern %1 te bewerken
+you can choose the modules that can be used on the site. the first list is a sort of master list, that is consulted if you do not configure lists specific to contentareas or (sub)categories. then you can choose lists specific to each content area. in the category manager these lists can be overriden for each (sub)category.	sitemgr	nl	U kunt de modules uitkiezen die op de website gebruikt moeten worden. De eerste lijst is een soort standaardlijst die wordt gebruikt indien u geen lijsten aanmaken die speciaal voor inhoudsgebieden of (sub)categorieën bedoeld zijn. Daarna kunt u lijsten kiezen speciaal voor ieder inhoudsgebied. In de categoriebeheerder kunnen deze lijsten genegeerd worden bij iedere (sub)categorie.
+you can either migrate them to a new language or delete them	sitemgr	nl	U kunt ze nu migreren naar een nieuwe taal of ze verwijderen
+you can override each content blocks default title. be aware that not in all content areas the block title will be visible.	sitemgr	nl	U kunt van ieder inhoudskatern de standaard titel overschrijven. Hou er rekening mee dat niet overal de katerntitel zichtbaar zal zijn.
+you did not choose a module.	sitemgr	nl	U heeft geen module gekozen.
+you do not have access to any content on this site.	sitemgr	nl	U mag niets van de inhoud van deze site benaderen.
+you do not have write permissions for any site categories.	sitemgr	nl	U heeft voor geen van de site categorieën schrijfrechten.
+you don't have permission to write in the category	sitemgr	nl	U heeft geen toestemming om in de categorie te schrijven
+you don't have permission to write to that category.	sitemgr	nl	U heeft geen toestemming om in die categorie te schrijven.
+you failed to fill in one or more required fields.	sitemgr	nl	U vergat één of meerdere verplichte velden in te vullen.
+you have no rights to view wiki content or the wiki is not installed at all !!!	sitemgr	nl	U bent niet bevoegd om de wiki inhoud te bekijken of de wiki is niet eens geinstalleerd.
+you may have deinstalled the used template '%1'. reinstall it or go to sitemgr --> configure website and select an other one.	sitemgr	nl	U heeft mogelijk het gebruikte sjabloon '%1' gedeinstalleerd. Installeer het opnieuw of ga naar SiteMgr --> Website configureren en kies een ander sjabloon.
+you must be an admin to edit categories.	sitemgr	nl	U moet beheerder zijn om categorieën te bewerken.
+you must be an admin to edit the site header and footer.	sitemgr	nl	U moet beheerder zijn om de site header en footer te kunnen bewerken.
+you must be an admin to manage module properties.	sitemgr	nl	U moet beheerder zijn om de module eigenschappen te kunnen bewerken.
+you must be an administrator to setup the site manager.	sitemgr	nl	U moet beheerder zijn om de Site Manager in te stellen.
+you need to be an administrator of this website to enter javascript!	sitemgr	nl	U dient een beheerder van deze website te zijn om javascript te kunnen invoeren!
+you removed one ore more languages from your site languages.	sitemgr	nl	U verwijderde één of meer talen van uw site talen.
+you will remove the message in the following language from your notification system:	sitemgr	nl	U gaat een tekst in de volgende taal verwijderen uit uw notificatie systeem:
+your administrator has not yet setup the web content manager for public viewing.  go bug your administrator to get their butt in gear.	sitemgr-link	nl	Uw beheerder heeft de web content manager nog niet ingesteld voor publieke weergave. Ga de beheerder aan zijn kop zeuren dat 'ie zijn werk moet gaan doen.
+your calendar	sitemgr	nl	Uw calender
+your comment	sitemgr	nl	Uw commentaar
+your connection is not safe.	sitemgr	nl	Uw verbinding is niet veilig
+your name	sitemgr	nl	Uw naam

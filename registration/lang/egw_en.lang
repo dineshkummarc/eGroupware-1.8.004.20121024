@@ -1,0 +1,121 @@
+13: error occured	registration	en	13: error occured
+<br>please contact the site administrator.	registration	en	<br>Please Contact the site administrator.
+[unknown first name]	registration	en	[unknown first name]
+[unknown last name]	registration	en	[unknown last name]
+account %1 record could not be found, report to site administrator	registration	en	Account %1 record could not be found, report to site administrator
+account password retrieval	registration	en	Account password retrieval
+account registration	registration	en	Account registration
+activate account	admin	en	Activate account
+address	registration	en	Address
+after you enter your email address, the user accounts associated with this email address will be mailed to that address.	registration	en	After you enter your email address, the user accounts associated with this email address will be mailed to that address.
+after you enter your username, instructions to change your password will be sent to you by e-mail to the address you gave when you registered.	registration	en	After you enter your username, instructions to change your password will be sent to you by e-mail to the address you gave when you registered.
+an error occured while updating your password. please contact the site administrator.	registration	en	An error occured while updating your password. Please contact the site administrator.
+an error occured. please contact our technical support and let them know.	registration	en	An error occured. Please contact our technical support and let them know.
+an error occured. please remove your cookies and try again.	registration	en	An error occured. Please remove your cookies and try again.
+an unknown error occured. <a href="%1">please try registering again.</a>	registration	en	An unknown error occured. <a href="%1">Please try registering again.</a>
+anonymous password	admin	en	Anonymous password
+birthday	registration	en	Birthday
+challenge question	registration	en	Challenge Question
+change login	registration	en	Change login
+change password for user	registration	en	Change password for user
+checkbox	registration	en	Checkbox
+choose language	registration	en	Choose Language
+choose your language	registration	en	Choose your language
+city	registration	en	City
+click to log into your account	registration	en	Click to log into your account
+close window	registration	en	Close Window
+convert user login id to 7 bit string	admin	en	Convert user login ID to 7 bit string
+country	registration	en	Country
+current fields:	registration	en	Current fields:
+days until trial accounts expire	admin	en	Days until trial accounts expire
+display terms of service?	admin	en	Display Terms of Service?
+dropdown	registration	en	Dropdown
+dropdown from table	registration	en	Dropdown From Table
+email address	registration	en	email address
+email address to display for support	admin	en	Email address to display for support
+email address to send notices from	admin	en	Email address to send notices from
+enable registration?	admin	en	Enable Registration?
+enter your new password	registration	en	Enter your new password
+error: dropdown from table '%1' is not correctly configured	registration	en	Error: Dropdown From Table '%1' is not correctly configured
+error: dropdown list '%1' has no values	registration	en	Error: Dropdown list '%1' has no values
+female	registration	en	Female
+gender	registration	en	Gender
+hi	registration	en	Hi
+http password	admin	en	HTTP Password
+http username	admin	en	HTTP Username
+i have read the terms and conditions and agree by them.	registration	en	I have read the terms and conditions and agree by them.
+if you did not request this account, simply ignore this message.	registration	en	If you did not request this account, simply ignore this message.
+if you did not request this change, simply ignore this message.	registration	en	If you did not request this change, simply ignore this message.
+immediately	admin	en	Immediately
+lost login id	login	en	Lost login id
+lost password	login	en	Lost password
+lost password link at login screen?	admin	en	Lost password link at login screen?
+lost user account retrieval	registration	en	Lost User account retrieval
+lost user id	registration	en	Lost User Id
+lost user id link at login screen?	admin	en	Lost user id link at login screen?
+lost_user_id_message	registration	en	Here are the user accounts assoicated with this mail account:
+male	registration	en	Male
+manage fields	admin	en	Manage Fields
+name (blank unless text, textarea, dropdown, checkbox; else alphanumeric only)	registration	en	Name (blank unless Text, Textarea, Dropdown, Checkbox; else alphanumeric only)
+name sender to send notices from	admin	en	Name Sender to send notices from
+not a user yet? register now	login	en	Not a user yet? Register now
+on-line registration is not activated. please contact the site administrator for more information about registration.	registration	en	On-line registration is not activated. Please contact the site administrator for more information about registration.
+order	registration	en	Order
+password is	admin	en	Password is
+phone	registration	en	Phone
+please contact the site administrator.	registration	en	Please Contact the site administrator.
+problem sending email:	registration	en	Problem Sending Email:
+re-enter password	registration	en	Re-enter password
+re-enter your password	registration	en	Re-enter your password
+register	common	en	register
+register link at login screen?	admin	en	Register link at login screen?
+registration	common	en	Registration
+registration settings	admin	en	Registration settings
+remove	registration	en	Remove
+report all problems and abuse to	registration	en	Report all problems and abuse to
+required	registration	en	Required
+response	registration	en	Response
+send email	admin	en	Send Email
+sorry, no account exists for	registration	en	Sorry, no account exists for
+sorry, that username does not exist.	registration	en	Sorry, that username does not exist.
+sorry, that username is already taken.	registration	en	Sorry, that username is already taken.
+sorry, we are having a problem activating your account. note that links sent by e-mail are only valid during two hours. if you think this delay was expired, just retry. otherwise, please contact the site administrator.	registration	en	Sorry, we are having a problem activating your account. Note that links sent by e-mail are only valid during two hours. If you think this delay was expired, just retry. Otherwise, please contact the site administrator.
+sorry, we are having a problem retrieving the information needed for changing your password. note that links sent by e-mail are only valid during two hours. if you think this delay was expired, just retry. otherwise, please contact the site administrator.	registration	en	Sorry, we are having a problem retrieving the information needed for changing your password. Note that links sent by e-mail are only valid during two hours. If you think this delay was expired, just retry. Otherwise, please contact the site administrator.
+state	registration	en	State
+subject for confirmation email	admin	en	Subject for confirmation email
+terms of service	registration	en	Terms of Service
+terms of service text	admin	en	Terms of Service text
+text	registration	en	Text
+textarea	registration	en	Textarea
+the passwords you entered don't match	registration	en	The passwords you entered don't match
+the two passwords are not the same	registration	en	The two passwords are not the same
+this is a confirmation email for your new account.  click on the following link to finish activating your account. this link will expire in 2 hours.	registration	en	This is a confirmation email for your new account.  Click on the following link to finish activating your account. This link will expire in 2 hours.
+type	registration	en	Type
+unable to send mail, contact your administrator	registration	en	Unable to send mail, contact your administration.
+unknown first name	registration	en	Unknown first name
+unknown last name	registration	en	Unknown last name
+update/add	registration	en	Update/Add
+use html	admin	en	use HTML
+use trial accounts?	admin	en	Use trial accounts?
+username is	admin	en	Username is
+values 'for dropdown': comma separated), for 'dropdown from table': table,valuefield,displayfield	registration	en	Values 'For Dropdown': comma separated), For 'Dropdown From Table': table,valuefield,displayfield
+values (for dropdown only; comma separated)	registration	en	Values (For Dropdown only; comma separated)
+we have sent a confirmation email to your email address. you must click on the link within 2 hours. if you do not, it may take a few days until your loginid will become available again.	registration	en	We have sent a confirmation email to your email address. You must click on the link within 2 hours. If you do not, it may take a few days until your loginid will become available again.
+we have sent a mail to your email account: %s with your lost user ids.	registration	en	We have sent a mail to your email account: %s with your lost user ids.
+we have sent a mail with instructions to change your password. you should follow the included link within two hours. if you do not, you will have to go to the lost password screen again.	registration	en	We have sent a mail with instructions to change your password. You should follow the included link within two hours. If you do not, you will have to go to the lost password screen again.
+wrong session	registration	en	Wrong session
+you can go back to the login page	registration	en	You can go back to the login page
+you have entered an invalid birthday	registration	en	You have entered an invalid birthday
+you have entered an invalid email address	registration	en	You have entered an invalid email address
+you must enter a password	registration	en	You must enter a password
+you must enter a username	registration	en	You must enter a username
+you must enter an email account	registration	en	You must enter an email account
+you must enter an email address	registration	en	You must enter an email address
+you must fill in all of the required fields	registration	en	You must fill in all of the required fields
+you requested to change your password. please follow the url below to do so. this url will expire in two hours. after this delay you should go thru the lost password procedure again.	registration	en	You requested to change your password. Please follow the URL below to do so. This URL will expire in two hours. After this delay you should go thru the lost password procedure again.
+you specified a value for %1 that is not a choice	registration	en	You specified a value for %1 that is not a choice
+your account is now active!	registration	en	Your account is now active!
+your login is not available. time is expired	registration	en	Your login is not available. Time is expired
+your password was changed.	registration	en	Your password was changed.
+your registration code is missing or incorrect.	registration	en	Your registration code is missing or incorrect.
+zip/postal	registration	en	ZIP/Postal

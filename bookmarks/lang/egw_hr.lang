@@ -1,0 +1,70 @@
+%1 bookmarks have been deleted	bookmarks	hr	%1 bookmarks have been deleted
+%1 bookmarks imported from %2 successfully.	bookmarks	hr	%1 bookmarks imported from %2 successfully.
+(comma separate multiple addresses)	bookmarks	hr	(comma separate multiple addresses)
+<b>note:</b> this currently works with netscape bookmarks only	bookmarks	hr	<b>Note:</b> This currently works with netscape bookmarks only
+all bookmarks	bookmarks	hr	All bookmarks
+and	bookmarks	hr	And
+append this message to mailed bookmarks	bookmarks	hr	Append this message to mailed bookmarks
+ascending	bookmarks	hr	Ascending
+book marks	common	hr	Book marks
+bookmark changed sucessfully	bookmarks	hr	Bookmark changed sucessfully
+bookmark created successfully.	bookmarks	hr	Bookmark created successfully.
+bookmark not editable	bookmarks	hr	Bookmark not editable
+bookmark not readable	bookmarks	hr	Bookmark not readable
+bookmarks	common	hr	Bookmarks
+bookmarks settings	bookmarks	hr	Bookmarks Settings
+change bookmark	bookmarks	hr	Change Bookmark
+close this window to return	bookmarks	hr	close this window to return
+create bookmark	bookmarks	hr	Create bookmark
+create new bookmark	bookmarks	hr	Create new bookmark
+date added	bookmarks	hr	Date added
+date changed	bookmarks	hr	Date Changed
+date last updated	bookmarks	hr	Date last updated
+date last visited	bookmarks	hr	Date last visited
+descending	bookmarks	hr	Descending
+edit bookmark	bookmarks	hr	Edit bookmark
+edit this bookmark	bookmarks	hr	Edit this bookmark
+enter the name of the netscape bookmark file<br>that you want imported into bookmarker below.	bookmarks	hr	Enter the name of the Netscape bookmark file<br>that you want imported into bookmarker below.
+export bookmarks	common	hr	Export Bookmarks
+fewer	bookmarks	hr	Fewer
+filter by	bookmarks	hr	Filter by
+found a link you might like	bookmarks	hr	Found a link you might like
+from	bookmarks	hr	From
+from category %1	bookmarks	hr	from category %1
+highest	bookmarks	hr	Highest
+i thought you would be interested in the following link(s):	bookmarks	hr	I thought you would be interested in the following link(s):
+import bookmarks	common	hr	Import bookmarks
+like	bookmarks	hr	like
+list view	bookmarks	hr	list view
+lowest	bookmarks	hr	Lowest
+mail this bookmark	bookmarks	hr	Mail this bookmark
+mail-this-link message sent to %1.	bookmarks	hr	mail-this-link message sent to %1.
+mass update:	bookmarks	hr	Mass update:
+message from	bookmarks	hr	Message from
+more	bookmarks	hr	More
+name	bookmarks	hr	Name
+name is required	bookmarks	hr	Name is required
+netscape bookmark file	bookmarks	hr	Netscape Bookmark File
+netscape bookmark filename is required!	bookmarks	hr	Netscape bookmark filename is required!
+new	bookmark	hr	New
+or	bookmarks	hr	or
+please fill out <b>to e-mail address</b>, <b>subject</b>, and <b>message</b>!	bookmarks	hr	Please fill out <B>To E-Mail Address</B>, <B>Subject</B>, and <B>Message</B>!
+please select the categories to export	bookmarks	hr	Please select the categories to export
+query condition	bookmarks	hr	Query Condition
+rating	bookmarks	hr	Rating
+search for:	bookmarks	hr	Search for:
+select the format you would like to export to	bookmarks	hr	Select the format you would like to export to
+send bookmark	bookmarks	hr	Send bookmark
+sub category	bookmarks	hr	Sub Category
+to address %1 invalid. format must be <strong>user@domain</strong> and domain must exist!	bookmarks	hr	To address %1 invalid. Format must be <strong>user@domain</strong> and domain must exist!
+to e-mail addresses	bookmarks	hr	To E-Mail Addresses
+to which category should the imported folder hierarchy be attached	bookmarks	hr	To which category should the imported folder hierarchy be attached
+total visits	bookmarks	hr	total visits
+tree view	bookmarks	hr	Tree view
+unable to open temp file %1 for import.	bookmarks	hr	Unable to open temp file %1 for import.
+url is required.	bookmarks	hr	URL is required.
+view bookmark	bookmarks	hr	View bookmark
+view this bookmark	bookmarks	hr	View this bookmark
+warning	bookmarks	hr	Warning
+you are viewing this site outside of phpgroupware	bookmarks	hr	You are viewing this site outside of phpGroupWare
+you must select a category	bookmarks	hr	You must select a category

@@ -1,0 +1,15 @@
+%1 manual page(s) added or updated	manual	lo	%1 ໜ້າຄູ່ມື ເພີ່ມ ຫຼື ປັບປຸງ
+allow anonymous access to the manual, only necessary to act as remote manual	admin	lo	ອະນຸຍາດໃຫ້ຜູ້ບໍ່ປະສົງອອກນາມເຂົ້າເບີ່ງຄູ່ມື, ສະເພາະຜູ້ທີ່ຈໍາເປັນທີ່ຈະຣີໂໝດ ເຂົ້າໄປເທົ່ານັ້ນ
+anonymous password	admin	lo	ລະຫັດຜ່ານຜູ້ບໍ່ປະສົງອອກນາມ
+anonymous username	admin	lo	ຊື່ຜູ້ໃຊ້ ຜູ້ບໍ່ປະສົງອອກນາມ
+download	manual	lo	ດາວໂຫຼດ
+index	manual	lo	ດັດສະນີ
+install or update the manual-pages	admin	lo	ຕິດຕັ້ງ ຫຼື ປັບປຸງໜ້າຄູ່ມື
+manual	common	lo	ຄູມື / ຊ່ວຍເຫຼືອ
+page(s) %1 not found !!!	manual	lo	ໜ້າ 1% ບໍ່ພົບ !!!
+remote egroupware url for the manual to use, empty for a local manual, default	admin	lo	ຣີໂມດເຂົ້າຫາ URL ຂອງ ລະບົບຕາຕະລາງສໍາລັບນໍາໃຊ້ຄູ່ມືຂອງລະບົບ(ກໍລະນີມີອິນເຕີເນັດ). ຖ້າບໍ່ໄດ້ມີການເຊື່ອມຕໍ່ອິນເຕີເນັດລະບົບຈະສະແດງຄ່າວ່າງເປົ່າ
+search for	manual	lo	ຄົ້ນຫາສໍາລັບ
+starting import from %1, this might take several minutes (specialy if you start it the first time) ...	manual	lo	ເລີ່ມຕົ້ນການນໍາເຂົ້າຈາກ 1%, ນີ້ອາດຈະໃຊ້ເວລາຫຼາຍນາທີ (ສະເພາະຖ້າທ່ານເລີ່ມເປັນເທື່ອທໍາອິດ)
+the search returned no result!	manual	lo	ການຄົ້ນຫາ ບໍ່ມີຜົນ
+update url for the local manual, default	admin	lo	ປັບປຸງ URL ສໍາລັບສະເພາະຄູມື, ຄ່າເລີ່ມຕົ້ນ
+wiki id for the local manual, default 1, 0 to use the wiki to edit the manual pages	admin	lo	ລະຫັດ ວິກີ ສໍາລັບສະເພາະຄູມື, ຄ່າເລີ່ມຕົ້ນ 1, 0 ທີ່ຈະໃຊ້ ວິກີ ໃນການແກ້ໄຂ ໜ້າຄູມື

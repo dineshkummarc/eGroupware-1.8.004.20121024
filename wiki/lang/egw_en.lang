@@ -1,0 +1,111 @@
+(don't offer the possibility)	admin	en	(don't offer the possibility)
+<em>but</em> display at least this many entries in recentchanges and other subscription lists:	wiki	en	<em>But</em> display at least this many entries in RecentChanges and other subscription lists:
+add document to category	wiki	en	Add document to category
+added	wiki	en	Added
+administration features are disabled for this wiki.	wiki	en	Administration features are disabled for this wiki.
+admins	wiki	en	admins
+after how many days should old versions of a page be removed (0 for never)	admin	en	After how many days should old versions of a page be removed (0 for never)
+allow anonymous access	admin	en	allow anonymous access
+anonymous password	admin	en	Anonymous password
+anonymous session type	admin	en	Anonymous Session Type
+anonymous username	admin	en	anonymous username
+automatically convert pages with wiki-syntax to richtext (if edited)?	admin	en	Automatically convert pages with wiki-syntax to richtext (if edited)?
+block	wiki	en	Block
+block / unblock hosts	common	en	Block / Unblock hosts
+blocked ip address ranges	wiki	en	Blocked IP address ranges
+cancel without saving	wiki	en	Cancel without saving
+changed	wiki	en	Changed
+changes by last author	wiki	en	Changes by last author
+choose your current time here, so the server may figure out what time zone you are in.	wiki	en	Choose your current time here, so the server may figure out what time zone you are in.
+columns	wiki	en	Columns
+compute difference	wiki	en	Compute Difference
+converts the page to richtext	wiki	en	Converts the page to richtext
+current version	wiki	en	Current Version
+deleted	wiki	en	Deleted
+deletes this page	wiki	en	Deletes this page
+difference between versions	wiki	en	Difference between versions
+differences in	wiki	en	Differences in
+different languages can have different titles	wiki	en	different languages can have different titles
+document last modified	wiki	en	Document last modified
+edit box	wiki	en	Edit box
+edit this <em>archive version</em> of this document	wiki	en	Edit this <em>ARCHIVE VERSION</em> of this document
+edit this document	wiki	en	Edit this document
+edit with preview	admin	en	Edit With Preview
+editable	admin	en	editable
+editing	wiki	en	Editing
+emailaddress administrator	admin	en	Emailaddress Administrator
+enable free links	admin	en	Enable Free Links
+enable wiki links	admin	en	Enable Wiki Links
+enter here the maximum number of entries to display in a document's history list.	wiki	en	Enter here the maximum number of entries to display in a document's history list.
+enter here the number of days of edits to display on recentchanges or any other subscription list.  set this to zero if you wish to see all pages in recentchanges, regardless of how recently they were edited.	wiki	en	Enter here the number of days of edits to display on RecentChanges or any other subscription list.  Set this to zero if you wish to see all pages in RecentChanges, regardless of how recently they were edited.
+enter ip address range in form <tt>12.*</tt>, <tt>34.56.*</tt>, or <tt>78.90.123.*</tt>	wiki	en	Enter IP address range in form <tt>12.*</tt>, <tt>34.56.*</tt>, or <tt>78.90.123.*</tt>
+error creating temporary file.	wiki	en	Error creating temporary file.
+error writing to temporary file.	wiki	en	Error writing to temporary file.
+everyone	wiki	en	everyone
+find	wiki	en	Find
+history	wiki	en	history
+history display should show <em>all</em> changes made by the latest author.  otherwise, show only the last change made.	wiki	en	History display should show <em>all</em> changes made by the latest author.  Otherwise, show only the last change made.
+history lists	wiki	en	History lists
+history of	wiki	en	History of
+interwikiprefix	admin	en	InterWikiPrefix
+invalid page name.	wiki	en	Invalid page name.
+load	wiki	en	Load
+loads the named page in the given language, all change so far get lost !!!	wiki	en	Loads the named page in the given language, all change so far get lost !!!
+lock / unlock pages	common	en	Lock / Unlock Pages
+locked	wiki	en	Locked
+name wiki home link	admin	en	name wiki home link
+newer	wiki	en	Newer
+no never	admin	en	No never
+no only on request	admin	en	No only on request
+not set	wiki	en	not set
+older	wiki	en	Older
+on all pages	wiki	en	on all pages
+only if browser supports a richtext-editor	admin	en	Only if browser supports a richtext-editor
+only on the first page	wiki	en	only on the first page
+page '%1' not found !!!	wiki	en	Page '%1' not found !!!
+path of the upload directory (has to be writable by the webserver!)	admin	en	Path of the upload directory (has to be writable by the webserver!)
+picture upload via richtext editor (leave the upload directory empty to disable the upload)	admin	en	Picture upload via richtext editor (leave the upload directory empty to disable the upload)
+please contact the %1administrator%2 for assistance.	wiki	en	Please contact the %1Administrator%2 for assistance.
+preview	wiki	en	Preview
+preview of current version	wiki	en	Preview of Current Version
+rate control / ip blocking disabled	wiki	en	Rate control / IP blocking disabled
+readable by	wiki	en	Readable by
+readonly	admin	en	readonly
+recent changes	wiki	en	Recent Changes
+renames page to the given name and language	wiki	en	Renames page to the given name and language
+richtext	wiki	en	Richtext
+rows	wiki	en	Rows
+save the changes and exit	wiki	en	Save the changes and exit
+saves and continues editing	wiki	en	Saves and continues editing
+search for	wiki	en	Search for
+see complete list (%1 entries)	wiki	en	See complete list (%1 entries)
+show a search	wiki	en	Show a search
+show the title of the wiki page	wiki	en	Show the title of the wiki page
+summary	wiki	en	Summary
+summary of change	wiki	en	Summary of change
+the search returned no result!	wiki	en	The search returned no result!
+this page can not be edited.	wiki	en	This page can not be edited.
+twin pages	wiki	en	Twin pages
+unblock	wiki	en	Unblock
+updates the preview	wiki	en	Updates the preview
+url of the upload directory	admin	en	URL of the upload directory
+use this module for displaying wiki-pages	wiki	en	Use this module for displaying wiki-pages
+users	wiki	en	users
+view document history	wiki	en	View document history
+visit %1 to set your user name	wiki	en	Visit %1 to set your user name
+warning: since you started editing, this document has been changed by someone else.  please merge your edits into the current version of this document.	wiki	en	Warning: since you started editing, this document has been changed by someone else.  Please merge your edits into the current version of this document.
+who should be able to edit this page	wiki	en	who should be able to edit this page
+who should be able to read this page	wiki	en	who should be able to read this page
+wiki	common	en	Wiki
+wiki administration	wiki	en	Wiki Administration
+wiki menu	wiki	en	Wiki Menu
+wiki startpage	wiki	en	Wiki startpage
+writable by	wiki	en	Writable by
+yes always	admin	en	Yes always
+yes with navbar	admin	en	Yes with navbar
+you have been denied access to this site.	wiki	en	You have been denied access to this site.
+you have entered an invalid user name.	wiki	en	You have entered an invalid user name.
+you have exeeded the number of pages you are allowed to visit in a given period of time. please return later.	wiki	en	You have exeeded the number of pages you are allowed to visit in a given period of time. Please return later.
+you have no rights to view wiki content !!!	wiki	en	You have no rights to view wiki content !!!
+your changes	wiki	en	Your changes
+your user name is "%1".	wiki	en	Your user name is "%1".

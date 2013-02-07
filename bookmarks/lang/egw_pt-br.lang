@@ -1,0 +1,77 @@
+%1 bookmarks have been deleted	bookmarks	pt-br	%1 Favoritos foram apagados
+%1 bookmarks imported from %2 successfully.	bookmarks	pt-br	%1 Favoritos importados de %2 com sucesso
+(comma separate multiple addresses)	bookmarks	pt-br	(virgula separa múltiplos endereços)
+<b>note:</b> this currently works with netscape bookmarks only	bookmarks	pt-br	<b>Nota:</b> No momento funciona apenas com favoritos do NetScape.
+all bookmarks	bookmarks	pt-br	Todos os Favoritos
+and	bookmarks	pt-br	E
+append this message to mailed bookmarks	bookmarks	pt-br	Anexar essa mensagem aos favoritos enviados
+ascending	bookmarks	pt-br	Ascendente
+book marks	common	pt-br	Favoritos
+bookmark changed sucessfully	bookmarks	pt-br	Favorito alterado com sucesso
+bookmark created successfully.	bookmarks	pt-br	Favorito criado com sucesso
+bookmark deleted successfully	bookmarks	pt-br	Favorito removido com sucesso
+bookmark deleted successfully.	bookmarks	pt-br	Favorito removido com sucesso
+bookmark not editable	bookmarks	pt-br	Favoritos não editáveis
+bookmark not readable	bookmarks	pt-br	Favoritos não podem ser lidos
+bookmarks	common	pt-br	Favoritos
+bookmarks settings	bookmarks	pt-br	Configurações dos Favoritos
+change bookmark	bookmarks	pt-br	Mudar Favorito
+choose the categories to display	bookmarks	pt-br	Escolher as categorias a serem exibidas
+close this window to return	bookmarks	pt-br	feche essa janela para retornar
+create bookmark	bookmarks	pt-br	Criar Favorito
+create new bookmark	bookmarks	pt-br	Criar novo Favorito
+date added	bookmarks	pt-br	Data adicionada
+date changed	bookmarks	pt-br	Data Alterada
+date last updated	bookmarks	pt-br	Data da última atualização
+date last visited	bookmarks	pt-br	Data da última visita
+descending	bookmarks	pt-br	Descendente
+edit bookmark	bookmarks	pt-br	Editar Favoritos
+edit this bookmark	bookmarks	pt-br	Editar esse Favorito
+enter the name of the netscape bookmark file<br>that you want imported into bookmarker below.	bookmarks	pt-br	Entre com o nome do arquivo de Favoritos do Netscape<br> que você deseja importar para a sessão abaixo.
+export bookmarks	common	pt-br	Exportar Favoritos
+fewer	bookmarks	pt-br	Menos
+filter by	bookmarks	pt-br	Filtrar por
+found a link you might like	bookmarks	pt-br	Encontrei um endereço que você deverá gostar
+from	bookmarks	pt-br	De
+from category %1	bookmarks	pt-br	da categoria %1
+global categories	bookmarks	pt-br	Categorias Globais
+highest	bookmarks	pt-br	Maior
+i thought you would be interested in the following link(s):	bookmarks	pt-br	Achei que você poderia se interessar pelos seguinte(s) endereço(s):
+import bookmarks	common	pt-br	Importar Favoritos
+like	bookmarks	pt-br	como
+list view	bookmarks	pt-br	list viewar
+lowest	bookmarks	pt-br	Menor
+mail this bookmark	bookmarks	pt-br	Enviar por e-mail esse endereço
+mail-this-link message sent to %1.	bookmarks	pt-br	mensagem de envio de favorito enviada para %1
+mass update:	bookmarks	pt-br	Atualização Completa
+message from	bookmarks	pt-br	Mensagem de
+more	bookmarks	pt-br	Mais
+name	bookmarks	pt-br	Nome
+name is required	bookmarks	pt-br	O campo nome é requerido
+netscape bookmark file	bookmarks	pt-br	Arquivo de Favoritos do Netscape
+netscape bookmark filename is required!	bookmarks	pt-br	Arquivo de Favoritos do Netscape é requerido!
+new	bookmark	pt-br	Novo
+new bookmark	bookmarks	pt-br	Novo favorito
+or	bookmarks	pt-br	ou
+please fill out <b>to e-mail address</b>, <b>subject</b>, and <b>message</b>!	bookmarks	pt-br	Favor preencher <B> Destinatário da mensagem</B>, <B>Assunto</B>, e <B>Mensagem</B>!
+please select the categories to export	bookmarks	pt-br	Por Favor selecione as categorias a serem exportadas
+query condition	bookmarks	pt-br	Argumento de Pesquisa
+rating	bookmarks	pt-br	Classificação
+search for:	bookmarks	pt-br	Pesquisar  por:
+select the format you would like to export to	bookmarks	pt-br	Selecione para qual formato você gostaria de exportar
+send bookmark	bookmarks	pt-br	Enviar Favorito
+sub category	bookmarks	pt-br	Subcategoria
+this module displays bookmarks in a javascript based tree	bookmarks	pt-br	Este módulo exibe favoritos organizados em uma visão árvore
+to address %1 invalid. format must be <strong>user@domain</strong> and domain must exist!	bookmarks	pt-br	Destinatário %1 inválido. O Formato deve ser <strong> usuario@dominio.com.br</strong> e o domínio deve existir!
+to e-mail addresses	bookmarks	pt-br	Correio eletrônico do destinatário
+to which category should the imported folder hierarchy be attached	bookmarks	pt-br	Em qual categoria a pasta importada deve ser anexada
+total visits	bookmarks	pt-br	total de visitas
+tree view	bookmarks	pt-br	Visão em árvore
+unable to open temp file %1 for import.	bookmarks	pt-br	Incapaz de abrir arquivo temporário %1 para importação.
+url is required.	bookmarks	pt-br	o URL é requerida.
+view bookmark	bookmarks	pt-br	Exibir Favorito
+view this bookmark	bookmarks	pt-br	Exibir este Favorito
+warning	bookmarks	pt-br	Atenção
+you are viewing this site outside of egroupware	bookmarks	pt-br	Você está visualizando um site fora do eGroupware
+you must select a category	bookmarks	pt-br	Você deve selecionar uma categoria
+you need to select a category!	bookmarks	pt-br	Você deve selecionar uma categoria.

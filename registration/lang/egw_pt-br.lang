@@ -1,0 +1,121 @@
+13: error occured	registration	pt-br	13: ocorreu um erro
+<br>please contact the site administrator.	registration	pt-br	<br>Por favor, contacte o administrador do servidor
+[unknown first name]	registration	pt-br	[primeiro nome desconhecido]
+[unknown last name]	registration	pt-br	[último nome desconhecido]
+account %1 record could not be found, report to site administrator	registration	pt-br	Registro de conta %1 não pôde ser encontrado. Informe ao administrador do servidor.
+account password retrieval	registration	pt-br	Recuperar senha de acesso
+account registration	registration	pt-br	Registro de Acesso
+activate account	admin	pt-br	Ativar Conta
+address	registration	pt-br	Endereço
+after you enter your email address, the user accounts associated with this email address will be mailed to that address.	registration	pt-br	Após você informar o endereço de e-mail, as contas de usuários associadas a este e-mail serão notificados por ele.
+after you enter your username, instructions to change your password will be sent to you by e-mail to the address you gave when you registered.	registration	pt-br	Depois que você informar seu nome de usário, as instruções de como alterar sua senha, serão enviadas para o endereço e-mail que você usou para se cadastrar.
+an error occured while updating your password. please contact the site administrator.	registration	pt-br	Um erro ocorreu quando da atualização de sua senha. Por favor, entre em contato com o administrador do sistema.
+an error occured. please contact our technical support and let them know.	registration	pt-br	Ocorreu um erro desconhecido. Por favor, contate seu suporte técnico e informe essa situação  .
+an error occured. please remove your cookies and try again.	registration	pt-br	Um erro ocorreu. Por favor, remova seus cookies e tente novamente.
+an unknown error occured. <a href="%1">please try registering again.</a>	registration	pt-br	Um erro desconhecido ocorreu. <a href="%1">Por favor, tente se registrar novamente.</a>
+anonymous password	admin	pt-br	Senha para usuário anônimo
+birthday	registration	pt-br	Data de Nascimento
+challenge question	registration	pt-br	Pergunta de teste
+change login	registration	pt-br	Alterar nome de usuário
+change password for user	registration	pt-br	Alterar senha para um usuário
+checkbox	registration	pt-br	Caixa de Verificação
+choose language	registration	pt-br	Escolha o Idioma
+choose your language	registration	pt-br	Escolha seu idioma
+city	registration	pt-br	Cidade
+click to log into your account	registration	pt-br	Clique aqui para fazer login.
+close window	registration	pt-br	Fechar Janela
+convert user login id to 7 bit string	admin	pt-br	Converter o ID do nome de usuário para 7 bit string
+country	registration	pt-br	País
+current fields:	registration	pt-br	Campos Atuais:
+days until trial accounts expire	admin	pt-br	Dias para a expiração de contas de teste
+display terms of service?	admin	pt-br	Mostrar termos de serviço?
+dropdown	registration	pt-br	Lista suspensa
+dropdown from table	registration	pt-br	Lista suspensa da tabela
+email address	registration	pt-br	Endereço de e-mail
+email address to display for support	admin	pt-br	Endereço de e-mail para suporte
+email address to send notices from	admin	pt-br	Endereço de e-mail para o envio de notícias
+enable registration?	admin	pt-br	Ativar Registro de Acesso?
+enter your new password	registration	pt-br	Digite a sua nova senha
+error: dropdown from table '%1' is not correctly configured	registration	pt-br	Erro: Lista suspensa da tabela '%1' não está corretamente configurada
+error: dropdown list '%1' has no values	registration	pt-br	Erro: Lista suspensa '%1' não possui valores.
+female	registration	pt-br	Mulher
+gender	registration	pt-br	Sexo
+hi	registration	pt-br	Oi
+http password	admin	pt-br	Senha HTTP
+http username	admin	pt-br	Nome de usuário HTTP
+i have read the terms and conditions and agree by them.	registration	pt-br	Lí os termos e condições e estou de acordo com eles.
+if you did not request this account, simply ignore this message.	registration	pt-br	se você não requisitou essa conta, simplesmente ignore essa mensagem.
+if you did not request this change, simply ignore this message.	registration	pt-br	Se você não requisitou essa alteração, simplesmente ignore essa mensagem.
+immediately	admin	pt-br	Imediatamente
+lost login id	login	pt-br	Recuperar nome de usuário
+lost password	login	pt-br	Recuperar senha
+lost password link at login screen?	admin	pt-br	Link para recuperação da senha na tela de conexão ?
+lost user account retrieval	registration	pt-br	Recuperação de nome de usuário
+lost user id	registration	pt-br	Recuperar nome de usuário
+lost user id link at login screen?	admin	pt-br	Link para recuperação do nome de usuário na tela de conexão
+lost_user_id_message	registration	pt-br	Aqui estão os usuários associados a este e-mail:
+male	registration	pt-br	Homem
+manage fields	admin	pt-br	Gerenciar Campos
+name (blank unless text, textarea, dropdown, checkbox; else alphanumeric only)	registration	pt-br	Nome (deixar em branco, exceto para campos de texto, áreas de texto, listas instanâneas, caixas de verificação)
+name sender to send notices from	admin	pt-br	Nome do remetente para envio de notícias
+not a user yet? register now	login	pt-br	Ainda não é um usuário? Registre-se agora.
+on-line registration is not activated. please contact the site administrator for more information about registration.	registration	pt-br	O registro de acesso não está ativo. Por favor contate o administrador para maiores detalhes.
+order	registration	pt-br	Classificação
+password is	admin	pt-br	A senha é
+phone	registration	pt-br	Telefone
+please contact the site administrator.	registration	pt-br	Por favor, entre em contato com o administrador do sistema
+problem sending email:	registration	pt-br	Problemas enviando e-mail:
+re-enter password	registration	pt-br	Repita a senha
+re-enter your password	registration	pt-br	Repita sua senha
+register	common	pt-br	registro
+register link at login screen?	admin	pt-br	Habilitar link para Registro de acesso na tela de conexão?
+registration	common	pt-br	Registro de Acesso
+registration settings	admin	pt-br	Configurações - Registro de Acesso
+remove	registration	pt-br	Remover
+report all problems and abuse to	registration	pt-br	informe todo e qualquer problema para
+required	registration	pt-br	Campo obrigatório
+response	registration	pt-br	Resposta
+send email	admin	pt-br	Enviar E-mail
+sorry, no account exists for	registration	pt-br	Desculpe, nenhuma conta existe para
+sorry, that username does not exist.	registration	pt-br	<em style="color: rgb(255, 0, 0);"><b>Desculpe, este usuário não existe.</b></em><br>
+sorry, that username is already taken.	registration	pt-br	<em style="color: rgb(255, 0, 0);"><b>Desculpe, este usuário já existe.</b></em><br>
+sorry, we are having a problem activating your account. note that links sent by e-mail are only valid during two hours. if you think this delay was expired, just retry. otherwise, please contact the site administrator.	registration	pt-br	Desculpe, estamos com problemas para a ativação de sua conta para acesso. Verifique que o endereço de confirmação encaminhado para seu e-mail tem uma validade de no máximo duas horas. Caso você tenha expirado o prazo para ativação você precisa solicitar um reenvio. Se este não é o seu problema entre em contato com o administrador.
+sorry, we are having a problem retrieving the information needed for changing your password. note that links sent by e-mail are only valid during two hours. if you think this delay was expired, just retry. otherwise, please contact the site administrator.	registration	pt-br	Desculpe-nos, estamos com problemas para recuperar informações necessárias para alterar sua senha. Note que os links enviados por email são válidos apenas por duas horas. Se você acredita que este tempo passou, tente registrar-se novamente. Caso contrário, entre em contato com o administrador.
+state	registration	pt-br	Estado
+subject for confirmation email	admin	pt-br	Assunto para o e-mail de confirmação
+terms of service	registration	pt-br	Termos para o Acesso
+terms of service text	admin	pt-br	Texto dos termos de serviço
+text	registration	pt-br	Texto
+textarea	registration	pt-br	Área para texto
+the passwords you entered don't match	registration	pt-br	<em style="color: rgb(255, 0, 0);"><b>As senhas informadas não conferem</b></em><br>
+the two passwords are not the same	registration	pt-br	<em style="color: rgb(255, 0, 0);"><b>As duas senhas não são iguais</b></em><br>
+this is a confirmation email for your new account.  click on the following link to finish activating your account. this link will expire in 2 hours.	registration	pt-br	Este é um e-mail de confirmação da sua nova conta. clique no link abaixo para finalizar o processo de ativação da sua conta. Esse link irá expirar em 2 horas.
+type	registration	pt-br	Tipo
+unable to send mail, contact your administrator	registration	pt-br	E-mail não pôde ser enviado. Informe ao administrador do servidor
+unknown first name	registration	pt-br	Primeiro nome desconhecido
+unknown last name	registration	pt-br	Último nome desconhecido
+update/add	registration	pt-br	Atualizar/Adicionar
+use html	admin	pt-br	Usar
+use trial accounts?	admin	pt-br	Usar contas para testes?
+username is	admin	pt-br	O Usuário é
+values 'for dropdown': comma separated), for 'dropdown from table': table,valuefield,displayfield	registration	pt-br	Valores 'Para Lista Suspensa': separados por vírgulas), para 'Lista suspensa da tabela': tabela,valor do campo,campo para exibição
+values (for dropdown only; comma separated)	registration	pt-br	Valores (Para listas suspensa apenas; campos separados por vírgula)
+we have sent a confirmation email to your email address. you must click on the link within 2 hours. if you do not, it may take a few days until your loginid will become available again.	registration	pt-br	Enviamos um e-mail para a confirmação de seu cadastro. Você deve clicar sobre o hyperlink enviado no máximo em até 2 horas para efetivar o cadastro. Caso você não o faça, o registro ficará indisponível para esta conta de e-mail por alguns dias, até ser liberado novamente.
+we have sent a mail to your email account: %s with your lost user ids.	registration	pt-br	Um mensagem foi enviada para seu e-mail: %s com seu nome de usuário.
+we have sent a mail with instructions to change your password. you should follow the included link within two hours. if you do not, you will have to go to the lost password screen again.	registration	pt-br	Foi enviado um e-mail com instruções de como alterar sua senha. Você deverá clicar no link enviado em um período não superior a 2 horas. Se você não seguir essas instruções terá que voltar a tela de senhas perdidas.
+wrong session	registration	pt-br	Erro na sessão
+you can go back to the login page	registration	pt-br	Você pode voltar a página de conexão.
+you have entered an invalid birthday	registration	pt-br	Você informou uma data de nascimento inválida
+you have entered an invalid email address	registration	pt-br	Você informou um endereço para e-mail inválido
+you must enter a password	registration	pt-br	Você precisa digitar uma senha
+you must enter a username	registration	pt-br	Você precisa digitar um nome de usuário
+you must enter an email account	registration	pt-br	Você precisa digitar um e-mail
+you must enter an email address	registration	pt-br	Você precisa informar um endereço de email
+you must fill in all of the required fields	registration	pt-br	Você precisa preencher os campos ( * )  obrigatórios
+you requested to change your password. please follow the url below to do so. this url will expire in two hours. after this delay you should go thru the lost password procedure again.	registration	pt-br	Você requisitou uma mudança na sua senha. Por favor sigua a URL abaixo para executar essa mudança. Essa URL irá expirar em 2 horas, Depois desse período, você terá que por todo o procedimento novamente
+you specified a value for %1 that is not a choice	registration	pt-br	Você especificou um valor para %1 que não é válido
+your account is now active!	registration	pt-br	Sua conta está ativa!
+your login is not available. time is expired	registration	pt-br	Seu login não está disponível. Tempo expirado.
+your password was changed.	registration	pt-br	Sua senha foi alterada.
+your registration code is missing or incorrect.	registration	pt-br	Seu código de registro está faltando ou incorreto.
+zip/postal	registration	pt-br	CEP

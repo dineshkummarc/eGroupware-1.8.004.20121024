@@ -1,0 +1,5 @@
+2006-01-17
+- switched to smbhash class from phpgwapi to generate smb passwords
+
+2005-12-02
+- fixed deletion of workstation accounts

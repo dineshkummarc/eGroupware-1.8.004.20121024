@@ -1,0 +1,94 @@
+<em>but</em> display at least this many entries in recentchanges and other subscription lists:	wiki	ko	** <em>하지만</em> 최소한 이 수만큼의 항목이 RecentChanges 와 다른 subscription 목록에 표시됩니다
+add document to category	wiki	ko	문서를 카테고리에 추가
+added	wiki	ko	추가됨
+administration features are disabled for this wiki.	wiki	ko	이 위키에는 관리자기능이 비활성화됩니다
+admins	wiki	ko	관리자
+allow anonymous access	admin	ko	익명접근 허용
+anonymous password	admin	ko	익명 암호
+anonymous session type	admin	ko	익명 세션 타입
+anonymous username	admin	ko	익명 사용자이름
+automatically convert pages with wiki-syntax to richtext (if edited)?	admin	ko	위키-문법의 페이지를 리치텍스트로 자동 변환 할까요 (편집되었을경우에)?
+block	wiki	ko	블럭
+block / unblock hosts	common	ko	블럭 / 언블럭 호스트
+blocked ip address ranges	wiki	ko	블럭된 IP 주소의 범위
+cancel without saving	wiki	ko	저장하지 않고 취소
+changed	wiki	ko	변경됨
+changes by last author	wiki	ko	마지막 글쓴이가 변경한것
+choose your current time here, so the server may figure out what time zone you are in.	wiki	ko	현재 시간을 선택하세요, 그러면 서버가 귀하의 시간대를 알아냅니다
+columns	wiki	ko	열
+compute difference	wiki	ko	차이점을 계산
+converts the page to richtext	wiki	ko	페이지를 리치텍스트로 변환
+current version	wiki	ko	현재 버전
+deleted	wiki	ko	삭제됨
+deletes this page	wiki	ko	이 페이지를 삭제
+difference between versions	wiki	ko	버전간 차이점
+differences in	wiki	ko	** 차이점
+different languages can have different titles	wiki	ko	다른언어는 각자 다른 제목을 가질수 있다
+document last modified	wiki	ko	문서가 마지막으로 변경됨
+edit box	wiki	ko	편집상자
+edit this <em>archive version</em> of this document	wiki	ko	이 문서의 <em>아카이브 버전</em>을 편집
+edit this document	wiki	ko	이 문서를 편집
+edit with preview	admin	ko	미리보기로 편집
+editable	admin	ko	편집가능
+editing	wiki	ko	편집중
+emailaddress administrator	admin	ko	이메일주소 관리자
+enable free links	admin	ko	자유로운 링크 가능
+enable wiki links	admin	ko	위키 링크 가능
+enter here the maximum number of entries to display in a document's history list.	wiki	ko	문서접근목록에 보여질 항목 개수를 입력하세요
+enter here the number of days of edits to display on recentchanges or any other subscription list.  set this to zero if you wish to see all pages in recentchanges, regardless of how recently they were edited.	wiki	ko	RecentChanges에 편집된문서로 보여질 기간을 입력하거나 다른 subscription 목록을 입력하세요<br> 이 값을 0으로 할경우 모든 RecentChanges의 모든 페이지를 보게되면 언제 편집되었는지는 고려하지 않게 됩니다.
+enter ip address range in form <tt>12.*</tt>, <tt>34.56.*</tt>, or <tt>78.90.123.*</tt>	wiki	ko	IP주소 범위를 입력하세요. <<tt>12.*</tt>, <tt>34.56.*</tt>, or <tt>78.90.123.*</tt>
+error creating temporary file.	wiki	ko	임시파일 생성오류
+error writing to temporary file.	wiki	ko	임시파일 작성오류
+everyone	wiki	ko	모두
+find	wiki	ko	찾기
+history	wiki	ko	접근기록
+history display should show <em>all</em> changes made by the latest author.  otherwise, show only the last change made.	wiki	ko	마지막 작성자가 변경한 <em>모든</em> 접근기록을 보여줌. 설정하지 않으면 가장 마지막 변경된것만 표시됨
+history lists	wiki	ko	접근기록 목록들
+history of	wiki	ko	접근기록:
+interwikiprefix	admin	ko	InterWikiPrefix
+invalid page name.	wiki	ko	부적절한 페이지 이름
+load	wiki	ko	로드
+loads the named page in the given language, all change so far get lost !!!	wiki	ko	주어진언어로 작명된 페이지를 로드, 변경된 모든것은 잃게됩니다!!!
+lock / unlock pages	common	ko	잠김 / 풀림 페이지
+locked	wiki	ko	잠겼음
+name wiki home link	admin	ko	위키홈에 링크할 이름
+newer	wiki	ko	보다 새로운(Newer)
+no never	admin	ko	No never
+not set	wiki	ko	** 설정 안됨
+older	wiki	ko	보다 이전(Older)
+only if browser supports a richtext-editor	admin	ko	브라우저가 리치텍스트-편집기를 지원할 경우에만
+please contact the %1administrator%2 for assistance.	wiki	ko	지원이 필요하시면 %1관리자%2에게 문의하세요
+preview	wiki	ko	미리보기
+preview of current version	wiki	ko	현재버전 미리보기
+rate control / ip blocking disabled	wiki	ko	등급 제어 / IP 블럭 비활성화
+readable by	wiki	ko	읽을수 있음
+readonly	admin	ko	읽기전용
+recent changes	wiki	ko	Recent Changes
+renames page to the given name and language	wiki	ko	주어진 언어의 이름으로 현재페이지 이름바꾸기
+richtext	wiki	ko	리치텍스트
+rows	wiki	ko	줄
+save the changes and exit	wiki	ko	나갈때 변경된것을 저장
+saves and continues editing	wiki	ko	저장하고 계속 편집
+see complete list (%1 entries)	wiki	ko	완료 목록보기 (%1 항목)
+summary	wiki	ko	요약
+summary of change	wiki	ko	변경점 요약
+this page can not be edited.	wiki	ko	이 페이지는 편집불가
+twin pages	wiki	ko	쌍둥이 페이지
+unblock	wiki	ko	언블럭(unblock)
+updates the preview	wiki	ko	미리보기 갱신
+users	wiki	ko	사용자들
+view document history	wiki	ko	문서의 접근기록 보기
+visit %1 to set your user name	wiki	ko	%1 방문해서 사용자이름 설정
+warning: since you started editing, this document has been changed by someone else.  please merge your edits into the current version of this document.	wiki	ko	경고: 이 페이지의 편집을 시작했을 시점부터,이 문서는 다른 누군가에 의해 변경되었습니다. 귀하께서 편집한 현재 버전의 문서와 병합하세요
+who should be able to edit this page	wiki	ko	이 페이지를 편집할수 있는 사람
+who should be able to read this page	wiki	ko	이 페이지를 읽을수 있는 사람
+wiki	common	ko	위키
+wiki administration	wiki	ko	위키 관리
+wiki menu	wiki	ko	위키 메뉴
+writable by	wiki	ko	쓸수있음
+yes always	admin	ko	항상 예
+you have been denied access to this site.	wiki	ko	이 사이트에 접근할수 없습니다
+you have entered an invalid user name.	wiki	ko	부적절한 사용자이름을 입력했습니다
+you have exeeded the number of pages you are allowed to visit in a given period of time. please return later.	wiki	ko	정해진 시간에 방문할수 있는 페이지수를 초과 했습니다. 나중에 다시 방문해주세요
+your changes	wiki	ko	변경한것
+your user name is "%1".	wiki	ko	귀하의 이름은 "%1"

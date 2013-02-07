@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<!-- $Id$ -->
+<overlay>
+	<template id="sitemgr.ntfmess.edit" template="" lang="" group="0" version="0.0.002">
+		<grid>
+			<columns>
+				<column/>
+				<column/>
+			</columns>
+			<rows>
+				<row>
+					<description no_lang="1" id="msg"/>
+					<description/>
+				</row>
+				<row class="th">
+					<description span="all" value="edit notification message"/>
+				</row>
+				<row class="row">
+					<description value="Site" needed="1"/>
+					<menulist>
+						<menupopup id="site_id"/>
+					</menulist>
+				</row>
+				<row class="row" disabled="@multilingual">
+					<description value="Language"/>
+					<textbox no_lang="1" id="language" size="5" maxlength="5"/>
+				</row>
+				<row class="row">
+					<description value="Subject"/>
+					<textbox id="subject" size="80" maxlength="80"/>
+				</row>
+				<row class="row">
+					<description value="Message"/>
+					<textbox multiline="true" rows="5" cols="60" id="message"/>
+				</row>
+				<row>
+					<hbox>
+						<button label="Save" id="button[save]"/>
+						<button id="button[cancel]" label="Cancel"/>
+					</hbox>
+					<button label="Delete" align="right" id="button[delete]" onclick="return confirm('Delete this entry');"/>
+				</row>
+			</rows>
+		</grid>
+	</template>
+</overlay>

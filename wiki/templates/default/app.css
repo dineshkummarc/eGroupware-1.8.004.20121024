@@ -1,0 +1,50 @@
+/* WikkiTikkiTavi default style sheet. */
+/* $Id: app.css 20986 2006-04-06 11:05:26Z ralfbecker $ */
+
+div,td {
+	font-size:12px;
+}
+
+table.diff { 
+	width: 95%; 
+}
+td.diff-added { 
+	background-color: #cfffcf;
+	color:            #000000; 
+}
+td.diff-removed { 
+	background-color: #ffffaf;
+	color:            #000000; 
+}
+table.wiki {
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+h1 { 
+	margin-bottom: 0; 
+}
+textarea { 
+	width: 95%; 
+}
+dl, ul, ol { 
+	margin-top:    0px;
+	margin-bottom: 0px; 
+}
+form { 
+	margin-top: 0px; 
+}
+p.warning { 
+	color:      #ff3f3f;
+	background: transparent; 
+}
+span.twin { 
+	font-size: smaller; 
+}
+tt { 
+	background: transparent;
+	color:      #383838; 
+}
+pre { 
+	background: transparent;
+	color:      #383838; 
+}

@@ -1,0 +1,15 @@
+%1 manual page(s) added or updated	manual	pt	%1 página(s) do manual adicionada(s) ou actualizada(s)
+allow anonymous access to the manual, only necessary to act as remote manual	admin	pt	Permitir o acesso de utilizadores anónimos ao manual, apenas necessário para manual remoto
+anonymous password	admin	pt	Senha anónima
+anonymous username	admin	pt	Nome de utilizador anónimo
+download	manual	pt	Transferir
+index	manual	pt	Índice
+install or update the manual-pages	admin	pt	instalar ou actualizar páginas do manual
+manual	common	pt	Manual / Ajuda
+page(s) %1 not found !!!	manual	pt	Não foi possível encontrar a(s) página(s) %1 !!!
+remote egroupware url for the manual to use, empty for a local manual, default	admin	pt	URL do eGroupWare remota para o manual a utilizar, vazio para um manual local, por omissão
+search for	manual	pt	Pesquisar por
+starting import from %1, this might take several minutes (specialy if you start it the first time) ...	manual	pt	A iniciar a importação a partir de %1. Esta acção pode demorar alguns minutos (principalmente se for a primeira vez)...
+the search returned no result!	manual	pt	Nenhum resultado para esta pesquisa!
+update url for the local manual, default	admin	pt	Actualizar URL para o manual local, por omissão
+wiki id for the local manual, default 1, 0 to use the wiki to edit the manual pages	admin	pt	ID do Wiki para o manual local, por omissão 1, 0 para utilizar o Wiki para edição de páginas do manual.

@@ -1,0 +1,424 @@
+%1 content manager	sitemgr	iw	%1 מנהל תוכן
+%1 module manager	sitemgr	iw	%1 מנהל מודולים
+'%1' is no valid sitemgr-site directory !!!	sitemgr	iw	'%1' אינה מחיצת מנהל אתר חוקי
+(do not put spaces or punctuation in the name field.)	sitemgr	iw	(אין להכניס רווחים או נקודות פיסוק בשדה שם)
+<b>autoregistration is not enabled / configured in the registration app !!!</b><br>you need to do so, to get the autoregistration link working.	sitemgr	iw	<b>!רושום אוטומטי אינו מאופשר או שאינו מקונפג ביישום רישום</b><br>עליך לעשות כן כדי שקישור הרישום האוטומטי יפעל
+a simple picture galery	sitemgr	iw	גלריה תמונות פשוטה
+actif	sitemgr	iw	פעיל
+add a category	sitemgr	iw	הוסף קטגוריה
+add a new application	sitemgr	iw	הוסף יישום חדש
+add a new guestbook	sitemgr	iw	הוסף ספר אורחים חדש
+add block ...	sitemgr	iw	...הוסף בלוק
+add block to content area %1	sitemgr	iw	הוסף בלוק לאיזור תוכן %1
+add category	sitemgr	iw	הוסף קטגוריה
+add new page to this category	sitemgr	iw	הוסף עמוד חדש לקטגוריה זו
+add page	sitemgr	iw	הוסף עמוד
+add page to category	sitemgr	iw	הוסף עמוד לקטגוריה
+add website	sitemgr	iw	הוסף אתר ווב
+administration	sitemgr	iw	ניהול
+administrative menu	sitemgr	iw	תפריט ניהול
+administrators	sitemgr	iw	מנהלים
+all categories	sitemgr	iw	כל הקטגוריות
+all forums in category %1	sitemgr	iw	כל קבוצות הדיון בקטגוריה %1
+allow posting of questions	sitemgr	iw	לאפשר שליחת שאלות
+amazon server (without www), eg. amazon.com	sitemgr	iw	amazon.com :לדוגמא ,(www ללא) amazon-שרת ה
+an application directory	sitemgr	iw	מחיצת יישום
+anonymous	sitemgr	iw	אנונימי
+anonymous user login domain	sitemgr	iw	דומיין כניסה של משתמש אנונימי
+anonymous user's password	sitemgr	iw	הסיסמא של משתמש אנונימי
+anonymous user's username	sitemgr	iw	שם כניסה של משתמש אנונימי
+application	sitemgr	iw	יישום
+application '%1' is not installed !!!<br>please install it, to be able to use the block.	sitemgr	iw	!יישום %1 לא מותקן<br>נא להתקין אותו כדי שניתן יהיה להשתמש בבלוק
+application sitemgr_module_guestbook must be installed as a egroupware application for this module to run	sitemgr	iw	כדי להפעיל מודול זה eGroupWare מודול ספר האורחים של ניהול אתר חייב להיות מותקן כיישום של
+apply permissions also to subcategories?	sitemgr	iw	?להצאות הרשאות גל לתתי-הקטגוריות
+archived	sitemgr	iw	בארכיון
+archived content	sitemgr	iw	תוכן בארכיון
+are contributors allowed to define new guestbooks?	sitemgr	iw	?האם למגישי תוכן אפשרות להגדיר ספרי אורחים חדשים
+are you sure you want to delete site %1 and all its content? you cannot retrieve it if you continue.	sitemgr	iw	.בטוח שברצונך לחוק את אתר %1 ואת כל תוכנו? אין דרך לשחזר את המידע אם תמשיך
+are you sure you want to delete the category %1 and all of its associated pages?  you cannot retrieve the deleted pages if you continue.	sitemgr	iw	.בטוח שברצונך למחוק קטגוריה %1 ואת כל תוכנה? אין אפשרות לשחזר את העמודים שיימחקו אם תמשיך
+as	common	iw	-כ
+attempt to access information outside current website	sitemgr	iw	נסיון לגשת למידע מחוץ לאתר הנוכחי
+attempt to edit non-editable block	sitemgr	iw	נסיו9ן לערוך בלוק שלא ניתן לעריכה
+automatic index	sitemgr	iw	אידקס אוטומטי
+back to module manager	sitemgr	iw	חזרה למנהל המודולים
+back to the list of languages	sitemgr	iw	חזרה לרשימת השפות
+basic settings	sitemgr	iw	הגדרות בסיסיות
+before the public web site can be viewed, you must configure the various locations and preferences.  please go to the sitemgr setup page by following this link:	sitemgr	iw	לפני שניתן יהיה להציג את אתר הווב הציבורי, עליך להגדיר את המיקומים והעדיפויות השונים. נא בקר בעמוד ההגדרה של ניהול האתר על ידי שימוש בקישור הבא
+block not found.	sitemgr	iw	.הבלוק לא נמצא
+block reloaded	sitemgr	iw	הבלוק נטען מחדש
+block returned no content.	sitemgr	iw	הבלוק לא החזיר תוכן
+block saved	sitemgr	iw	הבלוק נשמר
+bookmarks	sitemgr	iw	סימניות
+buy at %1	sitemgr	iw	קנה ב-%1
+calendar	sitemgr	iw	לוח שנה
+can't open an url or execute a script, because allow_url_fopen is not set in your php.ini !!!	sitemgr	iw	!שלך php.ini-לא נקבע ב allow_url_fopen-או להריץ סקריפט, מכיוון ש URL לא יכול לפתוח
+cancel the delete	sitemgr	iw	בטל הת המחיקה
+cannot move page until it has been saved.	sitemgr	iw	לא יכול להעביר את העמוד עד שיישמר
+category	sitemgr	iw	קטגוריה
+category description	sitemgr	iw	תיאור הקטגוריה
+category manager	sitemgr	iw	מנהל קטגוריות
+category name	sitemgr	iw	שם הקטגוריה
+category saved	sitemgr	iw	הקטגוריה נשמרה
+changes saved.	sitemgr	iw	.השינוים נשמרו
+check here after every upgrade	sitemgr	iw	הקלק כאן לאחר כל שגרוג
+check to hide from condensed site index.	sitemgr	iw	הקלק כאן כדי להסתיר מאידקס האתר המקוצר
+choose a category	sitemgr	iw	בחר קטגוריה
+choose a guestbook	sitemgr	iw	בחר ספר אורחים
+choose language	sitemgr	iw	בחר שפה
+choose template	sitemgr	iw	בחר תבנית
+choose the categories to display	sitemgr	iw	בחר קטגוריות להציג
+choose your site's theme or template.  note that if you changed the above checkbox you need to save before choosing a theme or template.	sitemgr	iw	בחר את ערכת הנושא או את התבנית של האתר שלך. שים לב שאם שימית את תיבת הבחירה לעיל, יהיה עליך לשמור לפני בחירת ערכת נושא או תבנית
+collapse threads	sitemgr	iw	להכנס שיחות
+commit changes	sitemgr	iw	בצע שינוים
+common prefix of the image-name (a number starting with 1 will be appended)	sitemgr	iw	(מספר החל מ-1 יתווסף אליה) image-קידומת מקובלת לשם ה
+configure module properties	sitemgr	iw	קנפג מאפייני המודול
+configure sitemgr	sitemgr	iw	קנפג מנהל האתר
+configure website	sitemgr	iw	קנפג את אתר הווב
+contact the administrator.	sitemgr	iw	.צור קשר עם המנהל
+content areas	sitemgr	iw	איזורי תוכן
+content blocks	sitemgr	iw	בלוקים של תוכן
+content blocks for category	sitemgr	iw	בלוקים של תוכן לקטגוריה
+content manager	sitemgr	iw	מנהל תוכן
+contentarea	sitemgr	iw	איזור התוכן
+contributor menu	sitemgr	iw	תפריט מגישי תוכן
+copyright	sitemgr	iw	זכויות יוצרים
+create new version	sitemgr	iw	צור גירסא חדשה
+current section	sitemgr	iw	החלק הנוכחי
+default	sitemgr	iw	ברירת מחדל
+default home page id number	sitemgr	iw	מספר זיהוי מחדלי של עמוד הבית
+define websites	common	iw	הגדר אתרי ווב
+delete block	sitemgr	iw	מחק בלוק
+delete category	sitemgr	iw	מחק קטגוריה
+delete page	sitemgr	iw	מחק עמוד
+delete this application	sitemgr	iw	מחק יישום זה
+delete this block	sitemgr	iw	מחק בלוק זה
+delete this guestbook	sitemgr	iw	מחק ספר אורחים זה
+delete version	sitemgr	iw	מחק גירסא
+deleting all data for %1	sitemgr	iw	מוחק את כל הנתונים של %1
+details for language %1 (%2)	sitemgr	iw	(פירטי השפה ה-%1 (%2
+discussions	sitemgr	iw	שיחות
+display link to autoregistration below login form?	sitemgr	iw	?להציג קישור לרישום אוטומטי מתחת לטופס הכניסה
+do you realy want to delete the selected categories (including all pages), pages and blocks?	sitemgr	iw	?בטוח שברצונך למחוק את הקטגוריה הנבחרת כולל כל העמודים והבלוקים שלה
+do you realy want to delete this block?	sitemgr	iw	? למחוק בלוק זהבטוח שברצונך
+do you realy want to delete this page?	sitemgr	iw	?בטוח שברצונך למחוק עמוד זה
+do you want to delete them?	sitemgr	iw	?בטוח שברצונך למחוק אותם
+do you want to publish a rss feed for this news category	sitemgr	iw	עבור קטגורית חדשות זו RSS ברצונך להוציא לאור הזנת
+documentation	sitemgr	iw	תיעוד
+don't have an account?	sitemgr	iw	?אין לך חשבון
+done	sitemgr	iw	בוצע
+download as zip-archiv	sitemgr	iw	ZIP הורד כארכיב
+downloaded	sitemgr	iw	הורדו
+draft	sitemgr	iw	טיוטה
+draft mode	sitemgr	iw	מצב טיוטה
+edit categories and permissions	common	iw	ערוך קטגוריות והרשאות
+edit category	sitemgr	iw	ערוך קטגוריה
+edit individual pages	common	iw	ערוך עמודים בודדים
+edit mode	sitemgr	iw	מצב עריכה
+edit page	sitemgr	iw	ערוך עמוד
+edit properties of module %1 for %2 with scope %3	sitemgr	iw	ערוך תכונות מודול %1 עבור %2 עם תווך %3
+edit site	sitemgr	iw	ערוך אתר
+edit site header and footer	common	iw	ערוך כותרת עליונה ותותרת חתונה של אתר
+edit this block	sitemgr	iw	ערוך בלוק זה
+edit website	sitemgr	iw	ערוך אתר ווב
+enter a name	sitemgr	iw	הכנס שם
+enter the block content here	sitemgr	iw	הכנס את תוכן הבלוק כאן
+enter the page content here	sitemgr	iw	הכנס את תוכן העמוד כאן
+enterprise knowledge articles repository	sitemgr	iw	Enterprise מאגר מאמרי ידע
+error accessing page	common	iw	שגיאה בגישה לעמוד
+everybody	sitemgr	iw	כולם
+file %1 is not readable by the webserver !!!	sitemgr	iw	!הקובץ %1 לא ניתן לקריאה על ידי שרת הווב
+file %1 is outside the docroot of the webserver !!!<br>this module does not allow - for security reasons - to open files outside the docroot.	sitemgr	iw	!קובץ %1 נמצא מחוץ לשורש המסמכים של שרת הווב<br>מטעמי אבטחה - מודול זה אינו מאפשר פתיחת קבצים מחוץ לשורש המסמכים
+file contents	sitemgr	iw	תוכן הקובץ
+file download	sitemgr	iw	הורדת קובץ
+filesystem path of the directory where xml files are stored	sitemgr	iw	XML מסלול במערכת הקבצים בו מאחסנים קבצי
+filesystem path of the image-directory	sitemgr	iw	מסלול במערכת הקבצים בו נמצא מחיצת התמונות
+filesystem path to sitemgr-site directory	sitemgr	iw	מסלול במערכת הקבצים  בו המחיצת האתר של מנהל האתר
+fill in permissions from parent category? if you check this, below values will be ignored	sitemgr	iw	למלא הרשאות מקטגורית האם? אם זה מסומן, המערכת תתעלם מערכים למטה
+following new modules registed: %1	sitemgr	iw	המודולים החדשים ההבאים נרשמו: %1
+footer editor	sitemgr	iw	עורך כותרת תחתונה
+forum	sitemgr	iw	קבוצת דיון
+full path of the xslt file that should be applied to the xml files	sitemgr	iw	XML-שיש להפעיל על קבצי ה XSLT המסלול המלא אל קבצי
+galerie	sitemgr	iw	גלריה
+gallery plus chooser	sitemgr	iw	גלריה עם אפשרות בחירה
+gallery plus chooser and download	sitemgr	iw	גלריה עם אפשרות בחירה והורדה
+gallery plus download	sitemgr	iw	גלריה עם אפשרות הורדה
+go back to page manager	sitemgr	iw	חזור אל מנהל העמודים
+go back to the category manager.	sitemgr	iw	חזור אל מנהל הקטגוריות
+go to	sitemgr	iw	לך אל
+go to page manager	sitemgr	iw	לך אל מנהל העמודים
+google search	sitemgr	iw	Google-חיפוש ב
+group access permissions	sitemgr	iw	הרשאות גישת קבוצה
+group name	sitemgr	iw	שם הקבוצה
+header editor	sitemgr	iw	עורך כותרות
+headlines	sitemgr	iw	כותרות החדשות
+hello	sitemgr	iw	שלום
+hello world	sitemgr	iw	שלום עולם
+html module	sitemgr	iw	HTML מודול
+i'm sorry, you do not have write permissions for any site categories.	sitemgr	iw	.מצטער, אין לך הרשאות כתיבה לקטגוריה כלשהי באתר
+if you haven't done so already, create a user that will be used for public viewing of the site.  recommended name: anonymous.	sitemgr	iw	.אם עוד לא עשית כך, צור משתמש שישמש לצפייה ציבורית של האתר. שם מומלץ: אנונימי
+image type	sitemgr	iw	סוג תמונה
+implies read permission	sitemgr	iw	משתמע הרשאת קריאה
+index	sitemgr	iw	אינדקס
+individual access permission	sitemgr	iw	הרשאת גישה בודדת
+individual access permissions	sitemgr	iw	הרשאות גישה בודדות
+interface to google website	sitemgr	iw	Google ממשק לאתר
+invalid template directory '%1' !!!	sitemgr	iw	!מחיצת תבנית לא חוקית
+knowledge base	sitemgr	iw	בסיס הידע
+languages the site user can choose from	sitemgr	iw	שפות מהן המשתמש באתר יכול לבחור
+last entries to the guestbook	sitemgr	iw	הרשומות האחרונות בספר האורחים
+latest reply	sitemgr	iw	המענה האחרון
+list of permitted modules specific to content area %1	sitemgr	iw	רשימת המודולים מורשים באיזור תוכן %1
+login	sitemgr	iw	כניסה
+login name	sitemgr	iw	שם כניסה
+main content	sitemgr	iw	תוכן ראשי
+mains	sitemgr	iw	ראשיים
+manage archived content	sitemgr	iw	ניהול תוכן בארכיב
+manage categories	sitemgr	iw	ניהול קטגוריות
+manage categories and pages	sitemgr	iw	ניהול קטגוריות ועמודים
+manage category wide content	sitemgr	iw	ניהול תוכן הפרוס על פני כל הקטגוריה
+manage category wide module properties	sitemgr	iw	ניהול מאפייני מודול הפרוסים על פני כל הקטגוריה
+manage content	sitemgr	iw	ניהול תוכן
+manage modules	sitemgr	iw	ניהול מודולים
+manage page specific content	sitemgr	iw	ניהול תוכן ייחודי לעמוד
+manage pages	common	iw	ניהול עמודים
+manage site content	sitemgr	iw	ניהול תוכן האתר
+manage site-wide content	sitemgr	iw	ניהול תוכן הפרוס על פני כל האתר
+manage site-wide module properties	sitemgr	iw	ניהול מאפייני מודול הפרוסים על פני כל האתר
+manage translations	sitemgr	iw	ניהול תרגומים
+master list of permitted modules	sitemgr	iw	רשימת המסטר של מודולים מורשים
+migrating data for %1 to %2	sitemgr	iw	מיגרציה של נתונים מ-%1 ל-%2
+module %1 is not permitted in this context!	sitemgr	iw	מודול %1 אינו מורשה בהקשר זה
+module manager	sitemgr	iw	מנהל מודולים
+module: %1, scope: %2, contentarea: %3, viewable: %4	sitemgr	iw	מודול: %1, תווך: %2, איזור תוכן: %3, נראה: %4
+more news	sitemgr	iw	עוד חדשות
+move block down (increase sort order)	sitemgr	iw	(הורד בלוק כלפי מטה (הגדל את סדר המיון
+move block up (decrease sort order)	sitemgr	iw	(העלה בלוק כלפי מעלה (הקטן את סדר המיון
+move to	sitemgr	iw	העבר  אל
+name	sitemgr	iw	שם
+name has been translated to lower case	sitemgr	iw	צריך לתרגם את השם לאותיות קטנות
+new application	sitemgr	iw	יישום חדש
+new guestbook	sitemgr	iw	ספר אורחים חדש
+new sitemgr site	sitemgr	iw	אתר מנהל אתר חדש
+news module	sitemgr	iw	מודול חדשות
+no anonymous user accounts installed.  notify the administrator.	sitemgr	iw	.לא הותקנו חשבונות משתמש אנונימי. הודע למנהל
+no content areas found in selected template	sitemgr	iw	לא נמצאו אזורי תוכן בתבנית הנבחרת
+no content found	sitemgr	iw	לא נמצא תוכן
+no groups defined.	sitemgr	iw	.אין קבוצות מוגדרות
+no link to full index	sitemgr	iw	אין קישור לאינדקס המלא
+no matching news item	sitemgr	iw	אין פריט חדשות תואם
+no modules permitted for this content area/category	sitemgr	iw	אין מודולים מורשים לאיזור/קטגורית תוכן זה
+no new modules found !!!	sitemgr	iw	!לא נמצאו מודולים חדשים
+no options available.	sitemgr	iw	.אין אפשריות זמנינות
+no pages available	sitemgr	iw	אין עמודים זמינים
+no sitelanguages configured	sitemgr	iw	לא הוגדרו שפות לאתר
+no template file found.	sitemgr	iw	לא נמצא קובץ תבנית
+no templates found.	sitemgr	iw	לא נמצאו תבניות
+no thumbnail availible	sitemgr	iw	אין תמונה מוקטנת זמינה
+no users defined.	sitemgr	iw	לא מוגדרים משתמשים
+no websites defined	sitemgr	iw	לא מוגדרים אתרים
+no, chooser only (for side-areas)	sitemgr	iw	(לא, כלי בחירה בלבד (לאיזורי הצד
+no, chooser with preview	sitemgr	iw	לא,כלי בחירה עם תצוגה מקדימה
+not yet translated	sitemgr	iw	עוד לא תורגם
+note that you may get this message if your preferences are incorrect.  for example, if config.inc.php is not found in the directory that you specified.	sitemgr	iw	.לא נמצא במחיצה שציינת config.php למשל אםשים לב שאפשר לקבל הודעה זו אם העדיפויות שלך שגויות, למשל אם
+number of news items to be displayed on page	sitemgr	iw	כמות פרטי חדשות להציג בעמוד
+only gallery	sitemgr	iw	גלריה בלבד
+or enter the title for a new guestbook	sitemgr	iw	או תכניס את הכותרת לספר אורחים חדש
+other websites	sitemgr	iw	אתרים נוספים
+overview of all available categories	sitemgr	iw	סקירת הקטגוריות הזמינות
+overview of one specific category	sitemgr	iw	סקירה של קטגוריה מסוימת
+own amazon partner-id or empty to donate to the egroupware project	sitemgr	iw	eGroupWare שלך, או ריק כדי לציין את פרויקט Amazon זיהוי השותף של
+page	sitemgr	iw	עמוד
+page content	sitemgr	iw	תוכן עמוד
+page manager	sitemgr	iw	ניהול עמודים
+page name	sitemgr	iw	שם העמוד
+page saved	sitemgr	iw	העמוד נשמר
+page saved.	sitemgr	iw	.העמוד נשמר
+page subtitle	sitemgr	iw	כותרת משנה של העמוד
+page title	sitemgr	iw	כותרת העמוד
+pages	sitemgr	iw	עמודים
+pages:	sitemgr	iw	:עמודים
+parent	sitemgr	iw	הורה
+parent section:	sitemgr	iw	:מחלקת הורי
+password	sitemgr	iw	סיסמא
+password that you assigned for the anonymous user account.	sitemgr	iw	.הסיסמא שנתת נחשבון משתמש האנונימי
+path to image-directory '%1' is not valid or readable by the webserver !!!	sitemgr	iw	!המסלול למחיצת התמונות %1 אינו חוקי או אינו ניתן לקריאה על יד שרת הווב
+path to zip binary if not in path of the webserver	sitemgr	iw	אם הוא נמצא במסלול של שרת הווב zip המסלול אל תוכנית
+percentage	sitemgr	iw	אחוז
+phpgw users	sitemgr	iw	phpgw משתמשי
+phrases in total	sitemgr	iw	סך כל הפראזות
+please enter a name for that site !	sitemgr	iw	!נא להכניס שם לאתר זה
+please sign the guestbook	sitemgr	iw	לא לחתום את ספר האורחים
+post a message to this thread	sitemgr	iw	שלח הודעה לשיחה זו
+prepublished	sitemgr	iw	קדם הוצאה
+previous	sitemgr	iw	הקודמת
+production mode	sitemgr	iw	מצב ייצור
+published	sitemgr	iw	הוצא לאור
+reactivate content	sitemgr	iw	להפעיל תוכן מחדש
+read permission	sitemgr	iw	הרשאות קריאה
+redirection	sitemgr	iw	הפנייה
+refresh	sitemgr	iw	רענן
+register for one now.	sitemgr	iw	.הרשם לקבלת אחד כעת
+register new modules	sitemgr	iw	רשום מודולים חדשים
+reload	sitemgr	iw	טען מחדש
+replies	sitemgr	iw	מענים
+required fields	sitemgr	iw	שדות חובה
+reset	sitemgr	iw	אפס
+return to forums	sitemgr	iw	חזרה אל קבוצות הדיון
+return to main menu.	sitemgr	iw	.חזרה לתפריט הראשי
+return to message list	sitemgr	iw	חזרה לרשימת ההודעות
+root site index	sitemgr	iw	אינדקס של אתר השורש
+save	sitemgr	iw	שמור
+save block	sitemgr	iw	שמור בלוק
+saved	sitemgr	iw	נשמר
+scope	sitemgr	iw	תווך
+seen by	sitemgr	iw	נראה על ידי
+select a category	sitemgr	iw	בחר קטגוריה
+select a forum	sitemgr	iw	בחר קבוצת דיון
+select allowed modules	sitemgr	iw	בחר מודולים מורשים
+select persons and groups that are entitled to configure the website.	sitemgr	iw	.בחר אנשים וקבוצות אשל ךהם רשות לקנפג את האתר הווב
+select the templates the user is allowed to see	sitemgr	iw	בחר את התבנית אותן למשתמש מותר לראות
+selected template %1 does not exist.	sitemgr	iw	.התבנית הנבחרת %1 אינה קיימת
+selected theme %1 does not exist.	sitemgr	iw	.ערכת הנושא הנבצר %1 לא קיים
+should the file be viewed in the browser or downloaded	sitemgr	iw	האם להציג את הקובץ בדפדפן או להוריד אותו
+show a template-gallery (thumbnail and informations)	sitemgr	iw	(הצג גלרית תבניות (תמונות מוקטנות ונתונים
+show details for the applications	sitemgr	iw	הצג פרטים עבור היישומים
+show only (in the next field) selected templates	sitemgr	iw	(הצג רק תבניות נבחרות (בשדה הבא
+show searchbox	sitemgr	iw	הצג תיבת חיפוש
+show site index	sitemgr	iw	הצג אינדקס האתר
+show subcategories	sitemgr	iw	הצג תתי-קטגוריות
+site	sitemgr	iw	אתר
+site %1 has been added, you need to %2configure the site%3 now	sitemgr	iw	אתר %1 נוסף. עליך %2לקנפג את האתר%3 עכשיו
+site %1 has been updated	sitemgr	iw	אתר %1 עודכן
+site administrators	sitemgr	iw	מנהלי אתר
+site description	sitemgr	iw	תיאור האתר
+site format manager	sitemgr	iw	מנהל פורמאט של האתר
+site index	sitemgr	iw	אינדקס האתר
+site name	sitemgr	iw	שם האתר
+site setup	common	iw	הגדרת האתר
+site tree menu	sitemgr	iw	תפריט עץ של האתר
+site wide	sitemgr	iw	מקיף אתר
+sitemgr	common	iw	מנהל אתר
+sitemgr manual	sitemgr	iw	מדריך מנהל האתר
+sitemgr options	sitemgr	iw	הגדרות מנהל האתר
+sitemgr setup instructions	sitemgr	iw	הוראות הגדרה למנהל האתר
+sitemgr setup page	sitemgr	iw	עמוד הגדרה של מנהל האתר
+sitemgr web content manager	common	iw	מנהל התוכן של מנהל אתר הווב
+sitemgr websites	sitemgr	iw	אתרי ווב של מנהל אתר
+sort order	sitemgr	iw	סדר אתר
+state	sitemgr	iw	מדינה
+strip html from block content?	sitemgr	iw	מתוכן הבלוק HTML להסיר
+subcategories	sitemgr	iw	תתי-קטגוריןת
+subsections:	sitemgr	iw	תתי-מחלקה
+subtext for image %1	sitemgr	iw	כותרת משנה לתמונה %1
+subtitle	sitemgr	iw	כותרת משנה
+summary of one forum	sitemgr	iw	סיכום של קבוצת דיון אחד
+suppress link to index (show all)	sitemgr	iw	(דכה קישור לאינדקס (הצג הכל
+suppress link to parent category	sitemgr	iw	דכה קישור לקטגורית אם
+suppress the current page	sitemgr	iw	דכה את העמוד הנוכחי
+table of contents	sitemgr	iw	תוכן העיניינים
+template select	sitemgr	iw	בחירת תבנית
+textarea	sitemgr	iw	איזור טקסט
+the category to display, 0 for complete table of contents	sitemgr	iw	הקטגוריה להציג, 0 לקבלת תוכן העניינים השלם
+the complete url or path to a file to be included	sitemgr	iw	המלא או לקובץ לכלל URL-ה
+the file to be downloaded	sitemgr	iw	הקובץ להורדה
+the filesystem path to your sitemgr-site directory '%1' is probably wrong. go to sitemgr --> define websites and edit/fix the concerned site.	sitemgr	iw	המסלול אל מחיצת ניהול האתר במערכת הקבצים שלך %1 ככל הנראה שגוי. לך אל מנהל אתר --> הגדר אתרים וערוך/תקן את האתר הרלוונטי
+the name field cannot contain punctuation or spaces (field modified).	sitemgr	iw	(שדה שם לא יכול לכלול רווחים או נקודות פיסוק (השדה שונה
+the page name must be unique.	sitemgr	iw	שם העמוד חייב להיות ייחודי
+the page was successfully saved.	sitemgr	iw	העמוד נשמר בהצלחה
+the path to the file to be downloaded	sitemgr	iw	המסלול את הקובץ להורדה
+the person to say hello to	sitemgr	iw	האדם שאתה רוצה להגיד לו שלום
+the text for the link, if empty the module returns the raw url (without a link)	sitemgr	iw	(הנע (בלי קישור URL-הטקסט של הקישור, אם ריק המודול מחזיר את ה
+the url can be relative or absolute.  name must end in a slash.	sitemgr	iw	.יכול להיות מוחלט או יחסי. השם מסתיים בקו נטוי URL-ה
+the url must be absolute and end in a slash, for example http://mydomain.com/mysite/	sitemgr	iw	.יכול להיות מוחלט או יחסי. השם מסתיים בקו נטוי URL-ה
+the url to redirect to	sitemgr	iw	redirect לבצע אליו URL-ה
+the web	sitemgr	iw	הווב
+the whole page	sitemgr	iw	העמוד כולו
+the xml files' common name	sitemgr	iw	XML-שם המוכר של קובץ ה
+theme or template select	sitemgr	iw	בחירת ערכת נושא או תבנית
+there are no categories	sitemgr	iw	אין קטגוריות
+there are no forums in this category	sitemgr	iw	אין קבוצות דיון בקטגוריה זו
+there are no pages in this section	sitemgr	iw	אין עמודים במחלקה זו
+there are no properties defined for this module	sitemgr	iw	לא הוגדרו אפיונים למודול זה
+there are no sections available to you.	sitemgr	iw	.אין מחלקות זמינות לך
+there are two subdirectories off of your sitemgr directory that you should move before you do anything else.  you don't <i>have</i> to move either of these directories, although you will probably want to.	sitemgr	iw	ישנן שתי תתי-מחיצות של מחיצת ניהול האתר שכדאי להעביר לפני כל דבר אחר. לא חייבים להעביר אותן, אם כי בוודאי שתרצה לעשות כך
+there is no website configured for url %1.  notify the administrator.	sitemgr	iw	.הודע למנהל .URL %1 אין אתר ווב מקונפג עבור
+there was an error accessing the requested page. either you do not have permission to view this page, or the page does not exist.	common	iw	.אירע שגיאה בגישה לעמוד המבוקש. או שאין לך הרשאות גישה לצפות בעמוד זה, או שעמוד לא קיים
+there was an error writing to the database.	sitemgr	iw	.אירע שגיאה בכתיבה לסיס הנתונים
+this block displays a javascript based tree menu	sitemgr	iw	java בלוק זה מציג תפריט עץ מבוסס בקריפט
+this block displays the current section's table of contents	sitemgr	iw	בלוק זה מציג את תוכן העניינים של המחלקה הנוכחית
+this category has no pages.	sitemgr	iw	לקטגוריה זה אין עמודים
+this is a simple sample module	sitemgr	iw	זהו מודול פשוט לדוגמא
+this is only used as an internal name for the website.	sitemgr	iw	.זה משתמש לשם פנימי של אתר הווב בלבד
+this is used chiefly for meta data and the title bar. if you change the site languages below you have to save before being able to set this preference for a new language.	sitemgr	iw	זה משמש בעיקר לנתוני מטא ולפס הכותרת. אם תשנה את שפת האתר למטה, עליך לשמור לפני שניתן יהיה לקבוע עדיפות זו לשפה החדשה
+this is used chiefly for meta data. if you change the site languages below you have to save before being able to set this preference for a new language.	sitemgr	iw	זה משמש בעיקר לנתוני מטא ולפס הכותרת. אם תשנה את שפת האתר למטה, עליך לשמור לפני שניתן יהיה לקבוע עדיפות זו לשפה החדשה
+this module create a link for downloading a file from the vfs	sitemgr	iw	VFS-מודול זה יוצר קישור להורדת קובץ מה
+this module demonstrates how handling data stored in xml and building an interacvite interface from it	sitemgr	iw	ובנית ממשק אינטראקטיבי מהם XML-מודול זה מדגים כיצד לטפל בנתונים השמורים ב
+this module displays a login form	sitemgr	iw	מודול זה מציג טופס כניסה למערכת
+this module displays bookmarks in a javascript based tree	sitemgr	iw	java מודול זה מציג סימניות בעץ המבוסס סקריפט
+this module displays the current month	sitemgr	iw	מודול זה מציג את החודש הנוכחי
+this module displays the phpgw forums on the web site	sitemgr	iw	באתר הווב phpgw-מודול זה מציג את קבוצות הדיון ב
+this module displays the root categories, its pages and evtl. subcategories. it is meant for side areas	sitemgr	iw	.מודול זה מציג את קטגורית האם, העמודים ותתי-הקטגוריות שלה. הוא מיועד לאיזורי הצדדים
+this module includes the contents of an url or file (readable by the webserver and in its docroot !)	sitemgr	iw	(או קובץ (הניתן לקריאה על ידי שרת הווב URL מודול זה מציג את התוכן של
+this module is a selectbox to change the mode (production, draft or edit) plus a link back to sitemgr and to log out. it is meant for registered users only	sitemgr	iw	מודול זה הנה תיבת בחירה לשנות את המצב (יישור, טיוטה או עריכה) בתוספת קישור חזרה למנהל האתר וליציאה מהמערכת. הוא מיועד למשתמשים רשומים בלבד
+this module is a simple html editor	sitemgr	iw	פשוט HTML מודול זה הנו עורך
+this module lets the users choose a template or shows a template gallery	sitemgr	iw	.מודול זה מאפשר למשתמשים לבחור תבנית או מציג גלרית תבניות
+this module lets users choose language	sitemgr	iw	מודול זה מאפשר למשתמש לבחור שפה
+this module lets you define pages that redirect to another url, if you use it, there should be no other block defined for the page	sitemgr	iw	אחר, אם משתמשים בו אין להגדיר בלוק נוסף בעמוד ,URL-מודול זה מאפשר הגדרת עמודים שמפנים ל
+this site	sitemgr	iw	אתר זה
+title	sitemgr	iw	כותרת
+topic	sitemgr	iw	נושא
+translate	sitemgr	iw	תרגם
+translate category	sitemgr	iw	תרגם קטגוריה
+translate page	sitemgr	iw	תרגם עמוד
+translate site-wide content blocks	sitemgr	iw	תרגם בלוקי תוכן מקיפי האתר
+translation manager	sitemgr	iw	מנהל תרגום
+translation status	sitemgr	iw	סטאטוס תרגום
+up to parent	sitemgr	iw	לעלות להורה
+up to table of contents	sitemgr	iw	לעלות לתוכן העיניינים
+updating to new category system	sitemgr	iw	מעדכן מערכת קטגוריות חדשה
+url pointing to the image-directory	sitemgr	iw	המצביע אל מחיצת התמונות URL
+url to sitemgr-site	sitemgr	iw	אל אתר מנהל האתר URL
+use phpnuke themes instead of templates	sitemgr	iw	במקום תבניות phpNuke השתמש בערכות נושא של
+use this module for displaying book ads for the amazon web site	sitemgr	iw	Amazon אשתמש מודול זה להציג פרסומות של ספרים של
+use this module for displaying wiki-pages	sitemgr	iw	wiki-השתמש במודול זה להציג עמודי
+user name	sitemgr	iw	שם משתמש
+view administrative menu	sitemgr	iw	הצג תפריו ניהול
+view full index	sitemgr	iw	הצג אינדקס מלא
+view generated site	sitemgr	iw	הצג אתר מחולל
+view template on this site	sitemgr	iw	הצג תבניות של אתר זה
+view threads	sitemgr	iw	הצג שיחות
+viewed	sitemgr	iw	נצפה
+web content manager	common	iw	מנהל אתר מנהל תוכן האתר
+web content manager administration	sitemgr	iw	ניהול מנהל תוכן האתר
+web site manager	sitemgr	iw	מנהל אתר הווב
+website	sitemgr	iw	אתר הווב
+week	sitemgr	iw	שבוע
+what do you want to do with existing translations of categories and pages for this language?	sitemgr	iw	?מה ברצונך לעשות עם תרגומים של קטגוריות ועמודים קיימים לשפה זו
+wiki startpage	sitemgr	iw	wiki עמוד התחלה של
+with which view should the module be displayed in the beginning?	sitemgr	iw	?באיזה תצוגה יש להציג מודול זה בתחילה
+write permission	sitemgr	iw	הרשאות כתיבה
+xml browser	sitemgr	iw	XML דפדפן
+yes, please delete it	sitemgr	iw	כן, נא למחוק אותו
+you are not entitled to change the scope of block %1 to cat %2 and page %3	sitemgr	iw	אינך רשאי לשנות את תווך בלוק %1 לקטגוריה %2 ועמוד %3
+you are not entitled to create module %1 on this scope	sitemgr	iw	אינך מורשה ליצור מודול %1 בתווך זה
+you are not entitled to edit block %1	sitemgr	iw	אינך מורשה לערוך מודול %1
+you can choose the modules that can be used on the site. the first list is a sort of master list, that is consulted if you do not configure lists specific to contentareas or (sub)categories. then you can choose lists specific to each content area. in the category manager these lists can be overriden for each (sub)category.	sitemgr	iw	אפשר לבחור את המודולים שאפשר להשתמש באתר שה. הרשימה הראשונה משמש רשימת מסטר, שאותו קוראים כאשר לא הגדרת רשימה ספציפית עבור איזורי תוכן או (תתי-) קטגוריות. ניתן לחבור רשימות ספציפיות לאיזור תוכן. במנהל הקטגוריות אפשר להגדיר רשימה שיעקוף רשימת המסטר לכל (תת) קטגוריה
+you can either migrate them to a new language or delete them	sitemgr	iw	אפשר להעביר אותם לשפה חדשה אן למחוק אותם
+you can override each content blocks default title. be aware that not in all content areas the block title will be visible.	sitemgr	iw	.אפשר לעקוף את כותרת ברירת המחדל של כל בלוק תוכן. שים לב שלבכל איזורי התוכן הכורת מוצגת
+you did not choose a module.	sitemgr	iw	.לא בחרת מודול
+you do not have access to any content on this site.	sitemgr	iw	.איו לך גישה לתוכן כלשהו באתר זה
+you do not have write permissions for any site categories.	sitemgr	iw	.אין לך הרשאת כתיבה עבור קטגוריות כלשהם באתר
+you don't have permission to write in the category	sitemgr	iw	אין לך הרשאות כתיבה בקטגוריה זו
+you don't have permission to write to that category.	sitemgr	iw	.אין לך הרשאות כתיבה בקטגוריה זו
+you failed to fill in one or more required fields.	sitemgr	iw	.לא מלאת שדה חובה אחד או יותר
+you have no rights to view wiki content or the wiki is not installed at all !!!	sitemgr	iw	!אינו מוקן כלל wiki-או שה wiki-אין לך הרשאה לצפות בתוכן של ה
+you may have deinstalled the used template '%1'. reinstall it or go to sitemgr --> configure website and select an other one.	sitemgr	iw	יתכן שהורדת את התבנית %1 שבשימוש. התקן אתה מחדש אן לך למנהל האתר --> קנפג אתר ווב, ובחר אחת חדשה
+you must be an admin to edit categories.	sitemgr	iw	.צריך להיות מנהל כדי לערוך קטגוקיות
+you must be an admin to edit the site header and footer.	sitemgr	iw	.צריך להיות מנהל כדי לערוך את כותרות העליונות והתחתונות
+you must be an admin to manage module properties.	sitemgr	iw	.צריך להיות מנהל כדי לנהל אפיוני מודולים
+you must be an administrator to setup the site manager.	sitemgr	iw	.צריך להיות מנהל כדי להגדיר את מנהל האתר
+you removed one ore more languages from your site languages.	sitemgr	iw	.הסרת שפה אחת או יותר משפות האתר
+your administrator has not yet setup the web content manager for public viewing.  go bug your administrator to get their butt in gear.	sitemgr	iw	.מנהל האתר עדיין לא הגדיר את מנהל התוכן לצפיה ציבורית. לך לנדנד את המנהל שיתחיל להזיז את התחת
+your calendar	sitemgr	iw	לוח השנה שלך
+your comment	sitemgr	iw	ההערה שלך
+your name	sitemgr	iw	השם שלך

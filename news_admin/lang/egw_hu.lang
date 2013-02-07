@@ -1,0 +1,111 @@
+%1 module	news_admin	hu	%1 modul
+%1 news imported (%2 new).	news_admin	hu	%1 hír importálva (%2 hír)
+%s hours	news_admin	hu	%s óra
+actions	news_admin	hu	Műveletek
+active	news_admin	hu	Aktív
+add new article	news_admin	hu	Új hír hozzáadása
+add new news	news_admin	hu	Új hír hozzáadása
+add news item	news_admin	hu	Hír hozzáadása
+all news	news_admin	hu	Összes hír
+always	news_admin	hu	Állandóan
+by date	news_admin	hu	Dátum alapján
+categories to displayed on main page?	news_admin	hu	Kategóriák megjelenjenek a főképernyőn?
+category deleted.	news_admin	hu	Kategória törölve.
+category saved.	news_admin	hu	Kategória mentve.
+choose a category	news_admin	hu	Válasszon kategóriát
+configuration	news_admin	hu	Beállítás
+configure access permissions	common	hu	Hozzáférési jogok beállítása
+configure rss exports	common	hu	RSS beállítása
+contains html	news_admin	hu	HTML-t tartalmaz
+content	news_admin	hu	Tartalom
+count	news_admin	hu	szám
+date and time	news_admin	hu	Dátum és időpont
+delete this news	news_admin	hu	Hír törlése
+do you want to publish a rss feed for this news category	news_admin	hu	Kívánja RSS hírszolgáltatásként publikálni ezt a hír kategóriát?
+edit news item	news_admin	hu	Hír szerkesztése
+end	news_admin	hu	Befejezés
+error importing the feed!	news_admin	hu	Hiba az importálás során!
+error saving the category!	news_admin	hu	Hiba a kategória mentésekor!
+error saving the news!	news_admin	hu	Hiba történt a hír mentésekor!
+failed to add message	news_admin	hu	Hír hozzáadása sikertelen
+format for links to items	news_admin	hu	Hivatkozások formája a bejegyzésekhez
+format of export	news_admin	hu	Export formázása
+from	news_admin	hu	Mikortól
+from all	news_admin	hu	Összestől
+future	news_admin	hu	Jövőben
+global categories	news_admin	hu	Globális kategóriák
+global news	news_admin	hu	Globális hírek
+global_news	news_admin	hu	Globális hírek
+headline	news_admin	hu	Főcím
+headline with link	news_admin	hu	Főcím hivatkozással
+image link	news_admin	hu	Kép hivatkozás
+image title	news_admin	hu	Kép címe
+image url	news_admin	hu	Kép URL
+implies read permission	news_admin	hu	Olvasási jogot feltételez
+import every	news_admin	hu	Összes importálása
+import now	news_admin	hu	Importálás most
+import url	news_admin	hu	URL importálása
+imported feeds can not be writable!	news_admin	hu	Importált mezők nem módosíthatóak!
+item has been deleted	news_admin	hu	Bejegyzés törölve
+item not found	news_admin	hu	Bejegyzés nem található
+last updated	news_admin	hu	Utolsó frissítés
+link	news_admin	hu	Hivatkozás
+main	news_admin	hu	Fő
+maintain	news_admin	hu	Karbantartás
+maintain news	admin	hu	Hírek karbantartása
+message has been added	news_admin	hu	Hír hozzáadva
+more news	news_admin	hu	Még több hír
+more news link	news_admin	hu	Hivatkozás a többi hírre
+new item has been added	news_admin	hu	Új bejegyzés hozzáadva
+news	news_admin	hu	Hírek
+news admin	news_admin	hu	Hírszerkesztő
+news administration	news_admin	hu	Hírek adminisztráció
+news deleted.	news_admin	hu	Hír törölve.
+news item has been added	news_admin	hu	Hír hozzáadva
+news item has been updated	news_admin	hu	Hír frissítve
+news saved.	news_admin	hu	Hír elmentve.
+news_admin	common	hu	Hírszerkesztő
+no anonymous user accounts installed.  notify the administrator.	news_admin	hu	Nincs anonymous hozzáférés beállítva. Értesítsd az adminisztrátort.
+no entries found	news_admin	hu	bejegyzés nem található
+no matching news item	news_admin	hu	Nem találhatók hírek
+no news	news_admin	hu	A kategóriában jelenleg nem található hír
+no rss export	news_admin	hu	RSS export tiltva
+now	news_admin	hu	Most
+number of articles to display on the main screen	news_admin	hu	Kezdőlapon megjelenő hírek száma
+number of news items to be displayed on page	news_admin	hu	Az oldalon megjelenő hírbejegyzések száma
+old	news_admin	hu	Régi
+on	news_admin	hu	on
+page-name the item should be displayed (empty = current page)	news_admin	hu	Melyik oldalon legyen megjelenítve az elem (üres = aktuális oldal)
+parent	news_admin	hu	Szülő
+picture upload (leave the upload directory empty to disable the upload)	admin	hu	Képfeltöltés (hagyja üresen a feltöltés letiltásához)
+please select a category	news_admin	hu	Kérem válasszon egy kategóriát
+publish date	news_admin	hu	Publikálás dátuma
+read more	news_admin	hu	további hírek
+read news	news_admin	hu	Hír olvasása
+read permissions	news_admin	hu	Olvasási jogosultságok
+reload	news_admin	hu	Újratöltés
+send mail to others	news_admin	hu	Mail küldése másoknak
+should news_admin display the latest article headlines on the main screen.	news_admin	hu	Megjelenjenek-e a Kezdőlapon a legfrissebb hírek fejlécei?
+show latest news articles?	news_admin	hu	Legfrissebb hírek megjelenítése?
+show news articles on main page?	news_admin	hu	Legfrissebb hírek megjelenítése a Kezdőlapon?
+small view	news_admin	hu	Tömör nézet
+start	news_admin	hu	Kezdés
+submitted by	common	hu	Beküldő
+submitted by %1 on %2	news_admin	hu	A hírt %1 küldte be, ekkor: %2
+submitted by and date	news_admin	hu	Beküldő és beküldés dátuma
+teaser	news_admin	hu	Előzetes
+teaser with read more link	news_admin	hu	Előzetes hivatkozással a többi hírre
+the news content is missing	news_admin	hu	A hír tartalma hiányzik
+the number of articles to display on the main screen.	news_admin	hu	Kezdőlapon megjelenő hírek száma
+the subject is missing	news_admin	hu	Tárgy hiányzik
+there no such translation.	news_admin	hu	Nincs ilyen forítás.
+this module publishes news from the news_admin application on your website. be aware of news_admin's acl restrictions.	news_admin	hu	Ez a modul híreket jelenít meg a Hírszerkesztőből a webhelyen. Legyen körültekintő az ACL beállításokkal!
+until	news_admin	hu	meddig
+url of the rss or atom feed, empty for own news feed	news_admin	hu	RSS vagy Atom hírforrás URL-je, üres saját források esetén
+view this category	news_admin	hu	Kategória mutatása
+visible	news_admin	hu	Látható
+webpage news admin	news_admin	hu	Weboldal Hírszerkesztő
+which information do you want to show (css class)	news_admin	hu	Mely információka jelenítsük meg (CSS osztály)
+which news categories should be displayed on the main screen.	news_admin	hu	Mely új kategóriák jelenjenek meg a főképernyőn.
+write	news_admin	hu	Írás
+write permissions	news_admin	hu	Írási jogosultságok

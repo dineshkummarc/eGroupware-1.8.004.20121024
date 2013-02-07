@@ -1,0 +1,45 @@
+%1 group	polls	cs	skupina %1
+actions	polls	cs	akce
+add answer to poll	polls	cs	Přidat odpověď do ankety
+add answers	polls	cs	Přidat odpovědi
+add new poll question	polls	cs	Přidat novou otázku do ankety
+add questions	polls	cs	Přidat otázky
+administrators	polls	cs	Administrátoři
+allow users to vote more then once	polls	cs	Povolit uživatelům hlasovat více než jednou
+allways use latest poll	polls	cs	Vždy použít poslední anketu
+answer	polls	cs	Odpověď
+answer has been added to poll	polls	cs	Odpověď byla přidána do ankety
+answer has been updated	polls	cs	Odpověď byla zaktualizována
+answers	polls	cs	Odpovědi
+are you sure want to delete this answer ?	polls	cs	Určitě chcete smazat tuto odpověď?
+are you sure want to delete this question ?	polls	cs	Určitě chcete smazat tuto otázku?
+current poll	polls	cs	Aktuální anketa
+edit answer	polls	cs	Editovat odpověď
+edit poll question	polls	cs	Editovat anketní otázku
+egroupware users (non-anonymous)	polls	cs	Uživatelé eGroupWaru (ne anonymní)
+enter poll question	polls	cs	Zadat anketní otázku
+everyone incl. anonymous users	polls	cs	Všichni včetně anonymních uživatelů
+new poll has been added.  you should now add some answers for this poll	polls	cs	Byla přidána nová anketa. Měl(a) byste do této ankety přidat nějaké odpovědi.
+noone	polls	cs	Nikdo
+poll question	polls	cs	Anketní otázka
+poll votable by	polls	cs	V anketě mohou hlasovat
+polls	common	cs	Ankety
+question has been updated	polls	cs	Otázka byla zaktualizována
+result visible to	polls	cs	Výsledek mohou shlédnout
+select current poll	polls	cs	Vybrat aktuální anketu
+settings updated	polls	cs	Nastavení zaktualizována
+show answers	polls	cs	Zobrazit odpovědi
+show bullet if allowed to vote and result else	polls	cs	Zobrazovat hlasovací lístek při oprávnění k hlasování jinak jen výsledek
+show only the ballot	polls	cs	Zobrazovat jen hlasovací lístek
+show only the result	polls	cs	Zobrazovat jen výsledek
+show questions	common	cs	Zobrazit otázky
+this module displays polls.	polls	cs	Tento modul zobrazuje ankety.
+total votes	polls	cs	Celkem
+view poll	polls	cs	Zobrazit anketu
+view results	polls	cs	Zobrazit výsledky
+vote	polls	cs	Hlasovat
+voting booth admin	admin	cs	Hlasovací koisek
+voting booth administration	polls	cs	Administrace hlasovacího kiosku
+what to show	polls	cs	Co zobrazovat
+which poll	polls	cs	Která anketa
+you are not (yet) allowed view the result of this vote.	polls	cs	Nemáte oprávnění (zatím) zobrazit výsledek této ankety.

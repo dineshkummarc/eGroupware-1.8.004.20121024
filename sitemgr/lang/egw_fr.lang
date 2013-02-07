@@ -1,0 +1,513 @@
+%1 content manager	sitemgr	fr	Gestionnaire de contenu %1
+%1 module manager	sitemgr	fr	Gestionnaire de module %1
+'%1' is no valid sitemgr-site directory !!!	sitemgr	fr	'%1' n'est pas un répertoire sitemgr-site valide !!!
+(do not put spaces or punctuation in the name field.)	sitemgr	fr	(Ne mettez pas d'espace ou de ponctuation dans le champ Nom.)
+(leave blank to allow insecure logins)	sitemgr	fr	(laisser vide pour autoriser les connexions non sécurisées)
+(only used in case of single file)	sitemgr	fr	(utilisé seulement pour un fichier seul)
+1 day	common	fr	1 Jour
+1 hour	common	fr	1 Heure
+1 month	common	fr	1 Mois
+1 week	common	fr	1 Semaine
+<b>autoregistration is not enabled / configured in the registration app !!!</b><br>you need to do so, to get the autoregistration link working.	sitemgr	fr	<b>L'enregistrement automatique n'est pas activé / configuré dans l'application enregistrement !!!</b><br>Vous devez le faire pour que le lien d'enregistrement automatique fonctionne.
+<b>want more templates?</b><br />just download one from the template gallery at %1www.egroupware.org%2 or use a %3mambo open source%4 version 4.5 compatible template eg. from %5. unpack the downloaded template in your templates directory (%6).	sitemgr	fr	<b>Vous voulez plus de modèles?</b><br />Téléchargez-en un depuis la galerie de modèles %1www.eGroupWare.org%2 ou utilisez un modèle %3Mambo Open Source%4 Version 4.5 compatible c'est-à-dire de %5. Décompressez le modèle téléchargé dans votre répertoire de modèles (%6).
+a simple picture galery	sitemgr	fr	Une simple galerie d'images
+actif	sitemgr	fr	Actif
+add a category	sitemgr	fr	Ajouter une catégorie
+add a new application	sitemgr	fr	Ajouter une nouvelle application
+add a new guestbook	sitemgr	fr	Ajouter un nouveau livre d'or
+add block ...	sitemgr	fr	Ajouter un bloc
+add block to content area %1	sitemgr	fr	Ajouter un bloc à la zone de contenu %1
+add category	sitemgr	fr	Ajouter une catégorie
+add new page to this category	sitemgr	fr	Ajouter une nouvelle page à cette catégorie
+add page	sitemgr	fr	Ajouter une page
+add page to category	sitemgr	fr	Ajouter la page à la catégorie
+add website	sitemgr	fr	Ajouter un site Web
+administration	sitemgr	fr	Administration
+administrative menu	sitemgr	fr	Menu administratif
+administrators	sitemgr	fr	Administrateurs
+all categories	sitemgr	fr	Toutes les catégories
+all forums in category %1	sitemgr	fr	Tous les forums dans la catégorie %1
+all languages	sitemgr	fr	toutes les langues
+allignment of navigation elements	sitemgr	fr	Alignement des éléments de navigation
+allow posting of questions	sitemgr	fr	Autoriser la publication de questions
+amazon	sitemgr	fr	Amazon
+amazon server (without www), eg. amazon.com	sitemgr	fr	Serveur Amazon (sans www), p.ex. amazon.com
+an application directory	sitemgr	fr	Un répertoire d'application
+anonymous	sitemgr	fr	Anonyme
+anonymous user login domain	sitemgr	fr	Domaine de l'utilisateur anonyme
+anonymous user's password	sitemgr	fr	Mot de passe de l'utilisateur anonyme
+anonymous user's username	sitemgr	fr	Nom de l'utilisateur anonyme
+applet	sitemgr	fr	Applet
+application	sitemgr	fr	Application
+application '%1' is not installed !!!<br>please install it, to be able to use the block.	sitemgr	fr	L'application '%1' n'est pas installée !!!<br>Veuillez l'installer afin de pouvoir utiliser ce bloc.
+application sitemgr_module_guestbook must be installed as a egroupware application for this module to run	sitemgr	fr	L'application sitemgr_module_guestbook doit être installée en tant qu'application eGroupWare pour que ce module fonctionne
+apply permissions also to subcategories?	sitemgr	fr	Appliquer les permissions aussi aux sous-catégories?
+archived	sitemgr	fr	Archivé
+archived content	sitemgr	fr	Contenu archivé
+are contributors allowed to define new guestbooks?	sitemgr	fr	Les contributeurs sont-ils autorisés à définir de nouveaux livres d'or?
+are you sure you want to delete site %1 and all its content? you cannot retrieve it if you continue.	sitemgr	fr	Etes-vous sûr de vouloir effacer le site %1 et tout son contenu? Vous ne pourrez pas le récupérer si vous continuez.
+are you sure you want to delete the category %1 and all of its associated pages?  you cannot retrieve the deleted pages if you continue.	sitemgr	fr	Etes-vous sûr de vouloir effacer la catégorie %1 et toutes ses pages associées?  Vous ne pourrez plus récupérer les pages effacées si vous continuez.
+as	common	fr	comme
+asin[=title] pairs (title is optional)	sitemgr	fr	ASIN[=titre] paires (le titre est en option)
+attempt to access information outside current website	sitemgr	fr	Tentative d'accéder à de l'information en dehors du site Web actuel
+attempt to edit non-editable block	sitemgr	fr	Tentative de modifier un bloc non modifiable
+automatic index	sitemgr	fr	Index automatique
+automatically generated notification	sitemgr	fr	Notification générée automatiquement
+back to module manager	sitemgr	fr	Retourner au gestionnaire de modules
+back to the list of languages	sitemgr	fr	Retour à la liste de langues
+basic settings	sitemgr	fr	Réglages de base
+before the public web site can be viewed, you must configure the various locations and preferences.  please go to the sitemgr setup page by following this link:	sitemgr	fr	Avant que le site web public puisse être visualisé, vous devez configurer les différents emplacements et préférences. SVP allez à la page de configuration de sitemgr en suivant ce lien:
+block not found.	sitemgr	fr	Bloc non trouvé.
+block reloaded	sitemgr	fr	Bloc rechargé
+block returned no content.	sitemgr	fr	Le bloc n'a retourné aucun contenu.
+block saved	sitemgr	fr	Bloc enregistré
+bookmarks	sitemgr	fr	Signets
+buy at %1	sitemgr	fr	Achetez à %1
+calendar	sitemgr	fr	Calendrier
+can't open an url or execute a script, because allow_url_fopen is not set in your php.ini !!!	sitemgr	fr	Impossible d'ouvrir une URL ou d'exécuter un script, car allow_url_fopen n'est pas paramétré dans votre php.ini !!!
+cancel the delete	sitemgr	fr	Annuler l'effacement
+cannot move page until it has been saved.	sitemgr	fr	Ne peut déplacer une page avant son enregistrement.
+category	sitemgr	fr	Catégorie
+category description	sitemgr	fr	Description de la catégorie
+category manager	sitemgr	fr	Gestionnaire des catégories
+category name	sitemgr	fr	Nom de la catégorie
+category saved	sitemgr	fr	Catégorie enregistrée
+changes saved.	sitemgr	fr	Changements enregistrés.
+check here after every upgrade	sitemgr	fr	Vérifiez ici après chaque mise à jour
+check to hide from condensed site index.	sitemgr	fr	Cochez pour cacher de l'index condensé du site.
+choose a category	sitemgr	fr	Sélectionnez une catégorie
+choose a format	sitemgr	fr	Choisissez un format
+choose a guestbook	sitemgr	fr	Choisissez un livre d'or
+choose language	sitemgr	fr	Sélectionnez la langue
+choose template	sitemgr	fr	Choisissez un modèle
+choose the categories to display	sitemgr	fr	Sélectionnez les catégories à afficher
+choose the valid html type (note: not all icons are available):	sitemgr	fr	Choisissez un type VALID HTML (note: toutes les icônes ne sont pas disponibles):
+choose your site's theme or template.  note that if you changed the above checkbox you need to save before choosing a theme or template.	sitemgr	fr	Sélectionnez le thème ou gabarit de votre site.  Notez que si vous avez changé la case à cocher ci-dessus vous devez enregistrer avant de sélectionner un thème ou gabarit.
+click here to login through a safe connection.	sitemgr	fr	Cliquez ici pour vous connecter à travers une connexion sécurisée.
+code file	sitemgr	fr	Fichier code
+codebase url	sitemgr	fr	URL base de code
+collapse threads	sitemgr	fr	Développer les fils de discussion
+commit changes	sitemgr	fr	Appliquer les changements
+common prefix of the image-name (a number starting with 1 will be appended)	sitemgr	fr	préfixe générique du nom de l'image (un nombre commençant par 1 sera ajouté)
+configure module properties	sitemgr	fr	Configurer les propriétés du module
+configure sitemgr	sitemgr	fr	Configurer SiteMgr
+configure website	sitemgr	fr	Configurer le site Web
+contact the administrator.	sitemgr	fr	Contactez l'administrateur.
+content areas	sitemgr	fr	Zones de contenu
+content blocks	sitemgr	fr	Blocs de contenu
+content blocks for category	sitemgr	fr	Bloc de contenu pour la catégorie
+content manager	sitemgr	fr	Gestionnaire de contenu
+contentarea	sitemgr	fr	Zone de contenu
+contributor menu	sitemgr	fr	Menu du contributeur
+copyright	sitemgr	fr	Droits d'auteur
+create new version	sitemgr	fr	Créer une nouvelle version
+css styles	sitemgr	fr	styles CSS
+current section	sitemgr	fr	Section actuelle
+custom	sitemgr	fr	personnalisé
+default	sitemgr	fr	Défaut
+default home page id number	sitemgr	fr	ID de la page racine par défaut
+define websites	common	fr	Définir les sites Web
+delete block	sitemgr	fr	Effacer le bloc
+delete category	sitemgr	fr	Effacer la catégorie
+delete page	sitemgr	fr	Effacer la page
+delete this application	sitemgr	fr	Effacer cette application
+delete this block	sitemgr	fr	Effacer ce bloc
+delete this guestbook	sitemgr	fr	Effacer ce livre d'or
+delete version	sitemgr	fr	Effacer la version
+deleting all data for %1	sitemgr	fr	Effacement de toutes les données pour %1
+details for language %1 (%2)	sitemgr	fr	Détails pour la langue %1 (%2)
+directory for uploads (images etc.)	sitemgr	fr	Répertoire de dépôt (images etc.)
+directory is not writeable by webserver. please correct this situation!	sitemgr	fr	Le serveur web ne peut pas écrier dans ce répertoire. Corrigez la situation svp!
+discussions	sitemgr	fr	Discussions
+display link to autoregistration below login form?	sitemgr	fr	Afficher le lien vers l'auto-enregistrement sous le formulaire de login?
+do you realy want to delete the selected categories (including all pages), pages and blocks?	sitemgr	fr	Voulez-vous vraiment effacer les Catégories sélectionnées (y-compris toutes les paes), Pages et Blocs?
+do you realy want to delete this block?	sitemgr	fr	Voulez-vous vraiment effacer ce bloc?
+do you realy want to delete this page?	sitemgr	fr	Voulez-vous vraiment effacer cette page?
+do you want to delete them?	sitemgr	fr	Voulez-vous les effacer?
+documentation	sitemgr	fr	Documentation
+domain-name (offical dns-name eg. www.egroupware.org) if you want to give the user a choice between searching this site or the whole web. leaving it empty allows to search the web only.	sitemgr	fr	Nom de domaine (nom DNS officiel, p.ex. www.eGroupWare.org) si vous voulez donner à l'utilisateur le choix de chercher sur ce site our sur tout le Web. Si vous ne mettez rien la recherche est limité au Web seulement)
+don't have an account?	sitemgr	fr	Vous n'avez pas de compte?
+done	sitemgr	fr	Fait
+download as zip-archiv	sitemgr	fr	télécharger en tant qu'archive ZIP
+downloaded	sitemgr	fr	downloadé
+draft	sitemgr	fr	Brouillon
+draft mode	sitemgr	fr	Mode brouillon
+edit categories and permissions	common	fr	Modifier les catégories et les permissions
+edit category	sitemgr	fr	Modifier la catégorie
+edit individual pages	common	fr	Modifier les pages individuellement
+edit mode	sitemgr	fr	Mode d'édition
+edit page	sitemgr	fr	Modifier la page
+edit properties of module %1 for %2 with scope %3	sitemgr	fr	Modifier les propriétés du module %1 pour %2 avec le scope %3
+edit site	sitemgr	fr	Editer le Site
+edit site header and footer	common	fr	Modifier l'entête et le bas de page
+edit this block	sitemgr	fr	Modifier ce bloc
+edit website	sitemgr	fr	Modifier le site Web
+egw users	sitemgr	fr	Utilisateurs eGroupWare
+element successfully deleted.	sitemgr	fr	Elément effacé avec succès.
+enter a name	sitemgr	fr	Entrez un nom
+enter the block content here	sitemgr	fr	Entrez le contenu du bloc ici
+enter the email to be notified about changes of the website.	sitemgr	fr	Entrez l'email qui sera notifié à propos des modifications du site web.
+enter the email to be notified about changes of the website:	sitemgr	fr	Entrez l'email qui sera notifié à propos des modifications du site web:
+enter the page content here	sitemgr	fr	Entrez le contenu de la page ici
+enterprise knowledge articles repository	sitemgr	fr	Recueil des articles de Connaissance de l'entreprise
+entry duplicated.	sitemgr	fr	Entrée dupliquée.
+entry saved.	sitemgr	fr	Entrée enregistrée.
+error accessing page	common	fr	Erreur en accédant à la page
+error deleting the element.	sitemgr	fr	Erreur lors de l'effacement de l'élément.
+error writing to the database.	sitemgr	fr	Erreur lors de l'écriture en base de données.
+error writing to the database: %1.	sitemgr	fr	Erreur lors de l'écriture en base de données: %1.
+everybody	sitemgr	fr	Tout le monde
+expand current category	sitemgr	fr	Développer la catégorie en cours
+file %1 is not readable by the webserver !!!	sitemgr	fr	Fichier %1 pas lisible par le serveur Web !!!
+file %1 is outside the docroot of the webserver !!!<br>this module does not allow - for security reasons - to open files outside the docroot.	sitemgr	fr	Le fichier %1 se trouve en dehors du 'docroot' du serveur Web !!!<br>Ce module ne permet pas - pour des raisons de sécurité - d'ouvrir des fichiers à l'extérieur de 'docroot'
+file contents	sitemgr	fr	Le fichier contient
+file download	sitemgr	fr	Download du fichier
+filename	sitemgr	fr	Nom du fichier
+filesystem path of the directory where xml files are stored	sitemgr	fr	Chemin du répertoire dans le système de fichiers où les fichiers xml seront stockés
+filesystem path of the image-directory	sitemgr	fr	Chemin du répertoire d'images dans le système de fichiers
+filesystem path to sitemgr-site directory	sitemgr	fr	Chemin du système de fichiers vers le dossier sitemgr-site
+fill in permissions from parent category? if you check this, below values will be ignored	sitemgr	fr	Remplir les permissions depuis les catégories parentes? Si vous activez ceci, les valeurs ci-dessous vont être ignorées
+following new modules registed: %1	sitemgr	fr	Les nouveaux modules suivants ont été enregistrés: %1
+footer editor	sitemgr	fr	Editeur de bas de page
+forever	common	fr	A jamais
+forum	sitemgr	fr	Forum
+full path of the xslt file that should be applied to the xml files	sitemgr	fr	Chemin complet des fichiers XSLT qui doivent être appliqués aux fichiers XML
+galerie	sitemgr	fr	Galerie
+gallery plus chooser	sitemgr	fr	Sélecteur Gallery plus
+gallery plus chooser and download	sitemgr	fr	Sélecteur Gallery plus et téléchargement
+gallery plus download	sitemgr	fr	Téléchargement Gallery plus
+go back to page manager	sitemgr	fr	Retourner au gestionnaire de pages
+go back to the category manager.	sitemgr	fr	Retourner au gestionnaire de catégories.
+go to	sitemgr	fr	Aller à
+go to page manager	sitemgr	fr	Aller au gestionnaire de pages
+google	sitemgr	fr	Google
+google search	sitemgr	fr	Recherche Google
+group access permissions	sitemgr	fr	Permissions d'accès de groupe
+group name	sitemgr	fr	Nom du groupe
+header editor	sitemgr	fr	Editeur d'entête
+headlines	sitemgr	fr	Titres
+hello	sitemgr	fr	Bonjour
+hello world	sitemgr	fr	Bonjour, le monde
+helps you respect html/xhtml standards.	sitemgr	fr	Vous aide à respecter les standards HTML/XHTML.
+horizontal	sitemgr	fr	Horizontal
+html frame	sitemgr	fr	Cadre HTML
+html module	sitemgr	fr	Module HTML
+i'm sorry, you do not have write permissions for any site categories.	sitemgr	fr	Désolé, vous n'avez les droits d'écriture pour aucune catégorie du site.
+if nonsecure redirect to:	sitemgr	fr	Si non sécurisé rediriger vers:
+if you haven't done so already, create a user that will be used for public viewing of the site.  recommended name: anonymous.	sitemgr	fr	Si vous ne l'avez pas déjà fait, créez un utilisateur qui va être utilisé pour le visionnage public du site.  Nom recommandé: anonyme.
+image type	sitemgr	fr	Type d'image
+implies read permission	sitemgr	fr	Implique les permissions en lecture
+index	sitemgr	fr	Index
+individual access permission	sitemgr	fr	Permissions d'accès individuelles
+individual access permissions	sitemgr	fr	Permissions d'accès individuelles
+interface to google website	sitemgr	fr	Interface vers le site Web de Google
+invalid template directory '%1' !!!	sitemgr	fr	Répertoire de modèles '%1' invalide !!!
+knowledge base	sitemgr	fr	Base de Connaissances
+languages the site user can choose from	sitemgr	fr	Les langues que l'utilisateur du site peut choisir
+last entries to the guestbook	sitemgr	fr	Dernières entrées du livre d'or
+latest reply	sitemgr	fr	Dernière réponse
+list of permitted modules specific to content area %1	sitemgr	fr	Liste de modules permis spécifiques à la zone de contenu %1
+loged in as:	sitemgr	fr	Connecté en tant que:
+login	sitemgr	fr	Login
+login name	sitemgr	fr	Nom du login
+main content	sitemgr	fr	Contenu principal
+mains	sitemgr	fr	Principaux
+manage archived content	sitemgr	fr	Gérer le contenu des archives
+manage categories	sitemgr	fr	Gérer les catégories
+manage categories and pages	sitemgr	fr	Gérer les catégories et pages
+manage category wide content	sitemgr	fr	Gérer le contenu sur l'ensemble de la catégorie
+manage category wide module properties	sitemgr	fr	Gérer les propriétés de module sur l'ensemble de la catégorie
+manage content	sitemgr	fr	Gérer le contenu
+manage modules	sitemgr	fr	Gérer les modules
+manage page specific content	sitemgr	fr	Gérer le contenu spécifique à la page
+manage pages	common	fr	Gérer les pages
+manage site content	sitemgr	fr	Gérer le contenu du site
+manage site-wide content	sitemgr	fr	Gérer le contenu de tout le site
+manage site-wide module properties	sitemgr	fr	Gérer les propriétés des modules sur l'ensemble du site
+manage translations	sitemgr	fr	Gérer les traductions
+master list of permitted modules	sitemgr	fr	Liste principale des modules permis
+messages are defined for all site languages.	sitemgr	fr	Les messages sont définis pour toutes les langues des sites.
+migrating data for %1 to %2	sitemgr	fr	Migre les données pour %1 vers %2
+module %1 is not permitted in this context!	sitemgr	fr	Le module %1 n'est pas permis dans ce contexte!
+module manager	sitemgr	fr	Gestionnaire de modules
+module: %1, scope: %2, contentarea: %3, viewable: %4	sitemgr	fr	Module: %1, Portée: %2, Zone de contenu: %3, Visible: %4
+move block down (increase sort order)	sitemgr	fr	Déplacer le bloc vers le bas (incrémente l'ordre de tri)
+move block up (decrease sort order)	sitemgr	fr	Déplacer le bloc vers le haut (décrémente l'ordre de tri)
+move to	sitemgr	fr	Déplacer vers
+name	sitemgr	fr	Nom
+name has been translated to lower case	sitemgr	fr	Le nom a été traduit en caractères minuscules
+new application	sitemgr	fr	Nouvelle application
+new guestbook	sitemgr	fr	Nouveau livre d'or
+new sitemgr site	sitemgr	fr	Nouveau site sitemgr
+no additional arguments required	sitemgr	fr	Aucun argument supplémentaire n'est requis
+no anonymous user accounts installed.  notify the administrator.	sitemgr	fr	IL N'Y A PAS DE COMPTE UTILISATEUR ANONYME INSTALLE.  PREVENEZ L'ADMINISTRATEUR.
+no content areas found in selected template	sitemgr	fr	Pas de zones de contenu trouvées dans le gabarit sélectionné
+no content found	sitemgr	fr	Aucun contenu trouvé
+no groups defined.	sitemgr	fr	Aucun groupe défini.
+no link to full index	sitemgr	fr	Pas de lien à l'index complet
+no modules permitted for this content area/category	sitemgr	fr	Pas de modules permis pour cette zone/catégorie de contenu
+no new modules found !!!	sitemgr	fr	Pas de nouveau module trouvé !!!
+no options available.	sitemgr	fr	Aucune option disponible.
+no pages available	sitemgr	fr	Aucune page disponible
+no sitelanguages configured	sitemgr	fr	Pas de langues de site configurées
+no template file found.	sitemgr	fr	Aucun fichier de gabarit trouvé.
+no templates found.	sitemgr	fr	Pas de gabarits trouvés.
+no thumbnail availible	sitemgr	fr	Pas d'échantillon disponible
+no users defined.	sitemgr	fr	Aucun utilisateur défini.
+no websites defined	sitemgr	fr	Aucun site Web défini
+no, chooser only (for side-areas)	sitemgr	fr	Non, sélectionneur seulement (pour les zones de côté)
+no, chooser with preview	sitemgr	fr	Non, sélectionneur avec prévisualisation
+not	common	fr	pas
+not yet translated	sitemgr	fr	pas encore traduit
+note that you may get this message if your preferences are incorrect.  for example, if config.inc.php is not found in the directory that you specified.	sitemgr	fr	Notez que vous pouvez avoir ce message si vos préférences sont incorrectes. Par exemple, si config.inc.php n'est pas trouvé dans le répertoire que vous avez spécifié.
+note, this directory has to be writeable by webserver!	sitemgr	fr	Notez que le serveur web doit pouvoir écrire dans ce répertoire!
+on all pages	sitemgr	fr	sur toutes les pages
+only gallery	sitemgr	fr	Galerie seulement
+only on the first page	sitemgr	fr	seulement sur la première page
+or enter the title for a new guestbook	sitemgr	fr	ou entrez le titre pour un nouveau livre d'or
+other websites	sitemgr	fr	Autres sites Web
+overview of all available categories	sitemgr	fr	Vue globale de toutes les catégories disponibles
+overview of one specific category	sitemgr	fr	Vue globale d'une catégorie spécifique
+own amazon partner-id or empty to donate to the egroupware project	sitemgr	fr	Votre n° de partenaire Amazon ou vide pour faire un don au projet eGroupWare
+page	sitemgr	fr	Page
+page content	sitemgr	fr	Contenu de la page
+page manager	sitemgr	fr	Gestionnaire de pages
+page name	sitemgr	fr	Nom de la page
+page saved	sitemgr	fr	Page enregistrée
+page saved.	sitemgr	fr	Page enregistrée.
+page subtitle	sitemgr	fr	Sous-titre de la page
+page title	sitemgr	fr	Titre de la page
+pages	sitemgr	fr	Pages
+pages:	sitemgr	fr	Pages:
+parent	sitemgr	fr	Parent
+parent directory	sitemgr	fr	répertoire parent
+parent section:	sitemgr	fr	Section Parente:
+password	sitemgr	fr	Mot de passe
+password that you assigned for the anonymous user account.	sitemgr	fr	Le mot de passe que vous avez assigné pour le compte anonyme.
+path to image-directory '%1' is not valid or readable by the webserver !!!	sitemgr	fr	Chemin du répertoire d'images '%1' invalide ou illisible par le serveur Web !!!
+path to zip binary if not in path of the webserver	sitemgr	fr	Chemin de l'exécutable zip si pas dans le chemin du serveur Web
+percentage	sitemgr	fr	Pourcentage
+phrases in total	sitemgr	fr	Phrases totales
+please enter a name for that site !	sitemgr	fr	SVP entrez un nom pour ce site !
+please sign the guestbook	sitemgr	fr	Veuillez signer le livre d'or
+post a message to this thread	sitemgr	fr	Poster un message dans ce fil de discussion
+prepublished	sitemgr	fr	Prépublié
+preunpublished	sitemgr	fr	Prédépublié
+previous	sitemgr	fr	Précédent
+production mode	sitemgr	fr	Mode production
+published	sitemgr	fr	Publié
+reactivate content	sitemgr	fr	Réactiver le contenu
+read permission	sitemgr	fr	Permission en lecture
+redirection	sitemgr	fr	Redirection
+refresh	sitemgr	fr	Actualiser
+register for one now.	sitemgr	fr	Enregistrez-vous maintenant.
+register new modules	sitemgr	fr	Enregistrer de nouveaux modules
+reload	sitemgr	fr	Recharger
+remember me	common	fr	souvenez-vous de moi
+replies	sitemgr	fr	Réponses
+required fields	sitemgr	fr	Champs requis
+reset	sitemgr	fr	Réinitialisation
+return to forums	sitemgr	fr	Retourner aux forums
+return to main menu.	sitemgr	fr	Retour au menu principal.
+return to message list	sitemgr	fr	Retourner à la liste de messages
+root site index	sitemgr	fr	Index de la racine du site
+save	sitemgr	fr	Enregistrer
+save block	sitemgr	fr	Enregistrer le bloc
+saved	sitemgr	fr	Enregistré
+scope	sitemgr	fr	Scope
+seen by	sitemgr	fr	Vu par
+select a category	sitemgr	fr	Choisissez une catégorie
+select a forum	sitemgr	fr	Choisissez un forum
+select allowed modules	sitemgr	fr	Choisissez les modules autorisés
+select persons and groups that are entitled to configure the website.	sitemgr	fr	Choisir les personnes et groupes attitrés pour configurer le site Web.
+select the templates the user is allowed to see	sitemgr	fr	Sélectionnez les modèles que l'utilisateur est autorisé à voir
+select type of navigation	sitemgr	fr	Choisissez le type de Navigation
+selected template %1 does not exist.	sitemgr	fr	Le gabarit %1 sélectionné n'existe pas.
+selected theme %1 does not exist.	sitemgr	fr	Le thème %1 sélectionné n'existe pas.
+should the file be viewed in the browser or downloaded	sitemgr	fr	Le fichier doit-il être vu dans le navigateur ou downloadé
+show a template-gallery (thumbnail and informations)	sitemgr	fr	Afficher une galerie de modèles (échantillons et informations)
+show contents of a directory	sitemgr	fr	Affiche le contenu d'un répertoire
+show contents of a directory with subdirectories	sitemgr	fr	Affiche le contenu d'un répertoire et ses sous-répertoires
+show details for the applications	sitemgr	fr	Afficher les détails pour les applications
+show only (in the next field) selected templates	sitemgr	fr	Afficher seulement (dans le prochain champ) les modèles sélectionnés
+show path?	sitemgr	fr	afficher le chemin?
+show searchbox	sitemgr	fr	Afficher les boîtes de recherche
+show site index	sitemgr	fr	Afficher l'index du site.
+show subcategories	sitemgr	fr	Afficher les sous-catégories
+show the title of the wiki page	sitemgr	fr	Afficher le titre de la page wiki
+single file download	sitemgr	fr	Téléchargement d'un seul fichier
+site	sitemgr	fr	Site
+site %1 has been added, you need to %2configure the site%3 now	sitemgr	fr	Le Site %1 a été ajouté, vous devez %2configurer le site%3 maintenant
+site %1 has been updated	sitemgr	fr	Le site %1 a été mis à jour
+site administrators	sitemgr	fr	Administrateurs de site
+site description	sitemgr	fr	Description du site
+site format manager	sitemgr	fr	Gestionnaire de format du site.
+site index	sitemgr	fr	Index du site
+site name	sitemgr	fr	Nom du site
+site setup	common	fr	Configuration du site
+site tree menu	sitemgr	fr	Menu de l'arbre du site
+site wide	sitemgr	fr	Sur l'ensemble du site
+sitemgr	common	fr	SiteMgr
+sitemgr manual	sitemgr	fr	Manuel SiteMgr
+sitemgr options	sitemgr	fr	Options de SiteMgr
+sitemgr setup instructions	sitemgr	fr	Instructions de configuration de SiteMgr
+sitemgr setup page	sitemgr	fr	Page de configuration de sitemgr
+sitemgr web content manager	common	fr	Gestionnaire de sites web SiteMgr
+sitemgr websites	sitemgr	fr	Sites Web sitemgr
+sitemgr-link	common	fr	Site web
+sort order	sitemgr	fr	Ordre de tri
+state	sitemgr	fr	Etat
+strip html from block content?	sitemgr	fr	Enlever le code HTML du contenu du bloc?
+subcategories	sitemgr	fr	Sous-catégories
+subsections:	sitemgr	fr	Sous-sections:
+subtext for image %1	sitemgr	fr	Sous-titre pour image %1
+subtitle	sitemgr	fr	Sous-titre
+summary of one forum	sitemgr	fr	Sommaire d'un forum
+suppress link to index (show all)	sitemgr	fr	Supprimer le lien à l'index (montrer tout)
+suppress link to parent category	sitemgr	fr	Supprimer le lien à la catégorie parente
+suppress the current page	sitemgr	fr	Supprimer la page en cours
+table of contents	sitemgr	fr	Table de matières
+template based navigation module	sitemgr	fr	Module de navigation basé sur un modèle
+template select	sitemgr	fr	Choix de gabarit
+text allignment	sitemgr	fr	Alignement de texte
+textarea	sitemgr	fr	Zone de texte
+the category to display, 0 for complete table of contents	sitemgr	fr	La catégorie à afficher, 0 pour une table complète des contenus
+the complete url or path to a file to be included	sitemgr	fr	L'URL complète ou le chemin du fichier à inclure
+the config.inc.php file needs to be edited to point to the egroupware directory. copy the config.inc.php.template file to config.inc.php and then edit it.	sitemgr	fr	Le fichier config.inc.php doit être édité pour pointer vers le répertoire de eGroupWare. Copiez le fichier config.inc.php.template vers config.inc.php puis éditez-le.
+the file to be downloaded	sitemgr	fr	Le fichier à downloader
+the filesystem path to your sitemgr-site directory '%1' is probably wrong. go to sitemgr --> define websites and edit/fix the concerned site.	sitemgr	fr	Le système de fichier de votre répertoire sitemgr-site '%1' est probablement faux. Allez dans SiteMgr --> Définir des sites Web et editez/corrigez le Site concerné.
+the first directory to think about is sitemgr-link.  if you move this to the parent directory of sitemgr (your egroupware root directory) then you can use setup to install the app and everyone with access to the app will get an icon on their navbar that links them directly to the public web site.  if you don't want this icon, there's no reason to ever bother with the directory.	sitemgr	fr	Le premier répertoire auquel il faut penser est sitemgr-link.  Si vous déplacez ceci dans le répertoire parent de sitemgr (le répertoire principal de votre egroupware) alors vous pouvez utiliser setup pour installer l'application et tous ceux qui ont un accès à l'application vont avoir une icône sur leur barre de navigation qui les renvoie directement vers le site Web public.  Si vous ne voulez pas de cette icône, il n'y a aucune raison de s'occuper de ce répertoire.
+the name field cannot contain punctuation or spaces (field modified).	sitemgr	fr	Le champ nom ne peut contenir de caractères de ponctuation ou d'espaces (le champ a été modifié).
+the page name must be unique.	sitemgr	fr	Le nom de la page doit être unique.
+the page was successfully saved.	sitemgr	fr	La page a été enregistrée avec succès.
+the path to the file to be downloaded	sitemgr	fr	Le chemin vers le fichier à downloader
+the person to say hello to	sitemgr	fr	La personne à qui dire bonjour
+the second directory is the sitemgr-site directory.  this can be moved <i>anywhere</i>.  it can also be named <i>anything</i>.  wherever it winds up, when you point a web browser to it, you will get the generated website.  assuming, of course, that you've accurately completed the setup fields below and also <b><i>edited the config.inc.php</i></b> file.	sitemgr	fr	Le deuxième répertoire est le répertoire de sitemgr-site.  Ceci peut être déplacé <i>n'importe où</i>.  Ceci peut être renommé en <i>n'importe quoi</i>.  Dès qu'il est monté, quand vous pointez un navigateur vers lui, vous avez le site Web généré.  En considérant, bien sûr, que vous avez correctement complété les champs du setup ci-dessous et aussi <b><i>édité le fichier config.inc.php</i></b>.
+the text for the link, if empty the module returns the raw url (without a link)	sitemgr	fr	Le texte pour le lien, si vide le module retourne l'URL brut (sans l'élément A de HTML)
+the url can be relative or absolute.  name must end in a slash.	sitemgr	fr	L'URL peut être relative ou absolue.  Le nom doit finir avec un slash (/).
+the url must be absolute and end in a slash, for example http://mydomain.com/mysite/	sitemgr	fr	L'URL doit être absolue et finir par un slash (/), par exemple http://mondomaine.com/monsite/
+the url to display	sitemgr	fr	L'URL à afficher
+the url to redirect to	sitemgr	fr	L'URL vers laquelle rediriger
+the web	sitemgr	fr	le Web
+the website has changed. too see the change, follow this url: $url.	sitemgr	fr	Le site web a été modifié. Pour voir les modifications, suivez cette URL: $URL.
+the whole page	sitemgr	fr	La page complète
+the xml files' common name	sitemgr	fr	Le nom commun des fichiers XML
+theme or template select	sitemgr	fr	Selection du thème ou du gabarit
+there are %1 elements in the list.	sitemgr	fr	Il y a %1 éléments dans la liste.
+there are no categories	sitemgr	fr	Il n'y a pas de catégories
+there are no forums in this category	sitemgr	fr	Il n'y a pas de forums dans cette catégorie
+there are no pages in this section	sitemgr	fr	Il n'y a pas de page dans cette section.
+there are no properties defined for this module	sitemgr	fr	Il n'y a pas de propriétés définies pour ce module
+there are no sections available to you.	sitemgr	fr	Il n'y a pas de section disponible pour vous.
+there are two subdirectories off of your sitemgr directory that you should move before you do anything else.  you don't <i>have</i> to move either of these directories, although you will probably want to.	sitemgr	fr	Il y a deux sous-répertoires de votre répertoire de sitemgr que vous devriez déplacer avant de faire quoi que ce soit.  Vous n'avez <i>pas</i> à déplacer aucun de ces répertoires, mais vous allez probablement vouloir le faire.
+there can only be one version in (pre(un))published state, with the one exeption that one prepublished version can coexist with one preunpublished version	sitemgr	fr	Il ne peut y avoir qu'une version dans l'état (pré(dé))publié, avec l'unique exception qu'une version prépubliée peut coexister avec une version prédépubliée
+there is no website configured for url %1.  notify the administrator.	sitemgr	fr	IL N'Y A AUCUN SITE WEB CONFIGURE POUR L'URL %1.  NOTIFIEZ L'ADMINISTRATEUR.
+there is nothing to list.	sitemgr	fr	Il n'y a rien à lister.
+there was an error accessing the requested page. either you do not have permission to view this page, or the page does not exist.	common	fr	Une erreur s'est produite en accédant à la page demandée. Soit vous n'avez pas la permission de voir cette page, soit la page n'existe pas.
+there was an error writing to the database.	sitemgr	fr	Erreur à l'écriture dans la base de données.
+this block displays a javascript based tree menu	sitemgr	fr	Ce bloc montre un menu arborescent basé sur javascript
+this block displays the current section's table of contents	sitemgr	fr	Ce bloc montre la table du contenu de la section actuelle
+this category has no pages.	sitemgr	fr	Cette catégorie n'a pas de page.
+this is a simple sample module	sitemgr	fr	Ceci est un module d'exemple simple
+this is only used as an internal name for the website.	sitemgr	fr	Ceci est uniquement utilisé comme nom interne pour le site Web.
+this is used chiefly for meta data and the title bar. if you change the site languages below you have to save before being able to set this preference for a new language.	sitemgr	fr	Ceci est utilisé en premier chef pour les meta-données et la barre de titres. Si vous modifiez les langues du site ci-desssous vous allez devoir enregistrer avant de pouvoir régler cette préférence pour une nouvelle langue.
+this is used chiefly for meta data. if you change the site languages below you have to save before being able to set this preference for a new language.	sitemgr	fr	Ceci est utilisé en premier chef pour les meta-données. Si vous modifiez les langues du site ci-desssous vous allez devoir enregistrer avant de pouvoir régler cette préférence pour une nouvelle langue.
+this module create a link for downloading a file from the vfs	sitemgr	fr	Ce module crée un lien pour downloader un fichier depuis le VFS
+this module create a link for downloading a file(s) from the vfs	sitemgr	fr	Ce module créée un lien pour télécharger un/des fichier(s) depuis VFS
+this module demonstrates how handling data stored in xml and building an interacvite interface from it	sitemgr	fr	Ce module démontre comment gérer les données stockées dans XML et construire une interface interactive depuis elles
+this module displays a login form	sitemgr	fr	Ce module affiche un formulaire de login
+this module displays any kind of navigation element.	sitemgr	fr	Ce module affiche n'importe quel élément de navigation.
+this module displays bookmarks in a javascript based tree	sitemgr	fr	Ce module affiche les signets dans un arbre basé sur javascript
+this module displays the current month	sitemgr	fr	Ce module affiche le mois actuel
+this module displays the egw forums on the web site	sitemgr	fr	Ce module affiche les forums eGroupWare sur le site Web
+this module displays the root categories in one block each, with pages and subcategories (incl. their pages if activated).	sitemgr	fr	Ce module affiche les catégories principales chacunes dans un bloc, avec les pages et les sous-catégories (y-compris leurs pages si activées).
+this module displays the root categories, its pages and evtl. subcategories. it is meant for side areas	sitemgr	fr	Ce module affiche les catégories principales, ses pages, et éventl. ses sous-catégories. Ceci est utilisé pour les zones de côté
+this module includes the contents of an url or file (readable by the webserver and in its docroot !)	sitemgr	fr	Ce module inclus le contenu d'une URL ou fichier (lisible par le serveur Web et dans le 'docroot' !)
+this module is a customisable navigation element	sitemgr	fr	Ce module est un élément de navigation personnalisable
+this module is a selectbox to change the mode (production, draft or edit) plus a link back to sitemgr and to log out. it is meant for registered users only	sitemgr	fr	Ce module est une boîte de sélection pour changer le mode (production, brouillon ou édition) et un lien de retour sur SiteMgr et Déconnexion. Ceci est utilisé par les utilisateurs enregistrés seulement.
+this module is a simple html editor	sitemgr	fr	Ce module est un éditeur HTML simple
+this module lets the users choose a template or shows a template gallery	sitemgr	fr	Ce module permet à l'utilisateur de choisir un modèle ou montrer une galerie de modèles
+this module lets users choose language	sitemgr	fr	Ce module permet aux utilisateurs de sélectionner leur langue
+this module lets you define pages that redirect to another url, if you use it, there should be no other block defined for the page	sitemgr	fr	Ce module vous permet de définir les pages qui rédirigent vers une autre URL, si vous l'utilisez, il ne devrait pas y avoir d'autre bloc défini pour la page
+this module lets you include an applet into the page.	sitemgr	fr	Ce module vous permet d'intégrer une applet dans la page.
+this module lets you show a given url inside an iframe in the page.	sitemgr	fr	Ce module vous permet d'afficher une URL dans un IFRAME d'une page.
+this module permits browsing through xml files stored in a directory, and transformed by xslt	sitemgr	fr	Ce module permet de naviguer dans les fichiers XML stockés dans un répertoire, et transformés par XSLT
+this module provides a complete table of contents, it is automatically used by the toc and category_id get parameters	sitemgr	fr	Ce module fournit une table de contenus complète, il est automatiquement utilisé par la table de contenus et les paramètres GET de l'ID catégorie
+this module provides a condensed table of contents, meant for side areas	sitemgr	fr	Ce module fournit une table de contenus condensée, destinée aux zones sur le côté
+this module provides the path to the element currently shown	sitemgr	fr	Ce module fournit le chemin le chemin de l'élément actuellement affiché
+this module provides the site index, it is automatically used by the index get parameter	sitemgr	fr	Ce module fournit l'index du site, il est automatiquement utilisé par le paramètre GET d'index
+this module show the status / percentage of the translation of egw	sitemgr	fr	Ce module affiche le status/pourcentage de la traduction d'eGW
+this must be an absolute directory location.  <b>no trailing slash</b>.	sitemgr	fr	Ceci doit être un emplacement répertoire absolu.  <b>Pas de slash (/) à la fin</b>.
+this should be a comma-separated list of language-codes.	sitemgr	fr	Ceci devrait être une liste séparée par des virgules de codes de langue.
+this should be a page that is readable by everyone. if you leave this blank, the site index will be shown by default.	sitemgr	fr	Ceci devrait être une page qui est lisible par tout le monde. Si vous laissez ceci à vide, l'index du site va être montré par défaut.
+this site	sitemgr	fr	ce site
+title	sitemgr	fr	Titre
+topic	sitemgr	fr	Sujet
+translate	sitemgr	fr	Traduire
+translate category	sitemgr	fr	Traduire la catégorie
+translate page	sitemgr	fr	Traduire la page
+translate site-wide content blocks	sitemgr	fr	Traduire les blocs de contenu sur l'ensemble du site
+translation manager	sitemgr	fr	Gestionnaire des traductions
+translation status	sitemgr	fr	Status de traduction
+unsubscribe	sitemgr	fr	Se désinscrire
+up to parent	sitemgr	fr	Vers le niveau supérieur
+up to table of contents	sitemgr	fr	Vers la table de matières
+update notification	sitemgr	fr	Notification de mise à jour
+updating to new category system	sitemgr	fr	Mise à jour vers le nouveau système de catégories
+url of directory for uploads (images etc.)	sitemgr	fr	URL du répertoire de dépôt (images, etc.)
+url pointing to the image-directory	sitemgr	fr	URL pointant vers le répertoire d'images
+url to sitemgr-site	sitemgr	fr	URL de sitemgr-site
+use phpnuke themes instead of templates	sitemgr	fr	Utilisez les thèmes phpnuke à la place des gabarits
+use this module for displaying book ads for the amazon web site	sitemgr	fr	Utilisez ce module pour afficher les pubs des livres pour le site Web amazon
+use this module for displaying wiki-pages	sitemgr	fr	Utilisez ce module pour afficher les pages wiki
+user name	sitemgr	fr	Nom d'utilisateur
+validator	sitemgr	fr	Validateur
+vertical	sitemgr	fr	Vertical
+view administrative menu	sitemgr	fr	Voir le menu administratif
+view full index	sitemgr	fr	Voir l'index complet
+view generated site	sitemgr	fr	Voir le site généré
+view template on this site	sitemgr	fr	Voir les modèles sur ce site
+view threads	sitemgr	fr	Voir les fils de discussion
+viewed	sitemgr	fr	Vu
+web content manager	common	fr	Gestionnaire de contenu de site web
+web content manager administration	sitemgr	fr	Administration du gestionnaire de contenu de site web
+web site manager	sitemgr	fr	Gestionnaire de Site Web
+website	sitemgr	fr	Site Web
+week	sitemgr	fr	semaine
+what do you want to do with existing translations of categories and pages for this language?	sitemgr	fr	Qu'est-ce que vous voulez faire avec les traductions existantes des catégories et pages pour cette langue?
+which application should be executed after login?	sitemgr	fr	Quelle application doit être exécutée après la connexion?
+wiki	sitemgr	fr	Wiki
+wiki startpage	sitemgr	fr	Page de démarrage Wiki
+with which view should the module be displayed in the beginning?	sitemgr	fr	Avec quelle vue le module devrait être affiché au début?
+write permission	sitemgr	fr	Permission d'écriture
+xml browser	sitemgr	fr	Navigateur XML
+yes, please delete it	sitemgr	fr	Oui, SVP effacez-le
+you are not entitled to change the scope of block %1 to cat %2 and page %3	sitemgr	fr	Vous êtes invité à modifier la portée du bloc %1 à Cat %2 et Page %3
+you are not entitled to create module %1 on this scope	sitemgr	fr	Vous n'êtes pas autorisé à créer le module %1 dans ce scope
+you are not entitled to edit block %1	sitemgr	fr	Vous n'êtes pas autorisé à modifier le bloc %1
+you can choose the modules that can be used on the site. the first list is a sort of master list, that is consulted if you do not configure lists specific to contentareas or (sub)categories. then you can choose lists specific to each content area. in the category manager these lists can be overriden for each (sub)category.	sitemgr	fr	Vous pouvez sélectionner les modules qui peuvent être utilisés sur le site. La première liste est un tri de la liste maître, qui est consultée si vous ne configurez pas les listes spécifiques aux zones de contenus ou (sous)catégories. Puis vous pouvez sélectionner les listes spécifiques à chaque zone de contenu. Dans le gestionnaire de catégories ces listes peuvent être écrasées pour chaque (sous)catégorie.
+you can either migrate them to a new language or delete them	sitemgr	fr	Vous pouvez soit les migrer vers une nouvelle langue soit les effacer
+you can override each content blocks default title. be aware that not in all content areas the block title will be visible.	sitemgr	fr	Vous pouvez écraser le titre par défaut de chaque bloc de contenu. Soyez prévenu que le titre de bloc ne sera pas visible dans toutes les zones de contenu.
+you did not choose a module.	sitemgr	fr	Vous n'avez pas choisi de module.
+you do not have access to any content on this site.	sitemgr	fr	Vous n'avez accès à aucun contenu sur ce site.
+you do not have write permissions for any site categories.	sitemgr	fr	Vous n'avez les permissions en écriture pour aucune catégorie de site.
+you don't have permission to write in the category	sitemgr	fr	Vous n'avez pas la permission d'écrire dans cette catégorie
+you don't have permission to write to that category.	sitemgr	fr	Vous n'avez pas la permission d'écrire dans cette catégorie.
+you failed to fill in one or more required fields.	sitemgr	fr	Vous n'avez pas rempli un ou plusieurs des champs requis.
+you have no rights to view wiki content or the wiki is not installed at all !!!	sitemgr	fr	Vous n'avez pas l'autorisation de voir le contenu wiki, ou wiki n'est pas installé du tout !!!
+you may have deinstalled the used template '%1'. reinstall it or go to sitemgr --> configure website and select an other one.	sitemgr	fr	Vous avez peut-être désinstallé le modèle '%1' utilisé. Réinstallez le ou allez à SiteMgr --> Configurer les Sites Web et sélectionnez-en un autre.
+you must be an admin to edit categories.	sitemgr	fr	Seul un administrateur peut éditer les catégories.
+you must be an admin to edit the site header and footer.	sitemgr	fr	Seul un administrateur peut éditer l'entête et le bas de page du site.
+you must be an admin to manage module properties.	sitemgr	fr	Vous devez être un administrateur pour gérer les propriétés de module.
+you must be an administrator to setup the site manager.	sitemgr	fr	Seul l'administrateur peut configurer le gestionnaire de site.
+you removed one ore more languages from your site languages.	sitemgr	fr	Vous avez supprimé une ou plusieurs des langues de votre site.
+your administrator has not yet setup the web content manager for public viewing.  go bug your administrator to get their butt in gear.	sitemgr	fr	Votre administrateur n'a pas encore configuré le gestionnaire de contenu Web pour l'accès public.  Allez pousser votre administrateur pour qu'il bouge ses fesses rapidement.
+your calendar	sitemgr	fr	Votre calendrier
+your comment	sitemgr	fr	Votre commentaire
+your connection is not safe.	sitemgr	fr	Votre connexion n'est pas sécurisée.
+your name	sitemgr	fr	Votre nom
+You need to make sure the sitemgr-link app is in the egroupware directory.  If you made a symbolic link... it isn't working.	sitemgr-link	fr	Vous devez vous assurer que l'application sitemgr-link est bien dans le répertoire egroupware.  Si vous avez fait un lien symbolique ... ça ne fonctionne pas.
+Before the public web site can be viewed, you must configure the various locations and preferences.  Please go to the sitemgr setup page by following this link:	sitemgr-link	fr	Avant que le site web public puisse être vu, vous devez configurer les différents emplacements et préférences.  SVP allez à la page de configuration en suivant ce lien:
+sitemgr setup page	sitemgr-link	fr	Page de configuration de sitemgr
+Note that you may get this message if your preferences are incorrect.  For example, if config.inc.php is not found in the directory that you specified.	sitemgr-link	fr	Notez que vous pourriez avoir ce message si vous préférences sont incorrectes.  Par exemple, si config.inc.php n'est pas trouvé dans le répertoire que vous avez précisé.
+Your administrator has not yet setup the web content manager for public viewing.  Go bug your administrator to get their butt in gear.	sitemgr-link	fr	Votre administrateur n'a pas encore configuré le gestionnaire de contenu web pour l'accès public.

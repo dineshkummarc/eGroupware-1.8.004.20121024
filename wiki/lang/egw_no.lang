@@ -1,0 +1,88 @@
+(don't offer the possibility)	admin	no	(ikke tilby denne muligheten)
+add document to category	wiki	no	Legg dokument til kategori
+added	wiki	no	Lagt til
+administration features are disabled for this wiki.	wiki	no	Administrasjonsmuligheter er slått av for denne wiki.
+admins	wiki	no	Administratorer
+allow anonymous access	admin	no	Tillate anonym tilgang
+anonymous password	admin	no	Passord for anonyme brukere
+anonymous username	admin	no	Navn på anonym bruker
+automatically convert pages with wiki-syntax to richtext (if edited)?	admin	no	Automatisk konvertere sidene med wikisynatks til riktekst(dersom de redigeres)?
+block	wiki	no	Blokker
+block / unblock hosts	common	no	Blokker / åpne vert
+blocked ip address ranges	wiki	no	Blokkert IP-adresseområde
+cancel without saving	wiki	no	Kanseller uten å lagre
+changed	wiki	no	Endret
+changes by last author	wiki	no	Endringer av siste forfatter
+choose your current time here, so the server may figure out what time zone you are in.	wiki	no	Velg din gjeldende tid her slik at serveren kan finne ut hvilken tidssone du er i.
+columns	wiki	no	Kolonner
+compute difference	wiki	no	Kalkuler differanse
+converts the page to richtext	wiki	no	Konverter denne siden til riktekst
+current version	wiki	no	Gjeldende versjon
+deleted	wiki	no	Slettet
+deletes this page	wiki	no	Slette denne siden
+difference between versions	wiki	no	Differanse mellom versjoner
+differences in	wiki	no	Differanser i
+different languages can have different titles	wiki	no	Forskjellige språk kan ha forskjellige titler
+document last modified	wiki	no	Dokument sist endret
+edit box	wiki	no	Tekstområde
+edit this <em>archive version</em> of this document	wiki	no	Redigere denne <em>ARKIVERTE VERSJONEN</em> av dette dokumentet.
+edit this document	wiki	no	Endre dette dokumentet
+edit with preview	admin	no	Endre med forhåndsvisning
+editable	admin	no	Redigerbart
+editing	wiki	no	Redigerer
+emailaddress administrator	admin	no	E-mailadresse administrator
+enable free links	admin	no	Tillate frie lenker
+enable wiki links	admin	no	Tillate Wiki-lenker
+enter ip address range in form <tt>12.*</tt>, <tt>34.56.*</tt>, or <tt>78.90.123.*</tt>	wiki	no	Registrer IP adresseområde i formen <tt>12.*</tt>,<tt>34.56.*</tt>, eller <tt>78.90.123.*</tt>
+error creating temporary file.	wiki	no	Feil ved forsøk på å lage temporær fil
+error writing to temporary file.	wiki	no	Feil ved forsøk på å skrive til en temporær fil
+everyone	wiki	no	Alle
+find	wiki	no	Find
+history	wiki	no	Historikk
+history lists	wiki	no	Historikkliste
+history of	wiki	no	Historikk for
+interwikiprefix	admin	no	InterWikiPrefiks
+invalid page name.	wiki	no	Ugyldig sidenavn
+load	wiki	no	Last inn
+lock / unlock pages	common	no	Lås / lås opp sidene
+locked	wiki	no	Låst
+name wiki home link	admin	no	Navn Wiki Hjem Lenke
+newer	wiki	no	Aldri
+no only on request	admin	no	Ikke bare på forespørsel
+not set	wiki	no	Ikke satt
+older	wiki	no	Eldre
+only if browser supports a richtext-editor	admin	no	Bare dersom nettleseren støtter riktekst
+please contact the %1administrator%2 for assistance.	wiki	no	Kontakt %1Administrator%2 for assistanse
+preview	wiki	no	Forhåndsvis
+preview of current version	wiki	no	Forhåndsvis gjeldende versjon
+readable by	wiki	no	Lesbar av
+readonly	admin	no	Bare lese
+recent changes	wiki	no	Nylige endringer
+renames page to the given name and language	wiki	no	Omdøpe siden til gitt navn og språk
+richtext	wiki	no	Riktekst
+rows	wiki	no	Rader
+save the changes and exit	wiki	no	Lagre endringene og avslutte
+saves and continues editing	wiki	no	Lagre og fortsette redigering
+see complete list (%1 entries)	wiki	no	Se en komplett liste (%1 forekomster)
+summary	wiki	no	Sum
+summary of change	wiki	no	Sum av endringer
+this page can not be edited.	wiki	no	Denne siden kan ikke endres
+twin pages	wiki	no	Tvillingsider
+unblock	wiki	no	Lås opp
+updates the preview	wiki	no	Oppdater forhåndsvisningen
+users	wiki	no	Brukere
+view document history	wiki	no	Vis dokumenthistorikk
+visit %1 to set your user name	wiki	no	Besøk %1 for å registrere ditt brukernavn
+warning: since you started editing, this document has been changed by someone else.  please merge your edits into the current version of this document.	wiki	no	Advarsel : siden du startet redigeringen har dette dokumentet blitt endret av noen andre.  Sammenføy dine endringer med gjeldende versjon av dokumentet.
+who should be able to edit this page	wiki	no	Hvem skal kunne endre denne siden
+who should be able to read this page	wiki	no	Hvem skal kunne lese denne siden
+wiki	common	no	Wiki
+wiki administration	wiki	no	Wiki administrasjon
+wiki menu	wiki	no	Wiki meny
+writable by	wiki	no	Skrivbar av
+yes always	admin	no	Ja alltid
+you have been denied access to this site.	wiki	no	Du har blitt nektet adgang til dette nettstedet
+you have entered an invalid user name.	wiki	no	Du har registrert et ugyldig brukernavn
+you have exeeded the number of pages you are allowed to visit in a given period of time. please return later.	wiki	no	Du har oversteget det antall sider du er tillatt å besøke over en gitt tid.  Kom tilbake senere.
+your changes	wiki	no	Dine endringer
+your user name is "%1".	wiki	no	Ditt brukernavn er "%1".

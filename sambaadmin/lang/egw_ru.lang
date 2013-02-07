@@ -1,0 +1,25 @@
+%1 - %2 of %3	sambaadmin	ru	%1 - %2 из %3
+add workstation	sambaadmin	ru	Добавить рабочую станцию
+check ldap setup (experimental!!!)	admin	ru	Проверить установки ldap (для экспериментов!!)
+computer group	admin	ru	Группа компьютеров
+computer ou	admin	ru	Организационная единица (OU) компьютера
+displayname	sambaadmin	ru	Название
+do you really want to delete selected workstation accounts?	sambaadmin	ru	Вы уверены что хотите удалить учетные записи выбранных рабочих станций?
+homedrive	admin	ru	Домашний диск
+homepath	sambaadmin	ru	Путь к домашней папке
+logonscript	admin	ru	Скрипт входа
+new account defaults	admin	ru	Новые умолчания учетных записей
+participants	sambaadmin	ru	Подписчики
+path to mkntpwd	admin	ru	Путь к mkntpwd
+profilepath	admin	ru	Путь к профилю
+samba config	sambaadmin	ru	Конфигурирование Самбы
+samba settings	common	ru	Настройки Самбы
+samba sid	admin	ru	SID Самбы
+sambaadmin	common	ru	Администрирование Самбы
+smb homepath	admin	ru	Путь к домашней папке Smb
+workstation account for	sambaadmin	ru	Учетная запись рабочей станции для
+workstation configuration	sambaadmin	ru	Конфигурирование рабочей станции
+workstation list	sambaadmin	ru	Список рабочей станции (?)
+workstation name	sambaadmin	ru	Название рабочей станции
+workstationaccount active	sambaadmin	ru	Учетная запись рабочей станции активна
+workstations	sambaadmin	ru	Рабочие станции

@@ -1,0 +1,25 @@
+%1 - %2 of %3	sambaadmin	de	%1 - %2 von %3
+add workstation	sambaadmin	de	Arbeitsstation hinzufügen
+check ldap setup (experimental!!!)	admin	de	LDAP setup überprüfen (experimentell!!!!)
+computer group	admin	de	Computer Gruppe
+computer ou	admin	de	Computer OU
+displayname	sambaadmin	de	Anzeigename
+do you really want to delete selected workstation accounts?	sambaadmin	de	Wollen Sie wirklich die ausgewählten Arbeitsstationskonten löschen?
+homedrive	admin	de	Heimatlaufwerk
+homepath	sambaadmin	de	Heimatpfad
+logonscript	admin	de	Anmeldescript
+new account defaults	admin	de	Standards für neue Benutzerkonten
+participants	sambaadmin	de	Teilnehmer
+path to mkntpwd	admin	de	Pfad zu mkntpwd
+profilepath	admin	de	Profilepfad
+samba config	sambaadmin	de	Samba Konfiguration
+samba settings	common	de	Samba Einstellungen
+samba sid	admin	de	Samba SID
+sambaadmin	common	de	Sambaadmin
+smb homepath	admin	de	SMB Heimatpfad
+workstation account for	sambaadmin	de	Konto für Arbeitsstation
+workstation configuration	sambaadmin	de	Konfiguration der Arbeitsstation
+workstation list	sambaadmin	de	Liste der Arbeitsstationen
+workstation name	sambaadmin	de	Name der Arbeitsstation
+workstationaccount active	sambaadmin	de	Arbeitsstationskonto aktiv
+workstations	sambaadmin	de	Arbeitsstation

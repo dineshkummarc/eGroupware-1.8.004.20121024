@@ -1,0 +1,111 @@
+%1 module	news_admin	nl	%1 module
+%1 news imported (%2 new).	news_admin	nl	%1 nieuws geimporteerd (%2 nieuw).
+%s hours	news_admin	nl	%s uren
+actions	news_admin	nl	Acties
+active	news_admin	nl	Actief
+add new article	news_admin	nl	Nieuw artikel toevoegen
+add new news	news_admin	nl	Nieuw nieuws toevoegen
+add news item	news_admin	nl	Nieuwsitem toevoen
+all news	news_admin	nl	Alle nieuwsitems
+always	news_admin	nl	Altijd
+by date	news_admin	nl	Op datum
+categories to displayed on main page?	news_admin	nl	Categorieën die weergegeven moeten worden op de voorpagina?
+category deleted.	news_admin	nl	Categorie verwijderd.
+category saved.	news_admin	nl	Categorie opgeslagen.
+choose a category	news_admin	nl	Kies een categorie
+configuration	news_admin	nl	Configuratie
+configure access permissions	common	nl	Configureer Toegangsrechten
+configure rss exports	common	nl	Configureer RSS export
+contains html	news_admin	nl	Bevat HTML
+content	news_admin	nl	Inhoud
+count	news_admin	nl	Tel
+date and time	news_admin	nl	Datum en tijd
+delete this news	news_admin	nl	Verwijderd dit nieuws
+do you want to publish a rss feed for this news category	news_admin	nl	Wilt u een RSS feed publiceren voor deze nieuwscategorie
+edit news item	news_admin	nl	Nieuwsitem bewerken
+end	news_admin	nl	Eind
+error importing the feed!	news_admin	nl	Fout bij importeren van de feed!
+error saving the category!	news_admin	nl	Fout bij opslaan van de categorie!
+error saving the news!	news_admin	nl	Fout bij opslaan van het nieuws!
+failed to add message	news_admin	nl	Toevoegen van nieuw bericht is mislukt
+format for links to items	news_admin	nl	Formaat voor links naar item
+format of export	news_admin	nl	Formaat van export
+from	news_admin	nl	Van
+from all	news_admin	nl	Van alle
+future	news_admin	nl	Toekomst
+global categories	news_admin	nl	globale categoriën
+global news	news_admin	nl	Globaal Nieuws
+global_news	news_admin	nl	Globaal Nieuws
+headline	news_admin	nl	Kopregel
+headline with link	news_admin	nl	Kopregel met link
+image link	news_admin	nl	Link afbeelding
+image title	news_admin	nl	Title afbeelding
+image url	news_admin	nl	URL afbeelding
+implies read permission	news_admin	nl	impliceerd leesrechten
+import every	news_admin	nl	Importeer iedere
+import now	news_admin	nl	Importeer nu
+import url	news_admin	nl	Importeer URL
+imported feeds can not be writable!	news_admin	nl	Geimporteerde feeds kunnen niet beschrijfbaar zijn!
+item has been deleted	news_admin	nl	Item is verwijderd
+item not found	news_admin	nl	Item niet gevonden
+last updated	news_admin	nl	Laatst bijgewerkt
+link	news_admin	nl	Link
+main	news_admin	nl	Hoofd
+maintain	news_admin	nl	Beheer
+maintain news	admin	nl	Beheer Nieuws
+message has been added	news_admin	nl	Bericht is toegevoegd
+more news	news_admin	nl	Meer nieuws
+more news link	news_admin	nl	Meer nieuws link
+new item has been added	news_admin	nl	Nieuw item is toegevoegd
+news	news_admin	nl	Nieuws
+news admin	news_admin	nl	Nieuws beheerer
+news administration	news_admin	nl	Nieuws beheer
+news deleted.	news_admin	nl	Nieuws verwijderd.
+news item has been added	news_admin	nl	Nieuwsitem is toegevoegd
+news item has been updated	news_admin	nl	Nieuwsitem is bijgewerkt
+news saved.	news_admin	nl	Nieuws opgeslagen.
+news_admin	common	nl	Nieuwsbeheer
+no anonymous user accounts installed.  notify the administrator.	news_admin	nl	GEEN ANONIEME GEBRUIKERS ACCOUNTS GEINSTALLEERD. WAARSCHUW DE BEHEERDER.
+no entries found	news_admin	nl	geen items gevonden
+no matching news item	news_admin	nl	Geen overeenkomende nieuws items
+no news	news_admin	nl	Er is momenteel geen nieuws beschikbaar in deze categorie
+no rss export	news_admin	nl	Geen RSS export
+now	news_admin	nl	Nu
+number of articles to display on the main screen	news_admin	nl	Aantal artikelen dat op de voorpagina getoond moet worden
+number of news items to be displayed on page	news_admin	nl	Aantal nieuws items dat op de pagina getoond moet worden
+old	news_admin	nl	Oud
+on	news_admin	nl	op
+page-name the item should be displayed (empty = current page)	news_admin	nl	Paginanaam waarop het item getoond moet worden (leeg = huidige pagina)
+parent	news_admin	nl	Ouder
+picture upload (leave the upload directory empty to disable the upload)	admin	nl	Afbeelding uploaden (laat de upload directory leeg om het uploaden uit te schakelen)
+please select a category	news_admin	nl	Selecteer s.v.p. een categorie
+publish date	news_admin	nl	Publicatiedatum
+read more	news_admin	nl	lees meer
+read news	news_admin	nl	Lees nieuws
+read permissions	news_admin	nl	Leesrechten
+reload	news_admin	nl	Herlaad
+send mail to others	news_admin	nl	Stuur mail naar anderen
+should news_admin display the latest article headlines on the main screen.	news_admin	nl	Moet de nieuws beheerder de titel van het laatste artikel op de voorpagina tonen.
+show latest news articles?	news_admin	nl	Laatste nieuws artikelen tonen?
+show news articles on main page?	news_admin	nl	Nieuws artikelen op de voorpagina tonen?
+small view	news_admin	nl	verkleinde weergave
+start	news_admin	nl	Start
+submitted by	common	nl	Toegevoegd door
+submitted by %1 on %2	news_admin	nl	Ingezonden door %1 op %2
+submitted by and date	news_admin	nl	Ingezonden door en datum
+teaser	news_admin	nl	teaser
+teaser with read more link	news_admin	nl	Teaser met lees verder link
+the news content is missing	news_admin	nl	De tekst ontbreekt
+the number of articles to display on the main screen.	news_admin	nl	Het aantal artikelen dat op de voorpagina getoond wordt.
+the subject is missing	news_admin	nl	Het onderwerp ontbreekt
+there no such translation.	news_admin	nl	Zo'n vertaling is er niet.
+this module publishes news from the news_admin application on your website. be aware of news_admin's acl restrictions.	news_admin	nl	Deze module publiceert nieuws van de nieuwsbeheerder toepassing op uw website. Houd rekening met nieuwsbeheerder's ACL beperkingen.
+until	news_admin	nl	tot
+url of the rss or atom feed, empty for own news feed	news_admin	nl	URL van de RSS of Atom feed, leeg voor de eigen nieuws feed
+view this category	news_admin	nl	Deze caterogie weergeven
+visible	news_admin	nl	Zichtbaar
+webpage news admin	news_admin	nl	Webpagina nieuwsbeheer
+which information do you want to show (css class)	news_admin	nl	Welke informatie wilt u laten weergeven (CSS klasse)
+which news categories should be displayed on the main screen.	news_admin	nl	Welke nieuwscategorieën op het hoofdscherm getoond moeten worden.
+write	news_admin	nl	Schrijven
+write permissions	news_admin	nl	Schrijfrechten

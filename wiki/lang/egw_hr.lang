@@ -1,0 +1,94 @@
+<em>but</em> display at least this many entries in recentchanges and other subscription lists:	wiki	hr	<em>But</em> display at least this many entries in RecentChanges and other subscription lists:
+add document to category	wiki	hr	Dodaj dokument u kategoriju
+added	wiki	hr	Dodano
+administration features are disabled for this wiki.	wiki	hr	Administration features are disabled for this wiki.
+admins	wiki	hr	administratori
+allow anonymous access	admin	hr	dozvoli pristup nepoznatima
+anonymous password	admin	hr	Lozinka nepoznatog
+anonymous session type	admin	hr	Vrsta seanse nepoznatog
+anonymous username	admin	hr	Korisničko ime nepoznatog
+automatically convert pages with wiki-syntax to richtext (if edited)?	admin	hr	Automatically convert pages with wiki-syntax to richtext (if edited)?
+block	wiki	hr	Blokiraj
+block / unblock hosts	common	hr	Blokiraj / odblokiraj poslužitelje
+blocked ip address ranges	wiki	hr	Blocked IP address ranges
+cancel without saving	wiki	hr	Prekini bez spremanja
+changed	wiki	hr	Promijenjeno
+changes by last author	wiki	hr	Promjene od zadnjeg autora
+choose your current time here, so the server may figure out what time zone you are in.	wiki	hr	Choose your current time here, so the server may figure out what time zone you are in.
+columns	wiki	hr	Kolumne
+compute difference	wiki	hr	Izračunaj razlike
+converts the page to richtext	wiki	hr	Converts the page to richtext
+current version	wiki	hr	Trenutna verzija
+deleted	wiki	hr	Obrisano
+deletes this page	wiki	hr	Obriši ove stranice
+difference between versions	wiki	hr	Razlike između verzija
+differences in	wiki	hr	Razlike u
+different languages can have different titles	wiki	hr	Razni jezici smiju imati različita imena
+document last modified	wiki	hr	Dokument zadnji put mijenjan
+edit box	wiki	hr	Edit box
+edit this <em>archive version</em> of this document	wiki	hr	Edit this <em>ARCHIVE VERSION</em> of this document
+edit this document	wiki	hr	Uredi ovaj dokument
+edit with preview	admin	hr	Uredi s prikazivanjem
+editable	admin	hr	editable
+editing	wiki	hr	Uređivanje
+emailaddress administrator	admin	hr	Administrator Email adrese
+enable free links	admin	hr	Enable Free Links
+enable wiki links	admin	hr	Enable Wiki Links
+enter here the maximum number of entries to display in a document's history list.	wiki	hr	Enter here the maximum number of entries to display in a document's history list.
+enter here the number of days of edits to display on recentchanges or any other subscription list.  set this to zero if you wish to see all pages in recentchanges, regardless of how recently they were edited.	wiki	hr	Enter here the number of days of edits to display on RecentChanges or any other subscription list.  Set this to zero if you wish to see all pages in RecentChanges, regardless of how recently they were edited.
+enter ip address range in form <tt>12.*</tt>, <tt>34.56.*</tt>, or <tt>78.90.123.*</tt>	wiki	hr	Enter IP address range in form <tt>12.*</tt>, <tt>34.56.*</tt>, or <tt>78.90.123.*</tt>
+error creating temporary file.	wiki	hr	Greška prilikom stvaranja privremene mape
+error writing to temporary file.	wiki	hr	Greška prilikom zapisivanja u privremenu datoteku
+everyone	wiki	hr	svi
+find	wiki	hr	Nađi
+history	wiki	hr	povijest
+history display should show <em>all</em> changes made by the latest author.  otherwise, show only the last change made.	wiki	hr	History display should show <em>all</em> changes made by the latest author.  Otherwise, show only the last change made.
+history lists	wiki	hr	Lista povijesti
+history of	wiki	hr	Povijest (of)
+interwikiprefix	admin	hr	InterWikiPrefix
+invalid page name.	wiki	hr	Neispravan broj stranice
+load	wiki	hr	Učitaj
+loads the named page in the given language, all change so far get lost !!!	wiki	hr	Loads the named page in the given language, all change so far get lost !!!
+lock / unlock pages	common	hr	Zaključaj / Otključaj stranice
+locked	wiki	hr	Zaključano
+name wiki home link	admin	hr	name wiki home link
+newer	wiki	hr	Novije
+no never	admin	hr	Ne nikada
+not set	wiki	hr	nije podešeno
+older	wiki	hr	Starije
+only if browser supports a richtext-editor	admin	hr	Only if browser supports a richtext-editor
+please contact the %1administrator%2 for assistance.	wiki	hr	Please contact the %1Administrator%2 for assistance.
+preview	wiki	hr	Prikaz
+preview of current version	wiki	hr	Prikaz trenutne verzije
+rate control / ip blocking disabled	wiki	hr	Rate control / IP blocking disabled
+readable by	wiki	hr	Može čitati
+readonly	admin	hr	samo za čitanje
+recent changes	wiki	hr	Posljednje promjene
+renames page to the given name and language	wiki	hr	Preimenuje stranice u dano ime i jezik
+richtext	wiki	hr	Richtext
+rows	wiki	hr	Retci
+save the changes and exit	wiki	hr	Spremi promjeni i izađi
+saves and continues editing	wiki	hr	Spremi i nastavi uređivanje
+see complete list (%1 entries)	wiki	hr	Vidi cijelu listu (%1 zapisa)
+summary	wiki	hr	Suma
+summary of change	wiki	hr	Suma promjena
+this page can not be edited.	wiki	hr	Ovu stranicu nemožete uređivati
+twin pages	wiki	hr	Dvostruke stranice
+unblock	wiki	hr	Odblokiraj
+updates the preview	wiki	hr	obnavljanje prikaza
+users	wiki	hr	korisnici
+view document history	wiki	hr	Prikaži povijest dokumenta
+visit %1 to set your user name	wiki	hr	Visit %1 to set your user name
+warning: since you started editing, this document has been changed by someone else.  please merge your edits into the current version of this document.	wiki	hr	Warning: since you started editing, this document has been changed by someone else.  Please merge your edits into the current version of this document.
+who should be able to edit this page	wiki	hr	Tko smije uređivati ovu stranicu
+who should be able to read this page	wiki	hr	Tko smije čitati ovu stranicu
+wiki	common	hr	Wiki
+wiki administration	wiki	hr	Wiki Administracija
+wiki menu	wiki	hr	Wiki Menu
+writable by	wiki	hr	Može pisati
+yes always	admin	hr	Da uvijek
+you have been denied access to this site.	wiki	hr	Onemogućen vam je pristup ovoj stranici
+you have entered an invalid user name.	wiki	hr	Unijeli ste pogrešno korisničko ime
+you have exeeded the number of pages you are allowed to visit in a given period of time. please return later.	wiki	hr	You have exeeded the number of pages you are allowed to visit in a given period of time. Please return later.
+your changes	wiki	hr	Vaše promjene
+your user name is "%1".	wiki	hr	Vaše korisničko ime je "%1".

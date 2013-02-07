@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<!-- $Id$ -->
+<overlay>
+	<template id="sitemgr.notifications.index.rows" template="" lang="" group="0" version="0.0.004">
+		<grid width="100%">
+			<columns>
+				<column/>
+				<column disabled="@no_site_id"/>
+				<column disabled="@no_cat_id"/>
+				<column/>
+				<column/>
+				<column width="5%"/>
+			</columns>
+			<rows>
+				<row class="th">
+					<nextmatch-sortheader label="ID" id="notification_id" class="tracker-id"/>
+					<nextmatch-sortheader label="Site" id="site_id" class="tracker-id"/>
+					<nextmatch-sortheader label="Category" id="cat_id" class="tracker-cat"/>
+					<nextmatch-sortheader label="Site Language" id="site_language"/>
+					<nextmatch-sortheader label="Email" id="email"/>
+					<description value="Actions"/>
+				</row>
+				<row class="row">
+					<description id="${row}[notification_id]" no_lang="1"/>
+					<menulist>
+						<menupopup id="${row}[site_id]" readonly="true"/>
+					</menulist>
+					<menulist>
+						<menupopup type="select-cat" options="None" id="${row}[cat_id]" readonly="true"/>
+					</menulist>
+					<description id="${row}[site_language]" no_lang="1"/>
+					<description id="${row}[email]" readonly="true" no_lang="1"/>
+					<hbox>
+						<button image="edit" align="center" id="edit[$row_cont[notification_id]]" onclick="window.open(egw::link('/index.php','menuaction=sitemgr.uinotifications.edit&amp;notification_id=$row_cont[notification_id]&amp;site_id=$row_cont[site_id]'),'_blank','dependent=yes,width=450,height=180,scrollbars=yes,status=yes'); return false;"/>
+						<button id="delete[$row_cont[notification_id]]" image="delete" onclick="return confirm('Delete this entry');"/>
+					</hbox>
+				</row>
+			</rows>
+		</grid>
+	</template>
+	<template id="sitemgr.notifications.index" template="" lang="" group="0" version="0.0.005">
+		<grid width="100%" class="sitemgr-index">
+			<columns>
+				<column/>
+				<column/>
+			</columns>
+			<rows>
+				<row disabled="!@msg">
+					<description align="center" id="msg" span="all" class="redItalic" no_lang="1"/>
+					<description/>
+				</row>
+				<row disabled="1">
+					<template id="sitemgr.notifications.index"/>
+					<template align="right" id="sitemgr.notifications.index"/>
+				</row>
+				<row>
+					<nextmatch options="sitemgr.notifications.index.rows" id="nm" span="all"/>
+				</row>
+			</rows>
+		</grid>
+	</template>
+</overlay>

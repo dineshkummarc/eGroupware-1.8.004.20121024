@@ -1,0 +1,88 @@
+%1 module	news_admin	el	%1 ενότητα
+actions	news_admin	el	Ενέργειες
+active	news_admin	el	Ενεργό
+add new article	news_admin	el	Προσθήκη νέου άρθρου
+add new news	news_admin	el	Πρόσθηκη νέων ειδήσεων
+add news item	news_admin	el	Προσθήκη νέου αντικειμένου
+all news	news_admin	el	Όλα τα νέα
+always	news_admin	el	Πάντα
+by date	news_admin	el	Βάσει ημερομηνίας
+choose a category	news_admin	el	Επιλέξτε μία κατηγορία
+configuration	news_admin	el	Τροποποίηση
+configure access permissions	common	el	Τροποποίηση Άδειας Εισόδου
+configure rss exports	common	el	Τροποποίηση RSS εξαγωγών
+contains html	news_admin	el	Περιέχει HTML
+content	news_admin	el	Περεχόμενο
+date and time	news_admin	el	Ημερομηνία και ώρα
+delete this news	news_admin	el	Διαγραφή αυτών των νέων
+do you want to publish a rss feed for this news category	news_admin	el	Θέλετε να δημοσιεύσετε μία RSS τροφοδοσία για αυτήν την κατηγορία ειδήσεων;
+edit news item	news_admin	el	Επεξεργασία αντικειμένου νέων
+end	news_admin	el	Τέλος
+error saving the news!	news_admin	el	Σφάλμα κατά την αποθήκευση των νέων!
+failed to add message	news_admin	el	Αποτυχία στην προσθήκη νέου μηνύματος
+format of export	news_admin	el	Διαμόρφωση της εξαγωγής
+from	news_admin	el	Από
+from all	news_admin	el	Από όλα
+future	news_admin	el	Μέλλον
+global categories	news_admin	el	παγκόσμιες κατηγορίες
+global news	news_admin	el	Παγκόσμια Νέα
+global_news	news_admin	el	Παγκόσμια_Νέα
+headline	news_admin	el	Τίτλος
+headline with link	news_admin	el	Τίτλος με σύνδεσμο
+image link	news_admin	el	Εικόνα Συνδέσμου
+image title	news_admin	el	Εικόνα Τίτλου
+image url	news_admin	el	Εικόνα URL
+implies read permission	news_admin	el	υπονοεί άδεια ανάγνωσης
+item has been deleted	news_admin	el	Το αντικείμενο έχει διαγραφεί
+item not found	news_admin	el	Δεν βρέθηκε το αντικείμενο
+link	news_admin	el	Σύνδεσμος
+main	news_admin	el	Βασικό
+maintain	news_admin	el	Διατήρηση
+maintain news	admin	el	Διατήρηση νέων
+message has been added	news_admin	el	Το μήνυμα προστέθηκε
+more news	news_admin	el	Περισσότερα νέα
+new item has been added	news_admin	el	Νέο αντικείμενο προστέθηκε
+news	news_admin	el	Νέα
+news admin	news_admin	el	Διαχειρ νέων
+news administration	news_admin	el	Νέα Διαχείρισης
+news deleted.	news_admin	el	Τα νέα διαγράφηκαν.
+news item has been added	news_admin	el	Το αντικείμενο νέων έχει προστεθεί
+news item has been updated	news_admin	el	Το αντικείμενο νέων έχει ενημερωθεί
+news saved.	news_admin	el	Τα νέα αποθηκεύτηκαν
+news_admin	common	el	Διαχειρ νέων
+no entries found	news_admin	el	δεν βρέθηκαν είσοδοι
+no matching news item	news_admin	el	Κανένα ταιριαστό αντικείμενο νέων
+no news	news_admin	el	Κανένα νέο δεν είναι διαθέσιμο στην κατηγορία
+no rss export	news_admin	el	Καμία RSS εξαγωγή
+now	news_admin	el	Τώρα
+number of articles to display on the main screen	news_admin	el	Αριθμός άρθρων προς προβολή στην κλυρια σελίδα
+number of news items to be displayed on page	news_admin	el	Αριθμός αντικειμένων νέων προς προβολή στη σελίδα
+old	news_admin	el	Παλιό
+on	news_admin	el	πάνω
+picture upload (leave the upload directory empty to disable the upload)	admin	el	Φόρτωση εικόνας (αφήστε τον κατάλογο φόρτωσης κενό για να απενεργοποιήσετε τη φόρτωση)
+please select a category	news_admin	el	Παρακαλώ επιλέξτε μία κατηγορία
+publish date	news_admin	el	Δημοσίευση Ημερομηνίας
+read more	news_admin	el	περισσότερη ανάγνωση
+read news	news_admin	el	Ανάγνωση νέων
+read permissions	news_admin	el	Ανάγνωση αδειών
+send mail to others	news_admin	el	Αποστολή μηνύματος σε άλλους
+should news_admin display the latest article headlines on the main screen.	news_admin	el	Θα έπρεπε ο Διαχειρ νέων να προβάλει τον τίτλο του τελευταίου άρθρου στην κύρια οθόνη.
+show latest news articles?	news_admin	el	Προβολή των τελευταίων άρθρων νέων;
+show news articles on main page?	news_admin	el	Προβολή άρθρων νέων στην κύρια σελίδα;
+small view	news_admin	el	μικρή προβολή
+start	news_admin	el	Εκκίνηση
+submitted by	common	el	Υπεβλήθη από
+submitted by %1 on %2	news_admin	el	Υπεβλήθη από %1 στις %2
+teaser	news_admin	el	Προδιαφήμιση
+teaser with read more link	news_admin	el	Προδιαφήμιση με περισσότερη ανάγνωση συνδέσμου
+the news content is missing	news_admin	el	Λείπει το περιεχόμενο των νέων
+the number of articles to display on the main screen.	news_admin	el	Ο αριθμός των άρθρων προς προβολή στην κύρια οθόνη.
+the subject is missing	news_admin	el	Λείπει το θέμα
+this module publishes news from the news_admin application on your website. be aware of news_admin's acl restrictions.	news_admin	el	Αυτή η ενότητα δημοσιεύει νέα από την εφαρμογή διαχειρ_νέων στην ιστοσελίδα σας. Προσοχή για τυχόν περιορισμούς.
+until	news_admin	el	μέχρι
+view this category	news_admin	el	Προβολή αυτής της κατηγορίας
+visible	news_admin	el	Ορατό
+webpage news admin	news_admin	el	Ιστοσελίδα νέων διαχειρ
+which information do you want to show (css class)	news_admin	el	Ποιες πληροφορίες θέλετε να εμφανίζετε (CSS τάξη)
+write	news_admin	el	Γραφή
+write permissions	news_admin	el	Γραφή αδειών

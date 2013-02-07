@@ -1,0 +1,77 @@
+%1 bookmarks have been deleted	bookmarks	es-es	Se han borrado %1 marcadores
+%1 bookmarks imported from %2 successfully.	bookmarks	es-es	Se han importado correctamente %1 marcadores de %2
+(comma separate multiple addresses)	bookmarks	es-es	(la coma separa varias direcciones)
+<b>note:</b> this currently works with netscape bookmarks only	bookmarks	es-es	<b>Nota:</b> Actualmente sólo funciona con marcadores de netscape
+all bookmarks	bookmarks	es-es	Todos los marcadores
+and	bookmarks	es-es	Y
+append this message to mailed bookmarks	bookmarks	es-es	Añadir este mensaje a los marcadores enviados
+ascending	bookmarks	es-es	Ascendente
+book marks	common	es-es	Marcadores
+bookmark changed sucessfully	bookmarks	es-es	El marcador se ha cambiado correctamente
+bookmark created successfully.	bookmarks	es-es	El marcador se ha creado correctamente
+bookmark deleted successfully	bookmarks	es-es	El marcador se ha borrado correctamente.
+bookmark deleted successfully.	bookmarks	es-es	El marcador se ha borrado correctamente.
+bookmark not editable	bookmarks	es-es	No se puede editar el marcador
+bookmark not readable	bookmarks	es-es	No se puede leer el marcador
+bookmarks	common	es-es	Marcadores
+bookmarks settings	bookmarks	es-es	Configuración de los marcadores
+change bookmark	bookmarks	es-es	Cambiar marcador
+choose the categories to display	bookmarks	es-es	Elija las categorías a mostrar
+close this window to return	bookmarks	es-es	cerrar esta ventana para volver
+create bookmark	bookmarks	es-es	Crear marcador
+create new bookmark	bookmarks	es-es	Crear nuevo marcador
+date added	bookmarks	es-es	Fecha añadida
+date changed	bookmarks	es-es	Fecha cambiada
+date last updated	bookmarks	es-es	Fecha de la última actualización
+date last visited	bookmarks	es-es	Fecha de la última visita
+descending	bookmarks	es-es	Descendente
+edit bookmark	bookmarks	es-es	Editar marcador
+edit this bookmark	bookmarks	es-es	Editar este marcador
+enter the name of the netscape bookmark file<br>that you want imported into bookmarker below.	bookmarks	es-es	Introduzca el nombre del fichero de marcadores de Netscape<br>que quiera ver importado debajo.
+export bookmarks	common	es-es	Exportar marcadores
+fewer	bookmarks	es-es	Menos
+filter by	bookmarks	es-es	Filtrar por
+found a link you might like	bookmarks	es-es	Se encontró un enlace que le puede gustar
+from	bookmarks	es-es	De
+from category %1	bookmarks	es-es	de la categoría %º
+global categories	bookmarks	es-es	Categorías globales
+highest	bookmarks	es-es	La más alta
+i thought you would be interested in the following link(s):	bookmarks	es-es	Pensé que le interesarían los siguientes enlaces:
+import bookmarks	common	es-es	Importar marcadores
+like	bookmarks	es-es	como
+list view	bookmarks	es-es	ver lista
+lowest	bookmarks	es-es	La más baja
+mail this bookmark	bookmarks	es-es	Mandar por este marcador por correo
+mail-this-link message sent to %1.	bookmarks	es-es	El mensaje de "enviar este enlace" se ha enviado a %1
+mass update:	bookmarks	es-es	Actualización masiva:
+message from	bookmarks	es-es	Mensaje de
+more	bookmarks	es-es	Más
+name	bookmarks	es-es	Nombre
+name is required	bookmarks	es-es	El nombre es obligatorio
+netscape bookmark file	bookmarks	es-es	Fichero de marcadores de Netscape
+netscape bookmark filename is required!	bookmarks	es-es	El nombre del fichero de marcadores de Netscape es obligatorio
+new	bookmark	es-es	Nuevo
+new bookmark	bookmarks	es-es	nuevo marcador
+or	bookmarks	es-es	o
+please fill out <b>to e-mail address</b>, <b>subject</b>, and <b>message</b>!	bookmarks	es-es	Por favor, rellene <b>Dirección destino</b>, <b>Asunto</b> y <b>Mensaje</b>
+please select the categories to export	bookmarks	es-es	Por favor, seleccione las categorías a exportar
+query condition	bookmarks	es-es	Condición de consulta
+rating	bookmarks	es-es	Valoración
+search for:	bookmarks	es-es	Buscar:
+select the format you would like to export to	bookmarks	es-es	Seleccione el formato al que le gustaría exportar
+send bookmark	bookmarks	es-es	Enviar marcador
+sub category	bookmarks	es-es	Subcategoría
+this module displays bookmarks in a javascript based tree	bookmarks	es-es	Este módulo muestra los marcadores en un árbol basado en javascript
+to address %1 invalid. format must be <strong>user@domain</strong> and domain must exist!	bookmarks	es-es	La dirección Para: %1 no es válida. El formato debe ser <strong>usuario@dominio</strong> y el dominio debe existir.
+to e-mail addresses	bookmarks	es-es	Direcciones de correo de los destinatarios
+to which category should the imported folder hierarchy be attached	bookmarks	es-es	A qué categoría hay que adjuntar la jerarquía de la carpeta importada
+total visits	bookmarks	es-es	visitas totales
+tree view	bookmarks	es-es	Vista de árbol
+unable to open temp file %1 for import.	bookmarks	es-es	No se pudo abrir el fichero temporal %1 para importar
+url is required.	bookmarks	es-es	Hace falta una URL
+view bookmark	bookmarks	es-es	Ver marcador
+view this bookmark	bookmarks	es-es	Ver este marcador
+warning	bookmarks	es-es	Aviso
+you are viewing this site outside of egroupware	bookmarks	es-es	Está viendo este sito desde fuera de eGroupWare
+you must select a category	bookmarks	es-es	Debe seleccionar una categoría
+you need to select a category!	bookmarks	es-es	¡Necesita seleccionar una categoría!

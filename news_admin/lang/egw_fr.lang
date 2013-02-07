@@ -1,0 +1,111 @@
+%1 module	news_admin	fr	module %1
+%1 news imported (%2 new).	news_admin	fr	%1 communiqués importés (%2 nouveau)
+%s hours	news_admin	fr	%s heures
+actions	news_admin	fr	Actions
+active	news_admin	fr	Actif
+add new article	news_admin	fr	Ajouter un nouvel article
+add new news	news_admin	fr	Ajouter des communiqués récents
+add news item	news_admin	fr	Ajouter un communiqué
+all news	news_admin	fr	Tous les communiqués
+always	news_admin	fr	Toujours
+by date	news_admin	fr	Par date
+categories to displayed on main page?	news_admin	fr	Sélectionner les catégories qui doivent être affichées sur la page principale
+category deleted.	news_admin	fr	Catégorie effacée
+category saved.	news_admin	fr	Catégorie sauvegardée
+choose a category	news_admin	fr	Choisissez une catégorie
+configuration	news_admin	fr	Configuration
+configure access permissions	common	fr	Configurer les droits d'accès
+configure rss exports	common	fr	Configurer les exports RSS
+contains html	news_admin	fr	Contient du HTML
+content	news_admin	fr	Contenu
+count	news_admin	fr	Décompte
+date and time	news_admin	fr	Date et heure
+delete this news	news_admin	fr	Supprimer ce communiqué
+do you want to publish a rss feed for this news category	news_admin	fr	Voulez-vous publier un flux RSS pour cette catégorie de communiqués?
+edit news item	news_admin	fr	Modifier un communiqué
+end	news_admin	fr	Fin
+error importing the feed!	news_admin	fr	Erreur lors de l'importation du flux !
+error saving the category!	news_admin	fr	Erreur lors de la sauvegarde de la catégorie !
+error saving the news!	news_admin	fr	Erreur lors de l'enregistrement de l'élément !
+failed to add message	news_admin	fr	Echec lors de l'ajout du message
+format for links to items	news_admin	fr	Format pour les liens vers les objets
+format of export	news_admin	fr	Format d'exportation
+from	news_admin	fr	Depuis
+from all	news_admin	fr	Depuis tous
+future	news_admin	fr	Futur
+global categories	news_admin	fr	catégories globales
+global news	news_admin	fr	Communiqués Globaux
+global_news	news_admin	fr	Communiqués_Globaux
+headline	news_admin	fr	En-tête
+headline with link	news_admin	fr	En-tête avec lien
+image link	news_admin	fr	Lien Image
+image title	news_admin	fr	Titre Image
+image url	news_admin	fr	URL Image
+implies read permission	news_admin	fr	implique les droits en lecture
+import every	news_admin	fr	Importer tous les
+import now	news_admin	fr	Importer maintenant
+import url	news_admin	fr	Importer l'URL
+imported feeds can not be writable!	news_admin	fr	L'import des flux N'EST PAS accessible en écriture !
+item has been deleted	news_admin	fr	L'objet a été effacé
+item not found	news_admin	fr	Objet non trouvé
+last updated	news_admin	fr	Dernière mise à jour
+link	news_admin	fr	Lien
+main	news_admin	fr	Principal
+maintain	news_admin	fr	Maintenir
+maintain news	admin	fr	Maintenir les communiqués
+message has been added	news_admin	fr	Le message a été ajouté
+more news	news_admin	fr	Autres communiqués
+more news link	news_admin	fr	Lien Autres communiqués
+new item has been added	news_admin	fr	Le nouvel objet a été ajouté
+news	news_admin	fr	Communiqués
+news admin	news_admin	fr	Communiqués
+news administration	news_admin	fr	Administration des communiqués
+news deleted.	news_admin	fr	Communiqués supprimés.
+news item has been added	news_admin	fr	Communiqué ajouté
+news item has been updated	news_admin	fr	Communiqués mis à jour
+news saved.	news_admin	fr	Communiqués enregistrés.
+news_admin	common	fr	Communiqués
+no anonymous user accounts installed.  notify the administrator.	news_admin	fr	AUCUNE INSTALLATION DE COMPTES ANONYMES. VEUILLEZ AVISER L'ADMINISTRATEUR SYSTÈME.
+no entries found	news_admin	fr	Aucune entrée trouvée
+no matching news item	news_admin	fr	Aucun communiqué correspondant
+no news	news_admin	fr	Aucune communiqué n'est actuellement disponible dans la catégorie
+no rss export	news_admin	fr	Pas d'exportation RSS
+now	news_admin	fr	Maintenant
+number of articles to display on the main screen	news_admin	fr	Nombre d'articles à afficher dans l'écran principal
+number of news items to be displayed on page	news_admin	fr	Nombre d'articles à afficher dans la page
+old	news_admin	fr	Ancien
+on	news_admin	fr	le
+page-name the item should be displayed (empty = current page)	news_admin	fr	Le nom de la page de l'élément doit être affiché (si vide = page courante)
+parent	news_admin	fr	Parent
+picture upload (leave the upload directory empty to disable the upload)	admin	fr	Dépôt d'image (laisser le répertoire vide pour désactiver le dépôt)
+please select a category	news_admin	fr	Veuillez choisir une catégorie
+publish date	news_admin	fr	Date de publication
+read more	news_admin	fr	lire plus
+read news	news_admin	fr	Lire les communiqués
+read permissions	news_admin	fr	Permissions de lecture
+reload	news_admin	fr	Recharger
+send mail to others	news_admin	fr	Envoyer un email aux autres
+should news_admin display the latest article headlines on the main screen.	news_admin	fr	Est-ce que l'administration des communiqués doit afficher les derniers entêtes d'articles sur l'écran principal ?
+show latest news articles?	news_admin	fr	Montrer les derniers articles des communiqués ?
+show news articles on main page?	news_admin	fr	Montrer les communiqués sur la page principale ?
+small view	news_admin	fr	vue réduite
+start	news_admin	fr	Début
+submitted by	common	fr	Soumis par
+submitted by %1 on %2	news_admin	fr	Soumis par %1 le %2
+submitted by and date	news_admin	fr	Soumis par date et par
+teaser	news_admin	fr	Accroche
+teaser with read more link	news_admin	fr	Accroche avec un lien pour lire plus
+the news content is missing	news_admin	fr	Le contenu du communiqué manque
+the number of articles to display on the main screen.	news_admin	fr	Le nombre d'articles à afficher sur l'écran principal.
+the subject is missing	news_admin	fr	Le sujet manque
+there no such translation.	news_admin	fr	Il n'existe pas de traduction.
+this module publishes news from the news_admin application on your website. be aware of news_admin's acl restrictions.	news_admin	fr	Ce module publie les communiqués à partir de l'application news_admin sur votre site web. Attention aux restrictions ACL de news_admin.
+until	news_admin	fr	Jusqu'au
+url of the rss or atom feed, empty for own news feed	news_admin	fr	URL du flux RSS ou Atom, vide pour l'alimentation de vos propres communiqués
+view this category	news_admin	fr	Voir cette catégorie
+visible	news_admin	fr	Visible
+webpage news admin	news_admin	fr	Page Web d'aministration des communiqués
+which information do you want to show (css class)	news_admin	fr	Quelle information voulez-vous afficher (classe CSS)
+which news categories should be displayed on the main screen.	news_admin	fr	Quelles sont les catégories de communiqués qui devraient être affiché sur l'écran principal ?
+write	news_admin	fr	Ecrire
+write permissions	news_admin	fr	Permissions d'écriture

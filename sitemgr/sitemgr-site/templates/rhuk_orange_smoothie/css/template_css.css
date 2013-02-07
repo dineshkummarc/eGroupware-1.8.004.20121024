@@ -1,0 +1,554 @@
+/* custom stuff */
+
+.sitetitle {
+	font-size: 35px;
+	font-weight: 800;
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	color: #68878A;
+	text-indent: 10px;
+	font-variant:small-caps;
+}
+
+.searchbox {
+	font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+	font-weight: normal;
+	width: 147px;
+}
+
+.leftnav {
+	padding-top: 8px;
+	padding-left: 8px;
+	padding-bottom: 8px;
+	padding-right: 14px;
+	text-align: left;
+}
+
+.centernav {
+	padding-top: 8px;
+	padding-bottom: 8px;
+	padding-right: 14px;
+	text-align: left;
+	
+}
+
+.rightnav {
+	padding-top: 8px;
+	padding-bottom: 8px;
+	padding-right: 4px;
+	text-align: left;
+}
+
+.navcontent {
+	padding: 1px;
+	background-color: #859ba0;
+}
+
+.navtitle_main {
+	font-size: 9pt;
+	font-weight: bold;
+	color: #ff9900;
+}
+
+.navbg_main {
+	background-color: #FFFFFF;
+	padding:4px
+}
+
+.navbg_user {
+	background-color: #edf1f1;
+	padding:4px
+}
+
+/* required stuff */
+
+table.moduletable {
+	width: 100%;
+	margin: 0px 0px 0px 0px;
+	border-left: solid 0px #000000;
+	border-right: solid 0px #000000;
+	border-top: solid 0px #000000;
+	border-bottom: solid 0px #000000;
+	}
+
+table.moduletable th {
+	font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	font-weight: bold;
+	color: #68878A;
+	text-align: left;
+	text-indent: 2px;
+	width: 100%;
+	height: 18px;
+	border-bottom: 2px solid #ff9900;
+}
+
+table.moduletable td {
+	font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+	font-weight: normal;
+}
+
+/* Body */
+BODY {
+	margin: 0px 0px 0px 0px;
+	background-color : #FFFFFF ;
+	color : #3C4B4D;
+	scrollbar-3dlight-color: #d0d9db;
+	scrollbar-base-color: #D6E5AA;
+	scrollbar-darkshadow-color: #becbcd;
+	scrollbar-face-color: #eaecee;
+	scrollbar-highlight-color: #becbcd;
+	scrollbar-shadow-color: #89A2A5;
+	scrollbar-track-color: #becbcd;
+	scrollbar-arrow-color: #89A2A5;
+	}
+
+td,tr,p,div {
+	font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #3C4B4D;
+	}
+
+/* Styles for dhtml tabbed-pages */
+.ontab {
+	background-color: #ffffff;
+	border-left: outset 1px #BECBCD;
+	border-right: outset 1px #BECBCD;
+	border-top: outset 1px #BECBCD;
+	border-bottom: solid 1px #ffffff;
+	text-align: center;
+	cursor: hand;
+	font-weight: normal;
+	color: #495C5F;
+}
+.offtab {
+	background-color : #EAECEE;
+	border-left: outset 1px #E0E0E0;
+	border-right: outset 1px #E0E0E0;
+	border-top: outset 1px #E0E0E0;
+	border-bottom: solid 1px #BECBCD;
+	text-align: center;
+	cursor: hand;
+	font-weight: normal;
+	color: #769196;
+}
+.tabpadding {
+}
+
+.tabheading {
+	background-color: #EAECEE;
+	text-align: left;
+}
+
+.pagetext {
+	visibility: hidden;
+	display: none;
+	position: relative;
+	top: 0;
+}
+h4 {
+	color: #495C5F; font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 16px; font-weight: bold;
+	}
+
+h5 {
+	color: #617A7D; font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px; font-weight: bold;
+	}
+
+h6 {
+	color: #6C888C; font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px; font-weight: bold;
+	}
+
+/* Links */
+a:link, a:visited {
+	font-size: 11px; color: #FF6600; text-decoration: none;
+	font-family:  Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	}
+
+a:hover {
+	color: #ff9900;	text-decoration: none;
+	font-weight: bold;
+	}
+
+/* Horizontal Line */
+hr {
+	background: #495C5F; height:2px; border: 1px inset;
+	}
+
+hr.separator {
+	background: #495C5F;
+	height: 1px;
+	width: 75px;
+	border: 0px;
+}
+
+/* --Default Class Settings-- */
+
+.frontpageheader {
+	color: #4E6366;
+	font-size: 14px;
+	font-weight: bold;
+	text-align: center;
+	height: 30px;
+}
+
+a.mainlevel:link, a.mainlevel:visited {
+	color: #4D6165;
+	background-position: left;
+	text-align: right;
+ }
+
+a.mainlevel:hover {
+	color: #ff9900;
+	background-position: left;
+	text-align: left;
+	}
+	
+a.mainmenu:link, a.mainmenu:visited {
+	color: #4D6165; font-family: Trebuchet MS, Verdana, Geneva, Arial, Helvetica, serif;
+	font-weight: normal;
+	}
+
+a.mainmenu:hover, {
+	color: #ff9900; text-decoration: underline;
+	}
+
+a.sublevel:link, a.sublevel:visited {
+	color: #4D6165; font-family: Trebuchet MS, Verdana, Geneva, Arial, Helvetica, serif;
+	font-weight: normal;
+}
+	
+a.sublevel:hover {
+	color: #ff9900; text-decoration: underline;
+	}
+
+
+/* For content item titles that are hyperlink instead of Read On */
+a.contentpagetitle:link, a.contentpagetitle:visited {
+	font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+ 	color: #68878A;
+	text-align:left;
+	}
+
+a.contentpagetitle:hover {
+	font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+	text-align:left;
+	color: #86A1A4;
+	text-decoration: underline;
+	font-weight: bold;
+	}
+
+/* Content - Sections & Categories */
+.contentpane {
+	background-color : #00ffff;
+	}
+
+.contentpaneopen {
+	width: 100%;
+	}
+
+.contentheading {
+	font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	font-weight: bold;
+	color: #68878A;
+	text-align: left;
+	text-indent: 2px;
+	width: 100%;
+	height: 18px;
+	border-bottom: 2px solid #ff9900;
+	height: 18px;
+	}
+
+.contentpagetitle {
+	font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+ 	color: #68878A;
+	text-align:left;
+	}
+
+table.contenttoc {
+	color: #333300;
+	background-color: #e0e0e0;
+    }
+
+table.contenttoc td {
+	font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+    font-size: 8pt;
+    font-weight: normal;
+    text-align:left;
+}
+
+.contentdescription {
+	font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #68878A;
+	text-align: left;
+	padding-top: 8px;
+	}
+
+/* Links */
+a.blogsection:link, a.blogsection:visited {
+	color: #ff6600; text-decoration: none; font-weight: normal;
+	font-family:  Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	}
+
+a.blogsection:hover {
+	color: #ff9900;	text-decoration: none;
+	font-weight: normal;
+	font-size: 11px;
+	}
+
+a.weblinks:link, a.weblinks:visited {
+	color: #ffcc00; text-decoration: none; font-weight: normal;
+	font-family:  Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+	}
+
+a.weblinks:hover {
+	color: #ff9900;	text-decoration: underline;
+	}
+
+a.readon:link, a.readon:visited {
+	font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #68878A;
+	text-align: right;
+	text-indent: 2px;
+	width: 100%;
+	height: 18px;
+	border-bottom: 2px solid #E5E6E7;
+	}
+
+a.readon:hover {
+	font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #ff9900;
+	text-align: right;
+	text-indent: 2px;
+	width: 100%;
+	height: 18px;
+	border-bottom: 2px solid #E5E6E7;
+	}
+
+.componentheading {
+	font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	font-weight: bold;
+	color: #68878A;
+	text-align: left;
+	text-indent: 2px;
+	width: 100%;
+	height: 18px;
+	border-bottom: 2px solid #ff9900;
+	height: 18px;
+	}
+
+.button {
+	color: #3C4B4D; font-family: Trebuchet MS, Verdana, Geneva, Arial, Helvetica, serif;
+	font-weight: bold;
+	text-align: center;
+	font-size: 12px;
+	font: bold;
+	background: #D0D9DB;
+	border: 1px solid #859ba0;
+	height: 20px;
+	}
+
+.inputbox {
+	font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #3C4B4D;
+	background: #F3F4F5;
+	border: 1px solid #859ba0;
+	}
+
+/** category text format and links **/
+.category {
+	color: #86A92E; font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px; font-weight: bold; text-decoration: none;
+	}
+
+a.category:link, a.category:visited {
+	color: #405115; font-weight: bold;
+	}
+
+a.category:hover {
+	color: #759328;
+	}
+
+.poll {
+	font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	line-height: 14px
+	}
+	
+.pollstableborder {
+		border: 0px solid;
+		padding: 0px;
+		}
+	}
+
+.sectiontableentry1, {
+	background-color : #edf1f1;
+	padding-top: 1px;
+	padding-bottom: 1px;
+	}
+	
+.sectiontableentry2 {
+	background-color : #DDE5E5;
+	padding-top: 1px;
+	padding-bottom: 1px;
+	}
+
+.contentpane {
+	background-color : #FFFFFF;
+	}
+	
+.sectiontableheader {
+	background-color : #BECBCD;
+	color : #3C4B4D;
+	font-weight : bold;
+	}
+
+.small {
+	font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #4E6366;
+	text-decoration: none;
+	font-weight: normal;
+	height: 15px;
+	}
+
+.smalldark {
+        font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+        font-size: 10px;
+        color: #333333;
+        text-decoration: none;
+        font-weight: normal;
+        }
+
+
+.newsfeedheading {
+        font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+        font-size: 11px;
+        font-weight: bold;
+        color: #333333;
+        text-align:left;
+        }
+
+.newsfeeddate {
+	font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #859DA1;
+	font-weight: normal;
+}
+
+.createdate {
+	font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #859DA1;
+	text-decoration: none;
+	font-weight: normal;
+	height: 25px;
+	}
+
+.modifydate {
+	font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #859DA1;
+	text-decoration: none;
+	font-weight: normal;
+	padding-top: 10px;
+	text-align: right;
+	}
+
+ul {
+	margin: 0px 0px 0px 0px;
+	}
+
+li {
+	list-style: inside url(../../../images/M_images/arrow.png) 3px;
+	list-style-image: url(../../../images/M_images/arrow.png);
+	}
+
+.fase4rdf {
+	font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px; color: #242D0C; font-weight: normal;
+	}
+
+a.fase4rdf:link {
+	font-size: 11px; font-weight: normal; color: #405115;
+	}
+
+a.fase4rdf:hover {
+	font-weight: bold; color: #759328;
+	}
+
+table.searchintro {
+  	background-color: #FFFFFF;
+	border: 1px solid #E6ECEC;
+	}
+
+table.contact {
+	background-color: #F3F4F5;
+	}
+
+table.contact td.icons {
+	background-color: #D0D9DB;
+	}
+
+table.contact td.details {
+	background-color: #E6ECEC;
+	font-size: 10px;
+	font-weight: bold;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	}
+
+.pagenav {
+	font-weight: normal;
+}
+
+a.pagenav, a.pagenav:visited {
+	font-weight: bold;
+	color: #779595;
+}
+
+a.pagenav:hover {
+	color: #4F6565;
+}
+
+.pagenavbar {
+	
+}
+
+/* Content voting */
+.content_rating {
+	font-weight: normal;
+	font-size: 8pt;
+}
+
+.content_vote {
+	font-weight: normal;
+	font-size: 8pt;
+}
+
+.row_on { color: #000000; background-color: #F1F1F1; }
+.row_off { color: #000000; background-color: #ffffff; }
+.th {	
+	background-color: #edf1f1;
+	color : #3C4B4D;
+	font-weight : bold;
+}

@@ -1,0 +1,346 @@
+%1 content manager	sitemgr	ca	Administrador de contenidos para %1
+%1 module manager	sitemgr	ca	Administrador de módulos para %1
+a simple picture galery	sitemgr	ca	Una galería simple de imágenes
+actif	sitemgr	ca	Actif
+add a category	sitemgr	ca	Añadir una categoría
+add a new application	sitemgr	ca	Añadir una aplicación nueva
+add block to content area %1	sitemgr	ca	Añadir bloque al área de contenido %1
+add category	sitemgr	ca	Añadir categoría
+add new page to this category	sitemgr	ca	Añadir una página nueva a esta categoría
+add page	sitemgr	ca	Añadir página
+add page to category	sitemgr	ca	Añadir página a la categoría
+add website	sitemgr	ca	Añadir sitio web
+administration	sitemgr	ca	Administración
+administrative menu	sitemgr	ca	Menú administrativo
+administrators	sitemgr	ca	administradores
+all categories	sitemgr	ca	Todas las categorías
+all forums in category %1	sitemgr	ca	Todos los foros en la categoría %1
+amazon	sitemgr	ca	Amazon
+an application directory	sitemgr	ca	Un directorio de una aplicación
+anonymous	sitemgr	ca	anónimo
+anonymous user login domain	sitemgr	ca	Dominio del usuario anónimo
+anonymous user's password	sitemgr	ca	Contraeña del usuario anónimo
+anonymous user's username	sitemgr	ca	Nombre de usuario del usurio anónimo
+apply permissions also to subcategories?	sitemgr	ca	¿Aplicar permisos también a las subcategorías?
+archived	sitemgr	ca	archivado
+archived content	sitemgr	ca	Contenido archivado
+are you sure you want to delete site %1 and all its content? you cannot retrieve it if you continue.	sitemgr	ca	¿Seguro que desea borrar el sitio %1 y todo su contenido? No podrá recuperarlo si continúa.
+are you sure you want to delete the category %1 and all of its associated pages?  you cannot retrieve the deleted pages if you continue.	sitemgr	ca	¿Seguro que desea borrar la categoría %1 y todas sus páginas asociadas? No podrá recuperar las páginas borradas si continúa.
+as	common	ca	como
+attempt to access information outside current website	sitemgr	ca	Intento de acceder a la información fuera del sitio web actual
+attempt to edit non-editable block	sitemgr	ca	Intento de editar un bloque no editable
+back to module manager	sitemgr	ca	Volver al administrador de módulos
+basic settings	sitemgr	ca	Configuracón básica
+before the public web site can be viewed, you must configure the various locations and preferences.  please go to the sitemgr setup page by following this link:	sitemgr	ca	Antes de poder ver el sitio público, debe configurar las distintas ubicaciones y preferencias. Por favor, vaya a la página de configuración del administrador de sitios web pulsando este enlace:
+block not found.	sitemgr	ca	No se encontró el bloque
+block returned no content.	sitemgr	ca	El bloque no devolvío contenidos.
+bookmarks	sitemgr	ca	Marcadores
+calendar	sitemgr	ca	Calendario
+cancel the delete	sitemgr	ca	Cancelar el borrado
+cannot move page until it has been saved.	sitemgr	ca	No se puede mover la página hasta que se haya guardado.
+category	sitemgr	ca	Categoría
+category description	sitemgr	ca	Descripción de la categoría
+category manager	sitemgr	ca	Administrador de categorías
+category name	sitemgr	ca	Nombre de la categoría
+category saved	sitemgr	ca	Categoría guardada
+changes saved.	sitemgr	ca	Cambios guardados
+check here after every upgrade	sitemgr	ca	marque aquí después de cada actualización
+check to hide from condensed site index.	sitemgr	ca	Marque para ocultar del índice del sitio condensado
+choose a category	sitemgr	ca	Elija una categoría
+choose language	sitemgr	ca	Elija idioma
+choose the categories to display	sitemgr	ca	Elegir las categorías a mostrar
+choose your site's theme or template.  note that if you changed the above checkbox you need to save before choosing a theme or template.	sitemgr	ca	Elija el tema o la plantilla de su ssitio. Si cambió la casilla de arriba necesita guardar antes de elegir un tema o plantilla.
+collapse threads	sitemgr	ca	Contraer conversaciones
+commit changes	sitemgr	ca	Subir cambios
+configure module properties	sitemgr	ca	Configurar las propiedades del módulo
+configure sitemgr	sitemgr	ca	Configurar el Administrador de sitios web
+configure website	sitemgr	ca	Configurar sitio web
+contact the administrator.	sitemgr	ca	Póngase en contacto con el administrador
+content areas	sitemgr	ca	Areas de contenido
+content blocks	sitemgr	ca	Bloques de contenido
+content manager	sitemgr	ca	Administrador de contenido
+contentarea	sitemgr	ca	Area de contenidos
+contributor menu	sitemgr	ca	Menú del colaborador
+create new version	sitemgr	ca	Crear una versión nueva
+current section	sitemgr	ca	Sección actual
+default	sitemgr	ca	Predeterminado
+default home page id number	sitemgr	ca	Número de ID de la página de inicio predeterminada
+define websites	common	ca	Definir sitios web
+delete block	sitemgr	ca	Borrar bloque
+delete category	sitemgr	ca	Borrar categoría
+delete page	sitemgr	ca	Borrar página
+delete this application	sitemgr	ca	Borrar esta aplicación
+delete this block	sitemgr	ca	Borrar este bloque
+delete version	sitemgr	ca	Borrar versión
+deleting all data for %1	sitemgr	ca	Borrar todos los datos de %1
+discussions	sitemgr	ca	Discusiones
+display link to autoregistration below login form?	sitemgr	ca	¿Mostrar el enlace para registrarse automáticamente debajo del formulario?
+do you want to delete them?	sitemgr	ca	¿Desea borrarlos?
+don't have an account?	sitemgr	ca	¿No tiene una cuenta?
+done	sitemgr	ca	Hecho
+downloaded	sitemgr	ca	descargado
+draft	sitemgr	ca	borrador
+draft mode	sitemgr	ca	Modo borrador
+edit categories and permissions	common	ca	Editar las categorías y los permisos
+edit category	sitemgr	ca	Editar categoría
+edit individual pages	common	ca	Editar páginas individuales
+edit mode	sitemgr	ca	Modo edición
+edit page	sitemgr	ca	Editar página
+edit properties of module %1 for %2 with scope %3	sitemgr	ca	Editar las propiedades del módulo %1 para %2 en el ámbito %3
+edit site header and footer	common	ca	Editar el encabezado y el pie del sitio
+edit this block	sitemgr	ca	Editar este bloque
+edit website	sitemgr	ca	Editar sitio web
+egw users	sitemgr	ca	usuarios de eGW
+enter a name	sitemgr	ca	Introduzca un nombre
+enter the block content here	sitemgr	ca	Introduzca aquí el contenido del bloque aquí
+enter the page content here	sitemgr	ca	Introduzca aquí el contenido de la página
+error accessing page	common	ca	Error al acceder a la página
+everybody	sitemgr	ca	todo el mundo
+file contents	sitemgr	ca	Contenido del fichero
+file download	sitemgr	ca	Descarga del fichero
+filesystem path of the directory where xml files are stored	sitemgr	ca	Ruta del directorio donde se almacenan los ficheros SML
+filesystem path to sitemgr-site directory	sitemgr	ca	Ruta en el sistema para el directorio del sitio del Administrador de sitios
+fill in permissions from parent category? if you check this, below values will be ignored	sitemgr	ca	¿Rellenar permisos con los de la categoría superior? Si marca esto, se ignorarán los valores de debajo.
+footer editor	sitemgr	ca	Editor de pies de página
+forum	sitemgr	ca	Foros
+full path of the xslt file that should be applied to the xml files	sitemgr	ca	Ruta completa del fichero XSLT que hay que aplicar a los ficheros XML
+galerie	sitemgr	ca	Galería
+go back to page manager	sitemgr	ca	Volver al Administrador de páginas
+go back to the category manager.	sitemgr	ca	Volver al Administrador de categorías
+go to	sitemgr	ca	Ir a
+go to page manager	sitemgr	ca	Ir al Administrador de páginas
+google	sitemgr	ca	Google
+google search	sitemgr	ca	Buscar en Google
+group access permissions	sitemgr	ca	Permisos de acceso del grupo
+group name	sitemgr	ca	Nombre del grupo
+header editor	sitemgr	ca	Editor de encabezados
+headlines	sitemgr	ca	Encabezados
+hello	sitemgr	ca	Hola
+hello world	sitemgr	ca	Hola, mundo
+html module	sitemgr	ca	Módulo HTML
+i'm sorry, you do not have write permissions for any site categories.	sitemgr	ca	Lo siento, no tiene permiso de escritura para ninguna de las categorías del sitio.
+if you haven't done so already, create a user that will be used for public viewing of the site.  recommended name: anonymous.	sitemgr	ca	Si todavía no lo ha hecho, cree un usuario que se pueda usar para ver el sitio. Nombre recomendado: anónimo.
+image type	sitemgr	ca	tipo de imagen
+implies read permission	sitemgr	ca	implica permiso de lectura
+individual access permission	sitemgr	ca	Permiso de acceso individual
+individual access permissions	sitemgr	ca	Permisos de acceso individuales
+interface to google website	sitemgr	ca	interfaz a Google
+languages the site user can choose from	sitemgr	ca	Idiomas que puede elegir el usuario del sitio
+latest reply	sitemgr	ca	Última respuesta
+list of permitted modules specific to content area %1	sitemgr	ca	Lista de módulos permitidos específicos al área de contenidos %1
+login	sitemgr	ca	Inicio de sesión
+login name	sitemgr	ca	Nombre de usuario
+main content	sitemgr	ca	Contenido principal
+mains	sitemgr	ca	Principal
+manage archived content	sitemgr	ca	Administrar contenido archivado
+manage categories	sitemgr	ca	Administrar categorías
+manage categories and pages	sitemgr	ca	Administrar categorías y páginas
+manage category wide content	sitemgr	ca	Administrar todo el contenido de la categoría
+manage category wide module properties	sitemgr	ca	Administrar las propiedades de los módulos de las categorías
+manage content	sitemgr	ca	Administrados de contenidos
+manage modules	sitemgr	ca	Administrar módulos
+manage page specific content	sitemgr	ca	Administrar los contenidos específicos de la página
+manage pages	common	ca	Administrar páginas
+manage site content	sitemgr	ca	Administrar el contenido del sitio
+manage site-wide content	sitemgr	ca	Administrar el contenido de todo el stio
+manage site-wide module properties	sitemgr	ca	Administrar las propiedades de todo el sitio
+manage translations	sitemgr	ca	Administrar traducciones
+master list of permitted modules	sitemgr	ca	Lista principal de módulos permitidos
+migrating data for %1 to %2	sitemgr	ca	Migrar datos para %1 a %2
+module %1 is not permitted in this context!	sitemgr	ca	El módulo %1 no está permitido en este contexto
+module manager	sitemgr	ca	Administrador de módulos
+move block down (increase sort order)	sitemgr	ca	Mover bloque hacia abajo (incrementar el orden)
+move block up (decrease sort order)	sitemgr	ca	Mover bloque hacia arriba (decrementar el orden)
+move to	sitemgr	ca	Mover a
+name	sitemgr	ca	Nombra
+name has been translated to lower case	sitemgr	ca	El nombre se ha traducido en minúsculas
+new application	sitemgr	ca	Nueva aplicación
+new sitemgr site	sitemgr	ca	Nuevo sitio web
+no anonymous user accounts installed.  notify the administrator.	sitemgr	ca	NO HAY INSTALADAS CUENTAS DE USUARIO ANONIMAS. NOTIFIQUELO AL ADMINISTRADOR.
+no content areas found in selected template	sitemgr	ca	No se encontraron áreas de contenido en la plantilla seleccionada
+no content found	sitemgr	ca	No se encontró contenido
+no groups defined.	sitemgr	ca	No hay grupos definidos.
+no modules permitted for this content area/category	sitemgr	ca	No se permiten módulos para este área o categoría
+no options available.	sitemgr	ca	No hay opciones disponibles
+no pages available	sitemgr	ca	No hay páginas disponibles
+no sitelanguages configured	sitemgr	ca	No hay idiomas configurados
+no template file found.	sitemgr	ca	No se encontró el fichero de la plantilla
+no templates found.	sitemgr	ca	No se encontraron plantillas
+no users defined.	sitemgr	ca	No hay usuarios definidos
+no websites defined	sitemgr	ca	No hay sitios web definidos
+not yet translated	sitemgr	ca	pendiente de traducir
+note that you may get this message if your preferences are incorrect.  for example, if config.inc.php is not found in the directory that you specified.	sitemgr	ca	Puede que vea este mensaje si sus preferencias son incorrectas. Por ejemplo, si config.inc.php no está en el directorio especificado.
+other websites	sitemgr	ca	Otros sitios web
+overview of all available categories	sitemgr	ca	Descripción de todas las categorías disponibles
+overview of one specific category	sitemgr	ca	Descripción de una categoría específica
+page	sitemgr	ca	Página
+page content	sitemgr	ca	Contenido de la página
+page manager	sitemgr	ca	Administrador de páginas
+page name	sitemgr	ca	Nombre de la página
+page saved	sitemgr	ca	Página guardada
+page saved.	sitemgr	ca	Página guardada
+page subtitle	sitemgr	ca	Subtítulo de la página
+page title	sitemgr	ca	Título de la página
+pages	sitemgr	ca	Páginas
+parent	sitemgr	ca	Superior
+password	sitemgr	ca	Contraseña
+password that you assigned for the anonymous user account.	sitemgr	ca	Contraseña asignada al usuario anónimo
+please enter a name for that site !	sitemgr	ca	Por favor, introduzca un nombre para ese sitio
+post a message to this thread	sitemgr	ca	Publicar un mensaje en esta conversación
+prepublished	sitemgr	ca	publicado previamente
+preunpublished	sitemgr	ca	sin publicar previamente
+previous	sitemgr	ca	Anterior
+production mode	sitemgr	ca	Modo de producción
+published	sitemgr	ca	publicado
+reactivate content	sitemgr	ca	Reactivar contenido
+read permission	sitemgr	ca	Leer permiso
+redirection	sitemgr	ca	Redirección
+refresh	sitemgr	ca	Refrescar
+register for one now.	sitemgr	ca	Registrar por uno ahora
+register new modules	sitemgr	ca	Registrar módulos nuevos
+replies	sitemgr	ca	Respuestas
+required fields	sitemgr	ca	Campos requeridos
+reset	sitemgr	ca	Restaurar
+return to forums	sitemgr	ca	Volver a los foros
+return to main menu.	sitemgr	ca	Volver al menú principal
+return to message list	sitemgr	ca	Volver a la lista de mensajes
+root site index	sitemgr	ca	Indice del sitio raíz
+save	sitemgr	ca	Guardar
+save block	sitemgr	ca	Guardar bloque
+saved	sitemgr	ca	Guardado
+scope	sitemgr	ca	Ambito
+seen by	sitemgr	ca	Visto por
+select a category	sitemgr	ca	Seleccione una categoría
+select a forum	sitemgr	ca	Seleccione un foro
+select allowed modules	sitemgr	ca	Seleccionar los módulos permitidos
+select persons and groups that are entitled to configure the website.	sitemgr	ca	Seleccione las personas y grupos que tienen derecho a configurar el sitio web.
+selected template %1 does not exist.	sitemgr	ca	La plantilla seleccionada %1 no existe
+selected theme %1 does not exist.	sitemgr	ca	El tema seleccionado %1 no existe.
+should the file be viewed in the browser or downloaded	sitemgr	ca	¿Mostrar el fichero o descargarlo?
+show site index	sitemgr	ca	Mostrar el índice del sitio
+site	sitemgr	ca	Sitio
+site %1 has been updated	sitemgr	ca	El sitio %1 ha sido actualizado
+site administrators	sitemgr	ca	Administradores del sitio
+site description	sitemgr	ca	Descripción del sitio
+site format manager	sitemgr	ca	Administrador del formato del sitio
+site index	sitemgr	ca	Indice del sitio
+site name	sitemgr	ca	Nombre del sitio
+site setup	common	ca	Configuración del sitio
+site tree menu	sitemgr	ca	Menú en árbol del sitio
+site wide	sitemgr	ca	Por todo el sitio
+sitemgr	common	ca	Administrador de sitios web
+sitemgr options	sitemgr	ca	Opciones del Administrador de sitios
+sitemgr setup instructions	sitemgr	ca	Instrucciones para configurar el Administrador de sitios
+sitemgr setup page	sitemgr	ca	Página de configuración del Administrador de sitios
+sitemgr web content manager	common	ca	Administrador de contenidos del Administrador de sitios web
+sitemgr websites	sitemgr	ca	Sitios web
+sort order	sitemgr	ca	Forma de ordenación
+state	sitemgr	ca	Estado
+strip html from block content?	sitemgr	ca	¿Separar HTML del contenido por bloques?
+subcategories	sitemgr	ca	Sucategorías
+subtitle	sitemgr	ca	Subtítulo
+summary of one forum	sitemgr	ca	Resumen de un foro
+table of contents	sitemgr	ca	Tabla de contenidos
+template select	sitemgr	ca	Selección de plantilla
+textarea	sitemgr	ca	Area de texto
+the category to display, 0 for complete table of contents	sitemgr	ca	La categoría a mostrar. 0 para toda la tabla de contenidos
+the config.inc.php file needs to be edited to point to the egroupware directory. copy the config.inc.php.template file to config.inc.php and then edit it.	sitemgr	ca	El fichero config.inc.php necesita editarse para apuntar al fichero eGW. Copie el fichero de plantilla config.inc.php.template a config.inc.php y luego edítelo
+the file to be downloaded	sitemgr	ca	El fichero a descargar
+the first directory to think about is sitemgr-link.  if you move this to the parent directory of sitemgr (your egroupware root directory) then you can use setup to install the app and everyone with access to the app will get an icon on their navbar that links them directly to the public web site.  if you don't want this icon, there's no reason to ever bother with the directory.	sitemgr	ca	El primer directorio en el que hay que pensar es <tt>sitemgr-link</tt>. Si lo mueve al directorio superior de <tt>sitemgr</tt> (el fichero raíz de la instalación) entonces puede usar <tt>setup</tt> para instalar la aplicación y todos los que tengan acceso a la aplicación tendrán un icono en su barra de navegación que está enlazada directamente al sitio web público. Si no quiere este icono, no hay razón para preocuparse de este directorio.
+the name field cannot contain punctuation or spaces (field modified).	sitemgr	ca	El campo Nombre no puede contener signos de puntuación ni espacios (campo modificado).
+the page name must be unique.	sitemgr	ca	El nombre de la página debe ser único
+the page was successfully saved.	sitemgr	ca	La página se guardó correctamente
+the path to the file to be downloaded	sitemgr	ca	La ruta al fichero que se va a descargar
+the person to say hello to	sitemgr	ca	La persona a la que saludar
+the second directory is the sitemgr-site directory.  this can be moved <i>anywhere</i>.  it can also be named <i>anything</i>.  wherever it winds up, when you point a web browser to it, you will get the generated website.  assuming, of course, that you've accurately completed the setup fields below and also <b><i>edited the config.inc.php</i></b> file.	sitemgr	ca	El segundo directorio es el directorio <tt>sitemgr-site</tt>. Se puede mover <i>a cualquier sitio</i>. También se puede llamar <i>de cualquier forma</i>. Donde se quede finalmente, cuando el navegador vaya ahí, obtendrá el sitio web generado. Asumiendo, por supuesto, que ha completado adecuadamente los pasos de configuracón previos y también <b><i>editado el fichero config.inc.php</i></b>.
+the url can be relative or absolute.  name must end in a slash.	sitemgr	ca	La URL puede ser relativa o absoluta. El nombre debe acabar en una barra invertida ("/").
+the url must be absolute and end in a slash, for example http://mydomain.com/mysite/	sitemgr	ca	La URL debe ser abosluta y acabar en una barra invertida ("/"). Por ejemplo, http://midominio.com/mi_sitio/
+the url to redirect to	sitemgr	ca	La URL a la que redirigir
+the whole page	sitemgr	ca	la página completa
+the xml files' common name	sitemgr	ca	el nombre común de los ficheros XML
+theme or template select	sitemgr	ca	Selección de tema o plantilla
+there are no categories	sitemgr	ca	No hay categorías
+there are no forums in this category	sitemgr	ca	No hay foros en esta categoría
+there are no pages in this section	sitemgr	ca	No hay páginas en esta sección
+there are no properties defined for this module	sitemgr	ca	No hay propiedades definidas en este módulo
+there are no sections available to you.	sitemgr	ca	No hay secciones disponibles para usted
+there are two subdirectories off of your sitemgr directory that you should move before you do anything else.  you don't <i>have</i> to move either of these directories, although you will probably want to.	sitemgr	ca	Hay dos subdirectorios fuera del directorio <tt>sitemgr</tt> que debería mover antes de hacer nada más. No <i>tiene</i> que mover ninguno de estos directorios, aunque probablemente querrá hacerlo.
+there can only be one version in (pre(un))published state, with the one exeption that one prepublished version can coexist with one preunpublished version	sitemgr	ca	sólo puede haber una versión en estado ((no)pre)publicado, con la única excepción de que una versión prepublicada puede coexistir con una versión no prepublicada.
+there is no website configured for url %1.  notify the administrator.	sitemgr	ca	NO HAY NINGUN SITIO WEB CONFIGURADO PARA LA URL %1. NOTIFIQUELO AL ADMINISTRADOR.
+there was an error accessing the requested page. either you do not have permission to view this page, or the page does not exist.	common	ca	Hubo un error accediendo a la página solicitada. O no tiene permiso para ver la página, o la página no existe.
+there was an error writing to the database.	sitemgr	ca	Hubo un error al escribir a la base de datos.
+this block displays a javascript based tree menu	sitemgr	ca	Este bloque muestra un menú en árbol en javascript
+this block displays the current section's table of contents	sitemgr	ca	Este bloque muestra la tabla de contenidos de la sección actual
+this category has no pages.	sitemgr	ca	Esta categoría no tiene páginas
+this is a simple sample module	sitemgr	ca	Este es un ejemplo simple de un módulo
+this is only used as an internal name for the website.	sitemgr	ca	Esto se usa sólo como un nombre interno del sitio web.
+this is used chiefly for meta data and the title bar. if you change the site languages below you have to save before being able to set this preference for a new language.	sitemgr	ca	Esto se usa principalmente para metadatos y barra de título. Si cambia los idiomas del sitio debajo, tiene que guardarlo antes de poder establecer esta preferencia para un idioma nuevo.
+this is used chiefly for meta data. if you change the site languages below you have to save before being able to set this preference for a new language.	sitemgr	ca	Esto se usa principalmente para metadatos. Si cambia los idiomas del sitio debajo, tiene que guardarlo antes de poder establecer esta preferencia para un idioma nuevo.
+this module create a link for downloading a file from the vfs	sitemgr	ca	Este módulo crea un enlace para descargar un fichero desde el Sistema de ficheros virtual
+this module demonstrates how handling data stored in xml and building an interacvite interface from it	sitemgr	ca	Este módulo demuestra cómo manejar los datos almacenados en XML y constuir un interfaz interactivo desde ahí.
+this module displays a login form	sitemgr	ca	Este módulo muestra un formulario para iniciar la sesión
+this module displays bookmarks in a javascript based tree	sitemgr	ca	Este módulo muestra los marcadores en forma de árbol mediante javascript
+this module displays the current month	sitemgr	ca	Este módulo muestra el mes actual.
+this module displays the egw forums on the web site	sitemgr	ca	Este módulo muestra los foros eGW en el sitio web
+this module is a simple html editor	sitemgr	ca	Este módulo es un editor HTML sencillo
+this module lets users choose language	sitemgr	ca	Este módulo permite a los usuarios elegir idioma
+this module lets you define pages that redirect to another url, if you use it, there should be no other block defined for the page	sitemgr	ca	Este módulo permite definir páginas que redirigen a otra URL. Si lo usa, no debería haber otro bloque definido para la página.
+this module permits browsing through xml files stored in a directory, and transformed by xslt	sitemgr	ca	Este módulo permite navegar a través de los ficheros XML almacenados en un directorio, y transformados por XSLT
+this module provides a complete table of contents, it is automatically used by the toc and category_id get parameters	sitemgr	ca	Este módulo proporciona una tabla de contenidos completa. Se usa automáticamente por los parámetros GET <tt>toc</tt> y <tt>category_id</tt>
+this module provides a condensed table of contents, meant for side areas	sitemgr	ca	Este módulo proporciona una tabla de contenidos condensada, indicada para áreas laterales
+this module provides the site index, it is automatically used by the index get parameter	sitemgr	ca	Este módulo proporciona el índice del sitio. Lo usa automáticamente el parámetro GET índice.
+this must be an absolute directory location.  <b>no trailing slash</b>.	sitemgr	ca	Esto debe ser una ubicación de directorio absoluta. <b>Sin barra invertida al final</b>.
+this should be a comma-separated list of language-codes.	sitemgr	ca	Esto debe ser una lista separada por comas de códigos de idioma.
+this should be a page that is readable by everyone. if you leave this blank, the site index will be shown by default.	sitemgr	ca	Esto debe ser una página que pueda ser leída por todo el mundo. Si deja esto en blanco, se mostrará el índice del sitio por defecto.
+title	sitemgr	ca	Título
+topic	sitemgr	ca	Tópico
+translate	sitemgr	ca	Traducir
+translate category	sitemgr	ca	Traducir categoría
+translate page	sitemgr	ca	Traducir página
+translate site-wide content blocks	sitemgr	ca	Traducir bloques de contenido por todo el sitio web
+translation manager	sitemgr	ca	Administrador de traducciones
+up to parent	sitemgr	ca	Subir al directorio superior
+up to table of contents	sitemgr	ca	Subir a la tabla de contenidos
+updating to new category system	sitemgr	ca	Actualizando a sistema de nueva categoría
+url to sitemgr-site	sitemgr	ca	URL al directorio <tt>sitemgr-site</tt>
+use phpnuke themes instead of templates	sitemgr	ca	Usar temas de phpNuke en vez de plantillas
+use this module for displaying book ads for the amazon web site	sitemgr	ca	Usar este módulo para mostrar publicidad de libros de amazon
+user name	sitemgr	ca	Nombre de usuario
+view administrative menu	sitemgr	ca	Ver menú administrativo
+view full index	sitemgr	ca	Ver todo el índice
+view generated site	sitemgr	ca	Ver sitio generado
+view threads	sitemgr	ca	Ver conversaciones
+viewed	sitemgr	ca	visto
+web content manager	common	ca	Administrador de contenidos del Administrador de sitios web
+web content manager administration	sitemgr	ca	Administración del gestor de contenido web
+web site manager	sitemgr	ca	Administrador del sitio web
+website	sitemgr	ca	Sitio web
+week	sitemgr	ca	semana
+what do you want to do with existing translations of categories and pages for this language?	sitemgr	ca	¿Qué desea hacer con las traducciones existentes de las categorías y las páginas para este idioma?
+with which view should the module be displayed in the beginning?	sitemgr	ca	¿Con qué vista se debe mostrar el módulo al principio?
+write permission	sitemgr	ca	Permiso de escritura
+xml browser	sitemgr	ca	Navegador XML
+yes, please delete it	sitemgr	ca	Sí, por favor, borrarlo.
+you are not entitled to create module %1 on this scope	sitemgr	ca	No está autorizado a crear el módulo %1 en este ámbito
+you are not entitled to edit block %1	sitemgr	ca	No está autorizado a editar el bloque %1
+you can choose the modules that can be used on the site. the first list is a sort of master list, that is consulted if you do not configure lists specific to contentareas or (sub)categories. then you can choose lists specific to each content area. in the category manager these lists can be overriden for each (sub)category.	sitemgr	ca	Puede elegir los módulos que se pueden usar en el sitio. La primera lista es una especie de lista maestra, que se consulta si no configura las listas específicas a las áreas de contenidos o (sub)categorías. Luego puede elegir listas específicas a cada área de contenidos. En el administrador de categorías, estas listas se pueden ignorar para cada (sub)categoría.
+you can either migrate them to a new language or delete them	sitemgr	ca	Puede migrarlas a un nuevo idioma o borrarlas.
+you can override each content blocks default title. be aware that not in all content areas the block title will be visible.	sitemgr	ca	Puede ignorar el título predeterminado de cada bloque de contenido. Tenga cuidado, ya que no el título del bloque no estará visible en todo el contenido.
+you did not choose a module.	sitemgr	ca	No ha elegido un módulo
+you do not have access to any content on this site.	sitemgr	ca	No tiene acceso a ningún contenido en este sitio
+you do not have write permissions for any site categories.	sitemgr	ca	No tiene permiso de escritura para ninguna categoría de ningún sitio.
+you don't have permission to write in the category	sitemgr	ca	No tiene permiso de escritura en la categoría
+you don't have permission to write to that category.	sitemgr	ca	No tiene permiso de escritura en esa categoría
+you failed to fill in one or more required fields.	sitemgr	ca	No ha rellenado correctamente uno o más campos requeridos
+you must be an admin to edit categories.	sitemgr	ca	Debe ser un administrador para editar todas las categorías.
+you must be an admin to edit the site header and footer.	sitemgr	ca	Debe ser un administrador para editar el encabezado y el pie del sitio.
+you must be an admin to manage module properties.	sitemgr	ca	Debe ser un administrador para manejar las propiedades del módulo.
+you must be an administrator to setup the site manager.	sitemgr	ca	Debe ser un administrador para configurar el Administrador del sitio.
+you removed one ore more languages from your site languages.	sitemgr	ca	Eliminó uno o más idiomas de los del sitio.
+your administrator has not yet setup the web content manager for public viewing.  go bug your administrator to get their butt in gear.	sitemgr	ca	El administrador todavía no ha configurado el Administrador de contenido web para verlo públicamente. Informe de esta circunstancia al administrador.
+your calendar	sitemgr	ca	Su calendario
+You need to make sure the sitemgr-link app is in the egroupware directory.  If you made a symbolic link... it isn't working.	sitemgr-link	ca	You need to make sure the sitemgr-link app is in the egroupware directory.  If you made a symbolic link... it isn't working.
+Before the public web site can be viewed, you must configure the various locations and preferences.  Please go to the sitemgr setup page by following this link:	sitemgr-link	ca	Before the public web site can be viewed, you must configure the various locations and preferences.  Please go to the sitemgr setup page by following this link:
+sitemgr setup page	sitemgr-link	ca	sitemgr setup page
+Note that you may get this message if your preferences are incorrect.  For example, if config.inc.php is not found in the directory that you specified.	sitemgr-link	ca	Note that you may get this message if your preferences are incorrect.  For example, if config.inc.php is not found in the directory that you specified.
+Your administrator has not yet setup the web content manager for public viewing.  Go bug your administrator to get their butt in gear.	sitemgr-link	ca	Your administrator has not yet setup the web content manager for public viewing.  Go bug your administrator to get their butt in gear.

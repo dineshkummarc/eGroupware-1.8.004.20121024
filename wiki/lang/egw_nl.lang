@@ -1,0 +1,111 @@
+(don't offer the possibility)	admin	nl	(de mogelijkheid niet aanbieden)
+<em>but</em> display at least this many entries in recentchanges and other subscription lists:	wiki	nl	<em>Maar</em> toon tenminste dit aantal regels in RecenteWijzigingen en andere abonnee lijsten:
+add document to category	wiki	nl	Voeg document toe aan categorie toe
+added	wiki	nl	Toegevoegd
+administration features are disabled for this wiki.	wiki	nl	Beheer mogelijkheden zijn uitgeschakeld voor deze wiki.
+admins	wiki	nl	beheerders
+after how many days should old versions of a page be removed (0 for never)	admin	nl	Na hoeveel dagen moeten oude versies van een pagina verwijderd worden (0 betekent nooit)
+allow anonymous access	admin	nl	sta anonieme toegang toe
+anonymous password	admin	nl	Anoniem wachtwoord
+anonymous session type	admin	nl	Anoniem Sessie Type
+anonymous username	admin	nl	anonieme gebruikersnaam
+automatically convert pages with wiki-syntax to richtext (if edited)?	admin	nl	Automatisch pagina's met wiki-syntax naar richtext convereteren (indien gewijzigd)?
+block	wiki	nl	Blokkeer
+block / unblock hosts	common	nl	Blokkeer / deblokkeer hosts
+blocked ip address ranges	wiki	nl	Geblokkeerde IP adres ranges
+cancel without saving	wiki	nl	Afbreken zonder opslaan
+changed	wiki	nl	Gewijzigd
+changes by last author	wiki	nl	Wijziging per laatste auteur
+choose your current time here, so the server may figure out what time zone you are in.	wiki	nl	Kies hier je huidige tijd zodat de server kan bepalen in welke tijdzonde je bent.
+columns	wiki	nl	Kolommen
+compute difference	wiki	nl	Bereken het verschil
+converts the page to richtext	wiki	nl	Converteert de pagina naar richtext
+current version	wiki	nl	Huidige versie
+deleted	wiki	nl	Verwijderd
+deletes this page	wiki	nl	Verwijdert deze pagina
+difference between versions	wiki	nl	Verschil tussen versies
+differences in	wiki	nl	Verschillen in
+different languages can have different titles	wiki	nl	verschillende talen kunnen verschillende titels hebben
+document last modified	wiki	nl	Document laatst gewijzigd
+edit box	wiki	nl	Bewerkings kader
+edit this <em>archive version</em> of this document	wiki	nl	Bewerk deze <em>ARCHIEFVERSIE</em> van dit document
+edit this document	wiki	nl	Bewerk dit document
+edit with preview	admin	nl	Bewerk met voorbeeld
+editable	admin	nl	te wijzigen
+editing	wiki	nl	Wijzigen
+emailaddress administrator	admin	nl	Email adres beheerder
+enable free links	admin	nl	Vrije Links inschakelen
+enable wiki links	admin	nl	Wiki Links inschakelen
+enter here the maximum number of entries to display in a document's history list.	wiki	nl	Vul hier het maximum aantal regels in dat getoond wordt in de historielijst van een document.
+enter here the number of days of edits to display on recentchanges or any other subscription list.  set this to zero if you wish to see all pages in recentchanges, regardless of how recently they were edited.	wiki	nl	Vul hier het aantal dagen van wijzigingen in dat getoond wordt in de RecenteWijzigingen of enige andere abonneelijst. Zet dit op nul indien je alle pagina's wilt zien in RecenteWijzigingen, ongeacht de ouderdom van de wijziging.
+enter ip address range in form <tt>12.*</tt>, <tt>34.56.*</tt>, or <tt>78.90.123.*</tt>	wiki	nl	Vul IP adressen in volgens het formaat <tt>12.*</tt>, <tt>34.56.*</tt>, of <tt>78.90.123.*</tt>
+error creating temporary file.	wiki	nl	Fout bij aanmaken tijdelijk bestand.
+error writing to temporary file.	wiki	nl	Fout bij schrijven naar tijdelijk bestand.
+everyone	wiki	nl	iedereen
+find	wiki	nl	Vind
+history	wiki	nl	historie
+history display should show <em>all</em> changes made by the latest author.  otherwise, show only the last change made.	wiki	nl	Historie overzicht moet <em>alle</em> wijzigingen tonen die door de laatste auteur gemaakt zijn. Alternatief is dat alleen de laatste wijziging getoond wordt.
+history lists	wiki	nl	Historielijsten
+history of	wiki	nl	Historie van
+interwikiprefix	admin	nl	InterWikiPrefix
+invalid page name.	wiki	nl	Ongeldige pagina naam
+load	wiki	nl	Laden
+loads the named page in the given language, all change so far get lost !!!	wiki	nl	Laadt de genoemde pagina in de opgegeven taal, alle wijzgingen tot op dit moment gaan verloren!!!
+lock / unlock pages	common	nl	Blokker / deblokkeer pagina's
+locked	wiki	nl	Geblokkeerd
+name wiki home link	admin	nl	naam wike home link
+newer	wiki	nl	Nieuwer
+no never	admin	nl	Nee, nooit
+no only on request	admin	nl	Nee, alleen op verzoek
+not set	wiki	nl	niet ingesteld
+older	wiki	nl	Ouder
+on all pages	wiki	nl	op alle pagina's
+only if browser supports a richtext-editor	admin	nl	Alleen indien browser een rich-text editor ondersteunt
+only on the first page	wiki	nl	alleen op de eerste pagina
+page '%1' not found !!!	wiki	nl	Pagina '%1' niet gevonden !!!
+path of the upload directory (has to be writable by the webserver!)	admin	nl	Pad naar de upload directory (moet schrijfbaar zijn voor de webserver!)
+picture upload via richtext editor (leave the upload directory empty to disable the upload)	admin	nl	Afbeeldingen uploaden via richtext editor (laat de upload directory leeg om dit uit te schakelen)
+please contact the %1administrator%2 for assistance.	wiki	nl	Neem s.v.p. contact op met %1Administrator%2 voor assistentie.
+preview	wiki	nl	Voorbeeld
+preview of current version	wiki	nl	Voorbeeld van huidige versie
+rate control / ip blocking disabled	wiki	nl	Beoordeling controle / IP blokkering uitgeschakeld
+readable by	wiki	nl	Leesbaar voor
+readonly	admin	nl	alleen-lezen
+recent changes	wiki	nl	Recente Wijzigingen
+renames page to the given name and language	wiki	nl	Hernoemt de pagina in de opgegeven naam en taal
+richtext	wiki	nl	Richtext
+rows	wiki	nl	Rijen
+save the changes and exit	wiki	nl	Bewaar de wijzigingen en einde
+saves and continues editing	wiki	nl	Bewaart en gaat verder met wijzigen
+search for	wiki	nl	Zoeken naar
+see complete list (%1 entries)	wiki	nl	Zie complete lijst (%1 regels)
+show a search	wiki	nl	Toon een zoekveld
+show the title of the wiki page	wiki	nl	Toon de titel van de wiki pagina
+summary	wiki	nl	Samenvatting
+summary of change	wiki	nl	Samenvatting van wijzigingen
+the search returned no result!	wiki	nl	De zoekactie leverde geen resultaat op!
+this page can not be edited.	wiki	nl	Deze pagina kan niet gewijzigd worden.
+twin pages	wiki	nl	Tweeling pagina's
+unblock	wiki	nl	Deblokkeren
+updates the preview	wiki	nl	Werkt het voorbeeld bij
+url of the upload directory	admin	nl	URL van de upload directory
+use this module for displaying wiki-pages	wiki	nl	Gebruik deze module om wiki-pagina's te tonen
+users	wiki	nl	gebruikers
+view document history	wiki	nl	Bekijk document historie
+visit %1 to set your user name	wiki	nl	Bezoek %1 om je gebruikersnaam in te stellen
+warning: since you started editing, this document has been changed by someone else.  please merge your edits into the current version of this document.	wiki	nl	Waarschuwing: sinds je startte met het bewerken is dit document gewijzigd door iemand anders. Voeg s.v.p. jouw wijzigingen in de huidige versie van het document in.
+who should be able to edit this page	wiki	nl	wie mag deze pagina bewerken
+who should be able to read this page	wiki	nl	wie mag deze pagina lezen
+wiki	common	nl	Wiki
+wiki administration	wiki	nl	Wiki beheer
+wiki menu	wiki	nl	Wiki menu
+wiki startpage	wiki	nl	Wiki startpagina
+writable by	wiki	nl	Schrijfbaar voor
+yes always	admin	nl	Ja, altijd
+yes with navbar	admin	nl	Ja met navigatiebalk
+you have been denied access to this site.	wiki	nl	Je hebt geen toegang tot deze website.
+you have entered an invalid user name.	wiki	nl	Je heb een ongeldige gebruikersnaam ingevuld.
+you have exeeded the number of pages you are allowed to visit in a given period of time. please return later.	wiki	nl	Je hebt het maximum aantal pagina's dat je binnen een bepaalde periode mag bekijken overschreden. Kom s.v.p. later terug.
+you have no rights to view wiki content !!!	wiki	nl	U heeft geen rechten om wiki inhoud te bekijken !!!
+your changes	wiki	nl	Uw wijzigingen
+your user name is "%1".	wiki	nl	Uw gebruikersnaam is "%1".

@@ -1,0 +1,15 @@
+%1 manual page(s) added or updated	manual	sk	%1 manuálových stránok bolo pridaných alebo aktualizovaných
+allow anonymous access to the manual, only necessary to act as remote manual	admin	sk	Povoliť anonymným používateľom prístup k manuálu. Potrebné len ak sa používa ako vzdialený manuál
+anonymous password	admin	sk	Heslo anonymného používateľa
+anonymous username	admin	sk	Používateľské meno anonymného používateľa
+download	manual	sk	stiahnuť
+index	manual	sk	Index
+install or update the manual-pages	admin	sk	inštalovať alebo aktualizovať stránky manuálu
+manual	common	sk	Manuál / Pomocník
+page(s) %1 not found !!!	manual	sk	Nenašiel som stránky %1 !!!
+remote egroupware url for the manual to use, empty for a local manual, default	admin	sk	Vzdialená URL adresa eGroupWare, ktorá sa má používať pre manuál. Ak necháte prázdne, uplatní sa predvolené, čiže lokálny manuál.
+search for	manual	sk	Hľadaj
+starting import from %1, this might take several minutes (specialy if you start it the first time) ...	manual	sk	Začínam importovať z %1, môže to trvať niekoľko minút (najmä ak to spúšťate po prvýkrát) ...
+the search returned no result!	manual	sk	Vyhľadávanie skončilo bezvýsledne!
+update url for the local manual, default	admin	sk	Aktualizovať adresu URL pre lokálny manuál, predvolené
+wiki id for the local manual, default 1, 0 to use the wiki to edit the manual pages	admin	sk	Wiki ID pre lokálny manuál, predvolené: 1. 0 sa používa ak chcete stránky manuálu upravovať pomocou wiki.

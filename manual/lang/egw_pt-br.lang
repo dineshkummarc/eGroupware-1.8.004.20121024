@@ -1,0 +1,15 @@
+%1 manual page(s) added or updated	manual	pt-br	%1 página(s) do manual adicionada(s) ou atualizada(s)
+allow anonymous access to the manual, only necessary to act as remote manual	admin	pt-br	Permitir acesso anônimo ao Manual/Ajuda (somente necessário para usar manual remoto)
+anonymous password	admin	pt-br	Senha do usuário anônimo
+anonymous username	admin	pt-br	Nome do usuário anônimo
+download	manual	pt-br	download
+index	manual	pt-br	Indice
+install or update the manual-pages	admin	pt-br	Instalar ou atualizar páginas do Manual/Ajuda
+manual	common	pt-br	Manual / Ajuda
+page(s) %1 not found !!!	manual	pt-br	Página(s) %1 não encontrada(s) !!!
+remote egroupware url for the manual to use, empty for a local manual, default	admin	pt-br	URL para Manual/Ajuda remoto do eGroupWare (vazio para manual local - padrão)
+search for	manual	pt-br	Pesquisar por
+starting import from %1, this might take several minutes (specialy if you start it the first time) ...	manual	pt-br	Iniciando a importação de %1, pode levar alguns minutos (especialmente se você o executa pela primeira vez)...
+the search returned no result!	manual	pt-br	A pesquisa não retornou nenhum resultado!
+update url for the local manual, default	admin	pt-br	Atualizar URL para Manual/Ajuda local (padrão)
+wiki id for the local manual, default 1, 0 to use the wiki to edit the manual pages	admin	pt-br	Identificador Wiki para o Manual/Ajuda local. Padrão 1. Use 0 para usar o Wiki na ediçao das páginas do Manual/Ajuda.

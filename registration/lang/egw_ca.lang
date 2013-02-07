@@ -1,0 +1,62 @@
+account password retrieval	registration	ca	Recuperació de contrasenya de compte
+account registration	registration	ca	Registre de compte
+activate account	admin	ca	Activar compte
+address	registration	ca	Adreça
+after you enter your username, instructions to change your password will be sent to you by e-mail to the address you gave when you registered.	registration	ca	Després d'entrar el vostre nom d'usuari, rebreu per correu electrònic les instruccions per canviar la vostra contrasenya a l'adreça que donàreu quan us vau registrar.
+anonymous password	admin	ca	Contrasenya Anònima
+birthday	registration	ca	Aniversari
+change password for user	registration	ca	Canviar contrasenya de l'usuari
+checkbox	registration	ca	Casella de Verificació
+choose your language	registration	ca	Trieu el vostre idioma
+city	registration	ca	Població
+country	registration	ca	Pais
+current fields:	registration	ca	Camps actuals:
+days until trial accounts expire	admin	ca	Dies fins que caduqui el compte de prova
+display terms of service?	admin	ca	Mostrar les Condicions del Servei?
+dropdown	registration	ca	Llista Desplegable
+email address to display for support	admin	ca	Adreça de Correu a mostrar per suport
+email address to send notices from	admin	ca	Adreça de Correu per enviar noticies
+enable registration?	admin	ca	Activar Registre?
+enter your new password	registration	ca	Entreu la nova contrasenya
+gender	registration	ca	Genre
+http password	admin	ca	Contrasenya HTTP
+http username	admin	ca	Nom d'Usuari HTTP
+i have read the terms and conditions and agree by them.	registration	ca	He llegit els termes i condicions i els accepto.
+immediately	admin	ca	Immediatament
+manage fields	admin	ca	Gestionar Camps
+name (blank unless text, textarea, dropdown, checkbox; else alphanumeric only)	registration	ca	Nom (blanc al menys a Text, Àrea de Text, Llista Desplegable, Casella de Verificació; altrament només alfanumèric)
+on-line registration is not activated. please contact the site administrator for more information about registration.	registration	ca	No està activat el Registre En Linia. Contacteu amb l'administrador del lloc per més informació sobre el registre.
+order	registration	ca	Ordre
+password is	admin	ca	La Contrasenya és
+phone	registration	ca	Telèfon
+re-enter password	registration	ca	Torneu a entrar la contrasenya
+re-enter your password	registration	ca	Torneu a entrar la contrasenya
+register link at login screen?	admin	ca	Enllaç al Registre a la pantalla de connexió?
+registration	common	ca	Registre
+registration settings	admin	ca	Configuracions del registre
+remove	registration	ca	Esborra
+report all problems and abuse to	registration	ca	Informar de tots els problemes i abusos
+required	registration	ca	Obligatori
+send email	admin	ca	Enviar Correu
+sorry, that username does not exist.	registration	ca	Aquest nom d'usuari no existeix.
+sorry, that username is already taken.	registration	ca	Aquest nom d'usuari ja està ocupat.
+sorry, we are having a problem activating your account. note that links sent by e-mail are only valid during two hours. if you think this delay was expired, just retry. otherwise, please contact the site administrator.	registration	ca	Perdó, tenim un problema activant el vostre compte. Teniu en compte que els enllaços enviats per correu son vàlids només durant dues hores. Si penseu que aquest interval ha caducat, només teniu que tornar a provar. Altrament, contacteu amb l'administrador del lloc.
+state	registration	ca	Estat
+subject for confirmation email	admin	ca	Assumpte pel correu de confirmació
+text	registration	ca	Text
+textarea	registration	ca	Àrea de Text
+the passwords you entered don't match	registration	ca	Les contrasenyes entrades no coincideixen
+the two passwords are not the same	registration	ca	Les dues contrasenyes no son iguals
+type	registration	ca	Tipus
+update/add	registration	ca	Actualitzar/Afegir
+use trial accounts?	admin	ca	Usar comptes de prova?
+username is	admin	ca	El nom d'Usuari és
+values (for dropdown only; comma separated)	registration	ca	Valors (Només per Llista Desplegable; separats per comes)
+we have sent a confirmation email to your email address. you must click on the link within 2 hours. if you do not, it may take a few days until your loginid will become available again.	registration	ca	We have sent a confirmation email to your email address. You must click on the link within 2 hours. If you do not, it may take a few days until your loginid will become available again.
+wrong session	registration	ca	Sessió errònia
+you have entered an invalid birthday	registration	ca	Heu entrat un aniversari incorrecte
+you have entered an invalid email address	registration	ca	Heu entrat una adreça de correu incorrecta
+you must enter a password	registration	ca	Heu d'entrar una contrasenya
+you must enter a username	registration	ca	Heu d'entrar un nom d'usuari
+you must fill in all of the required fields	registration	ca	Heu d'omplir els camps obligatoris
+zip/postal	registration	ca	Codi Postal

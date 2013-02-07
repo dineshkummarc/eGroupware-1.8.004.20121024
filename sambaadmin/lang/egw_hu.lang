@@ -1,0 +1,25 @@
+%1 - %2 of %3	sambaadmin	hu	%1 - %2 összesen %3
+add workstation	sambaadmin	hu	Munkaállomás hozzáadása
+check ldap setup (experimental!!!)	admin	hu	LDAP beállítások ellenőrzése (kezdetleges)
+computer group	admin	hu	Számítógép csoport
+computer ou	admin	hu	Számítógép ou
+displayname	sambaadmin	hu	Megjelenítendő név
+do you really want to delete selected workstation accounts?	sambaadmin	hu	Valóban
+homedrive	admin	hu	Alapértelmezett meghajtó
+homepath	sambaadmin	hu	Alapértelmezett elérési út
+logonscript	admin	hu	Login script
+new account defaults	admin	hu	Új fiók alapértelmezett beállításai
+participants	sambaadmin	hu	Részvevők
+path to mkntpwd	admin	hu	mkntpwd elérési útja
+profilepath	admin	hu	Profil elérési út
+samba config	sambaadmin	hu	Samba beállítás
+samba settings	common	hu	Samba beállítások
+samba sid	admin	hu	Samba SID
+sambaadmin	common	hu	Sambaadmin
+smb homepath	admin	hu	Smb alapértelmezett elérési út
+workstation account for	sambaadmin	hu	Munkahely fiók
+workstation configuration	sambaadmin	hu	Munkahely beállítás
+workstation list	sambaadmin	hu	Munkahelylista
+workstation name	sambaadmin	hu	Munkahely név
+workstationaccount active	sambaadmin	hu	Munkahely fiók aktív
+workstations	sambaadmin	hu	Munkahelyek

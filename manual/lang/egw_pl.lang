@@ -1,0 +1,15 @@
+%1 manual page(s) added or updated	manual	pl	Zaktualizowano lub dodano %1 stron podręcznika
+allow anonymous access to the manual, only necessary to act as remote manual	admin	pl	Zezwól na anonimowy dostęp do podręcznika, potrzebne tylko w celu udostępnienia zdalnego Podręcznika.
+anonymous password	admin	pl	Hasło użytkownika anonimowego
+anonymous username	admin	pl	Nazwa użytkownika anonimowego
+download	manual	pl	Pobierz
+index	manual	pl	Indeks
+install or update the manual-pages	admin	pl	zainstaluj lub uaktualnij strony podręcznika
+manual	common	pl	Podręcznik
+page(s) %1 not found !!!	manual	pl	Strona %1 nie znaleziona!
+remote egroupware url for the manual to use, empty for a local manual, default	admin	pl	Zdalny Podręcznik eGroupware (URL), pusty oznacza podręcznik lokalny
+search for	manual	pl	Wyszukaj
+starting import from %1, this might take several minutes (specialy if you start it the first time) ...	manual	pl	Zacznij import od %1, to może potrwać kilka minut (szczególnie jeśli importujesz pierwszy raz) ...
+the search returned no result!	manual	pl	Wyszukiwanie nie zwróciło rezultatów!
+update url for the local manual, default	admin	pl	Zaktualizuj URL do lokalnego podręcznika
+wiki id for the local manual, default 1, 0 to use the wiki to edit the manual pages	admin	pl	Id Wiki dla lokalnego podręcznika, domyślnie 1, 0 aby użyć wiki do edycji stron Pordęcznika

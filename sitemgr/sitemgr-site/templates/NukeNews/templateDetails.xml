@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<mosinstall type="template">
+	<name>NukeNews</name>
+	<creationDate>n.n.</creationDate>
+	<author>n.n.</author>
+	<copyright>This template is relased under GPL as part of eGroupWare's SiteMgr.</copyright>
+	<authorEmail></authorEmail>
+	<authorUrl>www.eGroupWare.org</authorUrl>
+	<version>1.0</version>
+	<description>SiteMgr's NukeNews template was based on a Nuke template.</description>
+</mosinstall>

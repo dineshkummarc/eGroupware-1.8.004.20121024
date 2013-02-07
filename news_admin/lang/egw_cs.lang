@@ -1,0 +1,111 @@
+%1 module	news_admin	cs	modul %1
+%1 news imported (%2 new).	news_admin	cs	%1 novinek bylo naimportováno (nové %2).
+%s hours	news_admin	cs	%s hodin(y)
+actions	news_admin	cs	Akce
+active	news_admin	cs	Aktivní
+add new article	news_admin	cs	Přidat nový článek
+add new news	news_admin	cs	Přidat novou novinku
+add news item	news_admin	cs	Přdat položku novinek
+all news	news_admin	cs	Všechny novinky
+always	news_admin	cs	Vždy
+by date	news_admin	cs	Podle data
+categories to displayed on main page?	news_admin	cs	Které kategorie by se měly zobrazit na hlavní straně?
+category deleted.	news_admin	cs	Kategorie byla smazána.
+category saved.	news_admin	cs	Kategorie byla uložena.
+choose a category	news_admin	cs	Vybrat kategorii
+configuration	news_admin	cs	Konfigurace
+configure access permissions	common	cs	Konfigurovat přístupová práva
+configure rss exports	common	cs	Konfigurovat RSS exporty
+contains html	news_admin	cs	Obsahuje HTML
+content	news_admin	cs	Obsah
+count	news_admin	cs	Počet
+date and time	news_admin	cs	Datum a čas
+delete this news	news_admin	cs	Smazat tuto novinku
+do you want to publish a rss feed for this news category	news_admin	cs	Chcete publikovat RSS feed pro tuto kategorii novinek
+edit news item	news_admin	cs	Editovat položku novinek
+end	news_admin	cs	Konec
+error importing the feed!	news_admin	cs	Chyba při importu feedu!
+error saving the category!	news_admin	cs	Chyba při ukládání kategorie!
+error saving the news!	news_admin	cs	Chyba při ukládání novinek
+failed to add message	news_admin	cs	Nepodařilo se přidat novou zprávu
+format for links to items	news_admin	cs	Formát odkazů na položky
+format of export	news_admin	cs	Formát exportu
+from	news_admin	cs	Od
+from all	news_admin	cs	Od všech
+future	news_admin	cs	Budoucí
+global categories	news_admin	cs	globální kategorie
+global news	news_admin	cs	Globální novinky
+global_news	news_admin	cs	Globální novinky
+headline	news_admin	cs	Nadpis
+headline with link	news_admin	cs	Nadpis s odkazem
+image link	news_admin	cs	Odkaz na obrázek
+image title	news_admin	cs	Titulek obrázku
+image url	news_admin	cs	URL obrázku
+implies read permission	news_admin	cs	z toho vyplývají práva pro čtení
+import every	news_admin	cs	Importovat každé
+import now	news_admin	cs	Importovat nyní
+import url	news_admin	cs	Importovat URL
+imported feeds can not be writable!	news_admin	cs	Naimportované feedy nemou být dostupné pro zápis!
+item has been deleted	news_admin	cs	Položka byla smazána
+item not found	news_admin	cs	Položka nebyla nalezena
+last updated	news_admin	cs	Poslední aktualizace
+link	news_admin	cs	Odkaz
+main	news_admin	cs	Hlavní
+maintain	news_admin	cs	Spravovat
+maintain news	admin	cs	Spravovat novinky
+message has been added	news_admin	cs	Zpráva byla přidána
+more news	news_admin	cs	Více novinek
+more news link	news_admin	cs	Odkaz na více novinek
+new item has been added	news_admin	cs	Nová položka byla přidána
+news	news_admin	cs	Novinky
+news admin	news_admin	cs	Správce novinek
+news administration	news_admin	cs	Administrace novinek
+news deleted.	news_admin	cs	Novinka smazána.
+news item has been added	news_admin	cs	Položka novinek byla přidána
+news item has been updated	news_admin	cs	Položka novinek byla zaktualizována
+news saved.	news_admin	cs	Novinka uložna.
+news_admin	common	cs	Správce novinek
+no anonymous user accounts installed.  notify the administrator.	news_admin	cs	Nejsou nainstalovány žádné anonymní uživatelské účty. Upozorněte správce.
+no entries found	news_admin	cs	žádné záznamy nebyly nalezeny
+no matching news item	news_admin	cs	Žádné odpovídající položky novinek nebyly nalezeny
+no news	news_admin	cs	V kategorii nejsou momentálně dostupné žádné novinky
+no rss export	news_admin	cs	Bez RSS exportu
+now	news_admin	cs	Nyní
+number of articles to display on the main screen	news_admin	cs	Počet článků, které se mají zobrazovat na hlavní obrazovce
+number of news items to be displayed on page	news_admin	cs	Počet položek novinek, které se mají zobrazovat na stránce
+old	news_admin	cs	Staré
+on	news_admin	cs	na
+page-name the item should be displayed (empty = current page)	news_admin	cs	Název stránky, na které by měla být položka zobrazena (nevyplněno = na aktuální straně)
+parent	news_admin	cs	Nadřazený
+picture upload (leave the upload directory empty to disable the upload)	admin	cs	Upload obrázku (chcete-li upload zakázat, ponechte adresář pro upload prázdný)
+please select a category	news_admin	cs	Vyberte prosím kategorii
+publish date	news_admin	cs	Datum publikování
+read more	news_admin	cs	číst dále
+read news	news_admin	cs	Číst novinky
+read permissions	news_admin	cs	Práva ke čtění
+reload	news_admin	cs	Načíst znovu
+send mail to others	news_admin	cs	Odeslat mail ostatním
+should news_admin display the latest article headlines on the main screen.	news_admin	cs	Má Správce novinek zobrazovat nadpisy posledních článků na hlavní obrazovce.
+show latest news articles?	news_admin	cs	Zobrazit články posledních novinek?
+show news articles on main page?	news_admin	cs	Zobrazovat články novinek na hlavní obrazovce?
+small view	news_admin	cs	zmenšený pohled
+start	news_admin	cs	Začátek
+submitted by	common	cs	Odeslal(a)
+submitted by %1 on %2	news_admin	cs	Odeslal(a) %1 k %2
+submitted by and date	news_admin	cs	Odesláno kdykoli
+teaser	news_admin	cs	Úvodník
+teaser with read more link	news_admin	cs	Úvodník s odkazem na čtení dalších
+the news content is missing	news_admin	cs	Obsah novinek chybí
+the number of articles to display on the main screen.	news_admin	cs	Počet článků, které se mají zobrazit na hlavní obrazovce
+the subject is missing	news_admin	cs	Chybí předmět
+there no such translation.	news_admin	cs	Takový překlad neexistuje.
+this module publishes news from the news_admin application on your website. be aware of news_admin's acl restrictions.	news_admin	cs	Tento modul publikuje novinky z aplikace Správce novinek na Vašem webu. Mějte na paměti omezení daná přístupovými právy (ACL) nastavenými ve Správci novinek.
+until	news_admin	cs	do
+url of the rss or atom feed, empty for own news feed	news_admin	cs	URL RSS nebo Atom kanálu, ponechte prázdné pro vlastní kanál
+view this category	news_admin	cs	Zobrazit tuto kategorii
+visible	news_admin	cs	Viditelné
+webpage news admin	news_admin	cs	Správce novinek na webové stránce
+which information do you want to show (css class)	news_admin	cs	Které informace chcete zobrazit (CSS třída)
+which news categories should be displayed on the main screen.	news_admin	cs	Které kategorie novinek by měly být zobrazeny na hlavní obrazovce.
+write	news_admin	cs	Uložit
+write permissions	news_admin	cs	Práva k zápisu

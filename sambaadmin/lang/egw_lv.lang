@@ -1,0 +1,22 @@
+%1 - %2 of %3	sambaadmin	lv	%1-%2 no %3
+add workstation	sambaadmin	lv	pievienot darba staciju
+check ldap setup (experimental!!!)	admin	lv	pārbaudīt ldap iestatīšanu (izmēģinājuma!!!)
+computer group	admin	lv	datora grupa
+displayname	sambaadmin	lv	parāda nosaukumu
+do you really want to delete selected workstation accounts?	sambaadmin	lv	Vai tiešām vēlies dzēst iezīmētos darba stacijas kontus?
+homepath	sambaadmin	lv	mājas ceļš
+logonscript	admin	lv	pieteikšanās skripts
+new account defaults	admin	lv	jauna konta noklusējumi
+participants	sambaadmin	lv	Dalībnieki
+path to mkntpwd	admin	lv	ceļš uz mkntpwd
+profilepath	admin	lv	profila ceļš
+samba config	sambaadmin	lv	samba konfig
+samba settings	common	lv	Samba uzstādījumi
+samba sid	admin	lv	Samba SID
+smb homepath	admin	lv	smb mājasceļš
+workstation account for	sambaadmin	lv	darba stacijas konts priekš
+workstation configuration	sambaadmin	lv	darba stacijas konfigurēšana
+workstation list	sambaadmin	lv	darba stacijas saraksts
+workstation name	sambaadmin	lv	darba stacijas nosaukums
+workstationaccount active	sambaadmin	lv	darba stacijas konts aktīvs
+workstations	sambaadmin	lv	darba stacijas

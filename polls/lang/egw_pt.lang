@@ -1,0 +1,33 @@
+actions	polls	pt	acções
+add answer to poll	polls	pt	Adicionar nova resposta
+add answers	polls	pt	Adicionar respostas
+add new poll question	polls	pt	Adicionar nova questão
+add questions	polls	pt	Adicionar questões
+allow users to vote more then once	polls	pt	Permitir aos utilizadores votarem mais de uma vez
+answer	polls	pt	Resposta
+answer has been added to poll	polls	pt	Resposta adicionada
+answer has been updated	polls	pt	Resposta actualizada
+answers	polls	pt	Respostas
+are you sure want to delete this answer ?	polls	pt	Você tem certeza  deque deseja eliminar esta resposta ?
+are you sure want to delete this question ?	polls	pt	Você tem certeza  deque deseja eliminar esta questão ?
+current poll	polls	pt	Votação actual
+edit answer	polls	pt	Editar resposta
+edit poll question	polls	pt	Editar questão
+enter poll question	polls	pt	Inserir questão
+new poll has been added.  you should now add some answers for this poll	polls	pt	Foi adicionada uma nova votação. Adicione algumas respostas para esta votação
+poll question	polls	pt	Qustão
+poll settings	common	pt	Configurações da votação
+polls	common	pt	Votações
+question has been updated	polls	pt	A questão foi actualizada
+select current poll	polls	pt	Seleccionar votação actual
+settings	polls	pt	Configurações
+settings updated	polls	pt	Configurações actualizadas
+show answers	polls	pt	Exibir respostas
+show questions	common	pt	Exibir questões
+total votes	polls	pt	Total
+view poll	polls	pt	Ver votação
+view results	polls	pt	Ver resultados
+vote	polls	pt	Votar
+voting booth admin	admin	pt	Caixa de votação
+voting booth administration	polls	pt	Administração da caixa de votação
+which poll	polls	pt	Que votação

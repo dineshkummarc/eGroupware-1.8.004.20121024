@@ -1,0 +1,122 @@
+13: error occured	registration	zh	13：错误发生
+<br>please contact the site administrator.	registration	zh	请联系网站管理员
+[unknown first name]	registration	zh	[未知名字]
+[unknown last name]	registration	zh	[未知姓氏]
+account %1 record could not be found, report to site administrator	registration	zh	帐户 %1 的纪录未找到，报告网站管理员
+account password retrieval	registration	zh	帐户密码取回
+account registration	registration	zh	帐户注册
+activate account	admin	zh	激活帐户
+address	registration	zh	地址
+after you enter your email address, the user accounts associated with this email address will be mailed to that address.	registration	zh	在您输入您的邮件地址之后，与此邮件地址相关的用户帐户将发送邮件到该地址。
+after you enter your username, instructions to change your password will be sent to you by e-mail to the address you gave when you registered.	registration	zh	在您输入您的用户名之后，指令改变您的密码将由电子邮件发送到您登录时提供的地址。
+an error occured while updating your password. please contact the site administrator.	registration	zh	当更新您的密码时发生错误。请与站点管理员联系。
+an error occured. please contact our technical support and let them know.	registration	zh	发生一个错误。请与我们的技术支持联系并且告诉他们。
+an error occured. please remove your cookies and try again.	registration	zh	发生一个错误。请清除您的 Cookies 并且再试一次。
+an unknown error occured. <a href="%1">please try registering again.</a>	registration	zh	发生一个未知错误。<a href="%1">请再次尝试登录。</a>
+anonymous password	admin	zh	匿名密码
+birthday	registration	zh	出生日期
+challenge question	registration	zh	安全提问
+change login	registration	zh	更改登录
+change password for user	registration	zh	修改用户密码
+checkbox	registration	zh	复选框
+choose language	registration	zh	选择语言
+choose your language	registration	zh	选择您的语言
+city	registration	zh	城市
+click to log into your account	registration	zh	点击登录您的帐户
+close window	registration	zh	关闭窗口
+convert user login id to 7 bit string	admin	zh	转换用户登录ID为7 bit 解码
+country	registration	zh	国家
+current fields:	registration	zh	当前字段：
+days until trial accounts expire	admin	zh	试用帐户到期天数
+display terms of service?	admin	zh	显示服务条款？
+dropdown	registration	zh	下拉选单
+dropdown from table	registration	zh	下拉列表
+email address	registration	zh	电子邮件
+email address to display for support	admin	zh	电子邮件显示为支持
+email address to send notices from	admin	zh	发送通知的电子邮件从
+enable registration?	admin	zh	启用注册？
+enter your new password	registration	zh	输入您的新密码
+error: dropdown from table '%1' is not correctly configured	registration	zh	错误：下拉列表'%1'没有正确地配置
+error: dropdown list '%1' has no values	registration	zh	错误：下拉列表'%1'没有数值
+female	registration	zh	女
+gender	registration	zh	性别
+hi	registration	zh	嗨
+http password	admin	zh	HTTP 密码
+http username	admin	zh	HTTP 用户名
+i have read the terms and conditions and agree by them.	registration	zh	我已阅读了条件条款并且同意。
+if you did not request this account, simply ignore this message.	registration	zh	如果您没有请求这个帐户，简单地忽略这则消息。
+if you did not request this change, simply ignore this message.	registration	zh	如果您没有请求这变动，简单地忽略这则消息。
+immediately	admin	zh	立刻
+lost login id	login	zh	丢失登录 ID
+lost password	login	zh	丢失密码
+lost password link at login screen?	admin	zh	在登录窗口丢失密码链接？
+lost user account retrieval	registration	zh	丢失的用户帐号找回
+lost user id	registration	zh	丢失用户 ID
+lost user id link at login screen?	admin	zh	在登录窗口丢失用户标识符链接？
+lost_user_id_message	registration	zh	这用户帐号与这个邮件帐户相关：
+male	registration	zh	男
+manage fields	admin	zh	管理字段
+name (blank unless text, textarea, dropdown, checkbox; else alphanumeric only)	registration	zh	名称(空白除非为文本,文本框,下拉框,复选框,否则仅字母和数字)
+name sender to send notices from	admin	zh	发送通知的发件人从
+not a user yet? register now	login	zh	不是用户？ 现在注册
+on-line registration is not activated. please contact the site administrator for more information about registration.	registration	zh	在线注册没有激活。请与网站管理员联系了解关于注册的更多信息。
+order	registration	zh	排序
+password is	admin	zh	密码是
+phone	registration	zh	电话
+please contact the site administrator.	registration	zh	请联系网站管理员。
+problem sending email:	registration	zh	发送邮件问题：
+re-enter password	registration	zh	重输密码
+re-enter your password	registration	zh	重输您的密码
+register	common	zh	注册
+register link at login screen?	admin	zh	注册链接在登录窗口
+registration	common	zh	注册管理
+registration settings	admin	zh	注册设置
+remove	registration	zh	移除
+report all problems and abuse to	registration	zh	报告所有问题和滥用
+required	registration	zh	需要
+response	registration	zh	回答
+send email	admin	zh	发送电子邮件
+site configuration	common	zh	站点配置
+sorry, no account exists for	registration	zh	抱歉，帐户不存在
+sorry, that username does not exist.	registration	zh	抱歉，那用户名不存在。
+sorry, that username is already taken.	registration	zh	抱歉，那用户名已经被采取。
+sorry, we are having a problem activating your account. note that links sent by e-mail are only valid during two hours. if you think this delay was expired, just retry. otherwise, please contact the site administrator.	registration	zh	抱歉，我们有一个问题激活您的帐户。注意在两小时内通过电子邮件链接是唯一有效的。如果您认为延迟送达是过期的，请再试。否则，请与站点管理员联系。
+sorry, we are having a problem retrieving the information needed for changing your password. note that links sent by e-mail are only valid during two hours. if you think this delay was expired, just retry. otherwise, please contact the site administrator.	registration	zh	对不起，为更改您的密码，我们需要检索所需要的信息。注意在两小时内通过电子邮件发送的链接是唯一有效的。如果你认为因迟延交付过期，可以再试。否则，请联络网站管理员。
+state	registration	zh	状态
+subject for confirmation email	admin	zh	主题为确认邮件
+terms of service	registration	zh	服务条款
+terms of service text	admin	zh	服务条款文本
+text	registration	zh	文本
+textarea	registration	zh	文本框
+the passwords you entered don't match	registration	zh	您输入的密码不匹配
+the two passwords are not the same	registration	zh	二个密码不是相同
+this is a confirmation email for your new account.  click on the following link to finish activating your account. this link will expire in 2 hours.	registration	zh	这封确认电子邮件为您新的帐户。点击以下链接完成激活您的帐户。这个链接在2个小时后将到期。
+type	registration	zh	类型
+unable to send mail, contact your administrator	registration	zh	无法发送邮件，与您的管理员联系。
+unknown first name	registration	zh	未知用户名
+unknown last name	registration	zh	未知用户姓
+update/add	registration	zh	更新/添加
+use html	admin	zh	使用 HTML
+use trial accounts?	admin	zh	使用试用帐户？
+username is	admin	zh	用户名是
+values 'for dropdown': comma separated), for 'dropdown from table': table,valuefield,displayfield	registration	zh	值为'下拉选单'：(逗号分隔)；为'下拉列表'：表、值字段、显示字段
+values (for dropdown only; comma separated)	registration	zh	值 (仅下拉框；逗号分隔)
+we have sent a confirmation email to your email address. you must click on the link within 2 hours. if you do not, it may take a few days until your loginid will become available again.	registration	zh	我们已经发送了确认电子邮件到您的邮箱。您在2个小时之内必须点击链接。如果您未点击确认，它也许需要几天时间直到您的登录标识再次恢复为可用。
+we have sent a mail to your email account: %s with your lost user ids.	registration	zh	我们已经发送了邮件到您的信箱：由于 %s 您失去用户识别号。
+we have sent a mail with instructions to change your password. you should follow the included link within two hours. if you do not, you will have to go to the lost password screen again.	registration	zh	我们发送了邮件以指示改变您的密码。您在二个小时之内应该点击包括的链接。如果您未点击确认，您将必须再次回到丢失密码窗口。
+wrong session	registration	zh	错误会话
+you can go back to the login page	registration	zh	您可以返回到注册页
+you have entered an invalid birthday	registration	zh	您输入了一个无效出生日期
+you have entered an invalid email address	registration	zh	您输入了一个无效电子邮件地址
+you must enter a password	registration	zh	您必须输入密码
+you must enter a username	registration	zh	您必须输入用户名
+you must enter an email account	registration	zh	您必须输入电子邮件帐户
+you must enter an email address	registration	zh	您必须输入电子邮件地址
+you must fill in all of the required fields	registration	zh	您必须填写所有必需的字段
+you requested to change your password. please follow the url below to do so. this url will expire in two hours. after this delay you should go thru the lost password procedure again.	registration	zh	您已请求更改您的密码，请点击以下网址链接继续。该链接在二小时后将过期，在此期限过后，您将面临再次失去密码。
+you specified a value for %1 that is not a choice	registration	zh	您为 %1 指定了一个不是选择的值
+your account is now active!	registration	zh	您的帐户已激活！
+your login is not available. time is expired	registration	zh	您的登录是无效的。时间过期
+your password was changed.	registration	zh	您的密码已更改。
+your registration code is missing or incorrect.	registration	zh	您的注册码丢失或是不正确的。
+zip/postal	registration	zh	邮政编码

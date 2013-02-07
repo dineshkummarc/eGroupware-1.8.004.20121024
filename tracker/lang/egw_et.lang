@@ -1,0 +1,113 @@
+%1 entries updated.	tracker	et	%1kirjed uuendatud.
+--> enter new name	tracker	et	--> Sisesta uus nimi
+1 - lowest	tracker	et	1 - madalaim
+5 - medium	tracker	et	5 - keskmine
+9 - highest	tracker	et	9 - kõrgeim
+accepted	tracker	et	Kinnitatud
+actions	tracker	et	Tegevused
+add comment	tracker	et	Lisa kommentaar
+add timesheet entry	tracker	et	Lisa Timesheet kirje
+after how many days a not replied item should be marked overdue?	tracker	et	Mitme päevapärast vastamatta asjad määratakse kui hilinenud?
+after how many days pending items should be closed automatic	tracker	et	Mitme päevapärast otsustamatta asjad suletakse automaatselt?
+allow bounties	tracker	et	Luba vaevatasud
+allow default projects for tracker	tracker	et	Luba vaikimisi projektid Trackeris
+allow editing by	tracker	et	Luba muuta
+allow voting	tracker	et	Luba hääletamine
+allow voting on tracker items, show and sort after the votes	tracker	et	Luba Trackeri asjade hääletamine, näita ja sorteeri pärast hääletusi
+amount	tracker	et	Kogus
+assigned to	tracker	et	Vastutaja
+attachments & links	tracker	et	Manused & Lingid
+autoassign to	tracker	et	Vaikimisi vastutab
+bounties	tracker	et	Vaevatasud
+bounty confirmed	tracker	et	Vaevatasu kinnitatud
+bounty confirmed.	tracker	et	Vaevatasu kinnitatud.
+bounty deleted	tracker	et	Vaevatasu kustutatud
+bounty deleted.	tracker	et	Vaevatasu kustutatud.
+bounty set	tracker	et	Vaevatasu seatud
+canned response	tracker	et	Eelsalvestatud vastus
+canned responses	tracker	et	Eelsalvestatud vastused
+categories, versions, canned responses	tracker	et	Kategooriad, versioonid, eelsalvestatud vastused
+check all	tracker	et	Kontrolli kõik
+close pending	tracker	et	Sule otsustamatta
+closed	tracker	et	Suletud
+comments	tracker	et	Kommentaarid
+completed	tracker	et	Lõpetatud
+configuration	tracker	et	Konfiguratsioon
+configuration updated.	tracker	et	Konfiguratsioon uuendatud.
+confirmed	tracker	et	Kinnitatud
+create new links	tracker	et	Tee uued lingid
+created	tracker	et	Tehtud
+date opened	tracker	et	Kuupäev avatud
+delete this bounty	tracker	et	Kustuta see vaevatasu
+delete this canned response	tracker	et	Kustuta see eelsalvestatud vastus
+delete this category	tracker	et	Kustuta see kategooria
+delete this entry	tracker	et	Kustuta see kirje
+delete this status	tracker	et	Kustuta see staatus
+delete this tracker including all it's items and categories	tracker	et	Kustuta see jälgija koos tema asjade ja kategoorjatega
+delete this version	tracker	et	Kustuta see versioon
+deleted	tracker	et	Kustutatud
+do you want to vote for this item	tracker	et	Kas soovid seda hääletada
+duplicate	tracker	et	Dublikaat
+e-mail notifications	tracker	et	E-Mail meeldetuletused
+edit %1	tracker	et	Muuda %1
+email address to contact you	tracker	et	E-mail aadress kontakteerumaks sinuga
+entry saved	tracker	et	Kirje salvestatud
+error adding the new tracker!	tracker	et	Viga uue jälgija lisamisel!
+error saving the entry!!!	tracker	et	Viga kirje salvestamisel !!!
+everybody	tracker	et	Igaüks
+existing links	tracker	et	Eksisteerivad lingid
+field	tracker	et	Väli
+fixed	tracker	et	Parandatud
+history	tracker	et	Ajalugu
+id	tracker	et	ID
+invalid	tracker	et	Vigane
+item assignee	tracker	et	Vastutaja
+item creator	tracker	et	Autor
+last modified	tracker	et	Viimati muudetud
+later	tracker	et	Hiljem
+new %1	tracker	et	Uus %1
+new items	tracker	et	Uued asjad
+no change	tracker	et	Ära muuda
+non-anonymous users	tracker	et	Mitte-anonüümsed kasutajad
+noone	tracker	et	Mittekeegi
+notification	tracker	et	Meeldetuletus
+open	tracker	et	Avatud
+out of date	tracker	et	Aegunud
+pending	tracker	et	Otsustamatta
+pending items never get close automatic.	tracker	et	Otsustamatta ei suleta kunagi automaatselt.
+pending items will be closed automatic after %1 days without response.	tracker	et	Otsustamatta asjad suletakse automaatselt pärast %1 päeva ilma vastusetta.
+permission denied !!!	tracker	et	Ligipääs keelatud !!!
+project selection	tracker	et	Projekti valik
+projects	tracker	et	Projektid
+rejected	tracker	et	Tagasilükatud
+remind	tracker	et	Meeldetuletus
+resolution	tracker	et	Lahendus
+sender address	tracker	et	Saatja aadress
+set an own bounty (in %s)	tracker	et	Sea oma vaevatasu (%s)
+set bounty	tracker	et	Sea vaevatasu
+show actions in tracker listing	tracker	et	Näita tegevusi jälgija listis
+staff	tracker	et	Töötajad
+summary	tracker	et	Summaarselt
+technicians	tracker	et	Tehnikud
+thank you for setting this bounty.	tracker	et	Suur tänu vaevatasueest.
+thank you for voting.	tracker	et	Tänan, et hääletasid.
+the bounty will not be shown, until the money is received.	tracker	et	Vaevatasu ei näidata kuni raha pole saabunud.
+tracker	common	et	Jälgimise Süsteem
+tracker admins	tracker	et	Jälgija administraatorid
+tracker admins & technicians	tracker	et	Jälgija administraatorid & tehnikud
+tracker configuration	tracker	et	Jälgija konfiguratsioon
+tracker queue	tracker	et	Valdkond
+tracker-%1 '%2' added.	tracker	et	Jälgija-%1 '%2' lisatud.
+tracker-%1 '%2' updated.	tracker	et	Jälgija-%1 '%2' uuendatud.
+tracker-%1 deleted.	tracker	et	Jälgija-%1 kustutatud
+versions	tracker	et	Versioonid
+vote for it!	tracker	et	Hääleta selle poolt!
+votes	tracker	et	Hääletused
+wont fix	tracker	et	Pole parandatav
+works for me	tracker	et	Töötab minujaoks
+yes, display groups first	tracker	et	Jah, näita gruppe esmalt
+yes, display users first	tracker	et	Jah, näita kasutajaid esmalt
+you can respond by visiting:	tracker	et	Sa saad vastata külastates:
+you need to enter a name	tracker	et	Pead sisestama nime
+you need to login to vote!	tracker	et	Pead sisse logima, et hääletada!
+you voted %1.	tracker	et	Sa hääletasid %1.

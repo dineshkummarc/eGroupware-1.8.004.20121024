@@ -1,0 +1,47 @@
+%1 group	polls	zh	%1群组
+actions	polls	zh	操作
+add answer to poll	polls	zh	添加投票选择项
+add answers	polls	zh	添加投票选择项
+add new poll question	polls	zh	添加新表决问题
+add questions	polls	zh	添加待表决问题
+administration	polls	zh	系统管理
+administrators	polls	zh	系统管理
+allow users to vote more then once	polls	zh	允许用户多次表决
+allways use latest poll	polls	zh	允许使用最新投票
+answer	polls	zh	投票选项
+answer has been added to poll	polls	zh	投票选项已加入投票
+answer has been updated	polls	zh	投票选项已更新
+answers	polls	zh	投票选项
+are you sure want to delete this answer ?	polls	zh	确定要删除该选项吗？
+are you sure want to delete this question ?	polls	zh	确定要删除该问题吗？
+current poll	polls	zh	当前投票
+edit answer	polls	zh	编辑选项
+edit poll question	polls	zh	编辑投票问题
+egroupware users (non-anonymous)	polls	zh	Oscar Trading 用户(非匿名)
+enter poll question	polls	zh	请输入投票的问题
+everyone incl. anonymous users	polls	zh	每个人包含匿名用户
+new poll has been added.  you should now add some answers for this poll	polls	zh	新投票已添加, 您现在应该为投票添加若干投票选项
+noone	polls	zh	没有人
+poll question	polls	zh	投票问题
+poll votable by	polls	zh	投票由
+polls	common	zh	投票调查
+polls menu	polls	zh	投票菜单
+question has been updated	polls	zh	投票问题已更新
+result visible to	polls	zh	结果可见
+select current poll	polls	zh	选择当前投票
+settings updated	polls	zh	设置已更新
+show answers	polls	zh	显示投票的选项
+show bullet if allowed to vote and result else	polls	zh	如果允许投票与结果，显示子弹，否则
+show only the ballot	polls	zh	只显示投票
+show only the result	polls	zh	只显示结果
+show questions	common	zh	显示待表决问题
+this module displays polls.	polls	zh	这个模块显示投票。
+total votes	polls	zh	总票数
+view poll	polls	zh	查看投票
+view results	polls	zh	查看结果
+vote	polls	zh	投票
+voting booth admin	admin	zh	投票室
+voting booth administration	polls	zh	投票室管理
+what to show	polls	zh	显示什么
+which poll	polls	zh	哪一项投票
+you are not (yet) allowed view the result of this vote.	polls	zh	您没有(尚无)查看投票调查结果的权限。

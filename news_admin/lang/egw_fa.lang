@@ -1,0 +1,68 @@
+active	news_admin	fa	فعال
+add new article	news_admin	fa	افزودن خبر جدید
+add new news	news_admin	fa	افزودن اخبار جدید
+add news item	news_admin	fa	افزودن آیتم اخبار
+all news	news_admin	fa	کلیه اخبار
+always	news_admin	fa	همیشه
+configuration	news_admin	fa	تنظیم
+configure access permissions	common	fa	تنظیم مجوزهای دسترسی
+configure rss exports	common	fa	تنظیم خروجی های RSS
+contains html	news_admin	fa	است HTML شامل
+content	news_admin	fa	محتوا
+edit news item	news_admin	fa	ویرایش آیتم اخبار
+failed to add message	news_admin	fa	افزورن پیغام جدید شکست خورد
+format for links to items	news_admin	fa	قالب بندی برای پیوند ها در برابر آیتم ها
+format of export	news_admin	fa	قالب بندی خروجی
+from	news_admin	fa	از
+global categories	news_admin	fa	دسته های عمومی
+global news	news_admin	fa	اخبار عمومی
+global_news	news_admin	fa	اخبار - عمومی
+image link	news_admin	fa	پیوند تصویر
+image title	news_admin	fa	عنوان تصویر
+image url	news_admin	fa	آدرس تصویر
+implies read permission	news_admin	fa	مجوز خواندن را اعمال کن
+item has been deleted	news_admin	fa	آیتم حذف شده است
+item not found	news_admin	fa	آیتم پیدا نشد
+link	news_admin	fa	پیوند
+main	news_admin	fa	اصلی
+maintain	news_admin	fa	مدیریت
+maintain news	admin	fa	مدیریت اخبار
+message has been added	news_admin	fa	پیغام اضافه شده است
+more news	news_admin	fa	اخبار بیشتر
+new item has been added	news_admin	fa	آیتم جدید اضافه شده است
+news	news_admin	fa	اخبار
+news admin	news_admin	fa	مدیر اخبار
+news administration	news_admin	fa	مدیریت اخبار
+news item has been added	news_admin	fa	آیتم اخباراضافه شده است
+news item has been updated	news_admin	fa	آیتم اخبار بروزرسانی شده است
+news_admin	common	fa	اخبار
+no entries found	news_admin	fa	هیچ ورودی پیدا نشد
+no news	news_admin	fa	هیج اخباری فعلاً در دسته فراهم نیست
+no rss export	news_admin	fa	RSS هیچ خروجی
+number of articles to display on the main screen	news_admin	fa	تعداد خبرها برای نمایش در صفحه اصلی
+on	news_admin	fa	در
+picture upload (leave the upload directory empty to disable the upload)	admin	fa	ارسال تصویر - خالی بگذارید تا ارسال غیر فعال شود
+please select a category	news_admin	fa	لطفا  یک دسته انتخاب کنید
+publish date	news_admin	fa	تاریخ انتشار
+read news	news_admin	fa	خواندن اخبار
+read permissions	news_admin	fa	مجوز خواندن
+send mail to home_email if the business_email is empty?	news_admin	fa	ارسال رایانامه به نشانی رایانامه منزل، در صورت خالی بودن نشانی رایانامه کسب و کار؟
+send mail to others	news_admin	fa	ارسال نامه به دیگران
+should news_admin display the latest article headlines on the main screen.	news_admin	fa	مدیر اخبار باید تیتر اصلی آخرین خبر را در صفحه اصلی نمایش دهد
+show latest news articles?	news_admin	fa	نمایش آخرین جدیدترین اخبار؟
+show news articles on main page?	news_admin	fa	نمایش اخبار در صفحه اصلی
+show newsletter option when add news?	news_admin	fa	نمایش گزینه های اخبار در زمان افزودن خبر؟
+small view	news_admin	fa	دید کوچک
+submitted by	common	fa	ثبت شده بوسیله
+teaser	news_admin	fa	تیزر
+the news content is missing	news_admin	fa	محتوای اخبار مفقود شده است
+the number of articles to display on the main screen.	news_admin	fa	تعداد اخبار برای نمایش درصفحه اصلی
+the subject is missing	news_admin	fa	موضوع مفقود شده است
+until	news_admin	fa	تا
+view this category	news_admin	fa	بازدید این دسته
+visible	news_admin	fa	قابل رویت
+webpage news admin	news_admin	fa	مدیر اخبار صفحه وب
+where is the email from	news_admin	fa	رایانامه از کجا ارسال می شود؟
+where to receive the replied email	news_admin	fa	رایانامه پاسخ داده شده کجا دریافت می شود؟
+write	news_admin	fa	نوشتن
+write permissions	news_admin	fa	مجوز نوشتن

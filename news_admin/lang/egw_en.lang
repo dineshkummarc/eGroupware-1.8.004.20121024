@@ -1,0 +1,111 @@
+%1 module	news_admin	en	%1 module
+%1 news imported (%2 new).	news_admin	en	%1 news imported (%2 new).
+%s hours	news_admin	en	%s hours
+actions	news_admin	en	Actions
+active	news_admin	en	Active
+add new article	news_admin	en	Add New Article
+add new news	news_admin	en	Add new news
+add news item	news_admin	en	Add news item
+all news	news_admin	en	All news
+always	news_admin	en	Always
+by date	news_admin	en	By date
+categories to displayed on main page?	news_admin	en	Categories to displayed on main page?
+category deleted.	news_admin	en	Category deleted.
+category saved.	news_admin	en	Category saved.
+choose a category	news_admin	en	Choose a category
+configuration	news_admin	en	Configuration
+configure access permissions	common	en	Configure Access Permissions
+configure rss exports	common	en	Configure RSS exports
+contains html	news_admin	en	Contains HTML
+content	news_admin	en	Content
+count	news_admin	en	Count
+date and time	news_admin	en	Date and time
+delete this news	news_admin	en	Delete this news
+do you want to publish a rss feed for this news category	news_admin	en	Do you want to publish a RSS feed for this news category
+edit news item	news_admin	en	Edit news item
+end	news_admin	en	End
+error importing the feed!	news_admin	en	Error importing the feed!
+error saving the category!	news_admin	en	Error saving the category!
+error saving the news!	news_admin	en	Error saving the news!
+failed to add message	news_admin	en	Failed to add new message
+format for links to items	news_admin	en	Format for links to items
+format of export	news_admin	en	Format of export
+from	news_admin	en	From
+from all	news_admin	en	From all
+future	news_admin	en	Future
+global categories	news_admin	en	global categories
+global news	news_admin	en	Global News
+global_news	news_admin	en	Global_News
+headline	news_admin	en	Headline
+headline with link	news_admin	en	Headline with link
+image link	news_admin	en	Image Link
+image title	news_admin	en	Image Title
+image url	news_admin	en	Image URL
+implies read permission	news_admin	en	implies read permission
+import every	news_admin	en	Import every
+import now	news_admin	en	Import now
+import url	news_admin	en	Import URL
+imported feeds can not be writable!	news_admin	en	Imported feeds can NOT be writable!
+item has been deleted	news_admin	en	Item has been deleted
+item not found	news_admin	en	Item not found
+last updated	news_admin	en	Last updated
+link	news_admin	en	Link
+main	news_admin	en	Main
+maintain	news_admin	en	Maintain
+maintain news	admin	en	Maintain News
+message has been added	news_admin	en	Message has been added
+more news	news_admin	en	More news
+more news link	news_admin	en	More news link
+new item has been added	news_admin	en	New item has been added
+news	news_admin	en	News
+news admin	news_admin	en	News Admin
+news administration	news_admin	en	News Administration
+news deleted.	news_admin	en	News deleted.
+news item has been added	news_admin	en	News item has been added
+news item has been updated	news_admin	en	News item has been updated
+news saved.	news_admin	en	News saved.
+news_admin	common	en	News Admin
+no anonymous user accounts installed.  notify the administrator.	news_admin	en	NO ANONYMOUS USER ACCOUNTS INSTALLED.  NOTIFY THE ADMINISTRATOR.
+no entries found	news_admin	en	no entries found
+no matching news item	news_admin	en	No matching news item
+no news	news_admin	en	No News is Currently Available in the Category
+no rss export	news_admin	en	No RSS export
+now	news_admin	en	Now
+number of articles to display on the main screen	news_admin	en	Number of articles to display on the main screen
+number of news items to be displayed on page	news_admin	en	Number of news items to be displayed on page
+old	news_admin	en	Old
+on	news_admin	en	on
+page-name the item should be displayed (empty = current page)	news_admin	en	Page-name the item should be displayed (empty = current page)
+parent	news_admin	en	Parent
+picture upload (leave the upload directory empty to disable the upload)	admin	en	Picture upload (leave the upload directory empty to disable the upload)
+please select a category	news_admin	en	Please select a category
+publish date	news_admin	en	Publish Date
+read more	news_admin	en	read more
+read news	news_admin	en	Read news
+read permissions	news_admin	en	Read permissions
+reload	news_admin	en	Reload
+send mail to others	news_admin	en	Send Mail to Others
+should news_admin display the latest article headlines on the main screen.	news_admin	en	Should News Admin display the latest article headlines on the main screen.
+show latest news articles?	news_admin	en	Show latest news articles?
+show news articles on main page?	news_admin	en	Show news articles on main page?
+small view	news_admin	en	small view
+start	news_admin	en	Start
+submitted by	common	en	Submitted by
+submitted by %1 on %2	news_admin	en	Submitted by %1 on %2
+submitted by and date	news_admin	en	Submitted by and date
+teaser	news_admin	en	Teaser
+teaser with read more link	news_admin	en	Teaser with read more link
+the news content is missing	news_admin	en	The news content is missing
+the number of articles to display on the main screen.	news_admin	en	The number of articles to display on the main screen.
+the subject is missing	news_admin	en	The subject is missing
+there no such translation.	news_admin	en	There no such translation.
+this module publishes news from the news_admin application on your website. be aware of news_admin's acl restrictions.	news_admin	en	This module publishes news from the news_admin application on your website. Be aware of news_admin's ACL restrictions.
+until	news_admin	en	until
+url of the rss or atom feed, empty for own news feed	news_admin	en	URL of the RSS or Atom feed, empty for own news feed
+view this category	news_admin	en	View this category
+visible	news_admin	en	Visible
+webpage news admin	news_admin	en	Webpage news admin
+which information do you want to show (css class)	news_admin	en	Which information do you want to show (CSS class)
+which news categories should be displayed on the main screen.	news_admin	en	Which news categories should be displayed on the main screen.
+write	news_admin	en	Write
+write permissions	news_admin	en	Write permissions

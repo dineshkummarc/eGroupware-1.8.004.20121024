@@ -1,0 +1,77 @@
+%1 bookmarks have been deleted	bookmarks	hu	%1 könyvjelző törölve
+%1 bookmarks imported from %2 successfully.	bookmarks	hu	%1 könyvjelző sikeresen importálva a %2-ből.
+(comma separate multiple addresses)	bookmarks	hu	(vesszővel elválasztott többszörös cím)
+<b>note:</b> this currently works with netscape bookmarks only	bookmarks	hu	<b>Figyelem:</b> Csupán csak a netscape könyvjelzőkkel működik
+all bookmarks	bookmarks	hu	Minden könyvjelző
+and	bookmarks	hu	És
+append this message to mailed bookmarks	bookmarks	hu	Fűzd hozzá ezt az üzenetet a levélben küldött könyvjelzőkhöz
+ascending	bookmarks	hu	Emelkedő
+book marks	common	hu	Könyvjelzők
+bookmark changed sucessfully	bookmarks	hu	A könyvjelző sikeresen megváltoztatva
+bookmark created successfully.	bookmarks	hu	A könyvjelző sikeresen létrehozva.
+bookmark deleted successfully	bookmarks	hu	A könyvjelző sikeresen törölve.
+bookmark deleted successfully.	bookmarks	hu	A könyvjelző sikeresen törölve.
+bookmark not editable	bookmarks	hu	A könyvjelző nem szerkeszthető
+bookmark not readable	bookmarks	hu	A könyvjelző nem olvasható
+bookmarks	common	hu	Könyvjelzők
+bookmarks settings	bookmarks	hu	Könyvjelző beállítások
+change bookmark	bookmarks	hu	Könyvjelző változás
+choose the categories to display	bookmarks	hu	Válaszd ki a megjelenítendő kategóriákat
+close this window to return	bookmarks	hu	zárd be ezt az ablakot a visszatéréshez
+create bookmark	bookmarks	hu	Könyvjelző létrehozás
+create new bookmark	bookmarks	hu	Új könyvjelző létrehozása
+date added	bookmarks	hu	Hozzáadás dátuma
+date changed	bookmarks	hu	Változtatás dátuma
+date last updated	bookmarks	hu	Utolsó frissítés dátuma
+date last visited	bookmarks	hu	Utolsó látogatás dátuma
+descending	bookmarks	hu	Csökkenő
+edit bookmark	bookmarks	hu	Könyvjelző szerkesztése
+edit this bookmark	bookmarks	hu	Ennek a könyvjelzőnek a szerkesztése
+enter the name of the netscape bookmark file<br>that you want imported into bookmarker below.	bookmarks	hu	Adja meg a Netscape könyvjelző állomány nevét<br>amit importálni kíván a Könyvjelzőbe.
+export bookmarks	common	hu	Könyvjelzők exportálása
+fewer	bookmarks	hu	Kevesebb
+filter by	bookmarks	hu	Szűrve
+found a link you might like	bookmarks	hu	Találtam egy hivatkozást ami megfelelő lehet önnek
+from	bookmarks	hu	Tól:
+from category %1	bookmarks	hu	%1 kategóriából
+global categories	bookmarks	hu	Globális kategóriák
+highest	bookmarks	hu	Legmagasabb
+i thought you would be interested in the following link(s):	bookmarks	hu	Gondolom hogy érdekelhetik a következő hivatkozás(ok):
+import bookmarks	common	hu	Könyvjelzők importálása
+like	bookmarks	hu	mint
+list view	bookmarks	hu	listanézet
+lowest	bookmarks	hu	Legalacsonyabb
+mail this bookmark	bookmarks	hu	Könyvjelző küldése levélben
+mail-this-link message sent to %1.	bookmarks	hu	%1 számára a könyvjelző emailben elküldve
+mass update:	bookmarks	hu	Tömeges frissítése:
+message from	bookmarks	hu	Üzenet innen:
+more	bookmarks	hu	Több
+name	bookmarks	hu	Név
+name is required	bookmarks	hu	Név szükséges
+netscape bookmark file	bookmarks	hu	Netscape könyvjelző állomány
+netscape bookmark filename is required!	bookmarks	hu	Netscape könyvjelző állomány név szükséges!
+new	bookmark	hu	Új
+new bookmark	bookmarks	hu	új könyvjelző
+or	bookmarks	hu	vagy
+please fill out <b>to e-mail address</b>, <b>subject</b>, and <b>message</b>!	bookmarks	hu	Kérem töltse ki a <B>Címzett E-Mail Címe</B>, <B>Tárgy</B>, és <B>Üzenet</B> mezőket!
+please select the categories to export	bookmarks	hu	Kérem válasszon egy kategóriát az exportáláshoz
+query condition	bookmarks	hu	Lekérdezés feltétele
+rating	bookmarks	hu	Értékelés
+search for:	bookmarks	hu	Keresem ezt:
+select the format you would like to export to	bookmarks	hu	Válassza ki az exportálás formátumát
+send bookmark	bookmarks	hu	Könyvjelző küldése
+sub category	bookmarks	hu	Alkategória
+this module displays bookmarks in a javascript based tree	bookmarks	hu	Ez a modul javascript alapú fában jeleníti meg a könyvjelzőket
+to address %1 invalid. format must be <strong>user@domain</strong> and domain must exist!	bookmarks	hu	A %1 cím érvénytelen. <strong>user@domain</strong> formátumú kell lenni és a tartománynak létezni kell!
+to e-mail addresses	bookmarks	hu	E-Mail címekhez
+to which category should the imported folder hierarchy be attached	bookmarks	hu	Melyik kategóriához lehet csatolni az importált gyűjtő hierarhiát
+total visits	bookmarks	hu	összes látogatások
+tree view	bookmarks	hu	Fa nézet
+unable to open temp file %1 for import.	bookmarks	hu	Lehetetlen megnyitni az %1 átmeneti állományt az importáláshoz.
+url is required.	bookmarks	hu	URL szükséges.
+view bookmark	bookmarks	hu	Könyvjelző megtekintése
+view this bookmark	bookmarks	hu	Ennek a könyvjelzőnek a megtekintése
+warning	bookmarks	hu	Figyelmeztetés
+you are viewing this site outside of egroupware	bookmarks	hu	Az eGroupWare-n kívül nézi ezt az oldalt
+you must select a category	bookmarks	hu	Válasszon ki egy kategóriát!
+you need to select a category!	bookmarks	hu	Válasszon ki egy kategóriát!

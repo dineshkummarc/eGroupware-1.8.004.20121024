@@ -1,0 +1,33 @@
+actions	polls	no	Aksjon
+add answer to poll	polls	no	Registrer svar til undersøkelsen
+add answers	polls	no	Registrer svar
+add new poll question	polls	no	Legg til nytt undersøkelsesspørsmål
+add questions	polls	no	Legg til spørsmål
+allow users to vote more then once	polls	no	Skal brukere kunne svare mer enn en gang
+answer	polls	no	Svar
+answer has been added to poll	polls	no	Svar på undersøkelsen ble registrert
+answer has been updated	polls	no	Svar har blitt oppdatert
+answers	polls	no	Svar
+are you sure want to delete this answer ?	polls	no	Vil du slette dette svaret ?
+are you sure want to delete this question ?	polls	no	Vil du slette dette spørsmålet ?
+current poll	polls	no	Gjeldende undersøkelse
+edit answer	polls	no	Endre svar
+edit poll question	polls	no	Endre spørsmål
+enter poll question	polls	no	Registrer svar på undersøkelse
+new poll has been added.  you should now add some answers for this poll	polls	no	Ny undersøkelse ble opprettet.  Du må nå legge til svar på denne.
+poll question	polls	no	Spørsmål
+poll settings	common	no	Innstillinger
+polls	common	no	Undersøkelser
+question has been updated	polls	no	Spørsmålet ble oppdatert
+select current poll	polls	no	Velg gjeldende undersøkelse
+settings	polls	no	Innstillinger
+settings updated	polls	no	Innstillinger ble oppdatert
+show answers	polls	no	Vis svar
+show questions	common	no	Vis spørsmål
+total votes	polls	no	Totalt
+view poll	polls	no	Vis undersøkelse
+view results	polls	no	Vis resultater
+vote	polls	no	Stem
+voting booth admin	admin	no	Stemmeboks
+voting booth administration	polls	no	Administrasjon av stemmeboks
+which poll	polls	no	Hvilken undersøkelse

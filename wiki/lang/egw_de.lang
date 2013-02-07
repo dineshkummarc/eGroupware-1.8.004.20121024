@@ -1,0 +1,111 @@
+(don't offer the possibility)	admin	de	(Möglichkeit dazu auch nicht anbieten)
+<em>but</em> display at least this many entries in recentchanges and other subscription lists:	wiki	de	<em>Aber</em> mindestens so viele Einträge in Letzten Änderungen und anderen Listen anzeigen:
+add document to category	wiki	de	Dokument zu Kategroie zufügen
+added	wiki	de	Zugefügt
+administration features are disabled for this wiki.	wiki	de	Administrationszugang ist ausgeschaltet für diese Wiki.
+admins	wiki	de	Administratoren
+after how many days should old versions of a page be removed (0 for never)	admin	de	Nach wievielen Tagen sollen alter Versionen einer Seite gelöscht werden (0 für niemals)
+allow anonymous access	admin	de	Anonymen Zugriff erlauben
+anonymous password	admin	de	Passwort des anonymen Benutzers
+anonymous session type	admin	de	Typ der anonymen Sitzung
+anonymous username	admin	de	Benutzername des anonymen Benutzers
+automatically convert pages with wiki-syntax to richtext (if edited)?	admin	de	Automatisch Seiten in Wiki Syntax (beim Bearbeiten) in formatierten Text konvertieren?
+block	wiki	de	Blockieren
+block / unblock hosts	common	de	Sperren/Freigeben von Rechnern
+blocked ip address ranges	wiki	de	IP Adressenbereich blockieren
+cancel without saving	wiki	de	Abruch ohne zu Speichern
+changed	wiki	de	Geändert
+changes by last author	wiki	de	Änderungen des letzten Autors
+choose your current time here, so the server may figure out what time zone you are in.	wiki	de	Wählen Sie hier ihre aktuelle Zeit aus, damit der Rechner bestimmen kann in welche Zeitzone Sie sind.
+columns	wiki	de	Spalten
+compute difference	wiki	de	Unterschiede anzeigen
+converts the page to richtext	wiki	de	Wandelt die Seite in formatierten Text um
+current version	wiki	de	Aktuelle Version
+deleted	wiki	de	Gelöscht
+deletes this page	wiki	de	Löscht die Seite
+difference between versions	wiki	de	Unterschiede zwischen Versionen
+differences in	wiki	de	Unterschiede in
+different languages can have different titles	wiki	de	unterschiedliche Sprachen können unterschiedliche Titel haben
+document last modified	wiki	de	Dokument zuletzt geändert
+edit box	wiki	de	Eingabefeld
+edit this <em>archive version</em> of this document	wiki	de	Bearbeiten dieser <em>ARCHIVIERTEN VERSION</em> diese Dokuments
+edit this document	wiki	de	Dokument bearbeiten
+edit with preview	admin	de	Bearbeiten mit Vorschau
+editable	admin	de	editierbar
+editing	wiki	de	Bearbeiten
+emailaddress administrator	admin	de	E-Mail-Adresse des Administrators
+enable free links	admin	de	Freie Links erlauben
+enable wiki links	admin	de	Wiki Links erlauben
+enter here the maximum number of entries to display in a document's history list.	wiki	de	Maximale Anzahl Einträge bei der Anzeige der Bearbeitungshistorie eines Dokuments
+enter here the number of days of edits to display on recentchanges or any other subscription list.  set this to zero if you wish to see all pages in recentchanges, regardless of how recently they were edited.	wiki	de	Wieviele Tage sollen Änderungen in Letzte Änderungen und anderen Listen angezeigt werden. Wenn auf Null gesetzt, werden alle Änderungen angezeigt, unabhänig davon wie lange sie schon zurück liegen.
+enter ip address range in form <tt>12.*</tt>, <tt>34.56.*</tt>, or <tt>78.90.123.*</tt>	wiki	de	IP Adressbereich in der from <tt>12.*</tt>, <tt>34.56.*</tt> oder <tt>78.90.123.*</tt> eingeben
+error creating temporary file.	wiki	de	Fehler beim Erzeugen der temporären Datei.
+error writing to temporary file.	wiki	de	Fehler beim Schreiben in die temporäre Datei.
+everyone	wiki	de	jedem
+find	wiki	de	Suche
+history	wiki	de	Bearbeitungshistorie
+history display should show <em>all</em> changes made by the latest author.  otherwise, show only the last change made.	wiki	de	Die Bearbeitungshistorie soll <em>alle</em> Änderungen des letzten Autors anzeigen. Ansonsten werden nur die letzten Änderungen angezeigt.
+history lists	wiki	de	Bearbeitungshistorie
+history of	wiki	de	Bearbeitungshistorie von
+interwikiprefix	admin	de	InterWikiPrefix
+invalid page name.	wiki	de	Ungültiger Seitenname.
+load	wiki	de	Laden
+loads the named page in the given language, all change so far get lost !!!	wiki	de	Läde die angebeben Seite in der Sprache, alle bisherigen Änderungen gehen verloren !!!
+lock / unlock pages	common	de	Sperren / freigeben von Seiten
+locked	wiki	de	Gesperrt
+name wiki home link	admin	de	Namen der Wiki Startseite
+newer	wiki	de	Neuer
+no never	admin	de	Nein niemals
+no only on request	admin	de	Nein nur auf Anforderung
+not set	wiki	de	nicht gesetzt
+older	wiki	de	Älter
+on all pages	wiki	de	auf allen Seiten
+only if browser supports a richtext-editor	admin	de	Nur wenn der Webbrowser das Bearbeiten von formatiertem Text unterstütz
+only on the first page	wiki	de	nur auf der ersten Seite
+page '%1' not found !!!	wiki	de	Seite '%1' nicht gefunden !!!
+path of the upload directory (has to be writable by the webserver!)	admin	de	Pfad des Verzeichnisses zum Hochladen (muß vom Webserver beschreibbar sein!)
+picture upload via richtext editor (leave the upload directory empty to disable the upload)	admin	de	Hochladen von Bildern über den Editor für formatierten Text (das Verzeichnis leer lassen um das Hochladen abzuschalten)
+please contact the %1administrator%2 for assistance.	wiki	de	Bitte wenden Sie sich für weitere Hilfe an den %1Administrator%2..
+preview	wiki	de	Vorschau
+preview of current version	wiki	de	Vorschau der aktuellen Version
+rate control / ip blocking disabled	wiki	de	Kontrolle der Zugriffsfrequenz / IP Sperrungen abgeschalted
+readable by	wiki	de	Lesbar von
+readonly	admin	de	Nur lesbar
+recent changes	wiki	de	Letzte Änderungen
+renames page to the given name and language	wiki	de	Benennt die Seite in angegebenen Namen und Sprache um
+richtext	wiki	de	Formatiert
+rows	wiki	de	Zeilen
+save the changes and exit	wiki	de	Speichert die Änderungen und beendet das Bearbeiten
+saves and continues editing	wiki	de	Speichern und weiter bearbeiten
+search for	wiki	de	Suchen nach
+see complete list (%1 entries)	wiki	de	Komplette Liste anzeigen (%1 Einträge)
+show a search	wiki	de	Eine Suche anzeigen
+show the title of the wiki page	wiki	de	Titel der Wiki Seite anzeigen
+summary	wiki	de	Zusammenfassung
+summary of change	wiki	de	Zusammenfassung der Änderungen
+the search returned no result!	wiki	de	Die Suche lieferte kein Ergebnis!
+this page can not be edited.	wiki	de	Diese Seite kann nicht bearbeitet werden.
+twin pages	wiki	de	Zwillingsseiten
+unblock	wiki	de	Blockierung aufheben
+updates the preview	wiki	de	Aktualisiert die Vorschau
+url of the upload directory	admin	de	URL / Webadresse des Verzeichnisses zum Hochladen
+use this module for displaying wiki-pages	wiki	de	Benutzen Sie diese Modul zum Anzeigen von Seiten aus dem Wiki
+users	wiki	de	Benutzern
+view document history	wiki	de	Bearbeitungshistorie des Dokuments anzeigen
+visit %1 to set your user name	wiki	de	Besuchen Sie die %1 um ihren Benutzernamen zu setzten
+warning: since you started editing, this document has been changed by someone else.  please merge your edits into the current version of this document.	wiki	de	Warnung: Seit Sie begonnen haben das Dokument zu bearbeiten wurde es von jemandem anders verändert. Bitte übertragen Sie ihre Änderungen in die aktuelle Version des Dokuments.
+who should be able to edit this page	wiki	de	wer soll diese Seite bearbeiten können
+who should be able to read this page	wiki	de	wer soll diese Seite lesen können
+wiki	common	de	Wiki
+wiki administration	wiki	de	Wiki Administration
+wiki menu	wiki	de	Wiki Menü
+wiki startpage	wiki	de	Wiki Startseite
+writable by	wiki	de	Schreibbar von
+yes always	admin	de	Ja immer
+yes with navbar	admin	de	Ja mit Navigation
+you have been denied access to this site.	wiki	de	Ihr Zugriff auf diese Seite wurde gesperrt.
+you have entered an invalid user name.	wiki	de	Sie haben einen ungültigen Benutzernamen eingegeben.
+you have exeeded the number of pages you are allowed to visit in a given period of time. please return later.	wiki	de	Sie haben die maximale Anzahl Seiten überschritten, die Sie in einer vorgegebenen Zeitspannebesuchen dürfen. Bitte kommen Sie später wieder.
+you have no rights to view wiki content !!!	wiki	de	Sie haben keine Rechte um Wiki Inhalte anzusehen !!!
+your changes	wiki	de	Ihre Änderungen
+your user name is "%1".	wiki	de	Ihr Benutzername ist "%1".

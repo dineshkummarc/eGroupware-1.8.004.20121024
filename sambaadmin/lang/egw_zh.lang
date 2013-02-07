@@ -1,0 +1,25 @@
+%1 - %2 of %3	sambaadmin	zh	%1 - %2 of %3
+add workstation	sambaadmin	zh	添加工作站
+check ldap setup (experimental!!!)	admin	zh	检查ldap设置(实验性的!)
+computer group	admin	zh	计算机组
+computer ou	admin	zh	计算机 OU
+displayname	sambaadmin	zh	显示名
+do you really want to delete selected workstation accounts?	sambaadmin	zh	你真的要删除选定的工作站帐户？
+homedrive	admin	zh	主目录
+homepath	sambaadmin	zh	主路径
+logonscript	admin	zh	登录脚本
+new account defaults	admin	zh	新建默认帐户
+participants	sambaadmin	zh	参与者
+path to mkntpwd	admin	zh	到 mkntpwd 路径
+profilepath	admin	zh	Profile 文件路径
+samba config	sambaadmin	zh	SAMBA 服务器配置
+samba settings	common	zh	SAMBA 服务器设置
+samba sid	admin	zh	SAMBA  服务器 SID
+sambaadmin	common	zh	[Samba]服务器管理
+smb homepath	admin	zh	SMB 主路径
+workstation account for	sambaadmin	zh	工作站帐户为
+workstation configuration	sambaadmin	zh	工作站配置
+workstation list	sambaadmin	zh	工作站列表
+workstation name	sambaadmin	zh	工作站名称
+workstationaccount active	sambaadmin	zh	工作站帐户帐户激活
+workstations	sambaadmin	zh	工作站

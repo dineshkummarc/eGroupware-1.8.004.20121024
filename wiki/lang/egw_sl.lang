@@ -1,0 +1,111 @@
+(don't offer the possibility)	admin	sl	(ne ponudi možnosti)
+<em>but</em> display at least this many entries in recentchanges and other subscription lists:	wiki	sl	<em>Vendar</em> prikaži vsaj toliko zapisov med zadnjimi spremembami in drugih seznamih:
+add document to category	wiki	sl	Dodaj dokument v kategorijo
+added	wiki	sl	Dodan
+administration features are disabled for this wiki.	wiki	sl	Oskrbnikove možnosti so v tem wikiju onemogočene.
+admins	wiki	sl	oskrbniki
+after how many days should old versions of a page be removed (0 for never)	admin	sl	Po kolikih dneh se starejše različice strani odstranijo (0 za nikoli)
+allow anonymous access	admin	sl	dovoli anonimni dostop
+anonymous password	admin	sl	Geslo za anonimni dostop
+anonymous session type	admin	sl	Tip anonimnih sej
+anonymous username	admin	sl	Uporabniško ime za anonimni dostop
+automatically convert pages with wiki-syntax to richtext (if edited)?	admin	sl	Samodejno pretvorim strani z wiki sintakso v obogatenem besedilu (ob popravljanju)?
+block	wiki	sl	Blokiraj
+block / unblock hosts	common	sl	Blokiraj / deblokiraj strežnike
+blocked ip address ranges	wiki	sl	Blokirane IP maske
+cancel without saving	wiki	sl	Prekini brez shranjevanja
+changed	wiki	sl	Spremenjeno
+changes by last author	wiki	sl	Spremembe zadnjega avtorja
+choose your current time here, so the server may figure out what time zone you are in.	wiki	sl	Izberite svoj trenutni čas, da bo strežnik lahko ugotovil vaš časovni pas.
+columns	wiki	sl	Stolpci
+compute difference	wiki	sl	Poišči razlike
+converts the page to richtext	wiki	sl	Prevede stran v obogateno besedilo
+current version	wiki	sl	Trenutna različica
+deleted	wiki	sl	Izbrisano
+deletes this page	wiki	sl	Izbriši to stran
+difference between versions	wiki	sl	Razlika med različicami
+differences in	wiki	sl	Razlike v
+different languages can have different titles	wiki	sl	različni jeziki imajo lahko različne naslove
+document last modified	wiki	sl	Zadnji spremenjeni dokument
+edit box	wiki	sl	Polje za urejanje
+edit this <em>archive version</em> of this document	wiki	sl	Urejanje te <em>ARHIVSKE RAZLIČICE</em> dokumenta
+edit this document	wiki	sl	Urejanje tega dokumenta
+edit with preview	admin	sl	Urejanje s predogledom
+editable	admin	sl	popravljanje omogočeno
+editing	wiki	sl	Urejanje
+emailaddress administrator	admin	sl	Oskrbnikov E-naslov
+enable free links	admin	sl	Omogoči proste povezave
+enable wiki links	admin	sl	Omogoči Wiki povezave
+enter here the maximum number of entries to display in a document's history list.	wiki	sl	Vnesite največje število zapisov, ki se prikažejo v zgodovini dokumenta.
+enter here the number of days of edits to display on recentchanges or any other subscription list.  set this to zero if you wish to see all pages in recentchanges, regardless of how recently they were edited.	wiki	sl	Vnesite število dni, za katere spremembe so vidne med zadnjimi spremembami ali drugih seznamih. Nastavite na 0, če želite, da se v seznamih prikažejo vse strani, ne glede na čas urejanja.
+enter ip address range in form <tt>12.*</tt>, <tt>34.56.*</tt>, or <tt>78.90.123.*</tt>	wiki	sl	Vnesite IP masko v obliki <tt>12.*</tt>, <tt>34.56.*</tt>, ali <tt>78.90.123.*</tt>.
+error creating temporary file.	wiki	sl	Napaka pri ustvarjanju začasne datoteke.
+error writing to temporary file.	wiki	sl	Napaka pri pisanju v začasno datoteko.
+everyone	wiki	sl	vsak
+find	wiki	sl	Najdi
+history	wiki	sl	zgodovina
+history display should show <em>all</em> changes made by the latest author.  otherwise, show only the last change made.	wiki	sl	Prikaz zgodovine naj pokaže <em>vse</em> spremembe, ki jih je naredil zadnji avtor. Sicer se pokaže le zadnja sprememba.
+history lists	wiki	sl	Seznam zgodovine
+history of	wiki	sl	Zgodovina za
+interwikiprefix	admin	sl	InternaWikiPredpona
+invalid page name.	wiki	sl	Neveljavno ime strani.
+load	wiki	sl	Naloži
+loads the named page in the given language, all change so far get lost !!!	wiki	sl	Naloži imenovano stran v danem jeziku, vse dosedanje spremembe se <em>izgubijo</em>.
+lock / unlock pages	common	sl	Zakleni / Odkleni strani
+locked	wiki	sl	Zaklenjeno
+name wiki home link	admin	sl	ime začetne Wiki povezave
+newer	wiki	sl	Novejši
+no never	admin	sl	Ne, nikoli
+no only on request	admin	sl	Ne, samo na zahtevo
+not set	wiki	sl	ni nastavljen
+older	wiki	sl	Starejši
+on all pages	wiki	sl	Na vseh straneh
+only if browser supports a richtext-editor	admin	sl	Le, če brskalnik podpira urejevalnik obogatenega besedila
+only on the first page	wiki	sl	Samo na prvi strani
+page '%1' not found !!!	wiki	sl	Stran '%1' ni bila najdena!
+path of the upload directory (has to be writable by the webserver!)	admin	sl	Mapa za nalaganje (spletni strežnika mora imeti pravico pisanja)
+picture upload via richtext editor (leave the upload directory empty to disable the upload)	admin	sl	Nalaganje slik z obogatenim urejevalnikom (pustite prazno če želite onemogočiti nalaganje)
+please contact the %1administrator%2 for assistance.	wiki	sl	Prosim, posvetujte se z %1oskrbnikom%2.
+preview	wiki	sl	Predogled
+preview of current version	wiki	sl	Predogled trenutne različice
+rate control / ip blocking disabled	wiki	sl	Onemogočen nadzor ocenjevanja in blokada IPjev
+readable by	wiki	sl	Berljivo za
+readonly	admin	sl	le za branje
+recent changes	wiki	sl	Zadnje spremembe
+renames page to the given name and language	wiki	sl	Preimenuje stran v dano ime in jezik
+richtext	wiki	sl	Obogateno besedilo
+rows	wiki	sl	Vrstice
+save the changes and exit	wiki	sl	Shrani spremembe in končaj
+saves and continues editing	wiki	sl	Shrani in nadaljuj urejanje
+search for	wiki	sl	Išči
+see complete list (%1 entries)	wiki	sl	Preglej popolni seznam (%1 zapisov)
+show a search	wiki	sl	Prikaži iskanje
+show the title of the wiki page	wiki	sl	Prikaži naslov strani wiki
+summary	wiki	sl	Povzetek
+summary of change	wiki	sl	Povzetek spremembe
+the search returned no result!	wiki	sl	Iskanje ni vrnilo rezultata!
+this page can not be edited.	wiki	sl	Te strani ni mogoče urejati.
+twin pages	wiki	sl	Dvojne strani
+unblock	wiki	sl	Deblokiraj
+updates the preview	wiki	sl	Osveži predogled
+url of the upload directory	admin	sl	URL mape za nalaganje
+use this module for displaying wiki-pages	wiki	sl	Ta modul uporabite za prikaz strani wiki.
+users	wiki	sl	uporabniki
+view document history	wiki	sl	Preglej zgodovino dokumenta
+visit %1 to set your user name	wiki	sl	Obišči %1 za nastavitev uporabniškega imena
+warning: since you started editing, this document has been changed by someone else.  please merge your edits into the current version of this document.	wiki	sl	Opozorilo: dokument je od začetka vašega urejanja spremenil nekdo drug. Prosim, združite spremembe v aktualno različico dokumenta.
+who should be able to edit this page	wiki	sl	kdo lahko ureja to stran
+who should be able to read this page	wiki	sl	kdo lahko bere to stran
+wiki	common	sl	Wiki
+wiki administration	wiki	sl	Wiki administracija
+wiki menu	wiki	sl	Wiki meni
+wiki startpage	wiki	sl	Začetna stran wiki
+writable by	wiki	sl	Piše lahko
+yes always	admin	sl	Da, vedno
+yes with navbar	admin	sl	Da, z navbar
+you have been denied access to this site.	wiki	sl	Dostop do tega spletišča vam je bil zavrnjen.
+you have entered an invalid user name.	wiki	sl	Vnesli ste neveljavno uporabniško ime.
+you have exeeded the number of pages you are allowed to visit in a given period of time. please return later.	wiki	sl	Prekoračili ste število strani, ki jih lahko v omejenem času obiščete. Prosimo, vrnite se kasneje.
+you have no rights to view wiki content !!!	wiki	sl	Nimate pravice do ogleda vsebine wiki!
+your changes	wiki	sl	Vaše spremembe
+your user name is "%1".	wiki	sl	Vaše uporabniško ime je "%1".

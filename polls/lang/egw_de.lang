@@ -1,0 +1,45 @@
+%1 group	polls	de	%1 Gruppe
+actions	polls	de	Aktionen
+add answer to poll	polls	de	Antwort zur Umfrage hinzufügen
+add answers	polls	de	Antwort hinzufügen
+add new poll question	polls	de	Eine neue Umfrage hinzufügen
+add questions	polls	de	Umfrage hinzufügen
+administrators	polls	de	Administratoren
+allow users to vote more then once	polls	de	Benutzern erlauben mehr als einmal abzustimmen
+allways use latest poll	polls	de	Immer die letzte Umfrage benutzen
+answer	polls	de	Antwort
+answer has been added to poll	polls	de	Antwort wurde der Umfrage hinzugefügt
+answer has been updated	polls	de	Umfrage wurde aktualisiert
+answers	polls	de	Antworten
+are you sure want to delete this answer ?	polls	de	Sind Sie sicher das Sie diese Antwort löschen möchten ?
+are you sure want to delete this question ?	polls	de	Sind Sie sicher das Sie diese Frage löschen möchten ?
+current poll	polls	de	Aktuelle Umfrage
+edit answer	polls	de	Antwort bearbeiten
+edit poll question	polls	de	Umfrage bearbeiten
+egroupware users (non-anonymous)	polls	de	eGroupWare Benutzer (nicht anonyme)
+enter poll question	polls	de	Neue Umfrage
+everyone incl. anonymous users	polls	de	Jeder einschl. anonyme Benutzer
+new poll has been added.  you should now add some answers for this poll	polls	de	Neue Umfrage hinzugefügt. Geben Sie nun die Antworten zu dieser Umfrage ein.
+noone	polls	de	Niemand
+poll question	polls	de	Frage der Umfrage
+poll votable by	polls	de	Abstimmen dürfen
+polls	common	de	Umfragen
+question has been updated	polls	de	Frage wurde aktualisiert
+result visible to	polls	de	Ergebnis sichtbar für
+select current poll	polls	de	Eine Umfrage auswählen
+settings updated	polls	de	Konfiguration aktualisiert
+show answers	polls	de	Antworten zeigen
+show bullet if allowed to vote and result else	polls	de	Soll das Bullet angezeit werden erlaubt ist anzustimmen und das Ergebnis zu sehen
+show only the ballot	polls	de	Nur die Abstimmung anzeigen
+show only the result	polls	de	Nur das Ergebnis anzeigen
+show questions	common	de	Umfragen zeigen
+this module displays polls.	polls	de	Dieses Modul zeigt Umfragen an.
+total votes	polls	de	Gesamte Stimmen
+view poll	polls	de	Umfrage anzeigen
+view results	polls	de	Ergebnisse anzeigen
+vote	polls	de	Abstimmen
+voting booth admin	admin	de	Umfragen
+voting booth administration	polls	de	Umfragen Administration
+what to show	polls	de	Was soll angezeigt werden
+which poll	polls	de	Welche Umfrage
+you are not (yet) allowed view the result of this vote.	polls	de	Sie dürfen das Ergebnis dieser Umfrage (noch) nicht sehen.

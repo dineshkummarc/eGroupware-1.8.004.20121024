@@ -1,0 +1,45 @@
+%1 group	polls	hu	%1 csoport
+actions	polls	hu	műveletek
+add answer to poll	polls	hu	Válasz hozzáadása
+add answers	polls	hu	Válaszok hozzáadása
+add new poll question	polls	hu	Új kérdés hozzáadása
+add questions	polls	hu	Kérdések hozzáadása
+administrators	polls	hu	Adminisztrátorok
+allow users to vote more then once	polls	hu	Engedély a felhasználóknak többszöri szavazáshoz
+allways use latest poll	polls	hu	Mindig a legutóbbi szavazás használata
+answer	polls	hu	Válasz
+answer has been added to poll	polls	hu	A válasz hozzáadásra került
+answer has been updated	polls	hu	A válasz frissítésre került
+answers	polls	hu	Válaszok
+are you sure want to delete this answer ?	polls	hu	Biztosan törli a választ ?
+are you sure want to delete this question ?	polls	hu	Biztosan törli a kérdést ?
+current poll	polls	hu	Jelenlegi szavazás
+edit answer	polls	hu	Válasz szerkesztése
+edit poll question	polls	hu	Szavazás kérdésének szerkesztése
+egroupware users (non-anonymous)	polls	hu	eGroupWare felhasználók (nem anonymous!)
+enter poll question	polls	hu	Szavazás kérdésének megadása
+everyone incl. anonymous users	polls	hu	Mindenki, beleértve az anonymous felhasználókat is
+new poll has been added.  you should now add some answers for this poll	polls	hu	Az új szavazás hozzáadásra került. Most a válaszlehetőségek hozzáadásán a sor
+noone	polls	hu	Senki
+poll question	polls	hu	Szavazás kérdése
+poll votable by	polls	hu	Szavazhatnak
+polls	common	hu	Szavazások
+question has been updated	polls	hu	A kérdés frissítve
+result visible to	polls	hu	Eredmények megtekinthetők
+select current poll	polls	hu	Jelenlegi szavazás kiválasztása
+settings updated	polls	hu	A beállítások frissítve
+show answers	polls	hu	Válaszok megjelenítése
+show bullet if allowed to vote and result else	polls	hu	Ha engedélyezett a szavazás, mutassa a gombócokat (béna egy angol megfelelő)
+show only the ballot	polls	hu	Csak a titkos szavazás megjelenítése
+show only the result	polls	hu	Csak az eredmények megjelenítése
+show questions	common	hu	Kérdések megjelenítése
+this module displays polls.	polls	hu	Ez a modul megjeleníti a szavazásokat.
+total votes	polls	hu	Összesen
+view poll	polls	hu	Szavazás megtekintése
+view results	polls	hu	Eredmények megtekintése
+vote	polls	hu	Szavaz
+voting booth admin	admin	hu	Mindegyikre szavaz
+voting booth administration	polls	hu	Mindegyikre szavazás adminisztrációja
+what to show	polls	hu	Mit jelenítsünk meg
+which poll	polls	hu	Melyik szavazás
+you are not (yet) allowed view the result of this vote.	polls	hu	Nincs jogosultsága (egyelőre) megjeleníteni ennek a szavazásnak az eredményét.

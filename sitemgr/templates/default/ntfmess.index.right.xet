@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<!-- $Id$ -->
+<overlay>
+	<template id="sitemgr.ntfmess.index.right" template="" lang="" group="0" version="0.0.001">
+		<buttononly label="Add" id="add" onclick="window.open(egw::link('/index.php','menuaction=sitemgr.uintfmess.edit&amp;site_id={$cont[filter]}'),'_blank','dependent=yes,width=650,height=300,scrollbars=yes,status=yes'); return false;"/>
+	</template>
+</overlay>

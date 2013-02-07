@@ -1,0 +1,103 @@
+<br>please contact the site administrator.	registration	pt	<br>Por favor, contacte o administrador do sítio.
+[unknown first name]	registration	pt	[nome próprio desconhecido]
+[unknown last name]	registration	pt	[apelido desconhecido]
+account $account_lid record could not be found, report to site administrator	registration	pt	O registo da conta $account_lid não foi encontrado. Por favor, reporte ao administrador do sítio.
+account password retrieval	registration	pt	Recuperação de senha de conta
+account registration	registration	pt	Registo de conta
+activate account	admin	pt	Activar conta
+address	registration	pt	Endereço
+after you enter your email address, the user accounts associated with this email address will be mailed to that address.	registration	pt	Depois de inserir o seu endereço de correio electrónico, as contas de utilizador associadas a este endereço serão enviadas para esse endereço.
+after you enter your username, instructions to change your password will be sent to you by e-mail to the address you gave when you registered.	registration	pt	Depois de inserir o seu nome de utilizador, as instruções de alteração de senha serão enviadas para o endereço de correio electrónico que forneceu ao registar-se.
+an error occured. please contact our technical support and let them know.	registration	pt	Ocorreu um erro. Por favor, contacte o nosso suporte técnico.
+anonymous password	admin	pt	Senha anónima
+birthday	registration	pt	Aniversário
+challenge question	registration	pt	Questão desafio
+change password for user	registration	pt	Alterar a senha do utilizador
+checkbox	registration	pt	Caixa de selecção
+choose language	registration	pt	Escolher idioma
+choose your language	registration	pt	Escolha o seu idioma
+city	registration	pt	Cidade
+close window	registration	pt	Fechar janela
+country	registration	pt	País
+current fields:	registration	pt	Campos actuais:
+days until trial accounts expire	admin	pt	Dias até expirar contas de teste
+display terms of service?	admin	pt	Apresentar os Termos de Serviço?
+dropdown	registration	pt	Lista
+email address	registration	pt	endereço de correio electrónico
+email address to display for support	admin	pt	Endereço de correio electrónico a apresentar para suporte
+email address to send notices from	admin	pt	Endereço de correio electrónico de recepção de avisos
+enable registration?	admin	pt	Activar registo?
+enter your new password	registration	pt	Insira sua nova senha
+female	registration	pt	Feminino
+gender	registration	pt	Género
+hi	registration	pt	Olá
+http password	admin	pt	Senha HTTP
+http username	admin	pt	Nome de utilizador HTTP
+i have read the terms and conditions and agree by them.	registration	pt	Eu li os termos e condições e concordei com eles.
+if you did not request this account, simply ignore this message.	registration	pt	Se não solicitou esta conta, ignore simplesmente esta mensagem.
+if you did not request this change, simply ignore this message.	registration	pt	Se não solicitou esta alteração, ignore simplesmente esta mensagem.
+immediately	admin	pt	Imediatamente
+lost login id	login	pt	ID de acesso perdida
+lost password	login	pt	Senha perdida
+lost password link at login screen?	admin	pt	Ligação de senha perdida no ecrã de acesso?
+lost user account retrieval	registration	pt	Recuperação de conta de utilizador perdido
+lost user id	registration	pt	ID de utilizador perdida
+lost user id link at login screen?	admin	pt	Ligação de ID de utilizador perdida no ecrã de acesso?
+lost_user_id_message	registration	pt	Aqui estão as contas do utilizador associadas a esta conta de correio electrónico:
+male	registration	pt	Masculino
+manage fields	admin	pt	Gerir campos
+name (blank unless text, textarea, dropdown, checkbox; else alphanumeric only)	registration	pt	Nome (em branco excepto Texto, Área de texto, Lista, Caixa de selecção; senão apenas alfanumérico)
+not a user yet? register now	login	pt	Ainda não é um utilizador? Registe-se agora
+on-line registration is not activated. please contact the site administrator for more information about registration.	registration	pt	O registo em linha não está activado. Por favor, contacte o administrador do sítio para mais informações sobre o registo.
+order	registration	pt	Ordem
+password is	admin	pt	A senha é
+phone	registration	pt	Telefone
+problem sending email:	registration	pt	Problema ao enviar mensagens
+re-enter password	registration	pt	Re-insira a senha
+re-enter your password	registration	pt	Re-insira a sua senha
+register	common	pt	Registar
+register link at login screen?	admin	pt	Registar ligação no ecrã de acesso?
+registration	common	pt	Registo
+registration settings	admin	pt	Configurações do registo
+remove	registration	pt	Remover
+report all problems and abuse to	registration	pt	Reportar todos os problemas e abusos a
+required	registration	pt	Necessário
+response	registration	pt	Resposta
+send email	admin	pt	Enviar mensagem
+sorry, no account exists for	registration	pt	Lamentamos, mas não existe nenhuma conta para
+sorry, that username does not exist.	registration	pt	Lamentamos, mas esse nome de utilizador não existe.
+sorry, that username is already taken.	registration	pt	Lamentamos, mas esse nome de utilizador já existe.
+sorry, we are having a problem activating your account. note that links sent by e-mail are only valid during two hours. if you think this delay was expired, just retry. otherwise, please contact the site administrator.	registration	pt	Lamentamos, mas ocorreu um problema ao activar a sua conta. Tenha em atenção que as ligações, enviadas por correio electrónico, são válidas apenas por duas horas. Se pensa que esse tempo expirou, tente novamente. Caso contrário, contacte o administrador do sítio.
+state	registration	pt	Estado
+subject for confirmation email	admin	pt	Título para mensagem de confirmação
+terms of service	registration	pt	Termos de Serviço
+terms of service text	admin	pt	Texto dos Termos de Serviço
+text	registration	pt	Texto
+textarea	registration	pt	Área de texto
+the passwords you entered don't match	registration	pt	As senhas que inseriu não coincidem
+the two passwords are not the same	registration	pt	As senhas não coincidem
+this is a confirmation email for your new account.  click on the following link to finish activating your account. this link will expire in 2 hours.	registration	pt	Esta é a mensagem de confirmação da sua nova conta. Clique na ligação seguinte para concluir a activação da sua conta. Esta ligação irá expirar dentro de 2 horas.
+type	registration	pt	Tipo
+unable to send mail, contact your administrator	registration	pt	Não foi possível enviar mensagem. Contacte o administrador.
+unknown first name	registration	pt	Nome próprio desconhecido
+unknown last name	registration	pt	Apelido desconhecido
+update/add	registration	pt	Actualizar/Adicionar
+use html	admin	pt	utilizar HTML
+use trial accounts?	admin	pt	Utilizar contas de teste?
+username is	admin	pt	O nome de utilizador é
+values (for dropdown only; comma separated)	registration	pt	Valores (Para Listas apenas; separados por vírgulas)
+we have sent a confirmation email to your email address. you must click on the link within 2 hours. if you do not, it may take a few days until your loginid will become available again.	registration	pt	Enviámos-lhe uma mensagem de confirmação para o seu endereço de correio electrónico. É necessário clicar na ligação apresentada até duas horas depois. Se não o fizer, a sua ID de acesso poderá ficar disponível apenas alguns dias depois.
+we have sent a mail to your email account: %s with your lost user ids.	registration	pt	Enviámos-lhe uma mensagem para a sua conta de correio electrónico: %s com as suas IDs de utilizador perdidas
+we have sent a mail with instructions to change your password. you should follow the included link within two hours. if you do not, you will have to go to the lost password screen again.	registration	pt	Enviámos-lhe uma mensagem com instruções para alterar a sua senha. Deve clicar na ligação apresentada até duas horas depois. Se não o fizer, terá de passar pelo ecrã de senha perdida novamente.
+wrong session	registration	pt	Sessão errada
+you have entered an invalid birthday	registration	pt	Inseriu uma data de aniversário inválida
+you have entered an invalid email address	registration	pt	Inseriu um endereço de correio electrónico inválido
+you must enter a password	registration	pt	É necessário inserir uma senha
+you must enter a username	registration	pt	É necessário inserir um nome de utilizador
+you must enter an email account	registration	pt	É necessário inserir uma conta de correio electrónico
+you must fill in all of the required fields	registration	pt	É necessário preencher todos os campos obrigatórios
+you requested to change your password. please follow the url below to do so. this url will expire in two hours. after this delay you should go thru the lost password procedure again.	registration	pt	Solicitou a alteração de senha. Por favor, clique na URL em baixo para o fazer. Esta URL expira dentro de duas horas. Se a alteração da senha não for feita neste período de tempo, será necessário passar pelo procedimento de senha perdida novamente.
+you specified a value for %1 that is not a choice	registration	pt	O valor especificado para %1 não é uma opção
+your account is now active!  click <a href="%s">here</a> to log into your account.	registration	pt	A sua conta foi activada! Clique <a href="%s">aqui</a> para aceder à sua conta.
+your password was changed. you can go back to the <a href="%1">login</a> page.	registration	pt	A sua senha foi alterada. Pode voltar à pagina de <a href="%1">acesso</a>.
+zip/postal	registration	pt	Código postal

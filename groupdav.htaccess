@@ -1,0 +1,23 @@
+# EGroupware CalDav or CardDAV support for Apple apps (OS X and iOS)
+#
+# $Id: groupdav.htaccess 37233 2011-11-11 08:53:22Z ralfbecker $
+#
+# This file can be copyied as .htaccess to your document root
+# to support Mac or iPhone clients to autodetec CalDAV and CardDAV
+# (currently Addressbook does NOT allow to specify our groupdav.php 
+#  URL manually).
+#
+# Please note: 
+# - your Apache web server needs to be setup to read .htaccess files and 
+#   allow use of the RewriteEngine directive (AllowOverride FileInfo). 
+# - you need to replace /egroupware with your EGroupware URL path eg. /egw
+
+RewriteEngine On
+RewriteBase /
+
+RewriteRule ^.well-known/(caldav|carddav)$ /egroupware/groupdav.php/ [R]
+RewriteCond %{REQUEST_METHOD}	^(PROPFIND|OPTIONS)$
+RewriteRule ^/$ /egroupware/groupdav.php/ [R]
+
+# iOS 4.3+ calendar requires that to autodetect accounts
+RewriteRule ^(/principals/users/.*)$ /egroupware/groupdav.php$1 [R]

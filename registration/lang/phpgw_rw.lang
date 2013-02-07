@@ -1,0 +1,9 @@
+country	registration	rw	Igihugu
+first name	registration	rw	Izina Ribanza
+last name	registration	rw	Izina ry'Umuryango
+no	admin	rw	Oya
+password	registration	rw	Urufunguzo
+phone	registration	rw	Telefone yawe
+re-enter password	registration	rw	Ongera wandike Urufunguzo
+re-enter your password	registration	rw	Ongera wandike Urufunguzo
+yes	admin	rw	Yego

@@ -1,0 +1,104 @@
+<br>please contact the site administrator.	registration	zh-tw	<br>請聯絡網站管理員。
+[unknown first name]	registration	zh-tw	[不明的名稱]
+[unknown last name]	registration	zh-tw	[不明的姓氏]
+account %1 record could not be found, report to site administrator	registration	zh-tw	找不到 %1 資料，回報給網站管理員
+account password retrieval	registration	zh-tw	遺忘密碼
+account registration	registration	zh-tw	註冊帳號
+activate account	admin	zh-tw	啟用帳號
+address	registration	zh-tw	住址
+after you enter your email address, the user accounts associated with this email address will be mailed to that address.	registration	zh-tw	帳號資訊將會寄送到您輸入的電子郵件位址。
+after you enter your username, instructions to change your password will be sent to you by e-mail to the address you gave when you registered.	registration	zh-tw	在您輸入帳號後，修改密碼的說明將會寄到您註冊時填入的信箱中。
+an error occured. please contact our technical support and let them know.	registration	zh-tw	發生一個錯誤，請聯絡我們的技術支援單位。
+anonymous password	admin	zh-tw	訪客密碼
+birthday	registration	zh-tw	生日
+challenge question	registration	zh-tw	安全提問
+change password for user	registration	zh-tw	修改使用者密碼
+checkbox	registration	zh-tw	勾選方塊
+choose language	registration	zh-tw	選擇語言
+choose your language	registration	zh-tw	選擇您的語言
+city	registration	zh-tw	鄉鎮市區
+click to log into your account	registration	zh-tw	點選來登入。
+close window	registration	zh-tw	關閉視窗
+country	registration	zh-tw	國家
+current fields:	registration	zh-tw	目前欄位：
+days until trial accounts expire	admin	zh-tw	測試帳號到期天數
+display terms of service?	admin	zh-tw	顯示服務條款？
+dropdown	registration	zh-tw	下拉式選單
+email address	registration	zh-tw	電子郵件
+email address to display for support	admin	zh-tw	客服信箱
+email address to send notices from	admin	zh-tw	系統訊息寄件人
+enable registration?	admin	zh-tw	啟用註冊功能？
+enter your new password	registration	zh-tw	輸入您的密碼
+female	registration	zh-tw	女
+gender	registration	zh-tw	性別
+hi	registration	zh-tw	您好
+http password	admin	zh-tw	HTTP密碼
+http username	admin	zh-tw	HTTP帳號
+i have read the terms and conditions and agree by them.	registration	zh-tw	我已經讀取使用者條款並且完全同意。
+if you did not request this account, simply ignore this message.	registration	zh-tw	如果您從未註冊這個帳號，直接刪除這個訊息就可以了。
+if you did not request this change, simply ignore this message.	registration	zh-tw	如果您並未提出資料異動的請求，直接刪除這個訊息就可以了。
+immediately	admin	zh-tw	立即
+lost login id	login	zh-tw	忘記帳號
+lost password	login	zh-tw	忘記密碼
+lost password link at login screen?	admin	zh-tw	在登入畫面顯示遺失密碼查詢功能？
+lost user account retrieval	registration	zh-tw	忘記帳號查詢
+lost user id	registration	zh-tw	遺失的使用者帳號
+lost user id link at login screen?	admin	zh-tw	在登入畫面顯示遺忘帳號查詢功能？
+lost_user_id_message	registration	zh-tw	這個郵件剛剛註冊了下面資訊：
+male	registration	zh-tw	男
+manage fields	admin	zh-tw	管理欄位
+name (blank unless text, textarea, dropdown, checkbox; else alphanumeric only)	registration	zh-tw	名稱(只能使用英、數字)
+not a user yet? register now	login	zh-tw	還沒成為會員？立刻註冊
+on-line registration is not activated. please contact the site administrator for more information about registration.	registration	zh-tw	目前無法線上註冊，請聯絡網站管理員
+order	registration	zh-tw	排序
+password is	admin	zh-tw	密碼
+phone	registration	zh-tw	聯絡電話
+problem sending email:	registration	zh-tw	寄送郵件時發生錯誤：
+re-enter password	registration	zh-tw	重新輸入密碼
+re-enter your password	registration	zh-tw	重新輸入您的密碼
+register link at login screen?	admin	zh-tw	在登入視窗顯示註冊連結？
+registration	common	zh-tw	註冊
+registration settings	admin	zh-tw	註冊設定
+remove	registration	zh-tw	移除
+report all problems and abuse to	registration	zh-tw	回報錯誤給
+required	registration	zh-tw	必填
+response	registration	zh-tw	回應
+send email	admin	zh-tw	傳送郵件
+sorry, no account exists for	registration	zh-tw	抱歉，沒有帳號存在於
+sorry, that username does not exist.	registration	zh-tw	抱歉，這個帳號不存在。
+sorry, that username is already taken.	registration	zh-tw	抱歉，這個帳號已經有人使用。
+sorry, we are having a problem activating your account. note that links sent by e-mail are only valid during two hours. if you think this delay was expired, just retry. otherwise, please contact the site administrator.	registration	zh-tw	抱歉，我們無法啟用您的帳號！啟用帳號的手續必須要在兩個鐘頭內完成，如果您超過了這個時間，請重新註冊。如果有其他疑問請洽網站管理員。
+state	registration	zh-tw	鄉/鎮/市
+subject for confirmation email	admin	zh-tw	確認信函標題
+terms of service	registration	zh-tw	使用者條款
+terms of service text	admin	zh-tw	使用者條款內容
+text	registration	zh-tw	文字
+textarea	registration	zh-tw	文字區
+the passwords you entered don't match	registration	zh-tw	您輸入的兩個密碼不同
+the two passwords are not the same	registration	zh-tw	兩次輸入的密碼不一致
+this is a confirmation email for your new account.  click on the following link to finish activating your account. this link will expire in 2 hours.	registration	zh-tw	這是您註冊帳號的通知信函，點選下面連結來啟動您的帳號，這個連結會在兩個小時後失效！
+type	registration	zh-tw	類型
+unable to send mail, contact your administrator	registration	zh-tw	無法寄送郵件，請聯絡管理員
+unknown first name	registration	zh-tw	未知的名稱
+unknown last name	registration	zh-tw	未知的姓氏
+update/add	registration	zh-tw	更新/新增
+use html	admin	zh-tw	使用HTML
+use trial accounts?	admin	zh-tw	使用試用帳號？
+username is	admin	zh-tw	帳號是
+values (for dropdown only; comma separated)	registration	zh-tw	下拉式選單數值(逗號分隔)
+we have sent a confirmation email to your email address. you must click on the link within 2 hours. if you do not, it may take a few days until your loginid will become available again.	registration	zh-tw	我們已經將確認信函寄出，您必須在兩個鐘頭內從信中啟用帳號，如果超過了這個時間，您必須在數天後才能重新註冊同樣的帳號。
+we have sent a mail to your email account: %s with your lost user ids.	registration	zh-tw	我們已經寄送通知道您的信箱帳號： %s ，其中包含您遺失的帳號資料。
+we have sent a mail with instructions to change your password. you should follow the included link within two hours. if you do not, you will have to go to the lost password screen again.	registration	zh-tw	我們已經寄出修改密碼的說明，您必須在兩個鐘頭內根據其中的指示操作；如果您超過了這個時間，您就必須要重新提出修改密碼的需求。
+wrong session	registration	zh-tw	錯誤的連線
+you can go back to the login page	registration	zh-tw	您可以回到登入頁面。
+you have entered an invalid birthday	registration	zh-tw	您輸入的生日有誤
+you have entered an invalid email address	registration	zh-tw	您輸入的信箱有誤
+you must enter a password	registration	zh-tw	您必須輸入密碼
+you must enter a username	registration	zh-tw	您必須輸入帳號
+you must enter an email account	registration	zh-tw	您必須輸入信箱
+you must fill in all of the required fields	registration	zh-tw	您必須輸入所有必填欄位
+you requested to change your password. please follow the url below to do so. this url will expire in two hours. after this delay you should go thru the lost password procedure again.	registration	zh-tw	您嘗試索取密碼，請點選下面連結來完成操作；這個網址會在兩個小時後失效，屆時您必須重新執行同樣的操作。
+you specified a value for %1 that is not a choice	registration	zh-tw	您指定的 %1 數值不包含在選項中
+your account is now active!	registration	zh-tw	您的帳號已經啟用
+your password was changed.	registration	zh-tw	您的密碼已經修改
+zip/postal	registration	zh-tw	郵遞區號

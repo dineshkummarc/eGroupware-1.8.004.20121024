@@ -1,0 +1,33 @@
+actions	polls	sv	Åtgärder
+add answer to poll	polls	sv	Svara på undersökning
+add answers	polls	sv	Lägg till svar
+add new poll question	polls	sv	Skapa undersökning
+add questions	polls	sv	Skapa undersökning
+allow users to vote more then once	polls	sv	Tillåt användare att svara mer än en gång
+answer	polls	sv	Svar
+answer has been added to poll	polls	sv	Svaret sparat
+answer has been updated	polls	sv	Svaret uppdaterat
+answers	polls	sv	Svar
+are you sure want to delete this answer ?	polls	sv	Vill du verkligen radera svaret?
+are you sure want to delete this question ?	polls	sv	Vill du verkligen radera frågan?
+current poll	polls	sv	Aktuell undersökning
+edit answer	polls	sv	Ändra svar
+edit poll question	polls	sv	Ändra undersökning
+enter poll question	polls	sv	Skapa undersökning
+new poll has been added.  you should now add some answers for this poll	polls	sv	Undersökningen sparad och du kan nu lägga till frågor
+poll question	polls	sv	Frågeställning
+poll settings	common	sv	Undersöknings alternativ
+polls	common	sv	Undersökning
+question has been updated	polls	sv	Frågan uppdaterad
+select current poll	polls	sv	Välj aktuell undersökning
+settings	polls	sv	Alternativ
+settings updated	polls	sv	Inställningarna uppdaterade
+show answers	polls	sv	Visa svar
+show questions	common	sv	Visa undersökningar
+total votes	polls	sv	Totalt
+view poll	polls	sv	Visa undersökning
+view results	polls	sv	Visa resultat
+vote	polls	sv	Rösta
+voting booth admin	admin	sv	Röstbåset
+voting booth administration	polls	sv	Röstbås administration
+which poll	polls	sv	Vilken undersökning

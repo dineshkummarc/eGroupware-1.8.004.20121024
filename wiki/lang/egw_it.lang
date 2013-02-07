@@ -1,0 +1,111 @@
+(don't offer the possibility)	admin	it	(non offrono la possibilità)
+<em>but</em> display at least this many entries in recentchanges and other subscription lists:	wiki	it	<em>Ma</em> visualizza almeno questo numero di voci in Modifiche Recenti e altre liste di sottoscrizione:
+add document to category	wiki	it	Aggiungi documento alla categoria
+added	wiki	it	Aggiunto
+administration features are disabled for this wiki.	wiki	it	Le opzioni di amministrazione sono disabilitate per questo Wiki
+admins	wiki	it	Amministratori
+after how many days should old versions of a page be removed (0 for never)	admin	it	Dopo quanti giorni le vecchie versioni della pagina dovrebbe essere rimossa (0 per mai)
+allow anonymous access	admin	it	Permetti accesso anonimo
+anonymous password	admin	it	Password per anonimo
+anonymous session type	admin	it	Tipo sessione per anonimo
+anonymous username	admin	it	Username per anonimo
+automatically convert pages with wiki-syntax to richtext (if edited)?	admin	it	Convertire automaticamente le pagine con sintassi WIKI in RICHTEXT (se modificate)?
+block	wiki	it	Blocca
+block / unblock hosts	common	it	Blocca / Sblocca host
+blocked ip address ranges	wiki	it	Intervalli indirizzi IP bloccati
+cancel without saving	wiki	it	Annulla senza salvare
+changed	wiki	it	Cambiato
+changes by last author	wiki	it	Cambiamenti fatti dall'ultimo autore
+choose your current time here, so the server may figure out what time zone you are in.	wiki	it	Scegli la tua ora attuale qui, cosicché il server può capire in che fuso orario sei.
+columns	wiki	it	Colonne
+compute difference	wiki	it	Calcola la differenza
+converts the page to richtext	wiki	it	Converte la pagina in RICHTEXT
+current version	wiki	it	Versione Attuale
+deleted	wiki	it	Cancellato
+deletes this page	wiki	it	Cancella questa pagina
+difference between versions	wiki	it	Differenze tra le versioni
+differences in	wiki	it	Differenze in
+different languages can have different titles	wiki	it	Linquaggi diversi possono avere titoli diversi
+document last modified	wiki	it	Ultima modifica documento
+edit box	wiki	it	Modifica riquadro
+edit this <em>archive version</em> of this document	wiki	it	Modifica questa <em>VERSIONE ARCHIVIO</em> di questo documento
+edit this document	wiki	it	Modifica questo documento
+edit with preview	admin	it	Modifica con Anteprima
+editable	admin	it	modificabile
+editing	wiki	it	Modifica
+emailaddress administrator	admin	it	Indirizzo email Amministratore
+enable free links	admin	it	Abilita Link liberi
+enable wiki links	admin	it	Abilita link WIKI
+enter here the maximum number of entries to display in a document's history list.	wiki	it	Inserire qui il numero massimo di voci da visualizzare nella cronologia di un documento.
+enter here the number of days of edits to display on recentchanges or any other subscription list.  set this to zero if you wish to see all pages in recentchanges, regardless of how recently they were edited.	wiki	it	Inserire qui il numero di giorni di modifiche da visualizzare in Modifiche Recenti o qualsiasi altro elenco sottoscrizioni. Impostare a zero per visualizzare tutte le pagine in Modifiche Recenti, non importa quanto recentemente siano state modificate.
+enter ip address range in form <tt>12.*</tt>, <tt>34.56.*</tt>, or <tt>78.90.123.*</tt>	wiki	it	Inserire un intervallo di IP nella forma <tt>12.*</tt>, <tt>34.56.*</tt>, or <tt>78.90.123.*</tt>
+error creating temporary file.	wiki	it	Errore nella creazione del file temporaneo.
+error writing to temporary file.	wiki	it	Errore durante la scrittura sul file temporaneo
+everyone	wiki	it	tutti
+find	wiki	it	Trova
+history	wiki	it	Cronologia
+history display should show <em>all</em> changes made by the latest author.  otherwise, show only the last change made.	wiki	it	La Cronologia deve mostrare <em>tutte</em> le modifiche fatte dall'ultimo autore. Altrimenti, mostrerà solo l'ultima modifica.
+history lists	wiki	it	Elenco cronologico
+history of	wiki	it	Cronologia di
+interwikiprefix	admin	it	Prefisso interWiki
+invalid page name.	wiki	it	Nome pagina non valido
+load	wiki	it	Carica
+loads the named page in the given language, all change so far get lost !!!	wiki	it	Carica la pagina nella lingua stabilita, tutti i cambiamenti andranno persi !!!
+lock / unlock pages	common	it	Blocca / Sblocca Pagine
+locked	wiki	it	Bloccato
+name wiki home link	admin	it	Nome collegamento HOME del Wiki
+newer	wiki	it	Più recente
+no never	admin	it	No mai
+no only on request	admin	it	No solo su richiesta
+not set	wiki	it	Non impostato
+older	wiki	it	Più vecchio
+on all pages	wiki	it	su tutte le pagine
+only if browser supports a richtext-editor	admin	it	Solo se il browser supporta un editor RICHTEXT
+only on the first page	wiki	it	solo sulla prima pagina
+page '%1' not found !!!	wiki	it	Pagina '%1' non trovata !!!
+path of the upload directory (has to be writable by the webserver!)	admin	it	Percorso della cartella di upload (deve essere scrivibile dal Server web)
+picture upload via richtext editor (leave the upload directory empty to disable the upload)	admin	it	Upload delle immagini attraverso l'editor richtext (lascia la cartella di upload vuota per disabilitare l'upload)
+please contact the %1administrator%2 for assistance.	wiki	it	Prego contatta l' %1Amministratore%2 per assistenza.
+preview	wiki	it	Anteprima
+preview of current version	wiki	it	Anteprima della Versione Attuale
+rate control / ip blocking disabled	wiki	it	Controllo Valutazioni / Blocco IP disabilitato
+readable by	wiki	it	Leggibile da
+readonly	admin	it	Sola lettura
+recent changes	wiki	it	Modifiche Recenti
+renames page to the given name and language	wiki	it	Rinomina la pgina con il nome dato e la lingua
+richtext	wiki	it	Richtext
+rows	wiki	it	Righe
+save the changes and exit	wiki	it	Salva le modifiche ed esci
+saves and continues editing	wiki	it	Salva e continua la modifica
+search for	wiki	it	Cerca per
+see complete list (%1 entries)	wiki	it	Vedi lista completa (%1 inserimenti)
+show a search	wiki	it	Visualizza una ricerca
+show the title of the wiki page	wiki	it	Visualizza il titolo della pagina wiki
+summary	wiki	it	Indice
+summary of change	wiki	it	Indice delle modifiche
+the search returned no result!	wiki	it	La ricerca non ha dato risultati
+this page can not be edited.	wiki	it	Questa pagina non può essere modificata.
+twin pages	wiki	it	Pagine gemelle
+unblock	wiki	it	Sblocca
+updates the preview	wiki	it	Aggiorna l'anteprima
+url of the upload directory	admin	it	URL della cartella di upload
+use this module for displaying wiki-pages	wiki	it	usa questo modulo per visualizzare le pagine wiki
+users	wiki	it	utenti
+view document history	wiki	it	Visualizza cronologia documento
+visit %1 to set your user name	wiki	it	Visita %1 per settare il tuo nome utente
+warning: since you started editing, this document has been changed by someone else.  please merge your edits into the current version of this document.	wiki	it	Attenzione: da quando hai iniziaaaaato la modifica, questo documento è stato cambiato da qualcunaltro. Prego aggiungi le tue modifiche nella versione attuale di quest documento.
+who should be able to edit this page	wiki	it	chi può modificare questa pagina
+who should be able to read this page	wiki	it	chi può leggere questa pagina
+wiki	common	it	Wiki
+wiki administration	wiki	it	Configurazione Wiki
+wiki menu	wiki	it	Menù Wiki
+wiki startpage	wiki	it	Pagina d'inizio Wiki
+writable by	wiki	it	Scrivibile da
+yes always	admin	it	Sì sempre
+yes with navbar	admin	it	Si con barra di navigazione
+you have been denied access to this site.	wiki	it	Ti è stato negato l'accesso a questo sito.
+you have entered an invalid user name.	wiki	it	Hai inserito un nome utente non valido.
+you have exeeded the number of pages you are allowed to visit in a given period of time. please return later.	wiki	it	Hai superato il numero di pagine che puoi visitare in un dato periodo di tempo. Per favore torna più tardi.
+you have no rights to view wiki content !!!	wiki	it	Non hai i permessi per vedere i contenuti del wiki !!!
+your changes	wiki	it	Le tue modifiche
+your user name is "%1".	wiki	it	Il tuo nome utente è "%1".

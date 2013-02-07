@@ -1,0 +1,70 @@
+%1 bookmarks have been deleted	bookmarks	ko	%1 북마크는 삭제되었습니다.
+%1 bookmarks imported from %2 successfully.	bookmarks	ko	** %2의 북마크를 %1로 가져오기 성공.
+(comma separate multiple addresses)	bookmarks	ko	(컴마로 분리된 여러개의 주소)
+<b>note:</b> this currently works with netscape bookmarks only	bookmarks	ko	<b>참고:</b> 현재는 넷스케입 북마크만 동작합니다
+all bookmarks	bookmarks	ko	모든 북마크
+and	bookmarks	ko	그리고(AND 연산)
+append this message to mailed bookmarks	bookmarks	ko	메일로 발송된 북마크로 이 메세지를 확장
+ascending	bookmarks	ko	올림차순
+book marks	common	ko	북마크
+bookmark changed sucessfully	bookmarks	ko	성공적으로 북마크를 변경했습니다
+bookmark created successfully.	bookmarks	ko	성공적으로 북마크를 생성했습니다
+bookmark not editable	bookmarks	ko	북마크를 편집할수 없습니다
+bookmark not readable	bookmarks	ko	북마크를 읽을수 없습니다
+bookmarks	common	ko	북마크
+bookmarks settings	bookmarks	ko	북마크 설정
+change bookmark	bookmarks	ko	북마크 바꾸기
+close this window to return	bookmarks	ko	이 창을 닫고 돌아가기
+create bookmark	bookmarks	ko	북마크 생성
+create new bookmark	bookmarks	ko	새 북마크 생성
+date added	bookmarks	ko	추가된 날짜
+date changed	bookmarks	ko	변경된 날짜
+date last updated	bookmarks	ko	최종갱신 날짜
+date last visited	bookmarks	ko	최종방문 날짜
+descending	bookmarks	ko	내림차순
+edit bookmark	bookmarks	ko	북마크 편집
+edit this bookmark	bookmarks	ko	이 북마크 편집
+enter the name of the netscape bookmark file<br>that you want imported into bookmarker below.	bookmarks	ko	북마크로 가져오고 싶은 <br> 넷스케입 북마크파일의 이름을 입력하세요.
+export bookmarks	common	ko	북마크 내보내기
+fewer	bookmarks	ko	검색조건 감소
+filter by	bookmarks	ko	걸러짐 :
+found a link you might like	bookmarks	ko	좋아하실 링크를 발견했습니다.
+from	bookmarks	ko	부터
+from category %1	bookmarks	ko	카테고리 %1 부터
+highest	bookmarks	ko	가장높은 (highest)
+i thought you would be interested in the following link(s):	bookmarks	ko	다음의 링크가 관심있으실 겁니다:
+import bookmarks	common	ko	북마크 가져오기
+like	bookmarks	ko	비슷한
+list view	bookmarks	ko	목록
+lowest	bookmarks	ko	가장낮은 (lowest)
+mail this bookmark	bookmarks	ko	이 북마크를 메일로 보냄
+mail-this-link message sent to %1.	bookmarks	ko	'현재링크를메일로' 메세지를 %1 으로 보냄
+mass update:	bookmarks	ko	대량 갱신:
+message from	bookmarks	ko	메세지 발송지
+more	bookmarks	ko	검색조건 추가
+name	bookmarks	ko	이름
+name is required	bookmarks	ko	이름이 필요합니다
+netscape bookmark file	bookmarks	ko	넷스케입 북마크 파일
+netscape bookmark filename is required!	bookmarks	ko	넷스케입 북마크 파일이름이 필요합니다!
+new	bookmark	ko	새로만들기
+or	bookmarks	ko	이거나(OR연산)
+please fill out <b>to e-mail address</b>, <b>subject</b>, and <b>message</b>!	bookmarks	ko	<b>보낼 이메일 주소</b>,<B>제목</b>, 그리고 <B>메세지</b>를 작성해주세요!
+please select the categories to export	bookmarks	ko	내보낼 카테고리를 선택해주세요
+query condition	bookmarks	ko	쿼리 조건
+rating	bookmarks	ko	점수
+search for:	bookmarks	ko	찾기 :
+select the format you would like to export to	bookmarks	ko	내보낼 형식 선택
+send bookmark	bookmarks	ko	북마크 보내기
+sub category	bookmarks	ko	하위 카테고리
+to address %1 invalid. format must be <strong>user@domain</strong> and domain must exist!	bookmarks	ko	보낼주소 %1 가 부적절합니다. 형식은 <strong> 사용자@도메인</strong>이며 도메인이 반드시 있어야 합니다!
+to e-mail addresses	bookmarks	ko	보낼 이-메일 주소들
+to which category should the imported folder hierarchy be attached	bookmarks	ko	가져온 폴더의 계층구조가 더해질 카테고리는 어떤 것입니까
+total visits	bookmarks	ko	총 방문자
+tree view	bookmarks	ko	트리 뷰
+unable to open temp file %1 for import.	bookmarks	ko	가져오기: 임시파일 %1을 열수없습니다
+url is required.	bookmarks	ko	URL이 필요합니다.
+view bookmark	bookmarks	ko	북마크 보기
+view this bookmark	bookmarks	ko	이 북마크 보기
+warning	bookmarks	ko	경고
+you are viewing this site outside of egroupware	bookmarks	ko	귀하는 eGroupWare 외부에서 이 사이트를 보고 있습니다
+you must select a category	bookmarks	ko	반드시 카테고리를 선택해야합니다

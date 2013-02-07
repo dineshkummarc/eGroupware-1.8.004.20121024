@@ -1,0 +1,59 @@
+active	news_admin	lv	Aktīvs
+add new article	news_admin	lv	PIevienot jaunu rakstu
+add new news	news_admin	lv	Pievienot jaunas ziņas
+add news item	news_admin	lv	PIevienot ziņu
+all news	news_admin	lv	VIsas ziņas
+always	news_admin	lv	Vienmēr
+configuration	news_admin	lv	Konfigurācija
+configure access permissions	common	lv	Konfigurēt pieejas atļaujas
+configure rss exports	common	lv	Konfigurēt RSS eksportus
+contains html	news_admin	lv	Satur HTML
+content	news_admin	lv	Saturs
+edit news item	news_admin	lv	Rediģēt ziņu
+failed to add message	news_admin	lv	Neizdevās pievienot jaunu ziņojumu
+format for links to items	news_admin	lv	Formatēt saites vienumiem
+format of export	news_admin	lv	Eksporta formāts
+from	news_admin	lv	No
+global news	news_admin	lv	Globālās ziņas
+global_news	news_admin	lv	Globālās_ziņas
+image link	news_admin	lv	Attēla saite
+image title	news_admin	lv	Attēla nosaukums
+image url	news_admin	lv	Attēla URL
+implies read permission	news_admin	lv	ietver lasīšanas atļauju
+item has been deleted	news_admin	lv	VIenums tika izdzēsts
+item not found	news_admin	lv	Vienums netika atrasts
+link	news_admin	lv	Saite
+main	news_admin	lv	Galvenais
+maintain	news_admin	lv	Uzturēt
+maintain news	admin	lv	Uzturēt ziņas
+message has been added	news_admin	lv	Ziņojums tika pievienots
+more news	news_admin	lv	Vairāk ziņu
+new item has been added	news_admin	lv	Tika pievienots jauns vienums
+news admin	news_admin	lv	Ziņu administrators
+news administration	news_admin	lv	Ziņu administrācija
+news item has been added	news_admin	lv	Tika pievienota ziņa
+news item has been updated	news_admin	lv	Ziņa tika atjaunināta
+news_admin	common	lv	Ziņu administrators
+no entries found	news_admin	lv	nav atrasti ieraksti
+no news	news_admin	lv	Šajā kategorijā pašlaik nav pieejamu ziņu
+no rss export	news_admin	lv	Nav RSS eksporta
+number of articles to display on the main screen	news_admin	lv	Galvenajā logā rādāmo rakstu skaits
+on	news_admin	lv	ieslēgts
+publish date	news_admin	lv	Publicēšanas datums
+read news	news_admin	lv	Lasīt ziņas
+read permissions	news_admin	lv	Lasīšanas atļaujas
+should news_admin display the latest article headlines on the main screen.	news_admin	lv	Vai ziņu adminstratoram vajadzētu parādīt pēdējo ziņu virsrakstus
+show latest news articles?	news_admin	lv	Rādīt pēdējo ziņu rakstus?
+show news articles on main page?	news_admin	lv	Rādīt ziņu rakstus galvenajā lapā?
+small view	news_admin	lv	mazs skatījums
+submitted by	common	lv	Iesniedza
+teaser	news_admin	lv	Reklāma
+the news content is missing	news_admin	lv	Rūkst ziņu satura
+the number of articles to display on the main screen.	news_admin	lv	Galvenajā logā rādāmo rakstu skaits
+the subject is missing	news_admin	lv	Trūkst tēmas
+until	news_admin	lv	līdz
+view this category	news_admin	lv	Rādīt šō kategoriju
+visible	news_admin	lv	Redzams
+webpage news admin	news_admin	lv	Tīkla lapas administrators
+write	news_admin	lv	Rakstīt
+write permissions	news_admin	lv	Rakstīšanas atļaujas

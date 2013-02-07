@@ -1,0 +1,95 @@
+(don't offer the possibility)	admin	iw	(אל תציג את האפשרות)
+<em>but</em> display at least this many entries in recentchanges and other subscription lists:	wiki	iw	:אבל תציג לפחות כמות זו של רשומות בשינוים אחרונים וברשימות רישום אחרות
+add document to category	wiki	iw	הוסף מסמך לקטגוריה
+added	wiki	iw	נוסף
+administration features are disabled for this wiki.	wiki	iw	.זה wiki תכונות ניהול מבוטלות עבור
+admins	wiki	iw	מנהלים
+allow anonymous access	admin	iw	אפשר גישה אנונימית
+anonymous password	admin	iw	סיסמה של אנונימי
+anonymous session type	admin	iw	סוג מושב אנונימי
+anonymous username	admin	iw	שצ כניסה אנונימי
+automatically convert pages with wiki-syntax to richtext (if edited)?	admin	iw	(לטקסט עשיר (אם עובר עריכה wiki-להמיר אוטומטית עמודים אם תחביר
+block	wiki	iw	בלוק
+block / unblock hosts	common	iw	חסום/הסר חסימת מארחים
+blocked ip address ranges	wiki	iw	חסומים IP תווכי כתובות
+cancel without saving	wiki	iw	בטל מבלי לשמור
+changed	wiki	iw	שונה
+changes by last author	wiki	iw	שינוים על ידי הכותב האחרון
+choose your current time here, so the server may figure out what time zone you are in.	wiki	iw	בחר את השעה הנוכחית שלך כאן כדי שהשרת יכול לחשב באיזה איזור שעון אתה נמצא
+columns	wiki	iw	עמודות
+compute difference	wiki	iw	חשב הפרש
+converts the page to richtext	wiki	iw	ממיר את העמוד לטקסט עשיר
+current version	wiki	iw	גירסא נוכחית
+deleted	wiki	iw	נמחקו
+deletes this page	wiki	iw	מוחק עמוד זה
+difference between versions	wiki	iw	ההבדלים בין גיסאות
+differences in	wiki	iw	-ההבדלים ב
+different languages can have different titles	wiki	iw	לשפות שונות יתכן כותרות שונות
+document last modified	wiki	iw	המסמך שונה לאחרונה
+edit box	wiki	iw	תיבת עריכה
+edit this <em>archive version</em> of this document	wiki	iw	ערוך גירסת ארכיב זא של המסמך
+edit this document	wiki	iw	ערוך מסמך זה
+edit with preview	admin	iw	עריכה עם תצוגה מקדימה
+editable	admin	iw	ניתן לעריכה
+editing	wiki	iw	עורך
+emailaddress administrator	admin	iw	דואר אלקטרוני של המנהל
+enable free links	admin	iw	אפשר קישורים חופשיים
+enable wiki links	admin	iw	wiki אפשר קישורי
+enter here the maximum number of entries to display in a document's history list.	wiki	iw	הכניס כאן את כמות המירבית של רשומות להציג ברשימת היסטוריה של מסמך
+enter here the number of days of edits to display on recentchanges or any other subscription list.  set this to zero if you wish to see all pages in recentchanges, regardless of how recently they were edited.	wiki	iw	הכנס כאן את כמות הימים של עריכות י שלהציג בשינוים אחרונים או בכל רשימת רישום אחרת. קבע את הערך ל-0 אם ברצונך לראות את כל העמודים השינוים אחרונים ללא קשר לגיל העריכה
+enter ip address range in form <tt>12.*</tt>, <tt>34.56.*</tt>, or <tt>78.90.123.*</tt>	wiki	iw	בצורה IP-הכנס את תווך כתובות ה
+<br><tt>12.*</tt>, <tt>34.56.*</tt>, or <tt>78.90.123.*</tt>
+error creating temporary file.	wiki	iw	שגיאה ביצירת קובץ זמני
+error writing to temporary file.	wiki	iw	שגיאה בכתיבה לקובץ זמני
+everyone	wiki	iw	כולם
+find	wiki	iw	מצא
+history	wiki	iw	היסטוריה
+history display should show <em>all</em> changes made by the latest author.  otherwise, show only the last change made.	wiki	iw	.תצוגת ההיסטוריה אמורה להראות את כל השינוים שהכותב האחרון ביצע. אחרת הצג רק את השינוי האחרון
+history lists	wiki	iw	רשימת היסטוריה
+history of	wiki	iw	ההיסטוריה של
+invalid page name.	wiki	iw	.שם עמוד לא חוקי
+load	wiki	iw	טען
+loads the named page in the given language, all change so far get lost !!!	wiki	iw	!מטעין את העמוד הזה בשפה הנבחרת, כל השינוים עד עתה יאבדו
+lock / unlock pages	common	iw	נעל/פתח עמודים
+locked	wiki	iw	נעול
+name wiki home link	admin	iw	wiki שם קישור הבית של
+newer	wiki	iw	חדש יותר
+no never	admin	iw	לעולם לא
+no only on request	admin	iw	לא, רק לפי בקשה
+not set	wiki	iw	לא נקבע
+older	wiki	iw	ישן יותר
+only if browser supports a richtext-editor	admin	iw	רק אם הדפדפן תומך בעורך טקסט עשיר
+please contact the %1administrator%2 for assistance.	wiki	iw	.נא ליצור קשר עם %1המנהל%2 לקבלת סיוע
+preview	wiki	iw	תצוגה מקדימה
+preview of current version	wiki	iw	תצוגה מקדימה של הגירסה הנוכחית
+rate control / ip blocking disabled	wiki	iw	מבוטלים IP בקרת קצב / חסימות
+readable by	wiki	iw	ניתן לקריאה על ידי
+readonly	admin	iw	לקריאה בלבד
+recent changes	wiki	iw	שינוים אחרונים
+renames page to the given name and language	wiki	iw	משנה את שם העמוד לשם ושפה שנציונו
+richtext	wiki	iw	טקסט עשיר
+rows	wiki	iw	שורות
+save the changes and exit	wiki	iw	שמור שינוים וצא
+saves and continues editing	wiki	iw	שומר וממשיך לערוך
+see complete list (%1 entries)	wiki	iw	(ראה רשימה מלאה (%1 רשומות
+summary	wiki	iw	סיכום
+summary of change	wiki	iw	ביכום השינוי
+this page can not be edited.	wiki	iw	לא ניתן לערוך עמוד זה
+twin pages	wiki	iw	עמודים תואמים
+unblock	wiki	iw	הסר חסימה
+updates the preview	wiki	iw	מעדכן את התצוגה המקדימה
+users	wiki	iw	משתמשים
+view document history	wiki	iw	הצג היסטוריה של מסמך
+visit %1 to set your user name	wiki	iw	בקר ב-%1 כדי לקבוע את שם המשתמש שלך
+warning: since you started editing, this document has been changed by someone else.  please merge your edits into the current version of this document.	wiki	iw	אזהרה: מאז התחלת לערוך, מישהו אחר שימה מסמך זה. אנא מזג את העריכה שלך אל תוך הגירסה הנוכחית של המסמך
+who should be able to edit this page	wiki	iw	למי מותר לעאוך עמוד זה
+who should be able to read this page	wiki	iw	למי מותר לקרוא עמוד זה
+wiki administration	wiki	iw	wiki ניהול
+wiki menu	wiki	iw	wiki תפריט
+writable by	wiki	iw	נכתב על ידי
+yes always	admin	iw	כן תמיד
+you have been denied access to this site.	wiki	iw	.נאסרה גישתך לאתר זה
+you have entered an invalid user name.	wiki	iw	.הכנסת שם משתמש לא חוקי
+you have exeeded the number of pages you are allowed to visit in a given period of time. please return later.	wiki	iw	.עברת את כמות העמודים בה מותר לך לצפות תוך פרק זמן מסוים. נא לחזור מאוחר יותר
+your changes	wiki	iw	השינוים שלך
+your user name is "%1".	wiki	iw	."שם המשתמש שלך הוא "%1

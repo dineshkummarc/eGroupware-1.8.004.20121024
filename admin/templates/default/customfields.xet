@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<!-- $Id: customfields.xet 24904 2008-01-19 06:05:49Z ralfbecker $ -->
+<overlay>
+	<template id="admin.customfields.types" template="" lang="" group="0" version="1.2">
+		<grid>
+			<columns>
+				<column/>
+				<column/>
+				<column/>
+				<column disabled="@non_deletable"/>
+				<column/>
+				<column/>
+			</columns>
+			<rows>
+				<row>
+					<description id="app-name"/>
+					<description value="-  type"/>
+					<menulist>
+						<menupopup id="types" onchange="1" no_lang="1"/>
+					</menulist>
+					<button label="Delete" id="delete" onclick="return confirm('WARNING: You are about to delete this type. Entries of this type won\'t be accessable then.');"/>
+					<textbox id="name" blur="new name"/>
+					<button label="Create" id="create"/>
+				</row>
+			</rows>
+		</grid>
+	</template>
+	<template id="admin.customfields.fields" template="" lang="" group="0" version="1.5.001">
+		<grid>
+			<columns>
+				<column/>
+				<column/>
+				<column disabled="!@type2"/>
+				<column/>
+				<column disabled="!@use_private"/>
+				<column/>
+				<column/>
+				<column/>
+				<column/>
+			</columns>
+			<rows>
+				<row class="th">
+					<description value="Name" statustext="the name used internaly (&lt;= 20 chars), changeing it makes existing data unavailible"/>
+					<description value="Label"/>
+					<description value="Subtype"/>
+					<description value="Type"/>
+					<description value="Private"/>
+					<description value="Options" statustext="each value is a line like &lt;id&gt;[=&lt;label&gt;]"/>
+					<description value="Length&lt;br&gt;Rows"/>
+					<description value="Order"/>
+					<description value="Action" align="center" statustext="deletes this field"/>
+				</row>
+				<row class="row" valign="top">
+					<textbox size="20" maxlength="32" id="${row}[name]" statustext="the name used internaly (&lt;= 20 chars), changeing it makes existing data unavailible"/>
+					<vbox>
+						<textbox maxlength="255" id="${row}[label]" statustext="the text displayed to the user"/>
+						<description id="${row}[label]"/>
+					</vbox>
+					<menulist>
+						<menupopup options="All" id="${row}[type2]" no_lang="1"/>
+					</menulist>
+					<customfields-types id="{$row}[type]" statustext="Type of customfield"/>
+					<listbox type="select-account" id="${row}[private]" statustext="Select accounts for which the custom field should be visible" align="center" rows="3" options="both"/>
+					<textbox multiline="true" rows="2" cols="30" id="${row}[values]" statustext="each value is a line like id[=label]"/>
+					<vbox>
+						<textbox size="5" id="${row}[len]" statustext="max length of the input [, length of the inputfield (optional)]"/>
+						<int options="0,10,2" id="${row}[rows]" statustext="number of row for a multiline inputfield or line of a multi-select-box" blur="1"/>
+					</vbox>
+					<int options="1,,3" id="${row}[order]" statustext="determines the order the fields are displayed"/>
+					<hbox>
+						<button label="Delete" id="delete[$row_cont[name]]" statustext="deletes this field"/>
+						<button label="Create" id="create$row_cont[name]" statustext="creates a new field"/>
+					</hbox>
+				</row>
+			</rows>
+		</grid>
+	</template>
+	<template id="admin.customfields" template="" lang="" group="0" version="1.2">
+		<grid>
+			<columns>
+				<column/>
+				<column/>
+				<column/>
+				<column/>
+				<column/>
+				<column/>
+				<column width="80%"/>
+			</columns>
+			<rows>
+				<row>
+					<description span="all" class="redItalic" id="error_msg" align="center" no_lang="1"/>
+					<description/>
+					<description/>
+					<description/>
+					<description/>
+					<description/>
+					<description no_lang="1"/>
+				</row>
+				<row>
+					<template content="content_types" span="all" id="admin.customfields.types"/>
+				</row>
+				<row>
+					<template span="all"/>
+				</row>
+				<row>
+					<template content="fields" span="all" id="admin.customfields.fields"/>
+				</row>
+				<row>
+					<hbox span="all">
+						<button label="Save" id="button[save]" statustext="saves the changes made and leaves"/>
+						<button label="Apply" id="button[apply]" statustext="applies the changes"/>
+						<button label="Cancel" id="button[cancel]" statustext="leaves without saveing"/>
+					</hbox>
+				</row>
+			</rows>
+		</grid>
+		<styles>
+			.redItalic { color: red; font-style: italics; }
+		</styles>
+	</template>
+</overlay>

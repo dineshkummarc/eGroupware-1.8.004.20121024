@@ -1,0 +1,112 @@
+%1 module	news_admin	pl	%1 moduł
+%1 news imported (%2 new).	news_admin	pl	Zaimportowano %1 wiadomości (%2 nowych).
+%s hours	news_admin	pl	%s godzin
+actions	news_admin	pl	Operacje
+active	news_admin	pl	Aktywne
+add new article	news_admin	pl	Dodaj artykuł
+add new news	news_admin	pl	Dodaj nową wiadomość
+add news item	news_admin	pl	Dodaj element wiadomości
+all news	news_admin	pl	Wszystkie wiadomości
+always	news_admin	pl	Zawsze
+by date	news_admin	pl	Według daty
+categories to displayed on main page?	news_admin	pl	Kategorie mają być wyświetlane na stronie głównej?
+category deleted.	news_admin	pl	Kategoria usunięta.
+category saved.	news_admin	pl	Kategoria zapisana.
+choose a category	news_admin	pl	Wybierz kategorię
+comma separated item ids which shall be shown (empty = all)	news_admin	pl	Oddzielony przecinkami obiekt ID, który jest wskazany ( puste = pokaż wszystkie)
+configuration	news_admin	pl	Konfiguracja
+configure access permissions	common	pl	Skonfiguruj Prawa Dostępu
+configure rss exports	common	pl	Skonfiguruj eksport do RSS
+contains html	news_admin	pl	Zawiera HTML
+content	news_admin	pl	Treść
+count	news_admin	pl	Ilość
+date and time	news_admin	pl	Data i czas
+delete this news	news_admin	pl	Usuń tę wiadomość
+do you want to publish a rss feed for this news category	news_admin	pl	Czy chcesz opublikować źródło RSS dla tej kategorii
+edit news item	news_admin	pl	Edytuj wiadomość
+end	news_admin	pl	Zakończenie
+error importing the feed!	news_admin	pl	Błąd przy imporcie danych!
+error saving the category!	news_admin	pl	Błąd przy zapisywaniu kategorii!
+error saving the news!	news_admin	pl	Błąd przy zapisywaniu wiadomości!
+failed to add message	news_admin	pl	Błąd przy dodawaniu nowej wiadomości
+format for links to items	news_admin	pl	Format odnośników do wiadomości
+format of export	news_admin	pl	Format eksportu
+from	news_admin	pl	Od
+from all	news_admin	pl	Od wszystkich
+future	news_admin	pl	Przyszłe
+global categories	news_admin	pl	kategorie globalne
+global news	news_admin	pl	Wiadomości globalne
+global_news	news_admin	pl	Globalne
+headline	news_admin	pl	Nagłówek
+headline with link	news_admin	pl	Nagłówek z odnośnikiem
+image link	news_admin	pl	Odnośnik obrazka
+image title	news_admin	pl	Tytuł obrazka
+image url	news_admin	pl	URL obrazka
+implies read permission	news_admin	pl	implikuje prawo odczytu
+import every	news_admin	pl	Importuj co
+import now	news_admin	pl	Importuj teraz
+import url	news_admin	pl	Importuj URL
+imported feeds can not be writable!	news_admin	pl	Zaimportowane dane nie mogą być zapisywane!
+item has been deleted	news_admin	pl	Wiadomość została usunięta
+item not found	news_admin	pl	Wiadomość nie znaleziona
+last updated	news_admin	pl	Ostatnia aktualizacja
+link	news_admin	pl	Odnośnik
+main	news_admin	pl	Główne
+maintain	news_admin	pl	Zarządzaj
+maintain news	admin	pl	Zarządzaj wiadomościami
+message has been added	news_admin	pl	Wiadomość została usunięta
+more news	news_admin	pl	Więcej wiadomości
+more news link	news_admin	pl	Odnośnik więcej wiadomości
+new item has been added	news_admin	pl	Dodano nowy punkt
+news	news_admin	pl	Wiadomości
+news admin	news_admin	pl	Administrator wiadomości
+news administration	news_admin	pl	Administracja wiadomości
+news deleted.	news_admin	pl	Wiadomości usunięte
+news item has been added	news_admin	pl	Wiadomość została dodana
+news item has been updated	news_admin	pl	Wiadomość została zaktualizowana
+news saved.	news_admin	pl	Wiadomości zachowane
+news_admin	common	pl	Wiadomości
+no anonymous user accounts installed.  notify the administrator.	news_admin	pl	BRAK KONT ANONIMOWYCH. POWIADOM ADMINISTRATORA.
+no entries found	news_admin	pl	nie znaleziono wpisów
+no matching news item	news_admin	pl	Brak pasujących wiadomości
+no news	news_admin	pl	Brak aktualnie dostępnych wiadomości w tej kategorii
+no rss export	news_admin	pl	Brak eksportu do RSS
+now	news_admin	pl	Obecne
+number of articles to display on the main screen	news_admin	pl	Liczba wiadomości do wyświetlania na stronie głównej
+number of news items to be displayed on page	news_admin	pl	Liczba wiadomości do wyświetlania na każdej stronie
+old	news_admin	pl	Stare
+on	news_admin	pl	na
+page-name the item should be displayed (empty = current page)	news_admin	pl	Numer strony na której element powinien być wyświetlony (puste = strona aktualna)
+parent	news_admin	pl	Element nadrzędny
+picture upload (leave the upload directory empty to disable the upload)	admin	pl	Ładowanie obrazków (pozostaw katalog ładowania pusty aby zablokować ładowanie)
+please select a category	news_admin	pl	Proszę wybrać kategorię
+publish date	news_admin	pl	Data publikacji
+read more	news_admin	pl	czytaj całość
+read news	news_admin	pl	Czytaj wiadomości
+read permissions	news_admin	pl	Prawa odczytu
+reload	news_admin	pl	Przeładuj
+send mail to others	news_admin	pl	Wyślij wiadomość do innych
+should news_admin display the latest article headlines on the main screen.	news_admin	pl	Czy pokazywać nagłówki najnowszych wiadomości na stronie głównej?
+show latest news articles?	news_admin	pl	Czy pokazywać najnowsze wiadomości?
+show news articles on main page?	news_admin	pl	Czy pokazywać wiadomości na stronie głównej?
+small view	news_admin	pl	widok uproszczony
+start	news_admin	pl	Start
+submitted by	common	pl	Wysłane przez
+submitted by %1 on %2	news_admin	pl	Opublikowane dnia %2, przez %1
+submitted by and date	news_admin	pl	Przesłane przez i data
+teaser	news_admin	pl	Reklamówka
+teaser with read more link	news_admin	pl	Reklamówka z odnośnikiem do czytania całości
+the news content is missing	news_admin	pl	Brakuje treści wiadomości
+the number of articles to display on the main screen.	news_admin	pl	Liczba wiadomości do wyświetlania na stronie głównej.
+the subject is missing	news_admin	pl	Brakuje tematu wiadomości
+there no such translation.	news_admin	pl	Nie ma takiego tłumaczenia.
+this module publishes news from the news_admin application on your website. be aware of news_admin's acl restrictions.	news_admin	pl	Moduł publikuje wiadomości z aplikacji Wiadomości na stronie internetowej. Zwróć uwagę na prawa dostępu do tej aplikacji.
+until	news_admin	pl	do
+url of the rss or atom feed, empty for own news feed	news_admin	pl	URL zawierający dane RSS lub Atom, puste dla własnych danych wiadomości
+view this category	news_admin	pl	Pokaż tę kategorię
+visible	news_admin	pl	Widoczny
+webpage news admin	news_admin	pl	Strona internetowa administrowania wiadomościami
+which information do you want to show (css class)	news_admin	pl	Jakie informacje chcesz pokazywać (klasa CSS)
+which news categories should be displayed on the main screen.	news_admin	pl	Które kategorie wiadomości powinny być wyświetlane na głównym ekranie.
+write	news_admin	pl	Zapisz
+write permissions	news_admin	pl	Uprawnienia do zapisu

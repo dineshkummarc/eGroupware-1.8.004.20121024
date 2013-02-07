@@ -1,0 +1,64 @@
+actions	news_admin	et	Tegevused
+active	news_admin	et	Aktiivne
+add new article	news_admin	et	Lisa Uus Artikkel
+add new news	news_admin	et	Lisa uued uudised
+all news	news_admin	et	Kõik uudised
+always	news_admin	et	Alati
+by date	news_admin	et	Kuupäeva järgi
+choose a category	news_admin	et	Vali kategooria
+configuration	news_admin	et	Kinnitamine
+configure access permissions	common	et	Konfigureeri Ligipääsu Õigusi
+configure rss exports	common	et	Konfigureeri RSS eksporte
+contains html	news_admin	et	Sisaldab HTML
+content	news_admin	et	Sisu
+date and time	news_admin	et	Kuupäev ja aeg
+delete this news	news_admin	et	Kustuta need uudised
+end	news_admin	et	Lõpp
+error saving the news!	news_admin	et	Viga uudise salvestamisel!
+from all	news_admin	et	Kõik autorid
+future	news_admin	et	Tulevikus
+global categories	news_admin	et	Kategooriad
+global news	news_admin	et	Globaalsed Uudised
+headline	news_admin	et	Pealkiri
+headline with link	news_admin	et	Pealkiri koos lingiga
+image link	news_admin	et	Pildi Link
+image title	news_admin	et	Pildi Pealkiri
+image url	news_admin	et	Pildi URL
+link	news_admin	et	Link
+main	news_admin	et	Pea
+maintain	news_admin	et	Hoolda
+maintain news	admin	et	Hoolda Uudiseid
+more news	news_admin	et	Rohkem uudiseid
+more news link	news_admin	et	Rohkem uudiste linke
+news	news_admin	et	Uudised
+news admin	news_admin	et	Uuudiste Admin
+news administration	news_admin	et	Uudiste Administreerimine
+news deleted.	news_admin	et	Uudised kustutatud.
+news saved.	news_admin	et	Uudised salvestatud.
+news_admin	common	et	Uudiste Admin
+now	news_admin	et	Nüüd
+old	news_admin	et	Vana
+on	news_admin	et	:
+picture upload (leave the upload directory empty to disable the upload)	admin	et	Pildi üleslaadimine (keelamaks ülelaadimine jäta üleslaadimise kaust tühjaks)
+please select a category	news_admin	et	Palun vali kategooria
+publish date	news_admin	et	Avaldamise kuupäev
+read more	news_admin	et	loe rohkem
+read news	news_admin	et	Loe uudiseid
+read permissions	news_admin	et	Lugemise õigused
+send mail to others	news_admin	et	Sada Teistele Mail
+should news_admin display the latest article headlines on the main screen.	news_admin	et	Peaks Uudiste Admin näitama viimaseid pealkirju pealehel.
+show latest news articles?	news_admin	et	Näita viimaseid uudiste artikkleid?
+show news articles on main page?	news_admin	et	Näita uudiste artikkleid pealehel?
+start	news_admin	et	Algus
+submitted by	common	et	Lisatud
+teaser	news_admin	et	Alampealkiri
+teaser with read more link	news_admin	et	Alampealkiri koos lugeda rohkem linkke
+the news content is missing	news_admin	et	Uudise sisu puudub
+the number of articles to display on the main screen.	news_admin	et	Artikklite arv mida kuvatakse pealehel.
+until	news_admin	et	kuni
+view this category	news_admin	et	Vaata seda kategooriat
+visible	news_admin	et	Nähtav
+webpage news admin	news_admin	et	Veebilehe uudiste admin
+which information do you want to show (css class)	news_admin	et	Millist informatsiooni tahad näidata (CSS class)
+write	news_admin	et	Kirjuta
+write permissions	news_admin	et	Kirjutamise õigused

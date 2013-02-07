@@ -1,0 +1,995 @@
+egroupware (1.8.004.20121024) hardy; urgency=low
+
+  * eMail: fix problem when forwarding inline some mails containing winmail.dat attachments (HelpDesk Ticket 3810) (all original attachments are probably part of the winmail.dat, so we resolve the data/attachments contained in winmail.dat)
+  * InfoLog/CalDAV: deleted entries where not taken into account for ctag generation, causing deletes only to sync after other modifications
+  * Filemanager: fixed not working repair of doublicate directories
+  * CalDAV/CardDAV: Max OS X 10.8 (Mountain Lion) support: automatic sync of all addressbooks in one
+  * CalDAV: fixed broken URL of private events in shared calendar user has no right to view
+  * CalDAV: privileges in other users calendar where reported wrong, leading clients to believe they have write rights here
+  * CalDAV: deleting an already declined invitation returned 403 Forbidden, instead 204 No Content
+  * Calendar/CalDAV: updated windows aliases from Unicode site and Exchange names from Sabre DAV
+  * Calendar: changed default filter for new users/instances from "all" to "default" (not showing rejected invitations)
+  * Calendar/CalDAV: fixed exceptions get not deleted with series via CalDAV
+  * Calendar: deny creating of recurring events, if duration of a single recurrence is longer then the recurrence interval
+  * CalDAV: fixed parsing of principal urls used by iOS6 for users
+  * API: only cache in APC by default, if it has at least 64M of shared memory, otherwise use filesystem
+  * Addressbook/API: allow ampersand and plus in local part of emailaddress for email validation
+  * Calendar/CalDAV: fixed truncating an existing daily event left it one day to long
+  * CalDAV: fix recurring event one day short, if number of recurence specified together with event-length, after rrule in iCal
+  * Calendar/CalDAV: deleting of recurrences under Android (eg. CalDAV Sync app) did not work
+  * CalDAV/CardDAV: fixed wrong encoded url of group with name containing spaces in CalDAV:calendar-user-address-set
+  * CalDAV: show created and updated by user and date in iOS 6: new CalendarServer:(created|updated)-by properties
+  * CalDAV/CardDAV: return urn:uuid as last record in calendar-user-address-set, as according to iCal4OL developer, some clients might have problems with it, also adding both full uri and just path of principal url, as calendarserver does it
+
+ -- Ralf Becker <rb@stylite.de>  Wed, 24 Oct 2012 09:26:01 +0200
+
+egroupware (1.8.004.20120822) hardy; urgency=low
+
+  * Filemanager: support for ownCloud WebDAV clients which keep a local directory in sync with server (by default users home-dir with local ownCloud dir, thought other dirs can be configured as well)
+  * eMail: handle attaching eml files; handle no subject when forwarding as attachment
+  * Calendar: if deleting next recurrance of an event series containing alarms, move alarms to next recurrance, to not alarm for deleted recurance
+  * Calendar/CalDAV: fixed not working accepting or rejecting recurrences of event series via CalDAV scheduling (eg. iOS devices)
+  * Calendar/CalDAV: not searching addressbook for CN, as match can be not unique or without an email address, causing notification to fail --> store as email address
+  * Calendar/CalDAV: meeting requests contain again nice body followed by a separator and description
+  * Chat: if no translation for user language available fall back to english, for slovenian language use croation language for now
+  * LDAP authentication: if changing password fails bind as user, try changing is with given admin-dn, to cater for all sorts of ldap configurations
+  * Addressbook/CardDAV: fixed lost cell-phone numbers, caused by SyncML update
+  * Admin/Preferences: fixed not removable ACL rights for apps using NO group-acl, eg. Addressbook or InfoLog
+  * Addressbook/InfoLog/Tracker: added or fixed formatting of certain custom field types in notifications using a single shared method
+  * API/Setup/MySQL: fixed backup to correctly report boolean columns and support MySQL 5.0+ varchar(>255)
+  * egw-pear: improve connection handling (targeting failed connects), apply connection timeout on data retrieval as well. (reapply r36751)
+  * SyncML: fix Funambol vCard issues (community bug #1999)
+  * InfoLog: remove accidently backported preferences, not used in 1.8
+
+ -- Ralf Becker <rb@stylite.de>  Wed, 22 Aug 2012 08:49:40 +0200
+
+egroupware (1.8.004.20120718) hardy; urgency=low
+
+  * Backup: fix sometimes not working restore (seems like an internal error in preg_match, causing Apache to run at 100% CPU never finishing) for php 5.3+
+  * Filemanager/API: automatically decrement and store subquery depth limit, to work around different limits in different MySQL versions and configurations causing SQL error
+  * Admin/DB-Backup: querying only chunks for 100 rows, to not run into memory limit on huge tables
+  * EMail: manage acl table; show acl table for selected folder for first folder selected when clicking on ACL tab as first action; remove trailing whitespaced
+  * EMail: improve the handling of addresses in edit of vacationnotice (SIEVE)
+  * PostgreSQL: fixed SQL error using egw_db::unix_timestamp(): No function matches the given name and argument types
+  * Calendar: backported config switch for history logging / delete prevention required for CalDAV to detect deleted events
+  * Addressbook: backported config switch for history logging / delete prevention required for CardDAV to detect deleted contacts, also switch history logging on for new installs
+  * CalDAV: expand-property reports queried by iCal from OS X 10.7.4
+  * Calendar: fixed EGroupware owner got notified about status changes, even if email-notification preference was "never", now only external chairs get always notified
+  * Addressbook: fixed not working resize or conversation of non-jpeg images in newer php versions
+  * Admin/Setup: fixing high memory usage in registering all hooks
+
+ -- Ralf Becker <rb@stylite.de>  Wed, 18 Jul 2012 19:53:42 +0200
+
+egroupware (1.8.004.20120613) hardy; urgency=low
+
+  * Addressbook: fix for postgres error on advanced search in addressbook (Helpdesk 3421)
+  * LDAP: allow to specify multiple (space-separated) ldap URLs (eg. "ldap1 tls://ldap2")
+  * API: support windows-1256 via iconv and prefer iconv for windows-1252 too
+  * InfoLog/CalDAV: set status of new tasks to NEEDS-ACTION (not started), if client does not specify a status or completion (was set to DONE before)
+  * Api: use autocomplete=off on all etemplate password fields (not all browsers support that), to avoid filling in wrong passwords while administering
+
+ -- Ralf Becker <rb@stylite.de>  Wed, 13 Jun 2012 09:39:40 +0200
+
+egroupware (1.8.004.20120530) hardy; urgency=low
+
+  * Tracker: fixed not working search using ticket number
+  * Calendar: order search for events to link with by startdate descending
+  * Tracker/ProjectManager: resources of tickets were shown as #Array in projectmanager (egroupware.org bug #3147)
+  * SyncML: Fix country name issue during SyncML slowsync (community bug #3146)
+  * Timesheet: if linked via ProjectManager, behave identical as if project was set in own GUI, fixed setting project to none to also unset project-title and blur
+
+ -- Ralf Becker <rb@stylite.de>  Wed, 30 May 2012 18:23:37 +0200
+
+egroupware (1.8.004.20120515) hardy; urgency=low
+
+  * Addressbook: skip letter of deleted type, when creating new contact types, as it gives SQL error
+  * ProjectManager/InfoLog: fixed custom type icon in PM to use status label, as in InfoLog
+  * CalDAV: fixed not working exceptions of recuring events in iCal on iOS or OS X (skipping optional and default VALUE=DATE-TIME attribute in iCal EXDATE component)
+  * TranslationTool: bigger fields to add a new phrase
+  * Calendar: taking direct booking permission into account when copying events including resources (my.stylite bug #2839)
+  * AsyncServices/Calendar: when multiple alarms / async jobs run at same time, they send mail with from address of first alarm/job
+  * Calendar: notification always use language of current user, not of user to notify
+  * InfoLog: if searching do not suppress sub-entries (user preference "List no subs/childs" set)
+  * Addressbook: fixed not working changing of organisation members
+
+ -- Ralf Becker <rb@stylite.de>  Tue, 15 May 2012 19:03:48 +0200
+
+egroupware (1.8.004.20120507) hardy; urgency=low
+
+  * resources: fix for missing/not loaded pictures for resources in default/images/resource_icons/
+  * calendar: use possible attribute values regarding X-MICROSOFT-CDO-ALLDAYEVENT
+  * CalDAV/Calendar: copied events need to get new name-part in CalDAV URL, otherwise sync fails
+  * Addressbook/LDAP: documented how to get ACL for group-addressbooks working without deprecated rfc2307bis schema
+  * Addressbook/LDAP|SQL->LDAP: fixed error during creation of new contacts, SQL->LDAP now also displays LDAP errors
+
+ -- Ralf Becker <rb@stylite.de>  Mon, 07 May 2012 09:29:33 +0200
+
+egroupware (1.8.004.20120423) hardy; urgency=low
+
+  * Backup/Addressbook: adding limited index-length to backed up schema and fix restore of old backups without (default to 32 on multicolumn indexes including text columns)
+  * CalDAV/CardDAV: log failed requests with ### like exceptions to ease diagnose problems, log if clients requests accounts not visible because of account-selection preference, skip proxys if not visible
+  * Setup/Restore: fixed since r38812/1.8.004.20120410 not working restore of backups
+  * email: reuse already fetched flags when checking for MDNsent /MDNnotSend flags;
+  * ProjectManager: fix Bug #3130: PHP Fatal error: Cannot unset string offsets in projectmanager_so line 239
+  * CalDAV: fixed PHP Fatal Error when iCal contains invalid participant url like Lighttnings "invalid:noemail"
+  * Wiki: fixed Fatal error: Unsupported operand types in class.wiki_ui.inc.php on line 188, if no languages are installed
+
+ -- Ralf Becker <rb@stylite.de>  Mon, 23 Apr 2012 10:00:47 +0200
+
+egroupware (1.8.004.20120410) hardy; urgency=low
+
+  * WebDAV/Filemanager: fixed not working home-directores
+  * Setup: fixed failed install under Ubuntu 10.04 (include ./hook_config.inc.php failed)
+  * Addressbook: fixed sql error when sorting by a custom field and not displayed custom field content
+
+ -- Ralf Becker <rb@stylite.de>  Tue, 10 Apr 2012 14:51:08 +0200
+
+egroupware (1.8.004.20120407) hardy; urgency=low
+
+  * Resources: SiteMgr module uses old class-name ui_resources instead of resources_ui
+  * CalDAV: fix error nothing known about column "id"
+  * CalDAV/CardDAV: add API version to pseudo session-id used to invalidate all sessions from the previous version (which eg. give database errors, because using old schema)
+
+ -- Ralf Becker <rb@stylite.de>  Sat, 07 Apr 2012 08:54:56 +0200
+
+egroupware (1.8.004.20120405) hardy; urgency=low
+
+  * SECURITY: fix for a XSS (cross-site-scripting) vulnerability, it is recommended to update ASAP!
+  * REQUIRES TO VISIT SETUP for schema updates
+  * more secure password hashing types: sha512_crypt and sha256_crypt
+  * enable automatic migration to sha512_crypt if accounts in SQL or LDAP (but only on Linux, as OpenLDAP has no native support for it)
+  * session listing without the need of a listable (less secure) session directory
+  * numerous CalDAV and CardDAV fixes (EGroupware 1.8.004 is now far more standard compliant then 1.8.002!)
+  * --> CalDAV/CardDAV is now recommended over SyncML, which will be no longer supported in the next major release
+  * show calendars and addressbooks selected to sync under user calendar- or addressbook-home-set allowing clients to automatic detect them
+  * CalDAV scheduling support allows clients eg. to show free busy status of invited participants
+  * client can choose the url for new events or contacts (standard requirement!)
+  * allow clients to store attributes (eg. calendar colors) via PROPPATCH
+  * store unknown attributes (eg. location based alarms) in custom fields in InfoLog
+  * CardDAV works now with LDAP backend
+  * ability to log and display CalDAV/CardDAV traffic without access to commandline of server
+  * PHP 5.4: fixes for strict warnings, thought disabling E_STRICT for now, because of various strict warnings in working code, which could not be easy fixed in all areas
+  * wiki: fix SQL for makro WantedPages
+  * wiki: bugfix for ->fatal error/exception if search is started with no searchstring<- now we return everything / all entrys on a missing search string
+  * wiki: bugfix for ->fatal error/exception when inserting new webdav links in HTML mode<- 
+  * API: fixed a reported deprecated warning on logout when using CAS
+  * felamimail: handle IE (8) problem regarding toggling editor modes in compose window
+  * Filemanager: allow WebDAVs (https) via PEAR HTTP_WebDAV_Client
+  * API/Login: using tabindex to control tab succession on/in loginscreen.
+  * Calendar/iCal/CalDAV: if no end(-time) is given in iCal we use the default lenght from user prefs
+  * Calendar: fixed tz-aliases to NOT use Etc/GMT* but Olson identifiers
+  * CalDAV: fixed Outlook needs Microsoft specific x-property to recognice all-day events as such
+  * Addressbook/CardDAV: fixed Apple iOS and OS X addressbook messed up phone numbers (Mobile is now mobile for both and iPhone is matched to EGroupware private cell)
+  * Addressbook: disable custom field tabs, if contact is stored in LDAP, which does not support CFs
+  * Notifications: fixed not correctly reset timezone after notifying users from other timezones
+  * Filemanager/Admin: ability to check virtual filesystem (Admin >> Check virtual filesystem) and some code to prefent double creation of directories
+  * News: fixed SQL error happening with multiple translations
+  * PostgreSQL/Setup/EMailAdmin: fixed Setup >> Configuration was not storing anything
+  * timesheet: fixed wrong sum for timesheets;
+  * InfoLog/CalDAV: fixed wrong timezone used for iCal generation
+  * Calendar: mail all participants was attaching iCal with wrong time(zone)
+  * Admin/Addressbook: fixed wrong timezone in created and modified times for contacts and accounts
+  * eMail: fix bug regarding language strings with single quotes in Javascript;
+  * Calendar: update timezones to 2011n from Lightning
+  * API: fix account-selection-method "selectbox" containing selected account double (eg. in Admin >> Manage groups)
+  * Home: only display apps user has rights to (were not checked for calendar, email, infolog, news_admin or if user changes positions on home, before gotten app-rights removed)
+  * Wiki/PostgreSQL: whitespace before database-type caused creation of index on egw_wiki_pages.wiki_body limiting article length to 32k --> re-install wiki or drop index egw_wiki_pages_body
+  * SiteMgr: fixed every block had identical id="Mod" validation error
+  * SiteMgr: remove CKeditor SCAYT (spell-check-as-you-type) tags, which dont validate
+  * SiteMgr: properly escape block-titles containing special chars
+  * SiteMgr: allow to set meta description on category level by using {description} tag instead of {slogan} or {sitedesc}, proper escaping of all placeholders
+  * Projectmanager: add /usr/share/fonts to open_basedir to allow JpGraph for ganttchars access to default font location
+  * Admin: fixed import of already hashed passwords
+  * InfoLog/CalDAV: add support for responsible as iCal ATTENDEE, make sure not to empty InfoLog fields not supported by iCal standard
+  * wiki: patch to handle the case that we have 2 versions of the same wikipage with wiki_supercede=wiki_time (up-to-date version)-> use the one with the highest version number; bugfix regarding the import of manual into own wiki; use wiki_id from constructor in where clause where ever it applies and not already present (e.g.: exists(), read(), write (in special cases (import of manual)) and makros (as we should not mix wikis)
+  * CardDAV: fixed not working deleting of existing fields and cell phone numbers for Apple clients
+  * eMail: supporting deprecated text/directory mimetype (if filename extension is of type text/vcard) for opening in addressbook edit dialog.
+
+ -- Ralf Becker <rb@stylite.de>  Thu, 05 Apr 2012 15:10:11 +0200
+
+egroupware (1.8.002.20111111) hardy; urgency=low
+
+  * SyncML: fix WBXML namespache issue (bug 3048)
+  * eMail: bug regarding the mimetype of uploaded files; FF701 reports wrong mime type; work around this, by always checking mimetype by suffix
+  * Calendar/sync: handle error regarding not getting an egw_time object but no exception is thrown; may be php 5.2.x related.
+  * Filemanager/eTemplate: fix for MyStylite bug #2495: deleting files containing [ as first char deletes whole directory
+  * GroupDAV/CalDAV/CardDAV: removed alternative approach from groupdav.htaccess, as it is not suffient for iOS 4.3+ iCal
+
+ -- Ralf Becker <rb@stylite.de>  Fri, 11 Nov 2011 09:54:17 +0100
+
+egroupware (1.8.002.20111011) hardy; urgency=low
+
+  * Calendar: not using freebusy rights for searching calendar, as it would allow to probe for event contents
+  * tracker: mailhandling, fixing a problem with -> not correctly extracting mailadresses <- when adresses contained UpperCase Letters
+  * email: fix for missing style color:red in notification messages
+  * tracker: mailhandling - prevent to use rsh or ssh to establish connection
+  * API: decodeMailHeader handle nested encoding for imap_mime_header_decode
+  * API: take care of INNODB and STRICT_TRANS_TABLES for recent mysql installations
+  * calendar/holidays: fix charset for japanese holidays
+  * API: taking care of sorting AND filtering by customfields with names containing whitespace; (best way to deal with this issue, is not using whitespace in your customfield names at all)
+  * sitemanager: fix PostgreSQL error reported on org-tracker (#2956)
+  * WebDAV: fix for Netdrive to work correct with non-ascii chars like German umlauts
+  * WebDAV: allow locking of not (yet) existing files to create them
+  * Tracker: fixed not working file write rights for assignee
+  * Filemanager: fixed not working rename of file, if path contains a # or ?
+  * eMail/eMailAdmin: is_a compatibility vs. php5.3.8 resolving to instanceof operator
+  * Filemanager/WebDAV: understand Windows7 modification time attribute and setting and returning is as vfs modification time
+  * Addressbook/csv-import: fix/enable update of account - userdata when accounts are stored with ldap. If the condition is on account_id, we supplement the condition with owner=0 (this is needed to correctly determine the storage engine (ldap/sql) for accounts); we strongly recomment NOT to try to use this for adding accounts: use admin import definitions for that task
+  * eMailAdmin: fix problem with UpperLowerCase User Names, use lower case usernames ONLY, when accessing / creating / updating mailboxes
+  * SyncML: Fix WBXML encoding issue (community bug#3020 and SyncEvolution issue bug#2975)
+  * API: is_a compatibility vs. php5.3.8 resolving to instanceof operator for most common basic classes
+  * eMail/Sieve/Vacation: set default to 7 for days setting in vacation for new vacation setups
+  * CalDAV/GroupDAV: return empty collection, as iCal under iOS 5 had problems with returning "404 Not found" status
+  * Calendar: added windows timezones to all installations (was added in calendar update 1.7.005, but not to new installs)
+
+ -- Ralf Becker <rb@stylite.de>  Tue, 11 Oct 2011 08:37:23 +0200
+
+egroupware (1.8.002.20110811) hardy; urgency=low
+
+  * Updating version to 1.8.002 to simpler recognice if an EGroupware instance contains the security fixes
+  * Loatian language translation Dr. from Vimontha KHIEOVONGPHACHANH <kvimontha-AT-yahoo.com>
+  * SiteMgr: implement login and search module via <jdoc::include type="module"
+
+ -- Ralf Becker <rb@stylite.de>  Thu, 11 Aug 2011 21:05:35 +0200
+
+egroupware (1.8.001.20110805) hardy; urgency=low
+
+  * Security issues fixed: local file inclusion, sql injection, refelected xss and open redirect  
+  --> we recommend to update ASAP
+  * PostgreSQL/EMailAdmin: fixed not storable EMailAdmin profiles
+  * Addressbook/LDAP: fixed lettersearch by backporting LDAP class from trunk
+  * Setup: making SSHA (salted sha1) hashes the default password hash for SQL and LDAP
+  * setup/login: fixed not working password (hash) migration
+  * InfoLog: fixed not working link-search (Parameter 2 to infolog_bo::link_query() expected to be a reference)
+  * Calendar/CalDAV: fixed SQL error on ctag generation, if no ACL rights for requested group calendar exists
+  * Calendar/CalDAV: fixed wrong line-defolding, if folding occured in whitespace
+  * Calendar/CalDAV: use X-EGROUPWARE-UID only, if it resolves to same email (otherwise we are in trouble if different EGw installs talk to each other)
+  * Calendar: fixed not included organizer in meeting request
+  * Calendar: fixed not working freetime search caused by not mbstring.func_overload supporting xajax libary
+  * Manual: use https for accessing manual.egroupware.org to not get page contains unsave content warnings
+  * IE9: enable IE dropdown menu hack only for IE<9, as it stalls IE9 www.stylite.de bug #1722
+  * workaround for Fennec bug https://bugzilla.mozilla.org/show_bug.cgi?format=multiple&id=648250 window.(outerHeight|outerWidth|screenX|screenY) throw exception
+  * eMail: fixed bug for not getting multiple unnamed attachments, while saving a mail to infolog or tracker
+  * eMail: improving of the fetching of cids; match cid to filename if the attempt to match the cid failed
+  * eMail: match cid to filename if the attempt to match the cid failed -> extending the fetch attempt even for non cid attachments, when nothing is found within the previous loops
+  * Admin/VFS/LDAP: on saving a group, check if group directory exists and create it if not
+  * CalDAV/GroupDAV/KDE Akonadi seems to require redundant namespaces, see KDE bug #265096 https://bugs.kde.org/show_bug.cgi?id=265096
+  * eMail: regard addressbook preference to hide accounts or not in ajax search for emailadresses while composing messages
+  * eMail: fix for displayed message body  is null: if charset reported is reported not correctly, converting to utf-8 may not succeed as expected, leaving some non utf-8 chars which may lead to problems with json_encode;
+  * Fix RRULE parser (UTC fix) - Bug#2991@egroupware.org
+  * Calendar: fixed not working accept/reject of invitations, if participant is in a group with only a freebusy grant
+  * Generate well-formed XML for Funambol and SyncEvolution clients (community bug#2975)
+  * Improved support for new SyncML clients/client versions
+  * Calendar: fixed in readonly events custom fields were still editable
+  * notification/email: support filter since (only check unseen mails for the last 14 days) when notify for unseen mails
+  * CalDAV: user agent detection of OS X 10.7 Lion iCal app (CoreDav instead of DavKit)
+  * CalDAV/CardDAV redirect for iOS 4.3.1+ to autodetect accounts
+  * Calendar: show status set for the whole series at recurrences too, unless they have an individual status
+  * Calendar: fixed typo in merge, denying implicit participants rights eg. required to accept a meeting
+  * NTLM authentication: limit redirect, if NTLM auth could not be performed, to same domain, EGroupware domain, or explicitly whitelisted domains
+  * Filemanager popup: fixed sometimes missing first directory, eg. in favorites
+  * API fix PHP fatal error wakeup2 is no method ..., when comming from setup
+  * API fix webserver_url of just a domain eg. http://domain.com gives PHP Warning empty delimiter ...
+  * PEAR: automatic upgrade or install of required PEAR packages via package post_instal.php (only package installs!)
+
+ -- Ralf Becker <rb@stylite.de>  Fri, 05 Aug 2011 15:35:39 +0200
+
+egroupware (1.8.001.20110421) hardy; urgency=low
+
+  * Addressbook: lettersearch was not working for addressbooks in LDAP if PostgreSQL database was used (bug #2851)
+  * Calendar: fixed not working "use event TZ" pref for iCal exports and allways use event TZ for calendar notifications (NOT use file export pref.)
+  * SyncML/Calendar/PostgreSQL: fixed SQL error when searching participants (SELECT DISTINCT requires ORDER-BY-expressions to be in SELECT-list)
+  * Wiki/PostgreSQL: fixed SQL error when viewing history (#2927), PostgreSQL needs mixed case names quoted
+  * PostgreSQL: when importing/updating timezones, only query last insert id, if not already in database (gives warning for PostgreSQL)
+  * Addressbook/PostgreSQL: lettersearch in organisation-view allways returned empty
+  * Preferences: fixed not working setting of preferences without a logout
+  * addressbook: enable advanced search for addressbook org view
+  * eMail: fix for styliteTracker Bug#1471 (adding more than 4 lines of addresses to a mail in compose-dialog shrinks the address-area to a height of 0 with IE9)
+  * eMail: make sure the quotaDisplay is refreshed on Message List refresh
+  * Admin: fix for reported error regarding wrong count of lines in Admin -> view error log (note, not all errors are logged there, only some. Its only used for some error logging, most of error logging is done/directed to the webservers error log)
+  * Addressbook/PostgreSQL: fixed SQL error when checking "use whole query"
+  * SiteMgr: fixed detection of downloaded content, using Content-Type header now and adding style="white-space: pre-wrap; text-aling: left;" to pre-tag for textfiles
+  * Preference: fixed PHP Fatal error:  Cannot use string offset as an array on line 550, by importing preference class from trunk
+  * PostgreSQL/Addressbook: fixed SQL error when listing account, groups or querying birthdays
+
+ -- Ralf Becker <rb@stylite.de>  Thu, 21 Apr 2011 16:45:58 +0200
+
+egroupware (1.8.001.20110409) hardy; urgency=low
+
+  * updated phpfreechat to version 1.3 to fix php 5.3 depricated warnings
+  * correctly parsing of "time-range" REPORT filter, giving a SQL error before because it requires comparing as unix timestamp not strings
+  * Gallery: ignoring ERROR_OBSOLETE_DATA in editAccount hook, as it seems to indecated no error, but nothing changed
+  * removing memory limit from backup download, by switching off output buffering and zlib output compression
+  * fixed handling of + char in VFS filenames (using egw_vfs::decodePath() instead of urldecode())
+  * ImportExport: fixed translation default value not working (eg. "1|>one||2|>two||other")
+  * CalDAV/Lightning: fixed under some conditions infinit poping up alarms and user not able to add alarms
+  * Calendar: fixed in some cases not updated alarms, if event got moved
+  * LDAP addressbook filter for all addressbooks by "(objectclass=inetorgperson)" to not get eg. computer accounts from Samba
+  * Calendar: no longer returning private events of other user while searching, as it can reveal private information
+  * Wiki: fixed and documented wiki makros: PageSize, LinkTable, PageLinks, PageRefs, OrphanedPages, WantedPages and Transclude
+  * Calendar: fixed SQL error on search: Argument of OR must be of type boolean, not of type smallint
+  * Calendar: fixed PostgreSQL error on transfering records of a delted user to an other one
+  * fixed not working scheduled import from vfs
+  * SiteMgr: allow to import permissions from a previous exported dump (requires identical user and group names to exist)
+  * wiki: fixed not working xml export using url http://example.org/egroupware/wiki/index.php?page=Pattern&action=xml&lang=en
+  * updated .htaccess to memory_limit=256M
+  * fixed not working async service test-job
+  * exceptions in async jobs no longer stop other jobs, but log the exception to Apache error_log
+  * Calendar: store async job of alarm with alarm owner as owner to get eg. the correct from address
+  * ProjectManager: fixed storing a project with unchanged completion=0%, wrongly sets it to "none"
+  * ProjectManager: fixed not show status bar in project, if no times set for elements
+  * ProjectManager: fixed ganttchart generated twice (instead reading it from temp. dir)
+  * ProjectManager: fixed not working switch from real to planned times of projects in ganttchart
+  * ProjectManager: use calculated start time to calculate end-times, eg. InfoLog DS returned only planned end-times before
+  * eMail: ask confirmation before deleting a folder in manage folders
+  * Calendar: fixed not working "hideprivate" filter (shows own private events as private, not NOT showing them)
+  * updated timezone database to version 1.2011b from current Lightning snapshot
+  * API: upgrade to purifier Version 4.3.0
+  * give everyone implicit rights for home app, as taking them away makes to many support problems
+  * WebDAV download: switching zlib.output_compression off for everything but text files
+  * CalDAV: improved performance of ctag generation
+  * Calendar/CalDAV: ctag got not updated when eg. a recurrence got deleted, causing CalDAV calendar to not automatic update
+  * Setup: fixed not working deinstall of languages
+  * Calendar/API: fixed not working dateformat d-M-Y with French language (Juin=Jun, Juillet=Jui)
+  * check quantity of resource to book against maximum, as conflict check only fails if other events are involved
+  * Calendar: fixed status of all recurrences get set to "unknown", if status of a single recurrence get changed (#2916)
+
+ -- Ralf Becker <rb@stylite.de>  Sat, 09 Apr 2011 20:10:00 +0200
+
+egroupware (1.8.001.20110216) hardy; urgency=low
+
+  * fixed not working delete of application-global categories via "admin >> global categories" in applications
+  * WiKi: Admin functionality to rebuild wiki internal link table to enable the rework of links on connected pages, when renaming a page
+  * removed accidently commited rpm patch, causing admin >> async service no longer to display correct cronline and to choose
+
+ -- Ralf Becker <rb@stylite.de>  Wed, 16 Feb 2011 11:11:53 +0100
+
+egroupware (1.8.001.20110214) hardy; urgency=low
+
+  * eMail: fix for a problem reported with FreeBSD regarding the generation of random strings for temp-filenames
+  * Notifications: fix dont try to notify when none is set/forced for folders to check for new mails; dont try to notify when email as module is not enabled for the particular user
+  * eMail: remove invalid -at- when occurring in full name, when adding address to email; skip addresses that produce a parse error while parsed with imap_rfc822_parse_adrlist
+  * eMail: fixed error reported with the user-list: Warning on Felamimail, error array_merge in line 1600
+  * fixed birthday of contacts/accounts in LDAP could not be modified in addressbook
+  * WiKi: Edit permissions now do imply read permissions
+  * ImportExport: Replace CRLF with LF so excel does not break lines early (myStylite#974)
+  * CSV Export: Replace CRLF with LF so excel does not break lines early (myStylite#974)
+  * ProjectManager config allow non-admin to change working times was not working
+  * Calendar: invite rights, should NOT implicate a freebusy rights (users with invite rights could see freebusy times of other users)
+  * JSCalendar: fixed week containing 4th Jan is shown as 52th instead 1st week, if week starts on sunday is selected
+  * dont give sql error in gathering statistic data, if table does not exists (eg. Gallery is not installed)
+  * Weeknumbers in calendar views, were wrong for week-start-day other then Monday
+  * addressbook: check if typefilter is valid (type available), if not remove it
+  * addressbook: postgres compatibility for distributionlists
+  * eMail: not filtering own(ed) emailaddresses out of drafts while reopening them for continued processing
+  * calendar: PANAMA holidays provided by rafael chacon
+  * eMail: preview now requires user action (click on)
+  * fixed "undefined function lang_select" issue, if no cookies are allowed, also showing again language selection for new installs
+  * Calendar: fixed overlapping columns to result in equally wide visible parts for unlimited number of columns
+  * SambaAdmin: try binded as $accountDN with $_newPassword, in case root DN has no rights to modify anything
+
+ -- Ralf Becker <rb@stylite.de>  Mon, 14 Feb 2011 15:04:52 +0100
+
+egroupware (1.8.001.20101201) hardy; urgency=low
+
+  * Final EGroupware 1.8.001 release:
+  * eMail: timezone and timeformat issues as reported in egroupware.org Tracker#2755
+  * Implemented deleteaccount hook for SyncML
+  * Joomla! 1.5 template support (including ja_purity template)
+  * got html in rss export working again
+  * creating a default news category and an automatic import of RSS feed from egroupware.org
+  * SiteMgr: if moving pages between categories, contained blocks need to change category too
+  * new English and German default website
+  * fixed not working automatic install (stalls after installing core apps, because existing tables get NOT refreshed)
+  * WiKi: fix broken rename, (links in other pages, that refered to the given wiki page, did not get updated, as the reference list in egw_wiki_links did not get updated since Rev16219 (7th Aug 2004)
+
+ -- Ralf Becker <rb@stylite.de>  Wed, 01 Dec 2010 15:03:28 +0100
+
+egroupware (1.8.001.20101111) hardy; urgency=low
+
+  * Infolog:  Fix problem Delegated user was not able to edit infolog entrys owned by Groups, if he was not member of that group, and had no grouprights. Implicit rights where not applied; reported in Stylite Tracker#8255; 
+  * fixed empty getctag, causing eg. Sogo connector not to update in EGroupware modified addressbooks under 1.8
+  * Calendar: Fix notification timezone issues (#2746)
+  * eMail: fixing problem with double converted date/time strings for certain DateTime Settings (reported with the user-list)
+  * email: Icons for eMail FunctionFolders
+  * email: Sort FunctionFolders to the top of the FolderTree in MainView (all MailBox FolderTree Views are affected)
+  * exceptions get now logged to Apache error_log again
+  * scaling now addressbook images uploaded via CardDAV or SyncML to 60 pixel width like already done for web GUI
+  * read access to groupmembers for account-selection "groupmembers" (only for account_repository sql!)
+  * support multiget report on url with uid, as lightning uses multiget after a PUT on the PUT url, which is the uid
+  * email: fix for Stylite Ticket#608: folders with umlauts (specialchars) did not display the count of unread mail
+  * sorting fileselection popup always by directory on top and then name
+  * core: myStylite Ticket#987: fixing a problem regarding chopped off urls when URI in question contains umlauts AND mbstring.func_overload is activated
+  * fix for Nokia S60: enabling X-RECURRENCE-ID and make sure series master is synced before exceptions
+  * telling IE via X-UA-Compatible IE=edge never to use compatibility modes with old versions (if set eg. via group policy for whole intranet zone)
+  * fixed conflict check of resource quantity and storage of changed quantity in existing events
+
+ -- Ralf Becker <rb@stylite.de>  Thu, 11 Nov 2010 11:05:32 +0100
+
+egroupware (1.8.001.20101026) hardy; urgency=low
+
+  * Allow SyncML-synchronization of addressbooks with R/O access as well
+  * CardDAV pref which addressbooks to sync and many fixes for iPhone OS 4.0, 4.1, 4.2beta and Mac iCal and contact app
+  * InfoLog/*DAV: do NOT set current user for PUT in /infolog/ and do not allow to change owner of existing entries
+
+ -- Ralf Becker <rb@stylite.de>  Tue, 26 Oct 2010 15:36:19 +0200
+
+egroupware (1.8.001.20101013) hardy; urgency=low
+
+  * Allow new events in group calendars via CalDAV
+  * preventing invalid birthdays stored with the datastore such as 0000-00-00 or 0.0.00 to transform to a birthday
+  * add a fieldmapping to enable the query for contact_bday
+  * wiki: make makro showemptypages [[! ~]] work
+  * backport of forgotten servertime time var now, as reportet in developerlist
+  * calendar: handle catchable fatal error while trying to build rule
+  * Don't use MaxGUIDSize as maximum UID length
+  * infolog: fix startdate filter for infolog, if you select a single day for start and enddate, and if your infologs start at 00:00 of that day (no time specified)
+  * email/phpmailer: fix for bug regarding the sending of the charset information reported by stefan.helzle-at-oscons.de
+  * Announce all available addressbooks and calendars of the current user with GroupDAV
+  * fixed now shown bugdet in project-list, if user has no explicit role, eg. the creator
+  * fix for egw.org bug #2729: extended search for recipients filtered by categories does not work
+  * fix for mystylite bug #818: planner by user only with read rights (should work with freebusy rights too)
+
+ -- Ralf Becker <rb@stylite.de>  Wed, 13 Oct 2010 17:24:26 +0200
+
+egroupware (1.8.001.20100929) hardy; urgency=low
+
+  * fixed download module to cope with new direct download url option of filesystem stream wrapper
+  * added optional display of file comments in SiteMgr download block
+  * store referer when anon session get created, so logout (specially when called from egw::check_app_rights) redirects back to website
+  * Backport 32252 - Make sure n_fn and n_fileas get updated when importing
+  * Backport 32267 - Changes to be able to create an infolog entry from a tracker ticket.  Tracker subject, description and any matching custom fields are copied over.
+  * added info about firefox with NTLM and update EGroupware configuration
+  * allow for/expect encoded MAILBOX/EMAIL Parts of an RFC822 EMail in MessageList creation, and decode it
+  * adding target=_blank, to get eg. download of pictures NOT to replace current page
+  * fixed full index to showing only two level of categories and pages
+  * fixed unbalenced number of opening and closing div-tags in some types of the navigation module, also added commented code to debug the issue
+  * if user has filemanager rights, show Actions column allowing to delete or edit properties of files
+  * several fixes around jpgraph
+  * iPhone and Mac Addressbook support aka Apple CalDAV/CardDAV autodetection
+  * fixed SQL error: contact_owner is ambigous (addressbook other then all selected)
+  * fixed black window in IE or Opera, eg. when using "Add" or "Extended Search" from sidebox menu in addressbook
+  * added support for PHP running as (F)CGI (uses ORIG_PATH_INFO instead of PATH_INFO), also added basic digest auth support from trunk
+  * removing a vertical whitespace \v from header Content
+  * fix other PHP5.3 deprecated error
+  * make sure keywords of parameters/dparameters are stripped of leading and trailing whitespase, as this meets the expectation later on. Otherwise keys in the parameters/dparameters structure may not be found/identified
+  * adding EGroupware version to X-Dav-Powered-By header eg. "EGroupware 1.8.001 CalDAV/CardDAV/GroupDAV server"
+  * fixed addressbook "all" shows no contacts, reported on the lists
+  * added valid timezone set in php.ini check
+  * show package changelog inside EGroupware under about
+
+ -- Ralf Becker <rb@stylite.de>  Wed, 29 Sep 2010 15:06:36 +0200
+
+egroupware (1.8.001.20100916) hardy; urgency=low
+
+  * 1.8.001 release candidate
+  * Inclusion of postinstall script from EPL (automatic install/update)
+  * full timezone support including recurring events
+  * visualisation of participant status of events, mark invitations
+  * email 3PaneView, folder tree in sidebox, import ical/vcard onclick, select all messages in folder
+  * Infolog: print and copy
+  * addressbook mergeprint supports now MS- and OpenOffice xml formats
+
+ -- Ralf Becker <rb@stylite.de>  Thu, 16 Sep 2010 12:00:00 +0200
+
+egroupware (1.6.001+dfsg-2) unstable; urgency=low
+
+  * Upload to unstable (closes: #519566)
+
+  [ Jan Wagner ]
+  * add egroupware-notifications package, cause the application was missing
+    and it's needed by calendar application
+  * depend egroupware-calendar on egroupware-notifications (closes: #511913)
+
+  [ Peter Eisentraut ]
+  * Depend egroupware-tracker on egroupware-notifications (closes: #511704)
+  * Add newline after egw:Modules substitution variable; fixes FTBFS
+    (closes: #518840)  (This is caused by a change in debhelper 7.1.0.)
+  * Added ${misc:Depends} to all Depends lines, per lintian
+
+ -- Peter Eisentraut <petere@debian.org>  Fri, 13 Mar 2009 23:38:03 +0200
+
+egroupware (1.6.001+dfsg-1) experimental; urgency=low
+
+  * New upstream release
+  * Updated copyright notices
+  * Added php5-cli dependency to filemanager application, per lintian
+
+ -- Peter Eisentraut <petere@debian.org>  Sat, 06 Dec 2008 11:25:37 +0200
+
+egroupware (1.6~rc5-2+dfsg-1) experimental; urgency=low
+
+  * New upstream release candidate
+
+ -- Peter Eisentraut <petere@debian.org>  Tue, 18 Nov 2008 23:30:37 +0200
+
+egroupware (1.6~rc4+dfsg-1) experimental; urgency=low
+
+  * New upstream release candidate
+    - mydms application removed
+  * Changed watch file temporarily for RC versions
+
+ -- Peter Eisentraut <petere@debian.org>  Sat, 15 Nov 2008 12:35:17 +0200
+
+egroupware (1.4.004-2.dfsg-4) unstable; urgency=low
+
+  * Debconf translation updates (closes: #498957)
+
+ -- Peter Eisentraut <petere@debian.org>  Thu, 02 Oct 2008 01:02:49 +0300
+
+egroupware (1.4.004-2.dfsg-3) unstable; urgency=low
+
+  * Debconf translation updates (closes: #491763)
+
+ -- Peter Eisentraut <petere@debian.org>  Fri, 12 Sep 2008 15:49:05 +0300
+
+egroupware (1.4.004-2.dfsg-2) unstable; urgency=low
+
+  * Debconf translation updates (closes: #480979, #486531, #488573, #489940)
+  * Renamed README.maintainer to now standardized name README.source
+  * Updated standards version
+  * Reference .../doc/egroupware-core/README.Debian.gz with gz suffix
+    (closes: #489023)
+  * Removed obsolete lintian overrides
+  * Simplified setup code, obsoleting 06-egw-header-template.dpatch
+  * Removed obsolete 08-egw-checkinstall-symlink.dpatch and all of dpatch
+  * Replaced gawk by perl in debian/rules, simplified code a bit
+
+ -- Peter Eisentraut <petere@debian.org>  Mon, 14 Jul 2008 14:20:37 +0200
+
+egroupware (1.4.004-2.dfsg-1) unstable; urgency=low
+
+  * New upstream release (closes: #476977)
+    - Obsoletes 01-kses-security.dpatch
+  * Added Vcs-* control fields for move to collab-maint
+  * Made egw-sanitize-tarball compatible with uscan and updated watch file to
+    use it
+  * Debconf translation updates (closes: #472064, #475252)
+
+ -- Peter Eisentraut <petere@debian.org>  Fri, 09 May 2008 16:57:05 +0200
+
+egroupware (1.4.002.dfsg-2.1) unstable; urgency=high
+
+  * Non-maintainer upload by the Security Team.
+  * Fix multiple security issues in kses _bad_protocol_once function. Details
+    are under embargo for now (01-kses-security.dpatch; Closes: #471839).
+
+ -- Nico Golde <nion@debian.org>  Sat, 22 Mar 2008 16:26:39 +0100
+
+egroupware (1.4.002.dfsg-2) unstable; urgency=low
+
+  * Upload to unstable
+  * Updated standards version
+  * Converted copyright files to UTF-8
+  * Added information in egroupware-addressbook/NEWS.Debian about upgrading an
+    LDAP-based addressbook (closes: #445834)
+  * Switched back to integrated version of ttf-bitstream-vera, because the
+    package has been removed (closes: #433807, #447988, #461254)
+  * Debconf templates and package description review (closes: #464110)
+  * Debconf translation updates (closes: #465063, #465133, #465799, #467163,
+    #467173, #467479, #467497, #467536, #468479)
+  * Added Homepage control field
+
+ -- Peter Eisentraut <petere@debian.org>  Sat, 01 Mar 2008 19:22:24 +0100
+
+egroupware (1.4.002.dfsg-1) experimental; urgency=low
+
+  * New upstream release
+    - Fixes mishandling of empty web server docroot (closes: #439912)
+    - Includes fix for cross-site-scripting security problem
+      (CVE-2007-5091) (closes: #444351)
+  * Removed obsolete LDAP setup instructions from egroupware-core's
+    README.Debian (closes: #439323)
+
+ -- Peter Eisentraut <petere@debian.org>  Thu, 04 Oct 2007 23:22:14 +0200
+
+egroupware (1.4.001.dfsg-2) experimental; urgency=low
+
+  * Removed support for Apache 1 and PHP 4 (closes: #432236)
+  * Replaced ${Source-Version} by ${binary:Version}
+  * Fixed bugs in translations of debconf templates
+  * Reenabled outdated translations pt_BR and vi, because the really
+    outdated parts are now obsolete
+
+ -- Peter Eisentraut <petere@debian.org>  Mon, 09 Jul 2007 13:05:03 +0200
+
+egroupware (1.4.001.dfsg-1) experimental; urgency=low
+
+  * New upstream release
+  * Removed egroupware-ldap package
+  * Some installation cleanup
+
+ -- Peter Eisentraut <petere@debian.org>  Fri, 15 Jun 2007 11:25:39 +0200
+
+egroupware (1.3.023.dfsg-1) experimental; urgency=low
+
+  * New upstream release
+    - workflow application removed
+    - Obsoletes patch 04-egw-ldap-doc
+  * Added tracker application
+  * Updated Apache configuration with upstream recommendations
+  * Fixed ttf-bitstream-vera handling
+  * Disabled compression of *.php files installed as documentation
+  * Some installation cleanup
+
+ -- Peter Eisentraut <petere@debian.org>  Tue, 29 May 2007 15:18:00 +0200
+
+egroupware (1.3.022.dfsg-1) experimental; urgency=low
+
+  * New upstream release
+  * Updated egw-sanitize-tarball script to exclude debian/ directory
+    maintained by upstream
+
+ -- Peter Eisentraut <petere@debian.org>  Mon, 21 May 2007 10:30:53 +0200
+
+egroupware (1.2.106-2.dfsg-3) unstable; urgency=low
+
+  * New Galician translation of debconf templates by Jacobo Tarrio
+    (closes: #412187)
+  * Only change permissions on /var/lib/egroupware/ during initial
+    installation, in case someone wants a different setup
+    (closes: #419094)
+
+ -- Peter Eisentraut <petere@debian.org>  Fri, 11 May 2007 18:41:23 +0200
+
+egroupware (1.2.106-2.dfsg-2) unstable; urgency=low
+
+  * Fixed watch file to ignore beta versions
+  * New Portuguese translation of debconf templates by Carlos Lisboa
+    (closes: #409410)
+
+ -- Peter Eisentraut <petere@debian.org>  Fri,  9 Feb 2007 12:49:08 +0100
+
+egroupware (1.2.106-2.dfsg-1) unstable; urgency=low
+
+  * New upstream release
+
+ -- Peter Eisentraut <petere@debian.org>  Mon,  8 Jan 2007 14:43:34 +0100
+
+egroupware (1.2-106.dfsg-1) unstable; urgency=medium
+
+  * New upstream release
+  * Enabled installation with php5 >=5.2 (closes: #402405)
+  * Set php_flag display_errors to off to work around php5 bug
+  * New Spanish translation of debconf templates by César Gómez Martín
+    (closes: #402306)
+  * Added PEAR path to open_basedir (closes: #401892, #402720)
+
+ -- Peter Eisentraut <petere@debian.org>  Tue,  2 Jan 2007 13:38:05 +0100
+
+egroupware (1.2-105.dfsg-4) unstable; urgency=medium
+
+  * Disabled installation with php5 >=5.2 (closes: #399832)
+  * Changed some php_{flag|value} directives to php_admin_{flag|value}
+    as required
+  * Disabled outdated translations pt_BR and vi
+
+ -- Peter Eisentraut <petere@debian.org>  Sat,  2 Dec 2006 10:07:54 +0100
+
+egroupware (1.2-105.dfsg-3) unstable; urgency=low
+
+  * Placed php5 dependencies before php4 alternatives
+  * Raised php4 dependency to 4.3
+
+ -- Peter Eisentraut <petere@debian.org>  Sat,  4 Nov 2006 17:17:52 +0100
+
+egroupware (1.2-105.dfsg-2) unstable; urgency=medium
+
+  * New French translation of debconf templates by "Steve"
+    (closes: #390186)
+  * New Japanese translation of debconf templates by Hideki Yamane
+    (closes: #391806)
+
+ -- Peter Eisentraut <petere@debian.org>  Fri, 13 Oct 2006 23:36:56 +0200
+
+egroupware (1.2-105.dfsg-1) unstable; urgency=low
+
+  * New upstream release
+  * New Czech translation of debconf templates by Miroslav Kure
+    (closes: #389217)
+
+ -- Peter Eisentraut <petere@debian.org>  Sun, 24 Sep 2006 19:33:20 +0200
+
+egroupware (1.2-104.dfsg-3) unstable; urgency=medium
+
+  * New Dutch translation of debconf templates by Kurt De Bree
+    (closes: #387655)
+  * Added missing build dependency po-debconf
+  * Added note about tcpip_socket not enabled by default for PostgreSQL
+    7.4 (closes: #336930)
+  * Set all of /var/lib/egroupware/ owned by www-data:www-data
+  * Handle purging egroupware-core when debconf is not installed
+    (closes: #387980)
+
+ -- Peter Eisentraut <petere@debian.org>  Mon, 18 Sep 2006 13:40:16 +0200
+
+egroupware (1.2-104.dfsg-2) unstable; urgency=low
+
+  * Enhanced watch file
+  * Enable mod_actions for Apache 2 (closes: #381339)
+  * Removed recommendations of php5-mcal and php5-xslt, which don't exist
+  * Altered Debconf templates to fit recommendations in Developer's
+    Reference
+  * Code clean-up in maintainer scripts
+  * Updated setup instructions for new PostgreSQL packaging scheme
+  * Simplified documentation for LDAP setup
+  * Added php{4,5}-odbc as dependency alternative
+  * Updated for new fpdf path
+
+ -- Peter Eisentraut <petere@debian.org>  Mon, 28 Aug 2006 19:29:49 +0200
+
+egroupware (1.2-104.dfsg-1) unstable; urgency=low
+
+  * New upstream release (closes: #362295)
+  * Dropped 05-egw-projects-jpgraph-path patch because upstream clearly
+    believes this feature is relevant
+  * New stuff relative to previous unstable version ...
+    - New applications: mydms, projectmanager, resources, sambaadmin,
+      timesheet, workflow
+    - Dropped applications: backup, comic, email, forum, ftp, fudforum,
+      headlines, jinn, messenger, phpldapadmin, projects, stocks, tts
+      (closes: #271058, #271881, #347460, #365314)
+    - MySQL 5 support (closes: #347480, #372636, #378032)
+    - XMLRPC variable names fixed (closes: #355956)
+    - Added PHP5 dependencies as alternatives (closes: #328056, #367397)
+    - Language installation more robust (closes: #281762)
+    - IPv6 support (#330873)
+    - Calendar support for all-day events (closes: #292603)
+  * Fixed spelling mistake in package description (closes: #363386)
+  * New Dutch translation of debconf templates by Kurt De Bree
+    (closes: #363045)
+
+ -- Peter Eisentraut <petere@debian.org>  Fri, 28 Jul 2006 23:31:57 +0200
+
+egroupware (1.2-102.dfsg-2) experimental; urgency=low
+
+  * New upstream release
+  * Fixed php[45]-gd dependency (closes: #372779)
+
+ -- Peter Eisentraut <petere@debian.org>  Mon, 12 Jun 2006 10:04:54 +0200
+
+egroupware (1.2-2.dfsg-1) experimental; urgency=low
+
+  * New upstream release
+  * Added PHP5 dependencies as alternatives
+  * Added Subversion support to egw-sanitize-tarball
+  * Changed to Debhelper level 5
+  * Sorted out Build-Depends vs. Build-Depends-Indep
+  * Changes to default Apache configuration by Lars Kneschke:
+    - Added /usr/share/php to include_path
+    - Improved ical handling
+    - Improved rpc handling
+
+ -- Peter Eisentraut <petere@debian.org>  Wed, 31 May 2006 15:27:12 +0200
+
+egroupware (1.2-1.dfsg-1) experimental; urgency=low
+
+  * New upstream release
+    - New applications: mydms, projectmanager, resources, sambaadmin,
+      timesheet, workflow
+    - Dropped applications: backup, comic, email, forum, ftp, fudforum,
+      headlines, jinn, messenger, phpldapadmin, projects, stocks, tts
+  * Most patches obsoleted
+  * Calculate dependencies of meta package automatically
+
+ -- Peter Eisentraut <petere@debian.org>  Thu, 20 Apr 2006 17:37:44 +0200
+
+egroupware (1.0.0.009.dfsg-3-4) unstable; urgency=high
+
+  * Fixed fudforum arbitrary code execution security problem (CVE-2005-2781)
+    (closes: #340495)
+  * Fixed watch file to exclude RC versions
+
+ -- Peter Eisentraut <petere@debian.org>  Mon, 28 Nov 2005 14:01:13 +0100
+
+egroupware (1.0.0.009.dfsg-3-3) unstable; urgency=high
+
+  * Corrected fudforum fix
+  * Fixed cross-site-scripting [phpsysinfo/includes/system_footer.php,
+    phpsysinfo/includes/system_header.php,
+    debian/patches/22-egw-CVE-2005-0870-xss.dpatch]
+  * Backported parts of changes by Christopher Kunz to fix arbitrary file
+    inclusion [phpsysinfo/index.php,
+    debian/patches/23-egw-CVE-2005-3347-file.dpatch]
+  * Initialise charset variable to fix cross-site scripting
+    [phpsysinfo/index.php, debian/patches/24-egw-CVE-2005-3348-xss.dpatch]
+
+ -- Peter Eisentraut <petere@debian.org>  Tue, 15 Nov 2005 00:20:10 +0100
+
+egroupware (1.0.0.009.dfsg-3-2) unstable; urgency=low
+
+  * Fixed fudforum cross-site scripting security problem (CAN-2005-2600)
+    (closes: #323928)
+  * New Swedish translation of debconf templates by Daniel Nylander
+    (closes: #333750)
+
+ -- Peter Eisentraut <petere@debian.org>  Tue,  1 Nov 2005 23:47:36 +0100
+
+egroupware (1.0.0.009.dfsg-3-1) unstable; urgency=high
+
+  (The actual upstream release name is "1.0.0.009-3".)
+
+  * New upstream release (closes: #329597)
+    - Obsoletes patch 10-egw-xmlrpc-fix-fix
+
+ -- Peter Eisentraut <petere@debian.org>  Mon, 26 Sep 2005 11:11:11 +0200
+
+egroupware (1.0.0.009.dfsg-2) unstable; urgency=high
+
+  * Added upstream's fix for the previous fix
+
+ -- Peter Eisentraut <petere@debian.org>  Mon,  5 Sep 2005 11:11:11 +0200
+
+egroupware (1.0.0.009.dfsg-1) unstable; urgency=high
+
+  * New upstream release
+    - Includes fix for (another) XML-RPC remote execution security problem
+      (CAN-2005-2498) (closes: #323350)
+
+ -- Peter Eisentraut <petere@debian.org>  Thu,  1 Sep 2005 11:11:11 +0200
+
+egroupware (1.0.0.008-2.dfsg-1) unstable; urgency=low
+
+  * New upstream release
+  * New Czech translation of debconf templates by Miroslav Kure
+    (closes: #318156)
+  * Improved version recognition in watch file
+
+ -- Peter Eisentraut <petere@debian.org>  Fri, 29 Jul 2005 11:11:11 +0200
+
+egroupware (1.0.0.008-1.dfsg-1) unstable; urgency=high
+
+  * New upstream release
+    - Contains better fix for XML-RPC security problem (bug #317263)
+    - Obsoletes patches 09-egw-calendar-konqueror, 10-egw-pam-auth
+
+ -- Peter Eisentraut <petere@debian.org>  Sat,  9 Jul 2005 11:11:11 +0200
+
+egroupware (1.0.0.007-3.dfsg-1) unstable; urgency=high
+
+  * New upstream release
+    - Includes fix for XML-RPC remote execution security problem
+      (CAN-2005-1921) (closes: #317263)
+  * Updated standards version
+
+ -- Peter Eisentraut <petere@debian.org>  Thu,  7 Jul 2005 11:11:11 +0200
+
+egroupware (1.0.0.007-2.dfsg-4) unstable; urgency=low
+
+  * New Vietnamese translation of debconf templates by Clytie Siddall
+    (closes: #311614)
+  * Changed maintainer address
+
+ -- Peter Eisentraut <petere@debian.org>  Sat, 11 Jun 2005 11:11:11 +0200
+
+egroupware (1.0.0.007-2.dfsg-3) unstable; urgency=medium
+
+  * Fixed PAM authentication (closes: #306729)
+
+ -- Peter Eisentraut <peter_e@gmx.net>  Tue, 24 May 2005 11:11:11 +0200
+
+egroupware (1.0.0.007-2.dfsg-2) unstable; urgency=medium
+
+  * Fixed calendar month display in Konqueror
+
+ -- Peter Eisentraut <peter_e@gmx.net>  Thu, 12 May 2005 11:11:11 +0200
+
+egroupware (1.0.0.007-2.dfsg-1) unstable; urgency=high
+
+  * New upstream version
+    - fixes several security problems (closes: #304496, #305576)
+    - fixes SQL error in calendar matrix view (closes: #302341)
+    - skel application removed
+  * Added php4-cli to dependencies of -fudforum
+  * Made Apache 2 the preferred web server alternative in dependencies and
+    debconf question, adjusted debconf translations manually
+  * Added setup instructions for MySQL (thanks to Christian Motschke)
+
+ -- Peter Eisentraut <peter_e@gmx.net>  Thu, 21 Apr 2005 11:11:11 +0200
+
+egroupware (1.0.00.006-1.dfsg-1) unstable; urgency=low
+
+  * New upstream version
+  * Adjusted patch egw-projects-jpgraph-path for upstream changes
+  * Removed patch egw-admin-save-email, obsoleted by upstream changes
+  * Added patch to ignore dangling symlinks in check_install.php;
+    phpldapadmin/config.php is initially a dangling symlink, so we don't
+    want to complain about that.
+  * Added perl to dependencies of -core (needed for postinst)
+
+ -- Peter Eisentraut <peter_e@gmx.net>  Mon, 08 Nov 2004 11:11:11 +0100
+
+egroupware (1.0.00.005-1.dfsg-3) unstable; urgency=low
+
+  * Converted dpatch to use /usr/share/dpatch/dpatch-run
+  * No longer set php_flag display_errors off; this should be chosen by
+    the system administrator or the user.
+  * -calendar depends on -infolog (closes: #275871)
+  * New Japanese translation of debconf templates by Hideki Yamane
+    (closes: #278511)
+  * Added patch to save email addresses when creating new users
+    (closes: #270672)
+
+ -- Peter Eisentraut <peter_e@gmx.net>  Mon, 01 Nov 2004 11:11:11 +0100
+
+egroupware (1.0.00.005-1.dfsg-2) unstable; urgency=low
+
+  * Removed PHP conditionals in apache.conf; besides having been
+    relatively useless, this also gets Apache 2 working.
+  * Symlinked to ttf-bitstream-vera instead of installing our own copy
+  * Symlinked to fpdf instead of installing our own copy (except
+    fpdf.php, which is patched by egroupware)
+
+ -- Peter Eisentraut <peter_e@gmx.net>  Sat, 25 Sep 2004 11:11:11 +0200
+
+egroupware (1.0.00.005-1.dfsg-1) unstable; urgency=low
+
+  * New upstream version
+  * Added ".dfsg" to version name to make explicit that this is not the
+    original upstream tarball
+  * egroupware-infolog.remove now obsolete
+  * Removed new .htaccess file from installation
+  * Adjusted patch egw-ldap-doc for upstream changes
+  * Adjusted patch egw-projects-var-www for upstream changes and renamed
+    to egw-projects-jpgraph-path
+  * Added suggestions of php4-imap and php4-auth-pam to -core package
+  * Removed dependencies on php4-gd2 (see bug #261186)
+
+ -- Peter Eisentraut <peter_e@gmx.net>  Sat, 11 Sep 2004 11:11:11 +0200
+
+egroupware (1.0.00.004-2+cvs20040825-2) unstable; urgency=low
+
+  * Added sitemgr-link symlink into the -sitemgr package
+  * New Brazilian Portuguese translation of debconf templates by
+    André Luís Lopes <andrelop@debian.org> (closes: #269531)
+  * Removed some obsolete files from -filemanager package
+  * phpldapadmin was by fault in debian/rules filtered from the list of
+    modules, so it did not get any files installed at all; fixed
+  * Added symlinks and instructions for setting up a phpldapadmin
+    configuration file
+  * Converted the executable dpatch 00template, which doesn't work, to
+    the nonexecutable variant
+
+ -- Peter Eisentraut <peter_e@gmx.net>  Sat, 04 Sep 2004 11:11:11 +0200
+
+egroupware (1.0.00.004-2+cvs20040825-1) unstable; urgency=low
+
+  * New upstream release plus additional fixes (check out from CVS using
+    -r Version-1_0_0-branch -D '2004-08-25 00:00:00 UTC')
+  * Updated egw-ldap-doc patch for new translations
+  * Sorted out the web server and PHP dependencies:
+    - Support only Apache variants and PHP as module
+    - New Apache 2 support (experimental)
+    - Changed dependency on php4-cgi to php4-cli
+  * Use invoke-rc.d in maintainer scripts
+  * Ignore web server reload failures (closes: #267362)
+  * New French (fr) translation of debconf templates by Florent Usseil
+    (closes: #267828)
+  * Added more dependencies on PHP modules in the applications
+  * Force PHP mbstring overloading to be on
+  * Remove executable permission from installed PHP files
+
+ -- Peter Eisentraut <peter_e@gmx.net>  Thu, 26 Aug 2004 11:11:11 +0200
+
+egroupware (1.0.00.003-2-1) unstable; urgency=low
+
+  * New upstream release (first stable upstream release, so it can go
+    into Debian unstable now)
+  * Patches now handled by dpatch
+  * More detailed copyright information added
+  * More careful selection of installed files
+  * More nonfree files removed from source package
+  * Dependencies revised
+  * debian/rules simplified
+  * Configuration adjusted for new upstream version, web server
+    selection changed in preparation for more supported servers
+
+ -- Peter Eisentraut <peter_e@gmx.net>  Tue, 17 Aug 2004 11:11:11 +0200
+
+egroupware (0.9.99.015-1-1) experimental; urgency=low
+
+  * Initial release (closes: #237854)
+  * Removed calendar/doc/rfc2445.txt, because it is not free.
+  * Changed fudforum setup to work better in Debian directory structure.
+
+ -- Peter Eisentraut <peter_e@gmx.net>  Fri, 11 Jun 2004 22:37:12 +0200

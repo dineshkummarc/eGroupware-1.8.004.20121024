@@ -1,0 +1,253 @@
+%1 entries updated.	tracker	es-es	Se han actualizado %1 entradas.
+%1 tickets have been converted	tracker	es-es	Se han convertido %1 tickets
+&#9830; not closed	tracker	es-es	♦ No cerrado
+&#9830; own not closed	tracker	es-es	♦ Propio no cerrado
+&#9830; own without reply not closed	tracker	es-es	♦ Propio sin contestación no cerrado
+&#9830; without 30 days reply not closed	tracker	es-es	♦ Sin contestación en 30 días no cerrado
+&#9830; without reply not closed	tracker	es-es	♦ Sin contestación no cerrado
+(new tickets as	tracker	es-es	(Nueva incidencia como
+--> choose a project from the drop-down list	tracker	es-es	--> elija un proyecto de la lista desplegable
+--> enter new name	tracker	es-es	--> introduzca un nombre nuevo
+1 - lowest	tracker	es-es	1 - la más baja
+5 - medium	tracker	es-es	5 - media
+9 - highest	tracker	es-es	9 - la más alta
+accepted	tracker	es-es	Aceptada
+actions	tracker	es-es	Acciones
+activate users queue access control	tracker	es-es	Activar control de acceso para la cola de usuarios
+add additionally	tracker	es-es	añadir adicionalmente
+add assigned	tracker	es-es	Añadir asignados
+add comment	tracker	es-es	Añadir comentario
+add timesheet entry	tracker	es-es	Añadir entrada de la hoja de tiempos
+add unrecognized mail address to the cc field	tracker	es-es	Añadir la dirección de correo no reconocida al campo CC
+after	tracker	es-es	después
+after how many days a not replied item should be marked overdue?	tracker	es-es	¿Después de cuántos días un elemento sin respuesta debe quedar marcado como obsoleto?
+after how many days pending items should be closed automatic	tracker	es-es	Después de cuantos días los elementos pendientes deben cerrarse automáticamente
+all tickets are already converted to tracker	tracker	es-es	Todos los tickets se han convertido al sistema de seguimiento
+allow bounties	tracker	es-es	Permitir recompensas
+allow default projects for tracker	tracker	es-es	Permitir proyectos predeterminados para el seguimiento
+allow editing by	tracker	es-es	Permitir edición por
+allow the predefinition of projects that will be assigned to new tracker-items.	tracker	es-es	Permitir predefinir proyectos que se asignarán a elementos nuevos de seguimiento.
+allow to assign groups to tracker items	tracker	es-es	Permitir asignar grupos para seguimiento de elementos
+allow voting	tracker	es-es	Permitir votar
+allow voting on tracker items, show and sort after the votes	tracker	es-es	Permitir votar en elementos de seguimiento. Mostrar y ordenar después de los votos
+already escalated	tracker	es-es	ya escalado
+amount	tracker	es-es	Cantidad
+assign to project	tracker	es-es	Asignar al proyecto
+assigned to	tracker	es-es	Asignado a
+assigning groups	tracker	es-es	Grupos asignados
+attachments & links	tracker	es-es	Adjuntos y enlaces
+autoassign to	tracker	es-es	Asignar automáticamente a
+automatic email handling	tracker	es-es	Gestión automática del correo
+bounties	tracker	es-es	Recompensas
+bounty confirmed	tracker	es-es	Recompensa confirmada
+bounty confirmed.	tracker	es-es	Recompensa confirmada
+bounty deleted	tracker	es-es	Recompensa borrada
+bounty deleted.	tracker	es-es	Recompensa borrada
+bounty set	tracker	es-es	Recompensa fijada
+canned response	tracker	es-es	Respuesta automatizada
+canned responses	tracker	es-es	Respuestas automatizadas
+categories, versions, canned responses	tracker	es-es	Categorías, versiones, respuestas automatizadas
+category for new tickets	tracker	es-es	Categoría para tickets nuevos
+changes made below will be lost, if not applied before!	tracker	es-es	¡Los cambios realizados debajo se perderán, si no se aplican antes!
+check all	tracker	es-es	Comprobar todo
+check mail interval	tracker	es-es	Intervalo para comprobar el correo
+choose a project from the drop-down list	tracker	es-es	Elegir un proyecto de la lista desplegable
+close pending	tracker	es-es	Cerrar elementos pendientes
+closed	tracker	es-es	Cerrado
+comment by %1 at %2:	tracker	es-es	Comentario por %1 a las %2:
+comments	tracker	es-es	Comentarios
+completed	tracker	es-es	Completado
+configuration	tracker	es-es	Configuración
+configuration for all trackers	tracker	es-es	Configuración para todos los seguimientos
+configuration updated.	tracker	es-es	Se ha actualizado la configuración
+configuration, acl, notifications	tracker	es-es	Configuración, ACL, notificaciones
+confirm that you pay the specified bounty to implement or fix the issue	tracker	es-es	Confirme que paga la recompensa especificada para implementar or corregir el problema
+confirm the receipt of money for this bounty	tracker	es-es	Confirme la recepción del dinero para esta recompensa
+confirmed	tracker	es-es	Confirmado
+convert all closed tickets	tracker	es-es	Convertir todos los tickets
+convert all open tickets	tracker	es-es	Convertir todos los tickets abiertos
+converted count	tracker	es-es	Cuenta de convertidos
+copy to	tracker	es-es	Copiar a
+create new links	tracker	es-es	Crear enlaces nuevos
+created	tracker	es-es	Creado
+creation date	tracker	es-es	fecha de creación
+creator	tracker	es-es	Creador
+custom fields	tracker	es-es	Campos personalizados
+custom tracker priorities	tracker	es-es	Prioridades del elemento personalizado
+date opened	tracker	es-es	Fecha de apertura
+define escalations	common	es-es	Definir escalados
+delete mails from server	tracker	es-es	Borrar correos del servidor
+delete this bounty	tracker	es-es	Borrar esta recompensa
+delete this canned response	tracker	es-es	Borrar esta respuesta automatizada
+delete this category	tracker	es-es	Borrar esta categoría
+delete this entry	tracker	es-es	Borrar esta entrada
+delete this escalation	tracker	es-es	Borrar este escalado
+delete this status	tracker	es-es	Borrar este estado
+delete this tracker including all it's items and categories	tracker	es-es	Borrar este informe incluyendo todos sus elementos y categorías
+delete this version	tracker	es-es	Borrar esta versión
+delete unrecognized mails from the server, even if 'delete mails' above is not tagged.	tracker	es-es	Borrar correos no reconocidos del servidor, incluso si 'Borrar correos' no está señalado.
+deleted	tracker	es-es	Borrado
+do you want to vote for this item	tracker	es-es	¿Desea votar por este elemento?
+donator name to show	tracker	es-es	Nombre del donante a mostrar
+duplicate	tracker	es-es	Duplicado
+e-mail address to which a copy of all tracker-notifications should be send	tracker	es-es	Dirección de correo electrónico a la que enviar una copia de todas las notificaciones
+e-mail notifications	tracker	es-es	Notificaciones por correo
+edit %1	tracker	es-es	Editar %1
+edit entry	tracker	es-es	Editar entrada
+email address to contact you	tracker	es-es	Dirección de correo electrónico de contacto
+email handling can be configured only for all trackers	tracker	es-es	La gestión del correo sólo puede configurarse para todos los elementos
+enter an email address here if unrecognized mails should be forwarded	tracker	es-es	Introduzca una dirección de correo aquí si los correos no reconocidos tienen que ser reenviados
+enter an opening text for the reply message	tracker	es-es	Introduzca un texto de apertura para el mensaje de respuesta
+enter the imap server from which emails should be fetched	tracker	es-es	Introduzca el servidor IMAP del cual recoger el correo
+enter the mail address that will be read.	tracker	es-es	Introduzca la dirección de correo que se leerá
+entry saved	tracker	es-es	Se ha guardado la entrada
+error adding the new tracker!	tracker	es-es	¡Error al añadir el nuevo informe!
+error deleting escalation!	tracker	es-es	¡Error al borrar el escalado!
+error saving the entry!!!	tracker	es-es	¡Error al guardar la entrada!
+escalation	tracker	es-es	Escalado
+escalation added.	tracker	es-es	Se ha añadido un escalado.
+escalation deleted.	tracker	es-es	Se ha borrado un escalado.
+escalation not found!	tracker	es-es	¡No se ha encontrado el escalado!
+escalation saved.	tracker	es-es	Se ha guardado el escalado.
+everybody	tracker	es-es	Todos
+existing links	tracker	es-es	Enlaces existentes
+field	tracker	es-es	Campo
+fixed	tracker	es-es	Corregido
+forward to	tracker	es-es	Reenviar a
+forward unrecognized mails to the email address that has to be specified here.	tracker	es-es	Reenviar los correos no reconocidos a la dirección de correo especificada aquí.
+from	tracker	es-es	De
+history	tracker	es-es	Historial
+html editing	tracker	es-es	Edición html
+id	tracker	es-es	ID
+if this item is important for you, please consider to set a bounty for it!	tracker	es-es	Si este elemento es importante para usted, por favor, considere establecer una recompensa.
+if this item is important for you, please vote for it.	tracker	es-es	Si este elemento es importante para usted, por favor, vote por él.
+ignore	tracker	es-es	Ignorar
+ignore unrecognized mails. they will not be deleted from the server, even if 'delete mails' above is tagged.	tracker	es-es	Ignorar los correos no reconocidos. No se borrarán del servidor, includo si 'Borrar correos' arriba está señalado.
+import tts tickets	tracker	es-es	Importar tickets de TTS
+incoming mail folder	tracker	es-es	Carpeta de correo entrante
+incoming mail rules	tracker	es-es	Reglas para el correo entrante
+incoming mail server	tracker	es-es	Servidor de correo entrante
+info only	tracker	es-es	Sólo información
+interval in minutes for checking the incoming mails	tracker	es-es	Intervalo en minutos para comprobar el correo entrante
+introduction message	tracker	es-es	Mensaje de introducción
+invalid	tracker	es-es	No es válido
+item assignee	tracker	es-es	Elemento asignado a
+item creator	tracker	es-es	Elemento creado por
+language for the copy	tracker	es-es	Idioma para la copia
+last modified	tracker	es-es	Última modificación
+last reply	tracker	es-es	última respuesta
+later	tracker	es-es	Más tarde
+links	tracker	es-es	Enlaces
+list of coma separated email address	tracker	es-es	Lista de direcciones de correo electrónico separadas por comas
+mail handling	tracker	es-es	Gestión del correo
+matching filter	tracker	es-es	filtro que coincide
+new %1	tracker	es-es	Nuevo %1
+new items	tracker	es-es	Nuevos elementos
+new ticket submitted by %1 at %2	tracker	es-es	Nuevo elemento de seguimiento enviado por %1 a las %2
+new tracker item submitted by %1 at %2	tracker	es-es	Nuevo elemento de seguimiento enviado por %1 a las %2
+no change	tracker	es-es	Sin cambios
+no trackers found, aborting	tracker	es-es	No se ha encontrado sistemas de seguimiento, abortando
+non-anonymous users	tracker	es-es	Usuarios no anónimos
+noone	tracker	es-es	Nadie
+notification	tracker	es-es	Notificación
+open	tracker	es-es	Abierto
+out of date	tracker	es-es	Fuera de fecha
+overdue after	tracker	es-es	Vencimiento después de
+ownership of the ticket	tracker	es-es	Propietario del elemento de seguimiento
+pending	tracker	es-es	Pendiente
+pending items never get close automatic.	tracker	es-es	Los elementos pendientes nunca se cierran automáticamente
+pending items will be closed automatic after %1 days without response.	tracker	es-es	Los elementos pendientes se cerrarán automáticamente después de %1 días sin respuesta.
+permission denied !!!	tracker	es-es	¡No tiene permiso de acceso!
+permit html editing in overview and comments	tracker	es-es	Permitir edición html en la descripción y comentarios
+port number	tracker	es-es	Número del puerto
+postponed	tracker	es-es	Pospuesto
+print entry	tracker	es-es	Imprimir
+priorities	tracker	es-es	Prioridades
+priorities with empty label are not available to the user	tracker	es-es	Prioridades con la etiqueta vacía que no están disponibles para el usuario
+project selection	tracker	es-es	Selección de proyecto
+projects	tracker	es-es	Proyectos
+queue	tracker	es-es	Cola
+read mail address	tracker	es-es	Leer dirección de correo
+receive notifications about assigned tracker-items	tracker	es-es	Recibir notificaciones acerca de elementos del informe asignados
+receive notifications about created tracker-items	tracker	es-es	Recibir notificaciones acerca de elementos del informe creados
+receive notifications in html	tracker	es-es	Recibir notificaciones en html
+recieve notifications about own changes in tracker-items	tracker	es-es	Recibir notificaciones cuando hay cambios propios en los elementos de seguimiento
+rejected	tracker	es-es	Rechazado
+remind	tracker	es-es	Recordar
+reply also to unknown addresses	tracker	es-es	Responder también a las direcciones desconocidas
+resolution	tracker	es-es	Resolución
+restict tracker items to the creator and the staff only	tracker	es-es	Restringir elementos de seguimiento al creador y equipo solo
+restict tracker items to the creators primary group and the staff only	tracker	es-es	Restringir elementos de seguimiento al grupo primario del creador y equipo solo
+restrict tracker items to staff and:	tracker	es-es	Restringir elementos de seguimiento al equipo y:
+restriction	tracker	es-es	Restricción
+select a default tracker for new tickets or 'reject' to disallow ticket creation via mail.	tracker	es-es	Seleccione un elemento para las incidencias nuevas o 'Rechazar' para impedir que se creen incidencias por correo.
+select how autoreplies should be sent when mails are received	tracker	es-es	Seleccionar cómo se envían las respuestas automáticas cuando se reciben correos.
+select multiple	tracker	es-es	Selección múltiple
+select tracker queue	tracker	es-es	Seleccionar cola de seguimiento
+select which categories should be used in tracker for the tts categories	tracker	es-es	Seleccionar que categorías se deberían de usar en el sistema de seguimiento para las categorías de TTS
+select which username should be used when unrecognized mails are handled.	tracker	es-es	Seleccione qué usuario debe usarse para gestionar los correos no reconocidos.
+select which username should be used when unrecognized replies are handled	tracker	es-es	Seleccionar qué usuario debe usarse para gestionar las respuestas no reconocidas.
+sender address	tracker	es-es	Dirección del remitente
+sender address for all notifications, eg. noreply@egroupware.org	tracker	es-es	Dirección del remitente para todas las notificaciones, p. ej. sinrespuesta@ejemplo.com
+sent autoreplies	tracker	es-es	Enviar respuestas automáticas
+server type	tracker	es-es	Tipo de servidor
+set %1	tracker	es-es	Establecer %1
+set an own bounty (in %s)	tracker	es-es	Fijar una recompensa propia (en %s)
+set bounty	tracker	es-es	Fijar recompensa
+should the actions column in the tracker list-view be shown?	tracker	es-es	¿Debe verse la columna de acciones en la vista de lista de seguimiento?
+should the tracker send you notification mails, if tracker items assigned to you get updated?	tracker	es-es	¿Enviarle a usted correo de notificación si se actualizan elementos de un informe asignados a usted?
+should the tracker send you notification mails, if tracker items you created get updated?	tracker	es-es	¿Enviarle a usted correo de notificación si se actualizan elementos de un informe creado por usted?
+show a new column that calculated the acumulated times of timesheet entries.	tracker	es-es	Mostrar una columna nueva con el cálculo de los tiempos acumulados de las entradas de la hoja de tiempos.
+show actions in tracker listing	tracker	es-es	Mostrar acciones en el listado de seguimiento
+show the acumulated times of timesheet entries	tracker	es-es	Mostrar los tiempos acumulados de las entradas de la hoja de tiempos
+show the tracker send you notification mails, in tracker items that you updates?	tracker	es-es	¿Deben enviarse correos de notificación cuando se actualicen los elementos propios?
+staff	tracker	es-es	Equipo
+state	tracker	es-es	Estado
+stati	tracker	es-es	Estados
+store as	tracker	es-es	Almacenar como
+summary	tracker	es-es	Resumen
+technicians	tracker	es-es	Técnicos
+thank you for setting this bounty.	tracker	es-es	Gracias por fijar esta recompensa.
+thank you for voting.	tracker	es-es	Gracias por votar
+the bounty will not be shown, until the money is received.	tracker	es-es	La recompensa NO se mostrará hasta que se reciba el dinero.
+the canned response will be prefix the text you type.	tracker	es-es	La respuesta automatizada precederá al texto que escriba
+there already an escalation for that filter!	tracker	es-es	¡Ya existe un escalado para ese filtro!
+this module displays information from the tracker.	tracker	es-es	Este módulo muestra información de los informes
+this tracker item was closed automatically by the system. it was previously set to a pending status, and the original submitter did not respond within %1 days.	tracker	es-es	El sistema cerró este elemento automáticamente. Anteriormente estaba en estado Pendiente, y el remitente original no respondió durante %1 días.
+ticket count	tracker	es-es	Cuenta de tickets
+ticket modified by %1 at %2	tracker	es-es	Elemento de seguimiento modificado por %1 a las %2
+times	tracker	es-es	Tiempos
+tracker	common	es-es	Sistema de seguimiento
+tracker added	tracker	es-es	Se ha añadido una nueva cola de seguimiento
+tracker admins	tracker	es-es	Administradores de la cola
+tracker admins & technicians	tracker	es-es	Administradores y técnicos de la cola
+tracker configuration	tracker	es-es	Configuración de la cola
+tracker deleted	tracker	es-es	Se ha borrado la cola de seguimiento
+tracker for new tickets	tracker	es-es	Elemento para incidencias nuevas
+tracker item modified by %1 at %2	tracker	es-es	Elemento de seguimiento modificado por %1 a las %2
+tracker item not found !!!	tracker	es-es	¡No se encontró el elemento a seguir!
+tracker queue	tracker	es-es	Cola de seguimiento
+tracker-%1 '%2' added.	tracker	es-es	Seguimiento - %1 '%2' añadido
+tracker-%1 '%2' updated.	tracker	es-es	Seguimiento - %1 '%2' actualizado
+tracker-%1 deleted.	tracker	es-es	Seguimiento - %1 borrado
+unchanged	tracker	es-es	Sin cambios
+unrecognized mails	tracker	es-es	Correos no reconocidos
+url of the tracker	tracker	es-es	URL del seguimiento
+url to be included in the notification, eg. to the page with the sitemgr module, default tracker inside egw	tracker	es-es	URL a incluir en la notificación. Por ejemplo, a la págigna con el módulo del Administrador de sitios web, el seguimiento predeterminado dentro de eGroupWare.
+use a default user for mails that where not recognized	tracker	es-es	Usar un usuario predeterminado para los correos no reconocidos
+versions	tracker	es-es	Versiones
+vote for it!	tracker	es-es	¡Vote por él!
+votes	tracker	es-es	Votos
+when emails are received from an unknown email address, tag this field to have them added to the tracker's cc field automatically. this field is ignored if unrecognized mail addresses are not handled.	tracker	es-es	Cuando se reciben correos de una dirección desconocida, poner una etiqueta a este campo para añadirlo automáticamente al campo CC. Este campo se ignora si no se usan las direcciones de correo desconocidas.
+wont fix	tracker	es-es	No se va a solucionar
+works for me	tracker	es-es	A mí me funciona
+yes, display groups first	tracker	es-es	Sí, mostrar los grupos primero
+yes, display users first	tracker	es-es	Sí, mostrar los usuarios primero
+yes, with larger fontsize	tracker	es-es	Sí, con fuentes grandes
+you can enable/disable the queue access restrictions in the configuration tab (for all queues)	tracker	es-es	Puede activar o desactivar las restricciones de acceso a la cola en la pestaña de configuración (para todas las colas)
+you can respond by visiting:	tracker	es-es	Puede responder visitando:
+you need to enter a name	tracker	es-es	Necesita introducir un nombre
+you need to login to vote!	tracker	es-es	¡Necesita iniciar la sesión para votar!
+you need to select something to change and some tracker items!	tracker	es-es	Necesita seleccionar algo para cambiar Y algunos elementos
+you need to specify amount, donators name and email address!	tracker	es-es	¡Necesita especificar la cantidad, nombre de donante Y dirección de correo electrónico!
+you voted %1.	tracker	es-es	Ha votado %1.

@@ -1,0 +1,31 @@
+actions	polls	sl	Dejanja
+add answer to poll	polls	sl	Doda odgovor v anketo
+add answers	polls	sl	Dodaj odgovor
+add new poll question	polls	sl	Doda novo vprašanje (anketo)
+add questions	polls	sl	Dodaj vprašanje
+allow users to vote more then once	polls	sl	Dovoli uporabnikom, da glasujejo več kot enkrat
+answer	polls	sl	Odgovor
+answer has been added to poll	polls	sl	Odgovori so bili dodani anketi
+answer has been updated	polls	sl	Odgovori so bili posodobljeni
+answers	polls	sl	Odgovori
+are you sure want to delete this answer ?	polls	sl	Ste prepričani, da želite izbrisati ta odgovor?
+are you sure want to delete this question ?	polls	sl	Ste prepričani, da želite izbrisati to vprašanje?
+current poll	polls	sl	Trenutna anketa
+edit answer	polls	sl	Uredi odgovor
+edit poll question	polls	sl	Uredi vprašanje ankete
+enter poll question	polls	sl	Vnesite vprašanje za anketo
+new poll has been added.  you should now add some answers for this poll	polls	sl	Nova anketa je bila dodana. Zdaj morate dodati možne odgovore na vprašanje.
+poll question	polls	sl	Vprašanje ankete
+poll settings	common	sl	Nastavitve ankete
+polls	common	sl	Ankete
+question has been updated	polls	sl	Vprašanje je bilo posodobljeno
+select current poll	polls	sl	Izberite trenutno anketo
+settings	polls	sl	Nastavitve
+settings updated	polls	sl	Nastavitve posodobljene
+show answers	polls	sl	Prikaži odgovore
+show questions	common	sl	Prikaži vprašanja
+total votes	polls	sl	Skupaj
+view poll	polls	sl	Poglej anketo
+view results	polls	sl	Poglej rezultate
+vote	polls	sl	Glasuj
+which poll	polls	sl	Katera anketa

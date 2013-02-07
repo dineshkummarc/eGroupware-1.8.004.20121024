@@ -1,0 +1,77 @@
+%1 bookmarks have been deleted	bookmarks	ru	%1 закладок удалено
+%1 bookmarks imported from %2 successfully.	bookmarks	ru	%1 закладок импортировано из %2 успешно
+(comma separate multiple addresses)	bookmarks	ru	(множественные адреса, разделенные запятыми)
+<b>note:</b> this currently works with netscape bookmarks only	bookmarks	ru	<b>Примечание:</b> Эта функция сейчас работает только с закладками Netscape
+all bookmarks	bookmarks	ru	Все закладки
+and	bookmarks	ru	и
+append this message to mailed bookmarks	bookmarks	ru	Добавить это сообщение к закладкам, пересылаемым почтовым сообщением
+ascending	bookmarks	ru	По возростанию
+book marks	common	ru	Закладки
+bookmark changed sucessfully	bookmarks	ru	Закладка изменена успешно
+bookmark created successfully.	bookmarks	ru	Закладка создана успешно.
+bookmark deleted successfully	bookmarks	ru	Закладка удалена успешно.
+bookmark deleted successfully.	bookmarks	ru	Закладка успешно удалена
+bookmark not editable	bookmarks	ru	Закладка не редактируемая
+bookmark not readable	bookmarks	ru	Закладка не читаемая
+bookmarks	common	ru	Закладки
+bookmarks settings	bookmarks	ru	Настройки Закладок
+change bookmark	bookmarks	ru	Изменить закладку
+choose the categories to display	bookmarks	ru	Выберите категории для показа
+close this window to return	bookmarks	ru	для возврата закрыть окно
+create bookmark	bookmarks	ru	Создать закладку
+create new bookmark	bookmarks	ru	Создать новую закладку
+date added	bookmarks	ru	Дата добавлена
+date changed	bookmarks	ru	Дата Изменена
+date last updated	bookmarks	ru	Дата последнего обновления
+date last visited	bookmarks	ru	Дата последнего просмотра
+descending	bookmarks	ru	По убыванию
+edit bookmark	bookmarks	ru	Редактировать закладку
+edit this bookmark	bookmarks	ru	Редактировать данную закладку
+enter the name of the netscape bookmark file<br>that you want imported into bookmarker below.	bookmarks	ru	Ниже введите имя файла с закладками Netscape<br>, которые Вы хотите импортировать в свои закладки
+export bookmarks	common	ru	Экспортировать закладки
+fewer	bookmarks	ru	Убрать
+filter by	bookmarks	ru	Сортировать по
+found a link you might like	bookmarks	ru	Найдена ссылка которая может Вам понравиться
+from	bookmarks	ru	От
+from category %1	bookmarks	ru	из категории %1
+global categories	bookmarks	ru	Общие Категории
+highest	bookmarks	ru	Наивысший
+i thought you would be interested in the following link(s):	bookmarks	ru	Мне кажется, Вы заинтересуетесь следующими ссылками:
+import bookmarks	common	ru	Импортировать закладки
+like	bookmarks	ru	похоже
+list view	bookmarks	ru	в виде списка
+lowest	bookmarks	ru	Наинизший
+mail this bookmark	bookmarks	ru	Отправить закладку по почте
+mail-this-link message sent to %1.	bookmarks	ru	сообщение типа "отправить эту ссылку" отправлено %1.
+mass update:	bookmarks	ru	Массовое обновление:
+message from	bookmarks	ru	Сообщение От
+more	bookmarks	ru	Еще
+name	bookmarks	ru	Имя
+name is required	bookmarks	ru	Требуется имя
+netscape bookmark file	bookmarks	ru	Файл Закладок Netscape
+netscape bookmark filename is required!	bookmarks	ru	требуется имя файла закладок Netscape!
+new	bookmark	ru	Новая
+new bookmark	bookmarks	ru	новая закладка
+or	bookmarks	ru	или
+please fill out <b>to e-mail address</b>, <b>subject</b>, and <b>message</b>!	bookmarks	ru	Пожалуйста, заполните поля <B>E-Mail Кому</B>, <B>Тема</B>, и <B>Сообщение</B>!
+please select the categories to export	bookmarks	ru	Выбирите категории для экспорта
+query condition	bookmarks	ru	Условия запроса
+rating	bookmarks	ru	Рейтинг
+search for:	bookmarks	ru	Искать:
+select the format you would like to export to	bookmarks	ru	Выбирите формат в который вы хотите экспортировать
+send bookmark	bookmarks	ru	Отправить закладку
+sub category	bookmarks	ru	Под-категория
+this module displays bookmarks in a javascript based tree	bookmarks	ru	Этот модуль показывает закладки деревом на основе javascript
+to address %1 invalid. format must be <strong>user@domain</strong> and domain must exist!	bookmarks	ru	Адрес %1 неверен. Он  должен быть в виде <strong>пользователь@домен</strong> и этот домен должен существовать!
+to e-mail addresses	bookmarks	ru	Отправить на E-Mail
+to which category should the imported folder hierarchy be attached	bookmarks	ru	В какую категорию должна быть импортирована вложенная папка
+total visits	bookmarks	ru	всего посещений
+tree view	bookmarks	ru	Дерево закладок
+unable to open temp file %1 for import.	bookmarks	ru	Невозможно открыть временный файл %1 для импорта.
+url is required.	bookmarks	ru	Необходим URL
+view bookmark	bookmarks	ru	Просмотр закладки
+view this bookmark	bookmarks	ru	Просмотреть эту закладку
+warning	bookmarks	ru	Предупреждение
+you are viewing this site outside of egroupware	bookmarks	ru	Вы просматриваете этот сайт вне eGroupWare
+you must select a category	bookmarks	ru	Вы должны выбрать категорию
+you need to select a category!	bookmarks	ru	Вы должны выбрать категорию!

@@ -1,0 +1,451 @@
+%1 content manager	sitemgr	da	%1 indholds manager
+%1 module manager	sitemgr	da	%1 modul manager
+'%1' is no valid sitemgr-site directory !!!	sitemgr	da	'%1' er ikke et gyldigt sitemgr-site bibliotek!!!
+(do not put spaces or punctuation in the name field.)	sitemgr	da	(Brug ikke mellemrum eller punktum i navnefeltet.)
+<b>want more templates?</b><br />just download a %1mambo open source%2 version 4.5 compatible template from %3 and unpack it in your templates directory (%4).	sitemgr	da	<br>Flere skabeloner?</b><br>Hent bare en %11Mambo Open Source%2 Version 4.5 kompatibel skabeson fra %3 og pak den ud i dit skabelon bibliotek (%4).
+a simple picture galery	sitemgr	da	Et simpelt billedegalleri
+actif	sitemgr	da	
+add a category	sitemgr	da	Tilføj en kategori
+add a new application	sitemgr	da	Tilføj en ny applikation
+add block ...	sitemgr	da	Tilføj blok...
+add block to content area %1	sitemgr	da	Tilføj blok til indholdsområde %1
+add category	sitemgr	da	Tilføj kategori
+add new page to this category	sitemgr	da	Tilføj en ny side til denne kategori
+add page	sitemgr	da	Tilføj side
+add page to category	sitemgr	da	Tilføj side til kategori
+add website	sitemgr	da	Tilføj Webside
+administration	sitemgr	da	Administration
+administrative menu	sitemgr	da	Administrations menu
+administrators	sitemgr	da	administratorer
+all categories	sitemgr	da	Alle kategorier
+all forums in category %1	sitemgr	da	Alle forumer i kategorien %1
+amazon	sitemgr	da	Amazon
+amazon server (without www), eg. amazon.com	sitemgr	da	Amazon server (uden www), f.eks. amazone.com
+an application directory	sitemgr	da	
+anonymous	sitemgr	da	anonym
+anonymous user login domain	sitemgr	da	Anonym bruger domæne login
+anonymous user's password	sitemgr	da	Anonym brugerens adgangskode
+anonymous user's username	sitemgr	da	Anonym brugerens brugernavn
+apply permissions also to subcategories?	sitemgr	da	Anvend også rettighedererne til underkategorier?
+archived	sitemgr	da	arkiveret
+archived content	sitemgr	da	arkiveret indhold
+are you sure you want to delete site %1 and all its content? you cannot retrieve it if you continue.	sitemgr	da	Er du sikker på du vil slette webstedet %1 og alt dens indhold? Du kan ikke genskabe dine data hvis du forsætter!
+are you sure you want to delete the category %1 and all of its associated pages?  you cannot retrieve the deleted pages if you continue.	sitemgr	da	Er du sikker på du vil slette kategori %1 og alt dens indhold? Du kan ikke genskabe dine data hvis du forsætter!
+as	common	da	som
+asin[=title] pairs (title is optional)	sitemgr	da	
+attempt to access information outside current website	sitemgr	da	Forsøger at tilgå information udenfor nuværende hjemmeside
+attempt to edit non-editable block	sitemgr	da	Forsøgte at redigere en ikke redigerbar blok
+back to module manager	sitemgr	da	Tilbage til modul manageren
+basic settings	sitemgr	da	Grundindstillingerne
+before the public web site can be viewed, you must configure the various locations and preferences.  please go to the sitemgr setup page by following this link:	sitemgr	da	Før den offentlige tilgængelige hjemmeside kan vises, skal du konfigurere de forskellige stier og præferencer. Gå til sitemgr opsætningssiden ved at trykke på følgende link:
+block not found.	sitemgr	da	Blok ikke fundet.
+block returned no content.	sitemgr	da	Blok retunerede ingen indhold.
+block saved	sitemgr	da	Blok gemt
+bookmarks	sitemgr	da	Bogmærker
+buy at %1	sitemgr	da	Køb hos %1
+calendar	sitemgr	da	Kalender
+cancel the delete	sitemgr	da	Annullere sletningen
+cannot move page until it has been saved.	sitemgr	da	Siden kan ikke flyttes før den er blevet gemt
+category	sitemgr	da	Kategori
+category description	sitemgr	da	Kategori beskrivelse
+category manager	sitemgr	da	Kategori manager
+category name	sitemgr	da	Kategori navn
+category saved	sitemgr	da	Kategori gemt
+changes saved.	sitemgr	da	Kategori gemt.
+check here after every upgrade	sitemgr	da	afkryds her efter hver opgradering
+check to hide from condensed site index.	sitemgr	da	Afkryds for at gemme fra websted index.
+choose a category	sitemgr	da	Vælg en kategori
+choose language	sitemgr	da	Vælg et sprog
+choose template	sitemgr	da	Vælg en skabelon
+choose the categories to display	sitemgr	da	Vælg  kategorien som skal vises
+choose your site's theme or template.  note that if you changed the above checkbox you need to save before choosing a theme or template.	sitemgr	da	Vælg dit websteds tema eller skabelon. Note: hvis du ændrede overstående afkrydsningsboks skal du gemme før du vælger et tema eller skabelon.
+collapse threads	sitemgr	da	Sammenklap trådene
+commit changes	sitemgr	da	Gem ændringerne
+configure module properties	sitemgr	da	Konfigurere modul indstillingerne
+configure sitemgr	sitemgr	da	Konfigurere SiteMgr
+configure website	sitemgr	da	Konfigurere Websted
+contact the administrator.	sitemgr	da	Kontakt systemadministratoren
+content areas	sitemgr	da	Indholds områder
+content blocks	sitemgr	da	Indholds blokke
+content blocks for category	sitemgr	da	Indholds blokke i kategorier
+content manager	sitemgr	da	Indholds manager
+contentarea	sitemgr	da	Indholds-område
+contributor menu	sitemgr	da	
+copyright	sitemgr	da	Copyright
+create new version	sitemgr	da	Opret ny version
+current section	sitemgr	da	Nuværende sektion
+default	sitemgr	da	Standart
+default home page id number	sitemgr	da	Standart hjemmeside ID nummer
+define websites	common	da	Definere Websted
+delete block	sitemgr	da	Slet blok
+delete category	sitemgr	da	Slet kategori
+delete page	sitemgr	da	Slet side
+delete this application	sitemgr	da	Slet denne applikation
+delete this block	sitemgr	da	Slet denne blok
+delete version	sitemgr	da	Slet version
+deleting all data for %1	sitemgr	da	Sletter alle data fra %1
+discussions	sitemgr	da	
+display link to autoregistration below login form?	sitemgr	da	
+do you realy want to delete this block?	sitemgr	da	Vil du virkelig slette denne blok?
+do you realy want to delete this page?	sitemgr	da	Vil du virkelig slette denne side?
+do you want to delete them?	sitemgr	da	Vil du virkelig slette dem?
+do you want to publish a rss feed for this news category	sitemgr	da	
+documentation	sitemgr	da	Dokumentation
+domain-name (offical dns-name eg. www.egroupware.org) if you want to give the user a choice between searching this site or the whole web. leaving it empty allows to search the web only.	sitemgr	da	Domænenavn (det officielle DNS-navn f.eks. www.groupware.org) hvis du vil give brugere valgmulighed for at søge på denne webside eller på hele Internettet. Hvis efterladt tom tillades der kun at søge på hele Internettet
+don't have an account?	sitemgr	da	Ingen konto?
+done	sitemgr	da	Udført
+download as zip-archiv	sitemgr	da	Hent som en .zip fil
+downloaded	sitemgr	da	hentet
+draft	sitemgr	da	klade
+draft mode	sitemgr	da	Klade miljø
+edit categories and permissions	common	da	Redigér kategorier og rettigheder
+edit category	sitemgr	da	Redigér kategori
+edit individual pages	common	da	Redigér individuelle sider
+edit mode	sitemgr	da	Redigér miljø
+edit page	sitemgr	da	Redigér side
+edit properties of module %1 for %2 with scope %3	sitemgr	da	Redigér indstillingerne for modul %1 til %2 med område %3
+edit site	sitemgr	da	Redigér Websted
+edit site header and footer	common	da	Redigér webstedets hoved- og bundlinie
+edit this block	sitemgr	da	Redigér denne blok
+edit website	sitemgr	da	Redigér websted
+enter a name	sitemgr	da	Indtast et navn
+enter the block content here	sitemgr	da	Indtast blokkens indhold her
+enter the page content here	sitemgr	da	Indtast sidens indhold her
+error accessing page	common	da	Siden er ikke tilgængelig
+everybody	sitemgr	da	alle
+file %1 is not readable by the webserver !!!	sitemgr	da	Fil %1 kan ikke læses af webserveren!!!
+file contents	sitemgr	da	Fil indhold
+file download	sitemgr	da	Hent fil
+filesystem path of the directory where the images are found (no trailing slash)	sitemgr	da	Filsystem sti til biblioteket hvor billederne er placeret (uden afsluttende /)
+filesystem path of the directory where xml files are stored	sitemgr	da	Filsystem sti til biblioteket hvor XML filerne er placeret
+filesystem path to sitemgr-site directory	sitemgr	da	Filsystem stien til sitemgr-site biblioteket
+fill in permissions from parent category? if you check this, below values will be ignored	sitemgr	da	brug rettighederne fra overstående kategori? Hvis du vælger dette, vil nedestående indstillinger blive ignoreret
+footer editor	sitemgr	da	Sidefod editor
+forum	sitemgr	da	Forum
+full path of the xslt file that should be applied to the xml files	sitemgr	da	
+galerie	sitemgr	da	Galleri
+gallery plus chooser	sitemgr	da	Galleri + vælger
+gallery plus chooser and download	sitemgr	da	Galleri + vælger + hent
+gallery plus download	sitemgr	da	Galleri + hent
+go back to page manager	sitemgr	da	Gå tilbage til Side manager
+go back to the category manager.	sitemgr	da	Gå tilbage til Kategori manager
+go to	sitemgr	da	Gå til
+go to page manager	sitemgr	da	Gå til Side manager
+google	sitemgr	da	Google
+google search	sitemgr	da	Google søgning
+group access permissions	sitemgr	da	Gruppe rettigheder
+group name	sitemgr	da	gruppe navn
+header editor	sitemgr	da	Sidehoved editor
+headlines	sitemgr	da	Overskrifter
+hello	sitemgr	da	Hej
+hello world	sitemgr	da	Hej verden
+html module	sitemgr	da	HTML modul
+i'm sorry, you do not have write permissions for any site categories.	sitemgr	da	Beklager, du har ikke skriverettigheder nogen af webstedets kategorierne
+if you haven't done so already, create a user that will be used for public viewing of the site.  recommended name: anonymous.	sitemgr	da	Hvis du ikke allerede har gjort det, opret en bruger som vil blive brugt til offentlig visning af webstedet. Anbefalet navn: anonymous
+image type	sitemgr	da	billede type
+implies read permission	sitemgr	da	medindbefatter læserettighed
+individual access permission	sitemgr	da	Individuel adgangsrettighed
+individual access permissions	sitemgr	da	Individuel adgangsrettigheder
+interface to google website	sitemgr	da	Kontaktflade til googles websted
+languages the site user can choose from	sitemgr	da	Sprog som brugeren kan vælge imellem
+latest reply	sitemgr	da	Sidste svar
+list of permitted modules specific to content area %1	sitemgr	da	Liste af tilladte moduler for inholdsområde %1
+login	sitemgr	da	Login
+login name	sitemgr	da	Login navn
+main content	sitemgr	da	Hoved indhold
+mains	sitemgr	da	
+manage archived content	sitemgr	da	Administrere arkiveret indhold
+manage categories	sitemgr	da	Administrere kategorier
+manage categories and pages	sitemgr	da	Administrere kategorier og sider
+manage category wide content	sitemgr	da	Administrere globale kategoriers indhold
+manage category wide module properties	sitemgr	da	Administrere globale modulers indstillinger
+manage content	sitemgr	da	Administrere indhold
+manage modules	sitemgr	da	Administrere moduler
+manage page specific content	sitemgr	da	Administrere side specifik indhold
+manage pages	common	da	Administrere sider
+manage site content	sitemgr	da	Administrere Webstedets indhold
+manage site-wide content	sitemgr	da	Administrere webstedets globale indhold
+manage site-wide module properties	sitemgr	da	Administrere Webstedets globale modul indstillinger
+manage translations	sitemgr	da	Administrere oversættelser
+master list of permitted modules	sitemgr	da	Hovedliste over tilladte moduler
+migrating data for %1 to %2	sitemgr	da	Migrere data fra %1 til %2
+module %1 is not permitted in this context!	sitemgr	da	Modul %1 er ikke tilladt i denne sammenhæng!
+module manager	sitemgr	da	Modul manager
+module: %1, scope: %2, contentarea: %3	sitemgr	da	Modul: %1, Område: %2, Indholdsområde: %3
+more news	sitemgr	da	Flere nyheder
+move block down (increase sort order)	sitemgr	da	Ryk blok ned (forøg sorteringsrækkefølge)
+move block up (decrease sort order)	sitemgr	da	Ryk blok op (formindsk sorteringsrækkefølge)
+move to	sitemgr	da	Flyt til
+name	sitemgr	da	Navn
+name has been translated to lower case	sitemgr	da	Navnet er ændret til små bogstaver.
+new application	sitemgr	da	Ny applikation
+new sitemgr site	sitemgr	da	Ny sitemgr websted
+news module	sitemgr	da	Nyheds modul
+no anonymous user accounts installed.  notify the administrator.	sitemgr	da	INGEN ANONYM BRUGER KONTI ER OPRETTET. UNDERRET SYSTEMADMINISTRATOREN
+no content areas found in selected template	sitemgr	da	
+no content found	sitemgr	da	Intet indhold er fundet
+no groups defined.	sitemgr	da	Ingen grupper er defineret
+no link to full index	sitemgr	da	Ingen link til fulde indholdsfortegnelse
+no matching news item	sitemgr	da	
+no modules permitted for this content area/category	sitemgr	da	
+no options available.	sitemgr	da	Ingen valgmuligheder er tilgængelige.
+no pages available	sitemgr	da	Ingen sider er tilgængelige
+no sitelanguages configured	sitemgr	da	Ingen Webside sprog er konfigureret
+no template file found.	sitemgr	da	Skabelon fil er ikke fundet.
+no templates found.	sitemgr	da	Ingen skabeloner er fundet.
+no users defined.	sitemgr	da	Ingen brugere er defineret
+no websites defined	sitemgr	da	Ingen Webside er difineret
+no, chooser only (for side-areas)	sitemgr	da	
+no, chooser with preview	sitemgr	da	
+not yet translated	sitemgr	da	Endnu ikke oversat
+note that you may get this message if your preferences are incorrect.  for example, if config.inc.php is not found in the directory that you specified.	sitemgr	da	Vær opmærksom på at du måske får denne besked, hvis nogle af dine præferencer er forkerte. F.eks. hvis config.inc.php ikke er fundet i biblioteket
+number of news items to be displayed on page	sitemgr	da	Antal nyheder der skal vises på siden
+only gallery	sitemgr	da	Kun galleri
+other websites	sitemgr	da	Andre Websteder
+overview of all available categories	sitemgr	da	Overblik af alle tilgængelige kategorier
+overview of one specific category	sitemgr	da	Overblik af en specifik kategori
+own amazon partner-id or empty to donate to the egroupware project	sitemgr	da	Egen Amazone partner-ID eller efterlad tom for at donere til eGroupWare projektet
+page	sitemgr	da	Side
+page content	sitemgr	da	Side indhold
+page manager	sitemgr	da	Side manager
+page name	sitemgr	da	Side navn
+page saved	sitemgr	da	Side gemt
+page saved.	sitemgr	da	Side gemt.
+page subtitle	sitemgr	da	Side undertitel
+page title	sitemgr	da	Side titel
+pages	sitemgr	da	Sider
+pages:	sitemgr	da	Sider:
+parent	sitemgr	da	Overstående
+parent section:	sitemgr	da	Overstående sektion:
+password	sitemgr	da	Adgangskode
+password that you assigned for the anonymous user account.	sitemgr	da	Adgangskoden du tildeler den anonyme bruger konti.
+path to zip binary if not in path of the webserver	sitemgr	da	Stien til zip filen, hvis ikke i webserveren sti
+egw users	sitemgr	da	eGroupWare brugere
+please enter a name for that site !	sitemgr	da	Indtast venligst et navn for sitet!
+post a message to this thread	sitemgr	da	
+prepublished	sitemgr	da	
+preunpublished	sitemgr	da	
+previous	sitemgr	da	Tidligere
+production mode	sitemgr	da	Produktions miljø
+published	sitemgr	da	publiceret
+reactivate content	sitemgr	da	Genaktivere indhold
+read permission	sitemgr	da	Læse rettighed
+redirection	sitemgr	da	Viderstille
+refresh	sitemgr	da	Opdater
+register for one now.	sitemgr	da	
+register new modules	sitemgr	da	
+replies	sitemgr	da	Svar
+required fields	sitemgr	da	Krævet felter
+reset	sitemgr	da	Reset
+return to forums	sitemgr	da	Tilbage til forumerne
+return to main menu.	sitemgr	da	Tilbage til hoved menuen
+return to message list	sitemgr	da	
+root site index	sitemgr	da	Websidens rod indholdsfortegnelse
+save	sitemgr	da	Gem
+save block	sitemgr	da	Gem blok
+saved	sitemgr	da	Gemt
+scope	sitemgr	da	Område
+seen by	sitemgr	da	Set af
+select a category	sitemgr	da	Vælg en kategori
+select a forum	sitemgr	da	Vælg et forum
+select allowed modules	sitemgr	da	Vælg tilladte moduler
+select persons and groups that are entitled to configure the website.	sitemgr	da	Vælg brugere og grupper der må konfigurere denne hjemmeside
+select the templates the user is allowed to see	sitemgr	da	Vælg skabelonen som brugeren er tilladt at se
+selected template %1 does not exist.	sitemgr	da	Valgte skabelon %1 findes ikke.
+selected theme %1 does not exist.	sitemgr	da	Valgte tema %1 findes ikke.
+should the file be viewed in the browser or downloaded	sitemgr	da	Skal filen vises i browser vinduet eller hentes som en fil?
+show a template-gallery (thumbnail and informations)	sitemgr	da	Vis et skabelon-galleri (thumbnails og informationer)
+show only (in the next field) selected templates	sitemgr	da	Vis kun (i næste felt) valgte skabeloner
+show searchbox	sitemgr	da	Vis søgefunktion
+show site index	sitemgr	da	Vis webstedets index
+show subcategories	sitemgr	da	Vis underkategorier
+site	sitemgr	da	Websted
+site %1 has been added, you need to %2configure the site%3 now	sitemgr	da	Site %1 er tilføjet, du skal %2konfigurere sitet%3 nu
+site %1 has been updated	sitemgr	da	Webstedet %1 er opdateret
+site administrators	sitemgr	da	Webstedets administratorere
+site description	sitemgr	da	Webstedets beskrivelse
+site format manager	sitemgr	da	Webstedets format manager
+site index	sitemgr	da	Websted index
+site name	sitemgr	da	Websted navn
+site setup	common	da	Websted opsætning
+site tree menu	sitemgr	da	Webside træ menu
+site wide	sitemgr	da	
+sitemgr	common	da	SiteMgr
+sitemgr manual	sitemgr	da	SiteMgr manual
+sitemgr options	sitemgr	da	SiteMgr insstillinger
+sitemgr setup instructions	sitemgr	da	SiteMgr opsætnings instruktioner
+sitemgr setup page	sitemgr	da	sitemgr opæstningsside
+sitemgr web content manager	common	da	SiteMgr Indholds manager
+sitemgr websites	sitemgr	da	SiteMgr Websider
+sort order	sitemgr	da	Soterings rækkefølge
+state	sitemgr	da	
+strip html from block content?	sitemgr	da	Fjern HTML fra blok indhold?
+subcategories	sitemgr	da	Underkategorier
+subsections:	sitemgr	da	Undersektioner:
+subtitle	sitemgr	da	Undertitel
+summary of one forum	sitemgr	da	
+table of contents	sitemgr	da	Indholdsfortegnelse
+template chooser and/or gallery	sitemgr	da	Skabelon vælger og/eller galleri
+template select	sitemgr	da	Skabelon vælger
+textarea	sitemgr	da	tekst område
+the category to display, 0 for complete table of contents	sitemgr	da	Kategorierne som vises, 0 for den komplette indholdsfortegnelse
+the complete path to the file to be included	sitemgr	da	Den fuldstændige sti til filen som skal inkluderes
+the config.inc.php file needs to be edited to point to the egroupware directory. copy the config.inc.php.template file to config.inc.php and then edit it.	sitemgr	da	config.inc.php filen skal redigeres til at peje på egroupware biblioteket. Kopiér config.inc.php.template filen til config.inc.php og tilpas den herefter.
+the file to be downloaded	sitemgr	da	Filen som skal hentes
+the first directory to think about is sitemgr-link.  if you move this to the parent directory of sitemgr (your egroupware root directory) then you can use setup to install the app and everyone with access to the app will get an icon on their navbar that links them directly to the public web site.  if you don't want this icon, there's no reason to ever bother with the directory.	sitemgr	da	Det første bibliotek der skal tænkes på er sitemgr-link. Hvis du flytter den et niveau op fra sitemgr (dit egroupware rod bibliotek) så kan du bruge setup til at installere applikationen og alle med rettighed til den applikation vil få et ikon på deres navigationsbjælke, som viderestiller dem direkte til det offentlige websted. Hvis du ikke vil bruge dette ikon, der er ingen grund til at bekymre sig om biblioteket.
+the images' common name	sitemgr	da	billederens fælles navne
+the name field cannot contain punctuation or spaces (field modified).	sitemgr	da	Navne feltet må ikke indeholde punktum eller mellemrum (feltet er ændret).
+the page name must be unique.	sitemgr	da	Sidens navn skal være unik
+the page was successfully saved.	sitemgr	da	Siden var sucessrigt gemt.
+the path to the file to be downloaded	sitemgr	da	Stien til filen som skal hentes
+the person to say hello to	sitemgr	da	Personen at sige goddag til
+the second directory is the sitemgr-site directory.  this can be moved <i>anywhere</i>.  it can also be named <i>anything</i>.  wherever it winds up, when you point a web browser to it, you will get the generated website.  assuming, of course, that you've accurately completed the setup fields below and also <b><i>edited the config.inc.php</i></b> file.	sitemgr	da	Det andet er sitemgr-site biblioteket. Den kan flyttes <i>hvor som helst</i> Den kan også navngives <i>hvor som helst</i>. Hvor endt den er, er stien hvor du skal skrive stien i din webbrowser for at se den genererede webside. Forudsat selvfølgelig, at du har omhyggeligt har fuldført opsætningen i felterne nedenunder og <b><i>redigeret config.inc.php filen.</i></b>
+the text for the link, if empty the module returns the raw url (without a link)	sitemgr	da	
+the url can be relative or absolute.  name must end in a slash.	sitemgr	da	URL'en kan være relativ eller absolut. Navne skal ende med en skråstreg
+the url must be absolute and end in a slash, for example http://mydomain.com/mysite/	sitemgr	da	URL'en skal være absolut og ende med en stråstreg, f.eks. http://mitdomæne.dk/minwebside/
+the url to redirect to	sitemgr	da	Viderestil til følgende URL
+the web	sitemgr	da	websiden
+the whole page	sitemgr	da	hele siden
+the xml files' common name	sitemgr	da	
+theme or template select	sitemgr	da	Tema eller skabelon valg
+there are no categories	sitemgr	da	Der er ingen kategorier
+there are no forums in this category	sitemgr	da	Der er intet forum i denne kategori
+there are no pages in this section	sitemgr	da	Der er ingen sider i denne sektion
+there are no properties defined for this module	sitemgr	da	Der er ingen indstilinger defineret for dette modul
+there are no sections available to you.	sitemgr	da	Der er ingen sektioner tilgængelig for dig.
+there are two subdirectories off of your sitemgr directory that you should move before you do anything else.  you don't <i>have</i> to move either of these directories, although you will probably want to.	sitemgr	da	Der er to underbiblioteker under dit sitemgr bibliotek, som du bør flytte for du gør noget. Du <b>behøver</b> ikke at flytte nogle af disse biblioteker, men det er sikkert det du gerne vil.
+there can only be one version in (pre(un))published state, with the one exeption that one prepublished version can coexist with one preunpublished version	sitemgr	da	
+there is no website configured for url %1.  notify the administrator.	sitemgr	da	DER ER IKKE NOGET WEBSTED KONFIGURERET PÅ DENNE URL: %1 KONTAKT DIN SYSTEMADMINISTRATOR.
+there was an error accessing the requested page. either you do not have permission to view this page, or the page does not exist.	common	da	Der skete en fejl ved indlæsning af siden. Enten har du ikke rettigheder til at se denne side, ellers findes siden ikke.
+there was an error writing to the database.	sitemgr	da	Der skete en fejl ved skrivning til databasen.
+this block displays a javascript based tree menu	sitemgr	da	Denne blok viser et javascript baseret træ menu
+this block displays the current section's table of contents	sitemgr	da	Denne blok viser den nuværende sektions indholdfortegnelse
+this category has no pages.	sitemgr	da	Denne kategori har ingen sider.
+this is a simple sample module	sitemgr	da	Dette er et simpelt prøve modul
+this is only used as an internal name for the website.	sitemgr	da	Dette navn er kun brugt som en intern reference til websiden.
+this is used chiefly for meta data and the title bar. if you change the site languages below you have to save before being able to set this preference for a new language.	sitemgr	da	
+this is used chiefly for meta data. if you change the site languages below you have to save before being able to set this preference for a new language.	sitemgr	da	
+this module create a link for downloading a file from the vfs	sitemgr	da	Dette modul opretter et link for at hente en fil fra VFS'en
+this module demonstrates how handling data stored in xml and building an interacvite interface from it	sitemgr	da	Dette modul demonstrerer hvordan håndteringen af data gemt i XML og bygger et interaktivt interface ud af det.
+this module displays a login form	sitemgr	da	Dette modul viser et login punkt
+this module displays bookmarks in a javascript based tree	sitemgr	da	Dette modul viser bogmærker i et javascript baseret træ
+this module displays the current month	sitemgr	da	Dette modul viser denne måned
+this module displays the egw forums on the web site	sitemgr	da	Dette modul viser eGW forumer på websiden
+this module displays the root categories, its pages and evtl. subcategories. it is meant for side areas	sitemgr	da	Dette modul viser rod kategorier, dens sider og evt. underkategorier. Den er beregnet til sideområder
+this module includes the contents of a file (readable by the webserver !)	sitemgr	da	Dette modul inkludere indholdet af en fil (skal være læsbar af webserveren!)
+this module is a selectbox to change the mode (production, draft or edit) plus a link back to sitemgr and to log out. it is meant for registered users only	sitemgr	da	Dette modul er til at ændre miljøet (produktions, klade eller rediger) plus et link tilbage til sitemgr og en logud funktion. Den er ment kun til registerede brugere
+this module is a simple html editor	sitemgr	da	Dette modul er en simpel html editor
+this module lets the users choose a template or shows a template gallery	sitemgr	da	Dette modul lader brugeren vælge en skabelon eller viser et skabelon galleri
+this module lets users choose language	sitemgr	da	Dette modul lader brugeren vælge sprog
+this module lets you define pages that redirect to another url, if you use it, there should be no other block defined for the page	sitemgr	da	Dette modul lader dig viderestille sider til en anden URL, hvis du bruger den, må der ikke være andre blokke defineret på siden.
+this module permits browsing through xml files stored in a directory, and transformed by xslt	sitemgr	da	
+this module provides a complete table of contents, it is automatically used by the toc and category_id get parameters	sitemgr	da	Dette modul givet en komplet indholdsfortegnelse, den er automatisk brugt af toc og category_id GET parameterne
+this module provides a condensed table of contents, meant for side areas	sitemgr	da	
+this module provides the site index, it is automatically used by the index get parameter	sitemgr	da	
+this module publishes news from the news_admin application on your website. be aware of news_admin's acl restrictions.	sitemgr	da	
+this must be an absolute directory location.  <b>no trailing slash</b>.	sitemgr	da	
+this should be a comma-separated list of language-codes.	sitemgr	da	
+this should be a page that is readable by everyone. if you leave this blank, the site index will be shown by default.	sitemgr	da	
+this site	sitemgr	da	dette websted
+title	sitemgr	da	Titel
+topic	sitemgr	da	Emne
+translate	sitemgr	da	Oversæt
+translate category	sitemgr	da	Oversæt kategori
+translate page	sitemgr	da	Oversæt side
+translate site-wide content blocks	sitemgr	da	
+translation manager	sitemgr	da	Oversætnings manager
+up to parent	sitemgr	da	Et niveau op
+up to table of contents	sitemgr	da	Op til Indholdsfortegnelsen
+updating to new category system	sitemgr	da	
+url pointing to the directory where the images are found (no trailing slash)	sitemgr	da	URL'en til biblioteket hvor billederne er fundet (uden stråstreg til sidst)
+url to sitemgr-site	sitemgr	da	URL til sitemgr-site
+use phpnuke themes instead of templates	sitemgr	da	Brug phpNuke temaer i stedet for skabeloner
+use this module for displaying book ads for the amazon web site	sitemgr	da	Brug dette modul til at vise bog reklamer fra Amazone's webside
+use this module for displaying wiki-pages	sitemgr	da	Brug dette modul til at vise wiki-sider
+user name	sitemgr	da	Bruger navn
+view administrative menu	sitemgr	da	Vis administrative menu
+view full index	sitemgr	da	Vis fulde indholdsfortegnelse
+view generated site	sitemgr	da	Vis genereret Webside
+view template on this site	sitemgr	da	Vis skabelon på dette websted
+view threads	sitemgr	da	Se tråde
+viewed	sitemgr	da	set
+web content manager	common	da	SiteMgr Web indholds manager
+web content manager administration	sitemgr	da	Web indholds manager administration
+web site manager	sitemgr	da	Websted manager
+website	sitemgr	da	Websted
+week	sitemgr	da	uge
+what do you want to do with existing translations of categories and pages for this language?	sitemgr	da	Hvad vil du med de eksisterende oversættelser af kategorier og sider for dette sprog?
+wiki	sitemgr	da	Wiki
+wiki startpage	sitemgr	da	Wiki startside
+with which view should the module be displayed in the beginning?	sitemgr	da	
+write permission	sitemgr	da	Skrive adgang
+xml browser	sitemgr	da	
+yes, please delete it	sitemgr	da	Ja, slet den venligst
+you are not entitled to change the scope of block %1 to cat %2 and page %3	sitemgr	da	Du har ikke ret til at ændre området for blokken %1 til kategori %2 og side %3
+you are not entitled to create module %1 on this scope	sitemgr	da	Du har ikke ret til at oprette modulet %1 i dette område
+you are not entitled to edit block %1	sitemgr	da	Du har ikke ret til at redigere blokken %1
+you can choose the modules that can be used on the site. the first list is a sort of master list, that is consulted if you do not configure lists specific to contentareas or (sub)categories. then you can choose lists specific to each content area. in the category manager these lists can be overriden for each (sub)category.	sitemgr	da	Du kan vælge modulerne som kan bruges på webstedet. Den første liste er en slags hovedliste, der bliver brugt hvis du ikke har specificeret en liste til indholdsområderne eller (under)kategorierne. Du kan lave en liste specifik for hvert område. I kategori manageren kan disse lister tilsidesættes for hvert (under)kategori
+you can either migrate them to a new language or delete them	sitemgr	da	Du kan enten migrere til et nyt sprog eller slette dem
+you can override each content blocks default title. be aware that not in all content areas the block title will be visible.	sitemgr	da	Du kan tilsidesætte hver bloks standart titel. Vær opmærksom på det ikke er alle områder hvor blokkens titel vil blive vist.
+you did not choose a module.	sitemgr	da	Du valgte ikke et modul
+you do not have access to any content on this site.	sitemgr	da	Du har ikke adgang til noget inhold på denne webside.
+you do not have write permissions for any site categories.	sitemgr	da	Du har ikke skrive rettigheder til websidens nogen kategorier.
+you don't have permission to write in the category	sitemgr	da	Du har ikke skrive rettigheder i denne kategori
+you don't have permission to write to that category.	sitemgr	da	Du har ikke skrive rettigheder til den kategori
+you failed to fill in one or more required fields.	sitemgr	da	Du har ikke udfyldt alle krævede felter
+you have no rights to view wiki content or the wiki is not installed at all !!!	sitemgr	da	
+you must be an admin to edit categories.	sitemgr	da	Du skal være en systemadministrator for at kunne redigere denne kategori.
+you must be an admin to edit the site header and footer.	sitemgr	da	
+you must be an admin to manage module properties.	sitemgr	da	Du skal være en systemadministrator for at kunne redigere modulers indstillinger.
+you must be an administrator to setup the site manager.	sitemgr	da	
+you removed one ore more languages from your site languages.	sitemgr	da	
+your administrator has not yet setup the web content manager for public viewing.  go bug your administrator to get their butt in gear.	sitemgr	da	
+your calendar	sitemgr	da	Din kalender
+are you sure you want to delete this news site ?	headlines	da	Vil Du virkelig slette denne nyheds server?
+base url	headlines	da	URL (f.eks. http://www.domæne.dk)
+basic	headlines	da	Standart
+choose layout	headlines	da	Vælg layout
+color	headlines	da	Farve
+create new headline	headlines	da	Opret ny overskrift
+current headlines in cache	headlines	da	Nuværende overskrifter i hukommelsen
+display	headlines	da	Vis
+edit headline sites	headlines	da	Redigér nyheds server
+edit headlines shown by default	headlines	da	Redigér nyheder som er standart
+grab new news sites	common	da	Hent nye nyheds servere
+gray	headlines	da	Grå
+headline preferences	common	da	Nyheder præferencer
+headline site management	common	da	Redigér nyheds servere
+headline sites	headlines	da	Nyheds servere
+headlines	common	da	Nyheder
+headlines administration	headlines	da	Nyheder administration
+headlines administration - delete headline	headlines	da	Nyheder administration - Slet overskrift
+headlines layout	headlines	da	Nyheder layout
+listings displayed	headlines	da	Viste lister
+minutes between refresh	headlines	da	Minutter mellem opdateringer
+minutes between reloads	headlines	da	Minutter mellem opdateringer
+monitor	common	da	Skærm
+news file	headlines	da	Nyheds fil (f.eks /backend/nyhed.rdf)
+news headlines	common	da	Nyheds overskrift
+news headlines	common	da	nyheds overskrifter
+news type	headlines	da	Nyheds type
+no headlines found	headlines	da	Ingen Nyheder fundet
+other preferences	preferences	da	Andre præferencer
+reload news sites	headlines	da	Genindlæs nyheds server
+reset	headlines	da	Resæt
+sample	headlines	da	Prøve
+select headline news sites	headlines	da	Vælg nyheds servere
+select headlines to display	common	da	Vælg nyheder som skal vises
+select layout	common	da	Vælg layout
+show headlines on homepage	headlines	da	Vis overskrifter på startsiden
+site	headlines	da	Server
+that site has already been entered	headlines	da	Den server er allerede tilføjet
+unable to retrieve links	headlines	da	Kan ikke hente linkene
+update headline	headlines	da	Opdater Nyheder
+view headline	headlines	da	Vis Nyhed
+you can only enter numbers for listings display	headlines	da	Du kan kun indtaste tal for viste lister
+you can only enter numbers minutes between refresh	headlines	da	Du kan kun indtaste antal minutter mellem opdatering
+you must enter a base url	headlines	da	Du skal angive en URL sti
+you must enter a display	headlines	da	Du skal angive en visning
+you must enter a news url	headlines	da	Du skal angive en nyheds-url
+you must enter the number of listings display	headlines	da	Du må angive antallet af linier der skal vises
+you must enter the number of minutes between reload	headlines	da	Du skal angive antallet af minutter mellem opdateringer

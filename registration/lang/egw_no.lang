@@ -1,0 +1,63 @@
+[unknown first name]	registration	no	[Ukjent fornavn]
+[unknown last name]	registration	no	[Ukjent etternavn]
+after you enter your email address, the user accounts associated with this email address will be mailed to that address.	registration	no	Etter at du registrerer din e-mailadresse vil data forbundet med brukerkontoen sendes på e-mail til denne adressen.
+dropdown	registration	no	Nedtrekk
+email address	registration	no	E-mailadresse
+email address to display for support	admin	no	E-mailadresse som vises for support
+email address to send notices from	admin	no	E-mailadresse å sende meldinger fra
+enable registration?	admin	no	Tillate registrering?
+enter your new password	registration	no	Skriv inn ditt nye passord
+female	registration	no	Hunkjønn
+gender	registration	no	Hannkjønn
+hi	registration	no	Hei
+http password	admin	no	HTTP Passord
+http username	admin	no	HTTP Brukernavn
+i have read the terms and conditions and agree by them.	registration	no	Jeg har lest betingelsene og forbeholdene og aksepterer disse
+if you did not request this account, simply ignore this message.	registration	no	Dersom du ikke forespurte etter denne kontoen; ignorer denne meldingen
+if you did not request this change, simply ignore this message.	registration	no	Dersom du ikke forespurte denne endringen; ignorer denne meldingen
+immediately	admin	no	Straks
+lost login id	login	no	Siste loginident
+lost password	registration	no	Glemt passordet
+lost password link at login screen?	admin	no	Lenke om glemt passord i innloggingsbildet
+lost user account retrieval	registration	no	Gjenfinne glemt brukerident
+lost user id	registration	no	Glemt brukerident
+lost user id link at login screen?	admin	no	Lenke om glemt brukerident i innloggingsbildet
+lost_user_id_message	registration	no	Her er brukerkontiene tilknyttet denne e-mailadressen.
+male	registration	no	Kjønn
+manage fields	admin	no	Håndtere felt
+name (blank unless text, textarea, dropdown, checkbox; else alphanumeric only)	registration	no	Navn (blank unntatt for tekst, tekstområde, nedtrekksmeny, sjekkboks; ellers kun alfanumerisk)
+not a user yet? register now	login	no	Ikke registrert bruker ennå?  Registrer nå
+on-line registration is not activated. please contact the site administrator for more information about registration.	registration	no	Online-registrering er ikke aktivert.  Kontakt EDB-ansvarlig for mer informasjon om registrering.
+order	registration	no	Sortering
+password is	admin	no	Passord er
+phone	registration	no	Telefon
+re-enter password	registration	no	Skriv inn passord på nytt
+re-enter your password	registration	no	Skriv inn passord ditt på nytt
+register link at login screen?	admin	no	Registrere link på påloggingssiden?
+registration	common	no	Registrering
+registration settings	admin	no	Innstillinger for registrering
+remove	registration	no	Fjerne
+report all problems and abuse to	registration	no	Rapporter alle feil og forstyrelser til
+required	registration	no	Nødvendig
+send email	admin	no	Send e-mail
+sorry, that username does not exist.	registration	no	Beklager, brukernavn finnes ikke
+sorry, that username is already taken.	registration	no	Beklager, brukernavn allerede registrert
+sorry, we are having a problem activating your account. note that links sent by e-mail are only valid during two hours. if you think this delay was expired, just retry. otherwise, please contact the site administrator.	registration	no	Beklager men vi har et problem med å aktivere din konto. Husk at lenker sendt via e-mail kun er gyldige i to timer.  Dersom du tror denne tiden var overskredet, prøv igjen.  Eller må du ta kontakt med EDB-ansvarlig
+state	registration	no	Status
+subject for confirmation email	admin	no	Tema på bekreftelsesmail.
+terms of service	registration	no	Betingelser
+terms of service text	admin	no	Tekst for betingelser
+text	registration	no	Tekst
+textarea	registration	no	Tekstområde
+the passwords you entered don't match	registration	no	Passordet du registrerte er ikke likt
+the two passwords are not the same	registration	no	De to passordene er ikke like
+this is a confirmation email for your new account.  click on the following link to finish activating your account. this link will expire in 2 hours.	registration	no	Dette er en bekreftende mail for din nye konto.  Klikk på lenken for å fullføre aktivering av kontoen.  Lenken varer kun i 2 timer.
+unable to send mail, contact your administrator	registration	no	Ikke i stand til å sende mail, kontakt EDB-ansvarlig
+unknown first name	registration	no	Ukjent fornavn
+unknown last name	registration	no	Ukent etternavn
+update/add	registration	no	Oppdater/registrer
+use html	admin	no	bruk HTML
+use trial accounts?	admin	no	Bruke prøvekonti?
+username is	admin	no	Brukernavn er
+values (for dropdown only; comma separated)	registration	no	Verdier (For nedtrekk, kommaseparert)
+we have sent a confirmation email to your email address. you must click on the link within 2 hours. if you do not, it may take a few days until your loginid will become available again.	registration	no	Vi har sendt en bekreftelse e-mail til din e-mailadresse.  Du må benytte deg av denne innen 2 timer.  Dersom du ikke gjør dette kan det ta noen dager før din logonident blir tilgjengelig igjen.

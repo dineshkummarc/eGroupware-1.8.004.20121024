@@ -1,0 +1,134 @@
+%1 entries updated.	tracker	fi	%1 merkintää päivitetty.
+--> enter new name	tracker	fi	--> anna uusi nimi
+1 - lowest	tracker	fi	1 - alin
+5 - medium	tracker	fi	5 - normaali
+9 - highest	tracker	fi	9 - tärkein
+accepted	tracker	fi	Hyväksytty
+actions	tracker	fi	Toiminnot
+add comment	tracker	fi	Lisää kommentti
+after how many days a not replied item should be marked overdue?	tracker	fi	Montako päivää voi olla vastaamatta ennen kuin kohde merkitään erääntyneeksi?
+after how many days pending items should be closed automatic	tracker	fi	Monenko päivän vireillä olon jälkeen kohde suljetaan automaattisesti
+allow bounties	tracker	fi	Salli maksullinen kehitys
+allow editing by	tracker	fi	Salli muokkaaminen:
+allow to assign groups to tracker items	tracker	fi	Salli kohteen seuraamisen ohjaaminen ryhmälle
+allow voting	tracker	fi	Salli äänestäminen
+allow voting on tracker items, show and sort after the votes	tracker	fi	Salli äänestäminen seurattavista kohteista, näytä ja lajittele äänet
+amount	tracker	fi	Summa
+assigned to	tracker	fi	Ohjattu
+assigning groups	tracker	fi	Ohjattu ryhmälle
+attachments & links	tracker	fi	Liitteet ja linkit
+autoassign to	tracker	fi	Ohjaa automaattisesti
+bounties	tracker	fi	Maksullinen kehitys
+bounty confirmed	tracker	fi	Maksullinen kehitys vahvistettu
+bounty deleted	tracker	fi	Maksullinen kehitys poistettu
+bounty set	tracker	fi	Maksullisen kehityksen summa asetettu
+canned response	tracker	fi	Vastaus tallennettu
+canned responses	tracker	fi	Vastaus tallennettu
+categories, versions, canned responses	tracker	fi	Kategoriat, versiot, tallennetut vastaukset
+check all	tracker	fi	Tarkista kaikki
+close pending	tracker	fi	Sulje vireillä olevat
+closed	tracker	fi	Suljetut
+comment by %1 at %2:	tracker	fi	Kommentoinut %1 %2
+comments	tracker	fi	Kommentit
+completed	tracker	fi	Valmis
+configuration	tracker	fi	Konfiguraatio
+configuration updated.	tracker	fi	Konfiguraatio päivitetty
+configuration, acl, notifications	tracker	fi	Konfiguraatio, ACL, huomautukset
+confirm that you pay the specified bounty to implement or fix the issue	tracker	fi	Vahvista että maksat määrittelemäsi summa jotta kyseinen ominaisuus kehitetään tai ongelma ratkaistaan.
+confirm the receipt of money for this bounty	tracker	fi	Vahvista vastaanottavasi rahat kyseisestä tehtävästä
+confirmed	tracker	fi	Vahvistettu
+copy to	tracker	fi	Lähetä kopio
+create new links	tracker	fi	Luo uusi linkki
+created	tracker	fi	Luotu
+date opened	tracker	fi	Avauspäivä
+delete this bounty	tracker	fi	Poista tämä maksullinen kehitys
+delete this canned response	tracker	fi	Poista tämä säilytetty vastaus
+delete this category	tracker	fi	Poista tämä kategoria
+delete this status	tracker	fi	Poista tämä tila
+delete this tracker including all it's items and categories	tracker	fi	Poista laukaisin, sisältää kaikki sen kohteet ja kategoriat.
+delete this version	tracker	fi	Poista tämä versio
+deleted	tracker	fi	Poistettu
+do you want to vote for this item	tracker	fi	Haluatko äänestää tästä kohteesta
+donator name to show	tracker	fi	Näytä lahjoittajan nimi
+duplicate	tracker	fi	Kaksoiskappale
+e-mail address to which a copy of all tracker-notifications should be send	tracker	fi	Sähköpostiosoite kopioidaan huomautus laukaisimeen, joka lähettää viestit
+e-mail notifications	tracker	fi	Sähköpostin huomautukset
+edit %1	tracker	fi	Muokkaa %1
+email address to contact you	tracker	fi	Sähköpostiosoite jolla sinut tavoittaa
+entry saved	tracker	fi	Merkintä tallennettu
+error adding the new tracker!	tracker	fi	Virhe lisätessä uutta laukaisinta!
+error saving the entry!!!	tracker	fi	Virhe tallentaessa merkintää !!!
+everybody	tracker	fi	Kenelle tahansa
+existing links	tracker	fi	Olemassa olevat linkit
+field	tracker	fi	Kenttä
+fixed	tracker	fi	Korjattu
+from	tracker	fi	Keneltä
+history	tracker	fi	Historia
+id	tracker	fi	Tunniste
+if this item is important for you, please consider to set a bounty for it!	tracker	fi	Jos tämä kohde on sinulle tärkeä, harkitse sen tekemistä maksullisena lisätyönä!
+if this item is important for you, please vote for it.	tracker	fi	Jos tämä kohde on sinulle tärkeä, äänestä sen puolesta.
+invalid	tracker	fi	Kelpaamaton
+item assignee	tracker	fi	Kohde valtuutettu
+item creator	tracker	fi	Kohteen luonti
+language for the copy	tracker	fi	Kopioitava kieli
+last modified	tracker	fi	Viimeksi muokattu
+later	tracker	fi	Viimeisin
+list of coma separated email address	tracker	fi	Lista pilkulla erotetuista sähköpostiosoitteista
+new %1	tracker	fi	Uusi %1
+new items	tracker	fi	Uusi kohde
+new tracker item submitted by %1 at %2	tracker	fi	Uusi kohteen laukaisin toimitettu %1 %2
+no change	tracker	fi	Ei muutosta
+non-anonymous users	tracker	fi	Ei anonyymit käyttäjät
+noone	tracker	fi	Ei mitään
+notification	tracker	fi	Huomautus
+open	tracker	fi	Avoin
+out of date	tracker	fi	Myöhästynyt
+overdue after	tracker	fi	Ylittävä aika ylitöinä
+pending	tracker	fi	Vireillä
+pending items never get close automatic.	tracker	fi	Vireillä oleva kohde ei koskaan sulkeudu automaattisesti
+pending items will be closed automatic after %1 days without response.	tracker	fi	Vireillä oleva kohde suljetaan automaattisesti jos %1 päivän kuluessa ei tule vastausta.
+permission denied !!!	tracker	fi	Pääsy estetty !!!
+postponed	tracker	fi	Lykätty
+receive notifications about assigned tracker-items	tracker	fi	Vastaanota huomautuksia käsittelijästä
+receive notifications about created tracker-items	tracker	fi	Vastaanota huomautuksia pyynnön luonneista
+receive notifications in html	tracker	fi	Vastaanota huomautukset html muodossa
+rejected	tracker	fi	Kielletty
+remind	tracker	fi	Muistuta
+resolution	tracker	fi	Resoluutio
+sender address	tracker	fi	Lähettäjän osoite
+sender address for all notifications, eg. noreply@egroupware.org	tracker	fi	Lähettäjän osoite kaikille huomautuksille, esim. noreply@egroupware.org
+set an own bounty (in %s)	tracker	fi	Aseta oma maksullinen lisätyö (%s)
+set bounty	tracker	fi	Aseta palkkio
+should the tracker send you notification mails, if tracker items assigned to you get updated?	tracker	fi	Lähettääkö laukaisin sinulle huomautusviestin, jos kohteen käsittelijä päivittää tilannetta?
+should the tracker send you notification mails, if tracker items you created get updated?	tracker	fi	Lähettääkö laukaisin sinulle huomautusviestin, jos luomasi kohteen tila päivittyy?
+staff	tracker	fi	Henkilökunta
+state	tracker	fi	Tila
+summary	tracker	fi	Tiivistelmä
+technicians	tracker	fi	Tekninentuki
+thank you for setting this bounty.	tracker	fi	Kiitos kun asetit palkkion
+thank you for voting.	tracker	fi	Kiitos kun äänestit
+the bounty will not be shown, until the money is received.	tracker	fi	Ratkaisua EI näytetä ennen kuin palkkio on maksettu.
+this module displays information from the tracker.	tracker	fi	Tämä moduuli näyttää tietoa Laukaisimesta.
+this tracker item was closed automatically by the system. it was previously set to a pending status, and the original submitter did not respond within %1 days.	tracker	fi	Tämä laukaisin sulkeutui automaattisesti järjestelmästä. Se oli viimeksi asetettu ratkaisematon tilaan, eikä alkuperäinen lähettäjä vastannut siihen %1 päivän kuluessa.
+tracker	common	fi	Helpdesk
+tracker admins	tracker	fi	Helpdeskin ylläpitjät
+tracker admins & technicians	tracker	fi	Helpdeskin ylläpitäjät ja tekniset tuet
+tracker configuration	tracker	fi	Laukaisimen konfigurointi
+tracker item modified by %1 at %2	tracker	fi	Laukaisimen kohdetta muokattu %1 %2
+tracker item not found !!!	tracker	fi	Laukaisimen kohdetta ei löytynyt
+tracker-%1 '%2' added.	tracker	fi	Laukaisin-%1 '%2' lisätty.
+tracker-%1 '%2' updated.	tracker	fi	Laukaisin-%1 '%2' päivitetty.
+tracker-%1 deleted.	tracker	fi	Laukaisin-%1 poistettu
+url of the tracker	tracker	fi	Laukaisimen URL
+versions	tracker	fi	Versiot
+vote for it!	tracker	fi	Äänestä sitä!
+votes	tracker	fi	Äänet
+wont fix	tracker	fi	Ei korjaannu
+works for me	tracker	fi	Toimii minulla
+yes, display groups first	tracker	fi	Kyllä, näytä ryhmän ensin
+yes, display users first	tracker	fi	Kyllä, näytä käyttäjän ensin
+you need to enter a name	tracker	fi	Sinun tarvitsee antaa nimi
+you need to login to vote!	tracker	fi	Sinun tarvitsee kirjautua äänestystä varten!
+you need to select something to change and some tracker items!	tracker	fi	Sinun pitää valita jotain muutettavaa JA joku laukaisimen kohde!
+you need to specify amount, donators name and email address!	tracker	fi	Sinun pitää antaa summa, lahjoittajan nimi JA sähköpostiosoitteesi!
+you voted %1.	tracker	fi	Annoit äänesi %1.

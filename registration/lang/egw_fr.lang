@@ -1,0 +1,114 @@
+<br>please contact the site administrator.	registration	fr	<br> Veuillez contacter l'administrateur du site
+[unknown first name]	registration	fr	[prénom inconnu]
+[unknown last name]	registration	fr	[nom de famille inconnu]
+account %1 record could not be found, report to site administrator	registration	fr	Enregistrement Compte %1 est introuvable, contactez l'administrateur du site
+account password retrieval	registration	fr	Récupération de mot de passe
+account registration	registration	fr	Enregistrement de compte
+activate account	admin	fr	Activer le compte
+address	registration	fr	Adresse
+after you enter your email address, the user accounts associated with this email address will be mailed to that address.	registration	fr	Lorsque vous avez introduit votre adresse e-mail, le compte utilisateur correspondant à cette adresse e-mail sera envoyé à cette adresse.
+after you enter your username, instructions to change your password will be sent to you by e-mail to the address you gave when you registered.	registration	fr	Lorsque vous avez introduit votre nom d'utilisateur, les intructions pour changer votre mot de passe vous seront envoyées par EMail à l'adresse que vous avez introduite lors de votre enregistrement.
+an error occured while updating your password. please contact the site administrator.	registration	fr	Une erreur s'est produite lors de la mise à jour de votre mot de passe. Veuillez contacter l'administrateur.
+an error occured. please contact our technical support and let them know.	registration	fr	Une erreur s'est produite. Veuillez contacter le support.
+an error occured. please remove your cookies and try again.	registration	fr	Une erreur s'est produite. Veuillez supprimer vos cookies et réessayer.
+anonymous password	admin	fr	Mot de passe anonyme
+birthday	registration	fr	Anniversaire
+challenge question	registration	fr	Question de référence
+change password for user	registration	fr	Changer le mot de passe pour l'utilisateur
+checkbox	registration	fr	Boîte à cocher
+choose language	registration	fr	Choisissez la Langue
+choose your language	registration	fr	Choisissez votre langue
+city	registration	fr	Ville
+click to log into your account	registration	fr	Cliquez pour entrer dans votre compte
+close window	registration	fr	Fermer Fenêtre
+convert user login id to 7 bit string	admin	fr	Convertissez l'ID login à une chaîne de 7 bit
+country	registration	fr	Pays
+current fields:	registration	fr	Champs actuels:
+days until trial accounts expire	admin	fr	Nombre de jours jusqu'à ce que le compte de test expire
+display terms of service?	admin	fr	Afficher les termes et conditions?
+dropdown	registration	fr	Menu déroulant
+email address	registration	fr	adresse e-mail
+email address to display for support	admin	fr	Adresse e-mail à afficher pour le support
+email address to send notices from	admin	fr	Adresse e-mail à partir de laquelle les messages peuvent être envoyés
+enable registration?	admin	fr	Activer l'Enregistrement?
+enter your new password	registration	fr	Introduisez votre nouveau mot de passe
+error occured	registration	fr	Une erreur s'est produite
+error: dropdown list '%1' has no values	registration	fr	Erreur: la liste déroulante '%1' est vide
+female	registration	fr	Féminin
+gender	registration	fr	Sexe
+hi	registration	fr	Bonjour
+http password	admin	fr	Mot de passe HTTP
+http username	admin	fr	Utilisateur HTTP
+i have read the terms and conditions and agree by them.	registration	fr	J'ai lu les termes et conditions et je les accepte.
+if you did not request this account, simply ignore this message.	registration	fr	Si vous n'avez pas demandé ce compte, ignorez simplement ce message.
+if you did not request this change, simply ignore this message.	registration	fr	Si vous n'avez pas demandé ce changement, ignorez simplement ce message.
+immediately	admin	fr	Immédiatement
+lost login id	login	fr	ID de connexion perdu
+lost password	login	fr	Mot de passe perdu
+lost password link at login screen?	admin	fr	Avez-vous perdu le lien vers le mot de passe sur l'écran de connexion?
+lost user account retrieval	registration	fr	Récupération du compte utilisateur perdu
+lost user id	registration	fr	ID utilisateur perdu
+lost user id link at login screen?	admin	fr	Avez-vous perdu le lien vers l'ID utilisateur sur l'écran de connexion?
+lost_user_id_message	registration	fr	Voici les comptes d'utilisateur pour ce compte e-mail:
+male	registration	fr	Masculin
+manage fields	admin	fr	Gérer les champs
+name (blank unless text, textarea, dropdown, checkbox; else alphanumeric only)	registration	fr	Nom (vide ou alors Texte, Zone de texte, Liste déroulante, Boîte à cocher; sinon alphanumérique seulement)
+name sender to send notices from	admin	fr	Nom de l'expéditeur des messages envoyés
+not a user yet? register now	login	fr	Pas encore enregistré? S'enregistrer maintenant
+on-line registration is not activated. please contact the site administrator for more information about registration.	registration	fr	L'enregistrement en ligne n'est pas activé. Veuillez contacter votre administrateur pour plus d'informations sur l'enregistrement.
+order	registration	fr	Ordre
+password is	admin	fr	Le mot de passe est
+phone	registration	fr	Téléphone
+please contact the site administrator.	registration	fr	Veuillez contacter l'administrateur du site.
+problem sending email:	registration	fr	Problème à l'envoi de l'e-mail:
+re-enter password	registration	fr	Ré-entrez le mot de passe
+re-enter your password	registration	fr	Ré-entrez votre mot de passe
+register	common	fr	Enregistrez-vous
+register link at login screen?	admin	fr	Enregistrement sur l'écran de login?
+registration	common	fr	Enregistrement
+registration settings	admin	fr	Paramètres d'enregistrement
+remove	registration	fr	Enlever
+report all problems and abuse to	registration	fr	Rapporter tous les problèmes et abus à
+required	registration	fr	Nécessaire
+response	registration	fr	Réponse
+send email	admin	fr	Envoyer l'e-mail
+sorry, no account exists for	registration	fr	Désolé, il n'existe pas de compte pour
+sorry, that username does not exist.	registration	fr	Désolé, ce nom d'utilisateur n'existe pas.
+sorry, that username is already taken.	registration	fr	Désolé, ce nom d'utilisateur existe déjà.
+sorry, we are having a problem activating your account. note that links sent by e-mail are only valid during two hours. if you think this delay was expired, just retry. otherwise, please contact the site administrator.	registration	fr	Désolé mais nous avons des problèmes pour activer votre compte. Notez que le lien envoyé par e-mail n'est valable que pendant 2 heures. Si vous pensez que ce délai a expiré, réessayez. Sinon contactez votre administrateur.
+sorry, we are having a problem retrieving the information needed for changing your password. note that links sent by e-mail are only valid during two hours. if you think this delay was expired, just retry. otherwise, please contact the site administrator.	registration	fr	Désolé mais nous avons des problèmes pour récupérer l'information nécessaire pour changer le mot de passe. Notez que le lien envoyé par e-mail n'est valable que pendant 2 heures. Si vous pensez que ce délai a expiré, réessayez. Sinon, contactez votre administrateur.
+state	registration	fr	Pays
+subject for confirmation email	admin	fr	Sujet pour e-mail de confirmation
+terms of service	registration	fr	Termes et Conditions
+terms of service text	admin	fr	Texte des Termes et Conditions
+text	registration	fr	Texte
+textarea	registration	fr	Zone de texte
+the passwords you entered don't match	registration	fr	Les mots de passe que vous avez entrés ne correspondent pas
+the two passwords are not the same	registration	fr	Les deux mots de passe ne sont pas les mêmes
+this is a confirmation email for your new account.  click on the following link to finish activating your account. this link will expire in 2 hours.	registration	fr	C'est un e-mail de confirmation pour votre nouveau compte. Cliquez sur le lien suivant pour terminer l'activation de votre compte. Ce lien expirera dans 2 heures.
+type	registration	fr	Type
+unable to send mail, contact your administrator	registration	fr	Impossible d'envoyer l'e-mail, veuillez contacter votre administration
+unknown first name	registration	fr	Prénom inconnu
+unknown last name	registration	fr	Nom de famille inconnu
+update/add	registration	fr	Mettre à jour/Ajouter
+use html	admin	fr	utiliser HTML
+use trial accounts?	admin	fr	Utiliser des comptes à l'essai?
+username is	admin	fr	L'utilisateur est
+values (for dropdown only; comma separated)	registration	fr	Valeurs (Pour Liste déroulante seulement; séparées par des virgules)
+we have sent a confirmation email to your email address. you must click on the link within 2 hours. if you do not, it may take a few days until your loginid will become available again.	registration	fr	Nous vous avons envoyé un e-mail de confirmation. Vous devez cliquer sur le lien dans les 2 heures. Si vous ne le faites pas, il faudra quelques jours pour que votre compte (loginid) soit disponible à nouveau.
+we have sent a mail to your email account: %s with your lost user ids.	registration	fr	Nous avons envoyé un mail à votre adresse e-mail %s avec vos IDs perdus.
+we have sent a mail with instructions to change your password. you should follow the included link within two hours. if you do not, you will have to go to the lost password screen again.	registration	fr	Nous vous avons envoyé un e-mail contenant les instructions pour modifier votre mot de passe. Vous devrez cliquer sur le lien dans les 2 heures. Si vous ne le faites pas, il faudra retourner à nouveau sur l'écran de récupération de mot de passe.
+wrong session	registration	fr	Mauvaise session
+you can go back to the login page	registration	fr	Vous pouvez retourner à la page de connexion.
+you have entered an invalid birthday	registration	fr	Vous avez entré une date d'anniversaire invalide
+you have entered an invalid email address	registration	fr	Vous avez entré une adresse e-mail invalide
+you must enter a password	registration	fr	Vous devez entrer un mot de passe
+you must enter a username	registration	fr	Vous devez entrer un nom d'utilisateur
+you must enter an email account	registration	fr	Vous devez entrer un compte e-mail
+you must enter an email address	registration	fr	Vous devez entrer une adresse e-mail.
+you must fill in all of the required fields	registration	fr	Vous devez remplir tous les champs demandés
+you requested to change your password. please follow the url below to do so. this url will expire in two hours. after this delay you should go thru the lost password procedure again.	registration	fr	Vous avez demandé de changer votre mot de passe. Veuillez svp suivre l'URL ci-dessous pour le faire. Cette URL expirera dans 2 heures. Passé ce délai, vous devrez recommencer la procédure de récupération de mot de passe.
+you specified a value for %1 that is not a choice	registration	fr	Vous avez specifié une valeur pour %1 mais ce n'est pas un choix possible
+your account is now active!	registration	fr	Votre compte est actif maintenant!
+your password was changed.	registration	fr	Votre mot de passe a été modifié.
+zip/postal	registration	fr	Code Postal

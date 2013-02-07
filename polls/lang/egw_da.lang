@@ -1,0 +1,31 @@
+actions	polls	da	handlinger
+add answer to poll	polls	da	Tilføj svar til afstemning
+add answers	polls	da	Tilføj svarene
+add new poll question	polls	da	Tilføj ny afstemnings spørgsmål
+add questions	polls	da	Tilføj spørgsmål
+allow users to vote more then once	polls	da	Tillad brugere at stemme mere end én gang
+answer	polls	da	Svar
+answer has been added to poll	polls	da	Svar er tilføjet til afstemningen
+answer has been updated	polls	da	Svar er opdateret
+answers	polls	da	Svar
+are you sure want to delete this answer ?	polls	da	Er du sikker på du vil slette dette svar?
+are you sure want to delete this question ?	polls	da	Er du sikker på du vil slette dette spørgsmål?
+edit answer	polls	da	Redigér svar
+edit poll question	polls	da	Redigér afstemnings spørgsmål
+enter poll question	polls	da	Indtast afstemnings spørgsmål
+new poll has been added.  you should now add some answers for this poll	polls	da	Ny afstemning er tilføjet. Du bør nu tilføje nogle svar til denne afstemning
+poll question	polls	da	Afstemnings spørgsmål
+poll settings	common	da	Afstemnings indstillinger
+polls	common	da	Afstemninger
+question has been updated	polls	da	Spørgsmål er opdateret
+select current poll	polls	da	Vælg den nuværende afstemning
+settings	polls	da	indstillinger
+settings updated	polls	da	Indstillingerne er opdateret
+show answers	polls	da	Vis svar
+show questions	common	da	Vis spørgsmål
+total votes	polls	da	Total
+view poll	polls	da	Se afstemning
+vote	polls	da	Stem
+voting booth admin	admin	da	Stemmeboks
+voting booth administration	polls	da	Stemmeboks administration
+which poll	polls	da	Hvilken afstemning

@@ -1,0 +1,25 @@
+%1 - %2 of %3	sambaadmin	nl	%1 - %2 van %3
+add workstation	sambaadmin	nl	werkstation toevoegen
+check ldap setup (experimental!!!)	admin	nl	LDAP instellingen controleren (experimenteel!!!)
+computer group	admin	nl	computer groep
+computer ou	admin	nl	computer ou
+displayname	sambaadmin	nl	schermnaam
+do you really want to delete selected workstation accounts?	sambaadmin	nl	Wilt u de geselecteerde werkstation accounts werkelijk verwijderen?
+homedrive	admin	nl	homedrive
+homepath	sambaadmin	nl	homepad
+logonscript	admin	nl	loginscript
+new account defaults	admin	nl	nieuw account standaarden
+participants	sambaadmin	nl	Deelnemers
+path to mkntpwd	admin	nl	pad naar mkntpwd
+profilepath	admin	nl	profielpad
+samba config	sambaadmin	nl	samba configuratie
+samba settings	common	nl	Samba instellingen
+samba sid	admin	nl	Samba SID
+sambaadmin	common	nl	Samba beheer
+smb homepath	admin	nl	smb homepad
+workstation account for	sambaadmin	nl	werkstation account voor
+workstation configuration	sambaadmin	nl	werkstation configuratie
+workstation list	sambaadmin	nl	werkstation lijst
+workstation name	sambaadmin	nl	werkstation naam
+workstationaccount active	sambaadmin	nl	werkstationaccount actief
+workstations	sambaadmin	nl	werkstations

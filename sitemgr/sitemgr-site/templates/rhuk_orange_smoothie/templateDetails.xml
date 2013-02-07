@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<mosinstall type="template">
+	<name>rhuk_orange_smoothie</name>
+	<creationDate>01/17/04</creationDate>
+	<author>rhuk</author>
+	<copyright>This template is released as Freeware. If you alter it, please mention that it was based on the "rhuk's Orange Smoothie" design.</copyright>
+	<authorEmail>rhuk@rhuk.net</authorEmail>
+	<authorUrl>mambo.rhuk.net</authorUrl>
+	<version>1.0</version>
+	<description>Orange Smoothie is designed as a clean and fast fixed width template</description>
+	<files>
+		<filename>index.php</filename>
+		<filename>template_thumbnail.png</filename>
+	</files>
+	<images>
+		<filename>images/spacer.gif</filename>
+		<filename>images/shadow_right.gif</filename>
+		<filename>images/orange_spacer.gif</filename>
+		<filename>images/generic_header.jpg</filename>
+		<filename>images/dotdotdot.gif</filename>
+		<filename>images/blocks_bg.gif</filename>
+		</images>
+	<css>
+		<filename>css/template_css.css</filename>
+	</css>
+</mosinstall>

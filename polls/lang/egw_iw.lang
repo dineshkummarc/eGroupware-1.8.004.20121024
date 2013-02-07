@@ -1,0 +1,33 @@
+actions	polls	iw	פעולות
+add answer to poll	polls	iw	הוסף תשובה לקלפי
+add answers	polls	iw	הוסף תשובות
+add new poll question	polls	iw	הוסף שאלת קלפי חדשה
+add questions	polls	iw	הוסף שאלות
+allow users to vote more then once	polls	iw	לאפשר למשתמשים להצביע יותר מפעם אחת
+answer	polls	iw	תשובה
+answer has been added to poll	polls	iw	התשובה נוספה לקלפי
+answer has been updated	polls	iw	התשובה עודכנה
+answers	polls	iw	תשובות
+are you sure want to delete this answer ?	polls	iw	?בטוח שברצונך למחוק תשובה זו
+are you sure want to delete this question ?	polls	iw	?בטוח שברצונך למחוק שאלה זו
+current poll	polls	iw	קלפי נוכחי
+edit answer	polls	iw	ערוך תשובה
+edit poll question	polls	iw	ערוך שאלת הקלפי
+enter poll question	polls	iw	הכנס שאלת קלפי
+new poll has been added.  you should now add some answers for this poll	polls	iw	נוסף קלפי חדש. כעת יש להוסיף תשובות לקלפי זה
+poll question	polls	iw	שאלת הקלפי
+poll settings	common	iw	הגדרות קלפי
+polls	common	iw	קלפיות
+question has been updated	polls	iw	השאלה עודכנה
+select current poll	polls	iw	בחר קלפי נוכחי
+settings	polls	iw	הגדרות
+settings updated	polls	iw	ההגדרות עודכנו
+show answers	polls	iw	הצג תשובות
+show questions	common	iw	הצג שאלות
+total votes	polls	iw	סה"כ
+view poll	polls	iw	הצג קלפי
+view results	polls	iw	הצג תוצאות
+vote	polls	iw	הצביע
+voting booth admin	admin	iw	פרגוד
+voting booth administration	polls	iw	ניהול הפרגוד
+which poll	polls	iw	איזה קלפי

@@ -1,0 +1,45 @@
+%1 group	polls	pt-br	Grupo %1
+actions	polls	pt-br	Ações
+add answer to poll	polls	pt-br	Adicionar resposta a uma enquete
+add answers	polls	pt-br	Adicionar respostas
+add new poll question	polls	pt-br	Adicionar nova pergunta
+add questions	polls	pt-br	Adicionar perguntas
+administrators	polls	pt-br	Administradores
+allow users to vote more then once	polls	pt-br	Permitir aos usuários votarem mais de uma vez
+allways use latest poll	polls	pt-br	Sempre use a última enquete
+answer	polls	pt-br	Resposta
+answer has been added to poll	polls	pt-br	Resposta adicionada
+answer has been updated	polls	pt-br	Resposta atualizada
+answers	polls	pt-br	Respostas
+are you sure want to delete this answer ?	polls	pt-br	Você tem certeza que deseja remover essa resposta?
+are you sure want to delete this question ?	polls	pt-br	Você tem certeza que deseja remover essa pergunta?
+current poll	polls	pt-br	Enquete atual
+edit answer	polls	pt-br	Editar resposta
+edit poll question	polls	pt-br	Editar pergunta
+egroupware users (non-anonymous)	polls	pt-br	usuários eGroupWare (não anônimos)
+enter poll question	polls	pt-br	Incluir pergunta
+everyone incl. anonymous users	polls	pt-br	Todos, incluindo usuários anônimos
+new poll has been added.  you should now add some answers for this poll	polls	pt-br	Nova enquete foi adicionada.  Você deve agora adicionar algumas respostas.
+noone	polls	pt-br	Ninguém
+poll question	polls	pt-br	Perguntas
+poll votable by	polls	pt-br	Enquete votável por
+polls	common	pt-br	Enquetes
+question has been updated	polls	pt-br	A pergunta foi atualizada
+result visible to	polls	pt-br	Resultados visíveis para
+select current poll	polls	pt-br	Selecionar enquete atual
+settings updated	polls	pt-br	Configurações atualizadas
+show answers	polls	pt-br	Exibir respostas
+show bullet if allowed to vote and result else	polls	pt-br	Exibir célula se a votação for permitida ou, caso contrário, o resultado
+show only the ballot	polls	pt-br	Exibir apenas a célula
+show only the result	polls	pt-br	Exbiri apenas o resultado
+show questions	common	pt-br	Exibir perguntas
+this module displays polls.	polls	pt-br	Este módulo exibe enquetes
+total votes	polls	pt-br	Total de respostas
+view poll	polls	pt-br	Exibir enquete
+view results	polls	pt-br	Exibir resultados
+vote	polls	pt-br	Responder
+voting booth admin	admin	pt-br	Área de votação
+voting booth administration	polls	pt-br	Área de Administração de enquetes
+what to show	polls	pt-br	O que exibir
+which poll	polls	pt-br	Qual enquete
+you are not (yet) allowed view the result of this vote.	polls	pt-br	Você não está permitido (ainda) a exibir o resultado deste voto.

@@ -1,0 +1,77 @@
+%1 bookmarks have been deleted	bookmarks	sk	%1 záložiek bolo odstránených
+%1 bookmarks imported from %2 successfully.	bookmarks	sk	%1 záložiek z %2 sa úspešne naimportovalo.
+(comma separate multiple addresses)	bookmarks	sk	(čiarkou oddelených viacero adries)
+<b>note:</b> this currently works with netscape bookmarks only	bookmarks	sk	<b>Upozornenie:</b> Toto momentálne funguje len so záložkami v Netscape
+all bookmarks	bookmarks	sk	Všetky záložky
+and	bookmarks	sk	A
+append this message to mailed bookmarks	bookmarks	sk	Túto správu pripojiť k záložkám odoslaným E-mailom
+ascending	bookmarks	sk	Vzostupné
+book marks	common	sk	Záložky
+bookmark changed sucessfully	bookmarks	sk	Záložka bola úspešne zmenená
+bookmark created successfully.	bookmarks	sk	Záložka bola úspešne vytvorená.
+bookmark deleted successfully	bookmarks	sk	Záložka bola úspešne odstránená.
+bookmark deleted successfully.	bookmarks	sk	Záložka bola úspešne odstránená.
+bookmark not editable	bookmarks	sk	Záložka sa nedá upravovať
+bookmark not readable	bookmarks	sk	Záložka sa nedá čítať
+bookmarks	common	sk	Záložky
+bookmarks settings	bookmarks	sk	Nastavenia záložiek
+change bookmark	bookmarks	sk	Zmeniť záložku
+choose the categories to display	bookmarks	sk	Vyberte, ktoré kategórie zobraziť
+close this window to return	bookmarks	sk	pre návrat zavrite toto okno
+create bookmark	bookmarks	sk	Vytvoriť záložku
+create new bookmark	bookmarks	sk	Vytvoriť novú záložku
+date added	bookmarks	sk	Dátum pridania
+date changed	bookmarks	sk	Dátum zmeny
+date last updated	bookmarks	sk	Dátum poslednej aktualizácie
+date last visited	bookmarks	sk	Dátum poslednej návštevy
+descending	bookmarks	sk	Zostupne
+edit bookmark	bookmarks	sk	Upraviť záložku
+edit this bookmark	bookmarks	sk	Uprav túto záložku
+enter the name of the netscape bookmark file<br>that you want imported into bookmarker below.	bookmarks	sk	Zadajte názov súboru záložiek Netscape<br>ktorý chcete naimportovať do doleuvedeného záložkovača.
+export bookmarks	common	sk	Exportovať záložky
+fewer	bookmarks	sk	Menej
+filter by	bookmarks	sk	Filtrovať podľa
+found a link you might like	bookmarks	sk	Našiel sa odkaz, ktorý by vás mohol zaujímať
+from	bookmarks	sk	Od
+from category %1	bookmarks	sk	z kategórie %1
+global categories	bookmarks	sk	Globálne kategórie
+highest	bookmarks	sk	Najvyššie
+i thought you would be interested in the following link(s):	bookmarks	sk	Myslím, že by vás mohli zaujímať nasledujúce odkazy:
+import bookmarks	common	sk	Naimportovať záložky
+like	bookmarks	sk	ako
+list view	bookmarks	sk	zobraziť zoznam
+lowest	bookmarks	sk	Najnižšie
+mail this bookmark	bookmarks	sk	Poslať túto záložku E-mailom
+mail-this-link message sent to %1.	bookmarks	sk	správa s odkazom bola odoslaná pre %1.
+mass update:	bookmarks	sk	Hromadná aktualizácia:
+message from	bookmarks	sk	Správa od
+more	bookmarks	sk	Viac
+name	bookmarks	sk	Meno
+name is required	bookmarks	sk	Je potrebné meno
+netscape bookmark file	bookmarks	sk	Súbor so záložkami Netscape
+netscape bookmark filename is required!	bookmarks	sk	Je potrebný názov súboru záložiek Netscape
+new	bookmark	sk	Nová
+new bookmark	bookmarks	sk	Nová záložka
+or	bookmarks	sk	alebo
+please fill out <b>to e-mail address</b>, <b>subject</b>, and <b>message</b>!	bookmarks	sk	Prosím vyplňte <B>Adresu Komu</B>,<B>Predmet</B>,a <B>Spr8vu</B>!
+please select the categories to export	bookmarks	sk	Prosím vyberte kategórie ktoré chcete exportovať
+query condition	bookmarks	sk	Výberové kritérium
+rating	bookmarks	sk	Hodnotenie
+search for:	bookmarks	sk	Vyhľadať:
+select the format you would like to export to	bookmarks	sk	Vyberte formát do ktorého chcete exportovať
+send bookmark	bookmarks	sk	Poslať záložku
+sub category	bookmarks	sk	Podkategória
+this module displays bookmarks in a javascript based tree	bookmarks	sk	Tento modul zobrazuje záložky v javaskriptovom strome
+to address %1 invalid. format must be <strong>user@domain</strong> and domain must exist!	bookmarks	sk	Adresa Kmou %1 je chybná. Formát musí byť <strong>user@domain</strong> a doména musí byť spomedzi existujúcich!
+to e-mail addresses	bookmarks	sk	Adresa Komu
+to which category should the imported folder hierarchy be attached	bookmarks	sk	Ku ktorej kategórii mám priradiť naimportovanú hierarchiu priečinkov
+total visits	bookmarks	sk	návštev celkovo
+tree view	bookmarks	sk	Stromový pohľad
+unable to open temp file %1 for import.	bookmarks	sk	Súbor %1 sa nepodarilo otvoriť pre import.
+url is required.	bookmarks	sk	Je potrebná URL adresa.
+view bookmark	bookmarks	sk	Zobraziť záložku
+view this bookmark	bookmarks	sk	Zobraziť túto záložku
+warning	bookmarks	sk	Pozor
+you are viewing this site outside of egroupware	bookmarks	sk	Stránka, na ktorú sa pozeráte, je už mimo eGroupWare
+you must select a category	bookmarks	sk	Musíte vybrať kategóriu
+you need to select a category!	bookmarks	sk	Najprv musíte vybrať kategóriu!

@@ -1,0 +1,77 @@
+%1 bookmarks have been deleted	bookmarks	pl	%1 zakładek zostało usuniętych
+%1 bookmarks imported from %2 successfully.	bookmarks	pl	%1 z %2 zakładek zostało skutecznie zaimportowanych
+(comma separate multiple addresses)	bookmarks	pl	(przecinek oddziela kilka adresów)
+<b>note:</b> this currently works with netscape bookmarks only	bookmarks	pl	<b>Uwaga:</b> Funkcja dostępna obecnie jedynie w przeglądarce Netscape.
+all bookmarks	bookmarks	pl	Wszystkie zakładki
+and	bookmarks	pl	oraz
+append this message to mailed bookmarks	bookmarks	pl	Dołącz tę wiadomość do wysyłanych zakładek
+ascending	bookmarks	pl	Rosnąco
+book marks	common	pl	Zakładki
+bookmark changed sucessfully	bookmarks	pl	Zakładka została zmieniona.
+bookmark created successfully.	bookmarks	pl	Zakładka została utworzona.
+bookmark deleted successfully	bookmarks	pl	Zakładka została usunięta.
+bookmark deleted successfully.	bookmarks	pl	Zakładka została usunięta.
+bookmark not editable	bookmarks	pl	Nie można edytować zakładki
+bookmark not readable	bookmarks	pl	Nie można odczytać zakładki
+bookmarks	common	pl	Zakładki
+bookmarks settings	bookmarks	pl	Ustawienia Zakładek
+change bookmark	bookmarks	pl	Zmień Zakładkę
+choose the categories to display	bookmarks	pl	Wybierz kategorie do wyświetlenia
+close this window to return	bookmarks	pl	zamknij onko aby wrócić
+create bookmark	bookmarks	pl	Stwórz zakładkę
+create new bookmark	bookmarks	pl	Tworzenie nowej zakładki
+date added	bookmarks	pl	Data została dodana
+date changed	bookmarks	pl	Data została zmieniona
+date last updated	bookmarks	pl	Data ostatniej aktualizacji
+date last visited	bookmarks	pl	Data ostatniej wizyty
+descending	bookmarks	pl	Malejąco
+edit bookmark	bookmarks	pl	Edycja zakładki
+edit this bookmark	bookmarks	pl	Edycja zakładki
+enter the name of the netscape bookmark file<br>that you want imported into bookmarker below.	bookmarks	pl	Podaj nazwę pliku zakładek Netscape.<br />który chcesz zaimportować do poniższego kontenera.
+export bookmarks	common	pl	Eksportuj Zakładki
+fewer	bookmarks	pl	Zmniej
+filter by	bookmarks	pl	Sortuj wg
+found a link you might like	bookmarks	pl	Znaleziono link, który może ci się podobać
+from	bookmarks	pl	Z
+from category %1	bookmarks	pl	z kategorii %1
+global categories	bookmarks	pl	Kategorie globalne
+highest	bookmarks	pl	Najwyższy
+i thought you would be interested in the following link(s):	bookmarks	pl	Pomyślałem, że mogłbyś być zainteresowany następującymi linkami:
+import bookmarks	common	pl	Importuj zakładki
+like	bookmarks	pl	jak
+list view	bookmarks	pl	widok listy
+lowest	bookmarks	pl	Najniższy
+mail this bookmark	bookmarks	pl	Wyślij zakładkę
+mail-this-link message sent to %1.	bookmarks	pl	wiadomość z tym odnośnikiem zostatała wysłana do %1
+mass update:	bookmarks	pl	Masowa aktualizacja
+message from	bookmarks	pl	Wiadomość od
+more	bookmarks	pl	Więcej
+name	bookmarks	pl	Nazwa
+name is required	bookmarks	pl	Nazwa jest wymagana
+netscape bookmark file	bookmarks	pl	Plik Zakładki Netscape'a
+netscape bookmark filename is required!	bookmarks	pl	Nazwa pliku zakładki Netscape'a jest wymagana!
+new	bookmark	pl	Nowa
+new bookmark	bookmarks	pl	Nowa zakładka
+or	bookmarks	pl	lub
+please fill out <b>to e-mail address</b>, <b>subject</b>, and <b>message</b>!	bookmarks	pl	Proszę wypełnić: <b>adres odbiorcy</b>, <b>temat</b> oraz <b>treść wiadomości</b>!
+please select the categories to export	bookmarks	pl	Prosimy wybrać kategorie do eksportu
+query condition	bookmarks	pl	Warunek zapytania
+rating	bookmarks	pl	Ocena
+search for:	bookmarks	pl	Szukaj:
+select the format you would like to export to	bookmarks	pl	Wybierz format, który chciałbyś exportować
+send bookmark	bookmarks	pl	Wyślij zakładkę
+sub category	bookmarks	pl	Podkategoria
+this module displays bookmarks in a javascript based tree	bookmarks	pl	Ten moduł wyświetla zakładki w drzewku javascript
+to address %1 invalid. format must be <strong>user@domain</strong> and domain must exist!	bookmarks	pl	Adres odbiorcy %1 nieprawidłowy. Powinien być <strong>użytkownik@domena</strong> i musi być to poprawna domena.
+to e-mail addresses	bookmarks	pl	Na Adres E-mail
+to which category should the imported folder hierarchy be attached	bookmarks	pl	Do której kategorii hierarchia zaimportowanego folderu powinna być dołączona
+total visits	bookmarks	pl	Wszystkich wizyt
+tree view	bookmarks	pl	Widok drzewa
+unable to open temp file %1 for import.	bookmarks	pl	Nie udało się otworzyć pliku tymczasowego %1 dla importu.
+url is required.	bookmarks	pl	Adres URL jest wymagany.
+view bookmark	bookmarks	pl	Pokaż zakładkę
+view this bookmark	bookmarks	pl	Pokaż tę zakładkę
+warning	bookmarks	pl	Ostrzeżenie
+you are viewing this site outside of egroupware	bookmarks	pl	Oglądasz tę stronę spoza systemu eGroupware
+you must select a category	bookmarks	pl	Musisz wybrać kategorię
+you need to select a category!	bookmarks	pl	Musisz wybrać kategorię!

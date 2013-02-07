@@ -1,0 +1,90 @@
+%1 module	news_admin	sv	%1 modul
+actions	news_admin	sv	Åtgärder
+active	news_admin	sv	Aktiv
+add new article	news_admin	sv	Skriv artikel
+add new news	news_admin	sv	Skriv artikel
+add news item	news_admin	sv	Skriv artikel
+all news	news_admin	sv	Alla artiklar
+always	news_admin	sv	Alltid
+by date	news_admin	sv	Enligt datum
+choose a category	news_admin	sv	Välj kategori
+configuration	news_admin	sv	Alternativ
+configure access permissions	common	sv	Reglera åtkomst
+configure rss exports	common	sv	Konfigurera RSS exporter
+contains html	news_admin	sv	Innehåller HTML
+content	news_admin	sv	Innehåll
+date and time	news_admin	sv	Datum och tid
+delete this news	news_admin	sv	Radera nyheten
+do you want to publish a rss feed for this news category	news_admin	sv	Vill du publicera RSS för denna nyhetskategori
+edit news item	news_admin	sv	Redigera artiklar
+end	news_admin	sv	Till och med
+error saving the news!	news_admin	sv	Kunde inte spara artikeln!
+failed to add message	news_admin	sv	Kunde inte skapa nytt meddelande
+format for links to items	news_admin	sv	Format på länkar till objekt
+format of export	news_admin	sv	Export format
+from	news_admin	sv	Från
+from all	news_admin	sv	Från alla
+future	news_admin	sv	Framtida
+global categories	news_admin	sv	Globala kategorier
+global news	news_admin	sv	Globala artiklar
+global_news	news_admin	sv	Globala artiklar
+headline	news_admin	sv	Rubrik
+headline with link	news_admin	sv	Rubrik med länk
+image link	news_admin	sv	Bildlänk
+image title	news_admin	sv	Bildtitel
+image url	news_admin	sv	BildURL
+implies read permission	news_admin	sv	Ger läsrättighet
+item has been deleted	news_admin	sv	Artikeln raderat
+item not found	news_admin	sv	Hittade inte artikel
+link	news_admin	sv	Länk
+main	news_admin	sv	Huvudsida
+maintain	news_admin	sv	Underhåll
+maintain news	admin	sv	Underhåll artiklar
+message has been added	news_admin	sv	Meddelandet tillagt
+more news	news_admin	sv	Fler artiklar
+more news link	news_admin	sv	Fler artikel länkar
+new item has been added	news_admin	sv	Artikeln skapad
+news	news_admin	sv	Artiklar
+news admin	news_admin	sv	Artikelhantering
+news administration	news_admin	sv	Artikelhantering
+news deleted.	news_admin	sv	Artikeln raderad
+news item has been added	news_admin	sv	Artikeln sparad
+news item has been updated	news_admin	sv	Artikeln uppdaterad
+news saved.	news_admin	sv	Artikeln sparad
+news_admin	common	sv	Artikelhantering
+no entries found	news_admin	sv	Inga artiklar hittade
+no matching news item	news_admin	sv	Hittade inga artiklar
+no news	news_admin	sv	Inga artiklar i kategorin
+no rss export	news_admin	sv	Ingen RSS export
+now	news_admin	sv	Nu
+number of articles to display on the main screen	news_admin	sv	Antal ariklar att visa på Startsidan
+number of news items to be displayed on page	news_admin	sv	Antal artiklar som visas på Startsidan
+old	news_admin	sv	Äldre
+on	news_admin	sv	På
+picture upload (leave the upload directory empty to disable the upload)	admin	sv	Bild (lämna uppladdningskatalog tom för att inte ladda upp)
+please select a category	news_admin	sv	Var god och välj en kategori
+publish date	news_admin	sv	Publiseringsdatum
+read more	news_admin	sv	Läs mer
+read news	news_admin	sv	Läs artikel
+read permissions	news_admin	sv	Läsrättighet
+send mail to others	news_admin	sv	Skicka e-post till andra
+should news_admin display the latest article headlines on the main screen.	news_admin	sv	Visa senaste artikelrubriker på Startsidan
+show latest news articles?	news_admin	sv	Visa senaste artiklar
+show news articles on main page?	news_admin	sv	Visa artiklar på Startsidan
+small view	news_admin	sv	Liten vy
+start	news_admin	sv	Från och med
+submitted by	common	sv	Postad av
+submitted by %1 on %2	news_admin	sv	Publicerad av %1 den %2
+teaser	news_admin	sv	Brödtext
+teaser with read more link	news_admin	sv	Brödtext med läs mer länk
+the news content is missing	news_admin	sv	Nyhetsinnehåll saknas
+the number of articles to display on the main screen.	news_admin	sv	Antal artiklar att visa på Startsidan?
+the subject is missing	news_admin	sv	Rubrik saknas
+this module publishes news from the news_admin application on your website. be aware of news_admin's acl restrictions.	news_admin	sv	Modulen publicerar artiklar från artikelhanterings applikationen till din webbsida. Kontrollera artikelhanteringens ACL restriktioner.
+until	news_admin	sv	Tills
+view this category	news_admin	sv	Visa kategori
+visible	news_admin	sv	Synlig
+webpage news admin	news_admin	sv	Webbartikelhantering
+which information do you want to show (css class)	news_admin	sv	Vilken information vill du visa (CSS klass)
+write	news_admin	sv	Skriv
+write permissions	news_admin	sv	Skrivrättighet

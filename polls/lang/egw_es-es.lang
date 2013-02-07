@@ -1,0 +1,45 @@
+%1 group	polls	es-es	grupo %1
+actions	polls	es-es	acciones
+add answer to poll	polls	es-es	Añadir respuestas al sondeo
+add answers	polls	es-es	Añadir respuestas
+add new poll question	polls	es-es	Añadir nueva pregunta al sondeo
+add questions	polls	es-es	Añadir preguntas
+administrators	polls	es-es	Administradores
+allow users to vote more then once	polls	es-es	permitir a los usuarios votar más de una vez
+allways use latest poll	polls	es-es	Siempre usar el último sondeo
+answer	polls	es-es	Respuesta
+answer has been added to poll	polls	es-es	La respuesta se ha añadido al sondeo
+answer has been updated	polls	es-es	La respuesta ha sido actualizada
+answers	polls	es-es	Respuestas
+are you sure want to delete this answer ?	polls	es-es	¿Seguro que quiere borrar esta respuesta?
+are you sure want to delete this question ?	polls	es-es	¿Seguro que quiere borrar esta pregunta?
+current poll	polls	es-es	Sondeo actual
+edit answer	polls	es-es	Editar respuesta
+edit poll question	polls	es-es	Editar respuesta del sondeo
+egroupware users (non-anonymous)	polls	es-es	Usuarios de eGroupWare (no anónimos)
+enter poll question	polls	es-es	Introducir pregunta para el sondeo
+everyone incl. anonymous users	polls	es-es	Todos, incluso los anónimos
+new poll has been added.  you should now add some answers for this poll	polls	es-es	Se ha añadido un nuevo sondeo. Debe añadir ahora las respuestas para este sondeo.
+noone	polls	es-es	Nadie
+poll question	polls	es-es	Pregunta para el sondeo
+poll votable by	polls	es-es	Sondeo votable por
+polls	common	es-es	Sondeos
+question has been updated	polls	es-es	La pregunta ha sido actualizada
+result visible to	polls	es-es	Resultado visible para
+select current poll	polls	es-es	Seleccionar sondeo actual
+settings updated	polls	es-es	Configuración actualizada
+show answers	polls	es-es	Mostrar respuestas
+show bullet if allowed to vote and result else	polls	es-es	Mostrar el icono si tiene permiso para votar y ver los resultados. Si no
+show only the ballot	polls	es-es	Mostrar sólo la votación
+show only the result	polls	es-es	Mostrar sólo el resultado
+show questions	common	es-es	Mostrar preguntas
+this module displays polls.	polls	es-es	Este módulo sólo muestra sondeos.
+total votes	polls	es-es	Total
+view poll	polls	es-es	Ver sondeo
+view results	polls	es-es	Ver resultados
+vote	polls	es-es	Votar
+voting booth admin	admin	es-es	Puesto del voto
+voting booth administration	polls	es-es	Administración de puestos de voto
+what to show	polls	es-es	Qué mostrar
+which poll	polls	es-es	Qué sondeo
+you are not (yet) allowed view the result of this vote.	polls	es-es	No puede (aún) ver el resultado de esta votación.

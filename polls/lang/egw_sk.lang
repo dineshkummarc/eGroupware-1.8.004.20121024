@@ -1,0 +1,46 @@
+%1 group	polls	sk	%1 skupina
+actions	polls	sk	Akcie
+add answer to poll	polls	sk	Pridať odpoveď pre voľbu
+add answers	polls	sk	Pridať odpovede
+add new poll question	polls	sk	Pridať novú otázku pre voľbu
+add questions	polls	sk	Pridať otázky
+administrators	polls	sk	Správcovia
+allow users to vote more then once	polls	sk	Pridať používateľov s možnosťou opakovanej voľby
+allways use latest poll	polls	sk	Vždy použiť najnovšiu voľbu
+answer	polls	sk	Odpoveď
+answer has been added to poll	polls	sk	Odpoveď bola pridaná do voľby
+answer has been updated	polls	sk	Odpoveď bola aktualizovaná
+answers	polls	sk	Odpovede
+are you sure want to delete this answer ?	polls	sk	Naozaj chcete odstrániť túto odpoveď?
+are you sure want to delete this question ?	polls	sk	Naozaj chcete odstrániť túto otázku?
+current poll	polls	sk	Aktuálna voľba
+edit answer	polls	sk	Upraviť odpoveď
+edit poll question	polls	sk	Upraviť otázku pre voľbu
+egroupware users (non-anonymous)	polls	sk	Používatelia eGroupWare (nie anonymní)
+enter poll question	polls	sk	Zadať otázku pre voľbu
+everyone incl. anonymous users	polls	sk	Všetci vrátane anonymných používateľov
+new poll has been added.  you should now add some answers for this poll	polls	sk	Nová voľba bola pridaná. Mali by ste teraz zadať nejaké odpovede pre túto voľbu
+noone	polls	sk	Nikto
+poll question	polls	sk	Otázka pre voľbu
+poll votable by	polls	sk	Hlasovať môže
+polls	common	sk	Voľby
+question has been updated	polls	sk	Otázka bola aktualizovaná
+result visible to	polls	sk	Výsledky smie vidieť
+select current poll	polls	sk	Vyberte aktuálnu voľbu
+settings updated	polls	sk	Nastavenia boli aktualizované
+show answers	polls	sk	Zobraziť odpovede
+show bullet if allowed to vote and result else	polls	sk	Zobraziť odrážku ak je povolené hlasovať, ináč výsledky
+show only the ballot	polls	sk	Zobraziť iba hlasovanie
+show only the result	polls	sk	Zobraziť iba výsledky
+show questions	common	sk	Zobraziť otázky
+site configuration	polls	sk	Konfigurácia stránky
+this module displays polls.	polls	sk	Tento modul zobrazuje voľby.
+total votes	polls	sk	Celkovo
+view poll	polls	sk	Zobraziť voľbu
+view results	polls	sk	Zobraziť výsledky
+vote	polls	sk	Hlasovať
+voting booth admin	admin	sk	Hlasovacia kabína
+voting booth administration	polls	sk	Správa hlasovacej kabíny
+what to show	polls	sk	Čo zobraziť
+which poll	polls	sk	Ktorá voľba
+you are not (yet) allowed view the result of this vote.	polls	sk	Nemôžete (zatiaľ) vidieť výsledky tejto voľby.

@@ -1,0 +1,599 @@
+%1 content manager	sitemgr	fi	%1 sisällön hallinta
+%1 module manager	sitemgr	fi	%1 modulin hallinta
+'%1' is no valid sitemgr-site directory !!!	sitemgr	fi	%1 ei ole kelpo sivunhallinnan sivuston hakemisto !!!
+(do not put spaces or punctuation in the name field.)	sitemgr	fi	Älä laita välilyöntiä tai välimerkkejä Nimi -kenttään.
+(leave blank to allow insecure logins)	sitemgr	fi	(jätä tyhjä salliaksesi suojaamattomat kirjautumiset)
+(leave blank to stay on current page)	sitemgr	fi	(jätä tyhjäksi pysyäksesi nykyisellä sivulla)
+(only used in case of single file)	sitemgr	fi	(käytetään vain yksittäisessä tiedostossa)
+1 day	common	fi	1 päivä
+1 hour	common	fi	1 tunti
+1 month	common	fi	1 kuukausi
+1 week	common	fi	1 viikko
+<b>autoregistration is not enabled / configured in the registration app !!!</b><br>you need to do so, to get the autoregistration link working.	sitemgr	fi	<b>Automaattinen rekisteröinti ei ole käytössä/konfiguroitu rekisteröinnin sovelluksessa!!!</b><br>Sinun tarvitsee tehdä niin saadaksesi automaattinen rekisteröintilinkki toimimaan.
+<b>want more templates?</b><br />just download one from the template gallery at %1www.egroupware.org%2 or use a %3mambo open source%4 version 4.5 compatible template eg. from %5. unpack the downloaded template in your templates directory (%6).	sitemgr	fi	<b> Haluatko lisää mallipohjia?</b><br>Lataa lisää malleja %1www.eGroupWare.org%2 galleriasta tai käytä %3 Mambo Open Source %4 versiota 4.5 kanssa yhteensopivaa mallia esim. %5. Pura ladattu malli mallipohjien hakemistossa (%6).
+a simple picture galery	sitemgr	fi	Yksinkertainen kuva galleria
+actif	sitemgr	fi	Aktiivinen
+actions	sitemgr	fi	Toiminnot
+add a category	sitemgr	fi	Lisää kategoria
+add a new application	sitemgr	fi	Lisää uusi sovellus
+add a new guestbook	sitemgr	fi	Lisää uusi vieraskirja
+add block ...	sitemgr	fi	Lisää lohko...
+add block to content area %1	sitemgr	fi	Lisää lohko sisältöalueeseen %1
+add category	sitemgr	fi	Lisää kategoria
+add new page to this category	sitemgr	fi	Lisää uusi sivu tähän ryhmään
+add page	sitemgr	fi	Lisää sivu
+add page to category	sitemgr	fi	Lisää sivu kategoriaan
+add website	sitemgr	fi	Lisää verkkosivusto
+address line 2	sitemgr	fi	Osoiterivi 2
+addressbook the contact should be shown	sitemgr	fi	Osoitekirja missä yhteystiedon tulisi näkyä
+administration	sitemgr	fi	Ylläpito
+administrative menu	sitemgr	fi	Ylläpidon valikko
+administrators	sitemgr	fi	Ylläpitäjät
+advanced plus google: also show google search	sitemgr	fi	Advanced + Google: Näytä myös Google-haku
+all available languages	sitemgr	fi	Kaikki saatavilla olevat kielet
+all categories	sitemgr	fi	Kaikki kategoriat
+all forums in category %1	sitemgr	fi	Kaikki foorumit kategoriassa %1
+all languages	sitemgr	fi	Kaikki kielet
+all sites	sitemgr	fi	Kaikki sivustot
+all words	sitemgr	fi	Kaikki sanat
+allignment of navigation elements	sitemgr	fi	Navigointielementtien tasaus
+allow customer to input a note	sitemgr	fi	Sallitaan muistion lisääminen
+allow posting of questions	sitemgr	fi	Sallitaan kysymysten postitus
+amazon	sitemgr	fi	Amazon
+amazon server (without www), eg. amazon.com	sitemgr	fi	Amazon palvelin (ilman www) esim. amazon.com
+an application directory	sitemgr	fi	Sovelluksen hakemisto
+anonymous	sitemgr	fi	Tuntematon
+anonymous user login domain	sitemgr	fi	Tuntemattoman käyttäjän sisäänkirjautumis domain
+anonymous user's password	sitemgr	fi	Tuntemattoman käyttäjän salasana
+anonymous user's username	sitemgr	fi	Tuntemattoman käyttäjän käyttäjätunnus
+anvanced: show all search modes	sitemgr	fi	Advanced: Näytä kaikki hakumuodot
+any words	sitemgr	fi	Mitkä tahansa sanat
+applet	sitemgr	fi	Sovelma
+application	sitemgr	fi	Sovellus
+application '%1' is not installed !!!<br>please install it, to be able to use the block.	sitemgr	fi	Sovellusta %1 ei ole asennettu !!!<br>Asenna se, jotta sitä voidaan käyttää lohkossa.
+application sitemgr_module_guestbook must be installed as a egroupware application for this module to run	sitemgr	fi	Sovellus sitemgr_module_guestbook täytyy olla asennettuna EGroupwaren sovelluksena, että tämä moduli toimii.
+apply permissions also to subcategories?	sitemgr	fi	Lisätäänkö oikeudet myös alakategorioihin?
+archived	sitemgr	fi	Arkistoitu
+archived content	sitemgr	fi	Arkistoitu sisältö
+are contributors allowed to define new guestbooks?	sitemgr	fi	Ovatko osalliset sallittuja määrittämään uuden vieraskirjan?
+are you sure you want to delete site %1 and all its content? you cannot retrieve it if you continue.	sitemgr	fi	Oletko aivan varma että haluat poistaa sivun %1 ja kaiken sen sisällön? Et voi palauttaa niitä, jos jatkat.
+are you sure you want to delete the category %1 and all of its associated pages?  you cannot retrieve the deleted pages if you continue.	sitemgr	fi	Oletko aivan varma että haluat poistaa ryhmän %1 ja kaikki siihen kytketyt sivut? Et voi palauttaa poistettuja sivuja jos jatkat.
+as	common	fi	niinkuin
+ascending	sitemgr	fi	Nouseva
+asin[=title] pairs (title is optional)	sitemgr	fi	ASIN[=title] parit (otsikko on valinnainen)
+ask customer	sitemgr	fi	Kysy asiakkaalta
+attempt to access information outside current website	sitemgr	fi	Yritys lukea tietoa nykyisen sivuston ulkopuolelta
+attempt to edit non-editable block	sitemgr	fi	Yritys muokata ei muokattavaa lohkoa
+automatic index	sitemgr	fi	Automaattinen indeksi
+automatically generated notification	sitemgr	fi	Luodaan huomautus automaattisesti
+back to module manager	sitemgr	fi	Takaisin modulienhallintaohjelmaan
+back to the list of languages	sitemgr	fi	Takaisin kieliluetteloon
+basic settings	sitemgr	fi	Perusasetukset
+before the public web site can be viewed, you must configure the various locations and preferences.  please go to the sitemgr setup page by following this link:	sitemgr-link	fi	Ennen kuin sivusto voidaan julkaista, sinun pitää säätää useita sijainteja ja asetuksia. Mene Sivustonhallinnan asetuksiin seuraavasta linkistä:
+block not found.	sitemgr	fi	Lohko ei löytynyt
+block reloaded	sitemgr	fi	Lohko ladataan uudelleen
+block returned no content.	sitemgr	fi	Lohko palautettu ilman sisältöä
+block saved	sitemgr	fi	Lohko tallennettu
+bookmarks	sitemgr	fi	Suosikit
+buy at %1	sitemgr	fi	Osta %1
+calendar	sitemgr	fi	Kalenteri
+can't open an url or execute a script, because allow_url_fopen is not set in your php.ini !!!	sitemgr	fi	Ei voi aukaista URL:ia tai suorittaa komentokielistä lausetta, koska url_avaamisen_sallimista ei ole asetettu sinun php.ini:in !!!
+cancel the delete	sitemgr	fi	Peruuta poistaminen
+cannot move page until it has been saved.	sitemgr	fi	Ei voida siirtää sivua, koska sitä ei ole tallennettu.
+category	sitemgr	fi	Kategoria
+category description	sitemgr	fi	Kategorian kuvaus
+category manager	sitemgr	fi	Kategorian hallinta
+category name	sitemgr	fi	Kategorian nimi
+category saved	sitemgr	fi	Kategoria tallennettu
+cats are numeric, pages strings	sitemgr	fi	Kategoriat ovat numeerisia, sivut merkkijonoja
+center	sitemgr	fi	Keskellä
+changes saved.	sitemgr	fi	Muutokset tallennettu.
+check here after every upgrade	sitemgr	fi	Valitse jokaisen päivityksen jälkeen
+check to hide from condensed site index.	sitemgr	fi	Valitse piilottaaksesi merkitykselliset sivujen indeksit
+choose a category	sitemgr	fi	Valitse kategoria
+choose a format	sitemgr	fi	Valitse formaatti
+choose a guestbook	sitemgr	fi	Valitse vieraskirja
+choose language	sitemgr	fi	Valitse kieli
+choose template	sitemgr	fi	Valitse mallipohja
+choose the categories to display	sitemgr	fi	Valitse näytettävä kategoria
+choose the valid html type (note: not all icons are available):	sitemgr	fi	Valitse voimassaoleva HTML muoto (Huom. kaikki ikonit eivät ole käytettävissä)
+choose your site's theme or template.  note that if you changed the above checkbox you need to save before choosing a theme or template.	sitemgr	fi	Valitse sivusi tyyli tai mallipohja. Huomautus, jos muutat edellä mainittua valintalaatikkoa, tallentaa se ennenkuin valitset tyyliä tai mallipohjaa.
+city	sitemgr	fi	Kaupunki
+click here to login through a safe connection.	sitemgr	fi	Napsauta tästä kirjautuaksesi suojatulla yhteydellä
+code file	sitemgr	fi	Kooditiedosto
+codebase url	sitemgr	fi	Codebase URL
+collapse threads	sitemgr	fi	Kutistaa hakemistorungon haarat
+comment	sitemgr	fi	Kommentti
+commit changes	sitemgr	fi	Aseta muutokset
+common prefix of the image-name (a number starting with 1 will be appended)	sitemgr	fi	Kuvan nimen yleinen etuliite (numero, mikä alkaa 1:llä lisätään)
+configure module properties	sitemgr	fi	Määrittele modulin ominaisuudet
+configure sitemgr	sitemgr	fi	Määrittele Sivustonhallinnan asetuksia
+configure website	sitemgr	fi	Määrittele verkkosivusto
+contact fields to show	sitemgr	fi	Näytettävät yhteystiedon kentät
+contact the administrator.	sitemgr	fi	Ota yhteyttä ylläpitäjään
+content areas	sitemgr	fi	Sisältöalueet
+content blocks	sitemgr	fi	Sisältölohko
+content blocks for category	sitemgr	fi	Sisältölohkot kategoriassa
+content manager	sitemgr	fi	Sisällön hallinta
+contentarea	sitemgr	fi	Sisältöalue
+contributor menu	sitemgr	fi	Muokkaaja valikko
+copyright	sitemgr	fi	Tekijänoikeus
+country	sitemgr	fi	Maa
+create new version	sitemgr	fi	Luo uusi versio
+css styles	sitemgr	fi	CSS -tyylit
+currency code of the value specified in amount (eg. usd, eur)	sitemgr	fi	Valuuttakoodi (esim. USD, EUR)
+current section	sitemgr	fi	Nykyinen aihepiiri
+custom	sitemgr	fi	Muokattavat
+custom etemplate for the contactform	sitemgr	fi	Muokattava eMallipohja yhteystietokaavakkeeseen
+default	sitemgr	fi	Oletus
+default home page id number	sitemgr	fi	Kotisivun oletustunnistenumero
+define websites	common	fi	Määrittele verkkosivustot
+delete block	sitemgr	fi	Poista lohko
+delete category	sitemgr	fi	Poista kategoria
+delete page	sitemgr	fi	Poista sivu
+delete this application	sitemgr	fi	Poista tämä sovellus
+delete this block	sitemgr	fi	Poista tämä lohko
+delete this guestbook	sitemgr	fi	Poista tämä vieraskirja
+delete version	sitemgr	fi	Poista versio
+deleting all data for %1	sitemgr	fi	Poistetaan kaikki tieto %1
+department	sitemgr	fi	Osasto
+descending	sitemgr	fi	Laskeva
+details for language %1 (%2)	sitemgr	fi	Yksityiskohdat kieleen %1 (%2)
+directory is not writable by the webserver --> disabling upload	sitemgr	fi	Web-palvelimella EI ole kirjoitusoikeutta hakemistoon --> Lataaminen estetty
+discussions	sitemgr	fi	Keskustelu
+display contact	sitemgr	fi	Näytä yhteystieto
+display link to autoregistration below login form?	sitemgr	fi	Näytetäänkö linkki automaattisenrekisteröinnin alapuolella kirjautumis lomakkeessa?
+do you realy want to delete the selected categories (including all pages), pages and blocks?	sitemgr	fi	Haluatko varmasti poistaa valitut kategoriat (mukaan luettuna kaikki sivut), Sivustot ja lohkot?
+do you realy want to delete this block?	sitemgr	fi	Haluatko varmasti poistaa tämän lohkon?
+do you realy want to delete this page?	sitemgr	fi	Haluatko varmasti poistaa tämän sivun?
+do you want to delete them?	sitemgr	fi	Haluatko poistaa ne?
+documentation	sitemgr	fi	Dokumentointi
+domain-name (offical dns-name eg. www.egroupware.org) if you want to give the user a choice between searching this site or the whole web. leaving it empty allows to search the web only.	sitemgr	fi	Verkkotunnus (DNS nimi esim.www.egroupware.org). jos haluat antaa käyttäjälle mahdollisuuden valita etsimisen tältä sivulta tai koko webistä. Jättämällä tämän tyhjäksi mahdollistaa etsimisen vain webistä.
+don't have an account?	sitemgr	fi	Ei tiliä?
+don't show hiden pages in the path way	sitemgr	fi	Älä näytä piilotettuja sivuja polussa
+don't use egroupware css ">" separator (for templates that uses images/symbols for lists)	sitemgr	fi	Älä käytä EGroupware CSS ">" erotinta (mallipohjissa mitkä käyttävät kuvia /symboleja listoissa)
+done	sitemgr	fi	Valmis
+dont ask	sitemgr	fi	Älä kysy
+download as zip-archiv	sitemgr	fi	Lataa ZIP-arkistona
+downloaded	sitemgr	fi	Ladattu
+draft	sitemgr	fi	Luonnos
+draft mode	sitemgr	fi	Luonnostila
+edit categories and permissions	common	fi	Muokkaa kategorioita ja oikeuksia
+edit category	sitemgr	fi	Muokkaa kategoriaa
+edit individual pages	common	fi	Muokkaa yksittäisiä sivuja
+edit mode	sitemgr	fi	Muokkaustila
+edit notification	sitemgr	fi	Muokkaa huomautuksia
+edit notification message	sitemgr	fi	Muokkaa huomautusviestiä
+edit page	sitemgr	fi	Muokkaa sivua
+edit properties of module %1 for %2 with scope %3	sitemgr	fi	Muokkaa moduulin %1 asetuksia, %2:lle %3:n laajuisesti
+edit site	sitemgr	fi	Muokkaa sivustoa
+edit site header and footer	common	fi	Muokkaa sivuston ylä ja alitunnistetta
+edit this block	sitemgr	fi	Muokkaa tätä lohkoa
+edit website	sitemgr	fi	Muokkaa verkkosivua
+egw users	sitemgr	fi	EGW käyttäjät
+element successfully deleted.	sitemgr	fi	Elementti poistettu onnistuneesti
+email address	sitemgr	fi	Sähköpostiosoite
+enter a name	sitemgr	fi	Anna nimi
+enter the block content here	sitemgr	fi	Kirjoita lohkon sisältö
+enter the email to be notified about changes of the website.	sitemgr	fi	Anna sähköpostiosoite, johon sivulle tehdyistä muokkauksista lähetetään huomautus.
+enter the email to be notified about changes of the website:	sitemgr	fi	Anna sähköpostiosoite, johon sivulle tehdyistä muokkauksista lähetetään huomautus.
+enter the page content here	sitemgr	fi	Kirjoita sivun sisältö tähän
+enterprise knowledge articles repository	sitemgr	fi	Yhteisön artikkeleiden tietopankki
+entry deleted	sitemgr	fi	Merkintä poistettu
+entry duplicated.	sitemgr	fi	Merkintä kahdennettu
+entry saved	sitemgr	fi	Merkintä tallennettu.
+entry saved.	sitemgr	fi	Merkintä tallennettu.
+error accessing page	common	fi	Virhe sivulle pääsemisessä
+error deleting the element.	sitemgr	fi	Virhe poistettaessa elementtiä
+error deleting the entry!!!	sitemgr	fi	Virhe poistettaessa merkintää!!
+error saving the entry!!!	sitemgr	fi	Virhe tallennettaessa merkintää!!
+error uploading file!	sitemgr	fi	Virhe ladattaessa tiedostoa!
+error writing to the database.	sitemgr	fi	Virhe kirjoittaessa tietokantaan.
+error writing to the database: %1.	sitemgr	fi	Virhe kirjoittaessa tietokantaan: %1.
+everybody	sitemgr	fi	Jokainen
+exact phrase	sitemgr	fi	Tarkka fraasi
+expand current category	sitemgr	fi	Laajenna nykyistä kategoriaa.
+fax	sitemgr	fi	Fax
+file %1 is not readable by the webserver !!!	sitemgr	fi	Tiedosto %1 ei ole luettavissa verkkopalvelimelta !!!
+file %1 is outside the docroot of the webserver !!!<br>this module does not allow - for security reasons - to open files outside the docroot.	sitemgr	fi	Tiedosto %1 on palvelimen päätiedostopolun ulkopuolella! <br> Tämä moduuli EI salli - tietoturvasyistä - tiedostojen avaamista päätiedostopolun ulkopuolelta.
+file contents	sitemgr	fi	Tiedoston sisältö
+file download	sitemgr	fi	Tiedosto lataus
+file successful uploaded.	sitemgr	fi	Tiedosto ladattu
+filename	sitemgr	fi	Tiedoston nimi
+filesystem path of the directory where xml files are stored	sitemgr	fi	Hakemiston tiedostojärjestelmän polku missä XML tiedostot varastoidaan
+filesystem path of the image-directory	sitemgr	fi	Tiedostojärjestelmäpolku kuvakansioon
+filesystem path to sitemgr-site directory	sitemgr	fi	Tiedostojärjestelmäpolku sivustonhallinnan kansioon
+fill in permissions from parent category? if you check this, below values will be ignored	sitemgr	fi	Käytetäänkö yläkategorian käyttöoikeusmääritteitä? Jos asetat tämän, alla olevat määritykset jätetään huomiotta.
+flag symbols	sitemgr	fi	Lippusymbolit
+following new modules registed: %1	sitemgr	fi	Seuraavaksi uusia moduleita rekisteröity: %1
+footer editor	sitemgr	fi	Alatunnisteen muokkain
+forever	common	fi	Ikuisesti
+forum	sitemgr	fi	Foorumi
+full path of the xslt file that should be applied to the xml files	sitemgr	fi	XSLT tiedoston koko polku, mikä lisätään XML tiedostoon
+galerie	sitemgr	fi	Galleria
+gallery plus chooser	sitemgr	fi	Galleria ja valinta
+gallery plus chooser and download	sitemgr	fi	Galleria, valinta ja lataus
+gallery plus download	sitemgr	fi	Galleria ja lataus
+go	sitemgr	fi	Mene
+go back to page manager	sitemgr	fi	Mene takaisin sivun hallintaohjelmaan
+go back to the category manager.	sitemgr	fi	Mene takaisin kategorian hallintaohjelmaan
+go to	sitemgr	fi	Mene
+go to page manager	sitemgr	fi	Mene sivun hallintaohjelmaan
+google	sitemgr	fi	Google
+google search	sitemgr	fi	Google haku
+group access permissions	sitemgr	fi	Ryhmän ACL-oikeudet
+group name	sitemgr	fi	Ryhmän nimi
+header editor	sitemgr	fi	Ylätunnisteen muokkain
+headlines	sitemgr	fi	Otsikot
+hello	sitemgr	fi	Hei
+hello world	sitemgr	fi	Hei maailma
+helps you respect html/xhtml standards.	sitemgr	fi	Auttaa sinua noudattamaan HTML / XHTML standardeja
+highlight current page	sitemgr	fi	Korosta nykyinen sivu
+home phone	sitemgr	fi	Kotipuhelin
+horizontal	sitemgr	fi	Vaakaasuuntaan
+html frame	sitemgr	fi	HTML -kehys
+html module	sitemgr	fi	HTML -moduli
+i'm sorry, you do not have write permissions for any site categories.	sitemgr	fi	Sinulla ei ole ACL-kirjoitusoikeutta mihinkään sivuston kategoriaan.
+id	sitemgr	fi	ID/Tunniste
+if nonsecure redirect to:	sitemgr	fi	Jos suojaamaton, ohjaa tänne:
+if you haven't done so already, create a user that will be used for public viewing of the site.  recommended name: anonymous.	sitemgr	fi	Jos et ole jo tehnyt niin, luo käyttäjä jota käytetään yleisön puolelta sivuston katseluun. Suositeltu nimi: anonymous
+image type	sitemgr	fi	Kuvan tyyppi
+implies read permission	sitemgr	fi	Sisältää lukuoikeuden
+index	sitemgr	fi	Indeksi
+individual access permission	sitemgr	fi	Yksittäinen käyttöoikeus
+individual access permissions	sitemgr	fi	Yksittäiset käyttöoikeudet
+interface to google website	sitemgr	fi	Käyttöliittymä Googlen verkkosivulle
+invalid template directory '%1' !!!	sitemgr	fi	Viheellinen mallihakemisto %1 !!!
+knowledge base	sitemgr	fi	Tietopankki
+language:	sitemgr	fi	Kieli:
+languages the site user can choose from	sitemgr	fi	Kielet, joista sivuston käyttäjä voi valita
+last entries to the guestbook	sitemgr	fi	Viimeinen merkintä vieraskirjaan
+latest reply	sitemgr	fi	Viimeisin vastaus
+links for the tabs (comma seperated)	sitemgr	fi	Linkit välilehtiin (pilkulla erotetut)
+list of permitted modules specific to content area %1	sitemgr	fi	Sallittujen moduleiden lista sisällön alueeseen %1
+loged in as:	sitemgr	fi	Kirjautuneena:
+login	sitemgr	fi	Kirjaudu sisään
+login name	sitemgr	fi	Käyttäjätunnus
+main content	sitemgr	fi	Pääsisältö
+mains	sitemgr	fi	Tärkeimmät
+manage archived content	sitemgr	fi	Hallitse arkistoitua sisältöä
+manage categories	sitemgr	fi	Hallitse kategorioita
+manage categories and pages	sitemgr	fi	Hallitse kategorioita ja sivuja
+manage category wide content	sitemgr	fi	Hallitse kategorian laajuista sisältöä
+manage category wide module properties	sitemgr	fi	Hallitse kategorian laajuisia moduuliasetuksia
+manage content	sitemgr	fi	Hallitse sisältöä
+manage modules	sitemgr	fi	Hallitse moduuleita
+manage notification messages	sitemgr	fi	Hallitse huomautusviestejä
+manage notifications	sitemgr	fi	Hallitse huomautusviestejä
+manage page specific content	sitemgr	fi	Hallitse sivukohtaista sisältöä
+manage pages	common	fi	Hallitse sivuja
+manage site content	sitemgr	fi	Hallitse sivuston sisältöä
+manage site-wide content	sitemgr	fi	Hallitse sivuston laajuista sisältöä
+manage site-wide module properties	sitemgr	fi	Hallitse sivuston laajuisia moduuliasetuksia
+manage translations	sitemgr	fi	Hallitse kielikäännöksiä
+master list of permitted modules	sitemgr	fi	Sallittujen modulien oletuslista
+maximal category depth to be shown	sitemgr	fi	Näytettävien kategorioiden maksimisyvyys
+maximal page depth to be shown	sitemgr	fi	Näytettävien sivujen maksimisyvyys
+message not found !!!	sitemgr	fi	Viestiä ei löytynyt!
+message text:	sitemgr	fi	Viestin teksti
+messages are defined for all site languages.	sitemgr	fi	Viestit määritellään sivuston kaikille kielille.
+migrating data for %1 to %2	sitemgr	fi	Siirretään dataa %1:lle %2:teen
+mobile phone	sitemgr	fi	GSM
+module %1 is not permitted in this context!	sitemgr	fi	Moduuli %1 ei ole sallittu tässä viitekehyksessä!
+module manager	sitemgr	fi	Moduulihallinta
+module: %1, scope: %2, contentarea: %3, viewable: %4	sitemgr	fi	Moduli: %1, Laajuus: %2, Sisältöalue: %3, Esikatselu: %4
+move block down (increase sort order)	sitemgr	fi	Siirrä lohko alaspäin
+move block up (decrease sort order)	sitemgr	fi	Siirrä lohko ylöspäin
+move to	sitemgr	fi	Siirrä
+name	sitemgr	fi	Nimi
+name has been translated to lower case	sitemgr	fi	Nimi on muutettu pieniksi kirjaimiksi
+name of page or numeric category to go to, if website was selected above:	sitemgr	fi	Sivun nimi tai numeerinen kategoria mihin mennä, jos sivusto on valittuna:
+name of the item for sale	sitemgr	fi	Myynnissä olevan tuotteen nimi
+name of the tabs (comma seperated)	sitemgr	fi	Välilehtien nimet (pilkulla erotetut)
+new application	sitemgr	fi	Uusi sovellus
+new guestbook	sitemgr	fi	Uusi vieraskirja
+new sitemgr site	sitemgr	fi	Uusi Sivustonhallinnan sivusto
+newest first	sitemgr	fi	Uusin ensin
+no additional arguments required	sitemgr	fi	Lisäargumentteja ei vaadita
+no anonymous user accounts installed.  notify the administrator.	sitemgr	fi	TUNTEMATTOMAN KÄYTTÄJÄN TILI ASENTAMATTA. ILMOITA YLLÄPITÄJÄLLE.
+no content areas found in selected template	sitemgr	fi	Sisältöalueita ei löytynyt valitusta mallista
+no content found	sitemgr	fi	Sisältöä ei löydetty
+no groups defined.	sitemgr	fi	Ryhmiä ei määritetty
+no link to full index	sitemgr	fi	Ei linkkiä koko indeksiin
+no modules permitted for this content area/category	sitemgr	fi	Moduuleita ei sallittu tälle sisältöalueelle/kategorialle
+no new modules found !!!	sitemgr	fi	Uusia moduleita ei löytynyt !!!
+no options available.	sitemgr	fi	Valintoja ei saatavilla
+no pages available	sitemgr	fi	Sivuja ei saatavilla
+no sitelanguages configured	sitemgr	fi	Sivun kieliä ei konfiguroitu
+no states defined	sitemgr	fi	Osavaltiota ei ole määritelty
+no template file found.	sitemgr	fi	Mallipohjaa ei löytynyt
+no templates found.	sitemgr	fi	Mallipohjia ei löytynyt
+no thumbnail availible	sitemgr	fi	Ei esikatselukuvia saatavilla
+no users defined.	sitemgr	fi	Käyttäjiä ei ole määritetty
+no websites defined	sitemgr	fi	Verkkosivuja ei ole määritetty
+no, chooser only (for side-areas)	sitemgr	fi	Ei, ainoastaan valinta (marginaaleille)
+no, chooser with preview	sitemgr	fi	Ei, valinta esikatselulla
+not	common	fi	Ei
+not yet translated	sitemgr	fi	Ei vielä käännöstä
+note that you may get this message if your preferences are incorrect.  for example, if config.inc.php is not found in the directory that you specified.	sitemgr-link	fi	Huomaa, että voit saada tämän viestin mikäli asetuksesi ovat virheelliset. Esimerkiksi, jos config.inc.php tiedostoa ei löydy määrittelemästäsi paikasta.
+notification message not found !!!	sitemgr	fi	Huomautusviestiä ei löytynyt!
+notification not found !!!	sitemgr	fi	Huomautusviestiä ei löytynyt!
+number of results	sitemgr	fi	Tulosten lukumäärä
+oldest first	sitemgr	fi	Vanhin ensin
+on all pages	sitemgr	fi	Kaikilla sivuilla
+only gallery	sitemgr	fi	Vain galleria
+only on the first page	sitemgr	fi	Vain ensimmäisellä sivulla
+or enter the title for a new guestbook	sitemgr	fi	Tai kirjoita nimi uudelle vieraskirjalle
+other websites	sitemgr	fi	Muut verkkosivustot
+overview of all available categories	sitemgr	fi	Katsaus kaikista saatavilla olevista kategorioista
+overview of one specific category	sitemgr	fi	Katsaus yhdestä erityisestä kategoriasta
+own amazon partner-id or empty to donate to the egroupware project	sitemgr	fi	Oma Amazon partner-ID tai tyhjä, jos lahjoitus annetaan EGroupware -projektille
+page	sitemgr	fi	Sivu
+page content	sitemgr	fi	Sivun sisältö
+page manager	sitemgr	fi	Sivuhallinta
+page name	sitemgr	fi	Sivun nimi
+page saved	sitemgr	fi	Sivu tallennettu
+page saved.	sitemgr	fi	Sivu tallennettu.
+page subtitle	sitemgr	fi	Sivun alaotsikko
+page title	sitemgr	fi	Sivun otsikko
+pages	sitemgr	fi	Sivut
+pages:	sitemgr	fi	Sivut:
+parent	sitemgr	fi	Ylä
+parent directory	sitemgr	fi	Ylähakemisto
+parent section:	sitemgr	fi	Ylempi aihepiiri:
+password	sitemgr	fi	Salasana
+password that you assigned for the anonymous user account.	sitemgr	fi	Salasana, jonka määrittelit tuntemattoman käyttäjän tilille
+path	sitemgr	fi	Polku
+path to image-directory '%1' is not valid or readable by the webserver !!!	sitemgr	fi	Kuvahakemistoon polku '%1' ei ole kelvollinen tai luettavissa verkkopalvelimella !!!
+path to zip binary if not in path of the webserver	sitemgr	fi	Polku zip-ohjelmaan, jos se ei ole verkkopalvelimen oletuspolussa
+pay with paypal	sitemgr	fi	Maksa PayPalin kautta
+paypal	sitemgr	fi	PayPal
+paypal pay now button	sitemgr	fi	PayPalin 'Maksa nyt' -painike
+percentage	sitemgr	fi	Prosentti
+phrases in total	sitemgr	fi	Lauseita yhteensä
+plain selectbox	sitemgr	fi	Tyhjä valintalaatikko
+please enter a name for that site !	sitemgr	fi	Kirjoita nimi tälle sivustolle !
+please sign the guestbook	sitemgr	fi	Laita allekirjoitus vieraskirjaan !
+post a message to this thread	sitemgr	fi	Lähetä viesti tähän säikeeseen
+prefix	sitemgr	fi	Etuliite
+prepublished	sitemgr	fi	Esijulkaistu
+preunpublished	sitemgr	fi	Esipoistettu
+previous	sitemgr	fi	Edellinen
+price of the item (empty allows buyer to choose, eg. for donations)	sitemgr	fi	Tuotteen hinta (tyhjä sallii ostanjan valita, esim. lahjoituksille)
+production mode	sitemgr	fi	Tuotantotila
+published	sitemgr	fi	Julkaistu
+quantity items (empty allows buyer to specify)	sitemgr	fi	Tuotteen määrä (Tyhjä sallii ostajan määritellä)
+reactivate content	sitemgr	fi	Sisällön uudelleenaktivointi
+read permission	sitemgr	fi	Lukuoikeus
+redirection	sitemgr	fi	Uudelleenohjaus
+refresh	sitemgr	fi	Päivitä
+register for one now.	sitemgr	fi	Rekisteröidy
+register new modules	sitemgr	fi	Rekisteröi uudet moduulit
+reload	sitemgr	fi	Päivitä
+remember me	common	fi	Muista minut
+replies	sitemgr	fi	Vastaukset
+required	sitemgr	fi	Vaaditut
+required fields	sitemgr	fi	Pakolliset kentät
+reset	sitemgr	fi	Palauta
+return to forums	sitemgr	fi	Palaa foorumin
+return to main menu.	sitemgr	fi	Palaa päävalikkoon
+return to message list	sitemgr	fi	Palaa viestilistaan
+root site index	sitemgr	fi	Sivuston juuri-indeksi
+save	sitemgr	fi	Tallenna
+save block	sitemgr	fi	Tallenna lohko
+saved	sitemgr	fi	Tallennettu
+scope	sitemgr	fi	Laajuus
+search keyword	sitemgr	fi	Haun avainsana
+search language options	sitemgr	fi	Haun kieliasetukset
+search modes	sitemgr	fi	Hakumuodot
+search with	sitemgr	fi	Haku
+seen by	sitemgr	fi	Nähnyt:
+select a category	sitemgr	fi	Valitse kategoria
+select a forum	sitemgr	fi	Valitse foorumi
+select allowed modules	sitemgr	fi	Valitse sallitut moduulit
+select persons and groups that are entitled to configure the website.	sitemgr	fi	Valitse henkilöt ja ryhmät, jotka ovat oikeutettuja konfiguroimaan verkkosivustoa.
+select the templates the user is allowed to see	sitemgr	fi	Valitse mallipohjat, jotka käyttäjä saa nähdä
+select type of navigation	sitemgr	fi	Valitse navigaation muoto
+selected template %1 does not exist.	sitemgr	fi	Valittua mallipohjaa %1 ei ole olemassa.
+selected theme %1 does not exist.	sitemgr	fi	Valittua teemaa %1 ei ole olemassa.
+send emailcopy to receiver	sitemgr	fi	Lähetä sähköpostikopio vastaanottajalle
+shipping address	sitemgr	fi	Toimitusosoite
+should the file be viewed in the browser or downloaded	sitemgr	fi	Pitäisikö tiedoston olla näkyvissä selaimessa vai ladattavissa
+show a template-gallery (thumbnail and informations)	sitemgr	fi	Näytä mallipohja-galleria (esikatselu ja tiedot)
+show contents of a directory	sitemgr	fi	Näytä hakemiston sisältö
+show contents of a directory with subdirectories	sitemgr	fi	Näytä hakemiston ja alihakemistoiden sisältö
+show current section only	sitemgr	fi	Näytä ainoastaan nykyinen hakemisto
+show details for the applications	sitemgr	fi	Näytä sovelluksien yksityiskohdat
+show files including the ones from subdirectories	sitemgr	fi	Näytä tiedostot, myös alihakemistosta
+show only (in the next field) selected templates	sitemgr	fi	Näytä vain valitut mallipohjat seuraavassa kentässä
+show path?	sitemgr	fi	Näytä polku
+show searchbox	sitemgr	fi	Näytä hakukenttä
+show site index	sitemgr	fi	Näytä sivuston indeksi
+show subcategories	sitemgr	fi	Näytä alikategoria
+show the title of the wiki page	sitemgr	fi	Näytä Wikisivun otsikko
+simple: only selected mode, no more options displayed	sitemgr	fi	Yksinkertainen: Ainoastaan valittu muoto, lisävalintoja ei näytetä
+single file download	sitemgr	fi	Yhden tiedoston lataus
+site	sitemgr	fi	Sivusto
+site %1 has been added, you need to %2configure the site%3 now	sitemgr	fi	Sivusto %1 on lisätty, nyt tarvitset %2 konfiguroidaksesi sivustoa %3
+site %1 has been updated	sitemgr	fi	Sivusto on päivitetty
+site administrators	sitemgr	fi	Sivuston ylläpitäjät
+site description	sitemgr	fi	Sivuston kuvaus
+site format manager	sitemgr	fi	Sivuston muodon hallinta
+site index	sitemgr	fi	Sivuston indeksi
+site language	sitemgr	fi	Sivuston kieli
+site name	sitemgr	fi	Sivuston nimi
+site setup	common	fi	Sivuston asetukset
+site tree menu	sitemgr	fi	Sivuston runkovalikko
+site wide	sitemgr	fi	Sivuston laajuinen
+sitemgr	common	fi	Sivustonhallinta
+sitemgr manual	sitemgr	fi	Sivustonhallinnan käyttöohje
+sitemgr options	sitemgr	fi	Sivustonhallinnan asetukset
+sitemgr setup instructions	sitemgr	fi	Sivustonhallinnan Asetusten ohjeet
+sitemgr setup page	sitemgr-link	fi	Sivustonhallinnan Asetussivu
+sitemgr web content manager	common	fi	Sivustonhallinnan verkkosisällön hallinta
+sitemgr websites	sitemgr	fi	Sivustonhallinnan websivustot
+sitemgr-link	common	fi	Websivusto
+size	sitemgr	fi	Koko
+sorry, no content found for you search criteria	sitemgr	fi	Hakutuloksia ei löytynyt
+sort files by	sitemgr	fi	Lajittele tiedostot
+sort order	sitemgr	fi	Lajittelujärjestys
+state	sitemgr	fi	Tila
+street	sitemgr	fi	Katu
+string to return (default api version)	sitemgr	fi	Paina String palataksesi
+strip html from block content?	sitemgr	fi	Poista HTML-merkinnät lohkon sisällöstä?
+subcategories	sitemgr	fi	Alikategoriat
+subsections:	sitemgr	fi	Ali-aihepiirit:
+subtext for image %1	sitemgr	fi	Kuvaus kuvalle %1
+subtitle	sitemgr	fi	Tekstitys
+summary of one forum	sitemgr	fi	Foorumin yhteenveto
+suppress link to index (show all)	sitemgr	fi	Piilota linkki indeksiin (näytä kaikki)
+suppress link to parent category	sitemgr	fi	Piilota linkki yläkategoriaan
+suppress main categories	sitemgr	fi	Pilota pääkategoriat
+suppress the current category	sitemgr	fi	Piilota nykyinen kategoria
+suppress the current page	sitemgr	fi	Piilota nykyinen sivu
+table of contents	sitemgr	fi	Sisältö
+template based navigation module	sitemgr	fi	Malliin pohjautuva navigointi moduli
+template select	sitemgr	fi	Mallin valinta
+text allignment	sitemgr	fi	Tekstin asemointi
+text of page links	sitemgr	fi	Linkkien teksti
+textarea	sitemgr	fi	Tekstialue
+the category to display, 0 for complete table of contents	sitemgr	fi	Näytettävä kategoria, 0=täydellinen hakuluettelo
+the complete url or path to a file to be included	sitemgr	fi	Täydellinen URL tai tiedostopolku on lisäämättä
+the config.inc.php file needs to be edited to point to the egroupware directory. copy the config.inc.php.template file to config.inc.php and then edit it.	sitemgr	fi	config.inc.php tiedoston pitää olla muokattavissa ja sen pitää sijaita EGroupwaren hakemistossa. Kopioi config.inc.php.template nimellä config.inc.php ja muokkaa sitä.
+the file to be downloaded	sitemgr	fi	Tiedosto lataamatta
+the filesystem path to your sitemgr-site directory '%1' is probably wrong. go to sitemgr --> define websites and edit/fix the concerned site.	sitemgr	fi	Tietojärjestelmäpolku Sivustonhallinnan-hakemistoon '%1' on oletettavasti väärin. Mene Sivustonhallintaan --> Määritä sivusto ja muokkaa/korjaa sivustoasetukset.
+the messages for changes in this language will use the default text, if available.	sitemgr	fi	Tällä kielellä tehdyistä muutoksista lähetetään oletusteksi-huomautusviesti, jos saatavilla.
+the name field cannot contain punctuation or spaces (field modified).	sitemgr	fi	Nimikenttä ei voi sisältää pilkkuja tai välilyöntejä (tarkista korjaus).
+the page name must be unique.	sitemgr	fi	Sivun nimi täytyy olla yksilöllinen.
+the page was successfully saved.	sitemgr	fi	Sivu tallennettu.
+the path to the file to be downloaded	sitemgr	fi	Ladattava tiedostopolku
+the person to say hello to	sitemgr	fi	Henkilö jolle sanoa hei
+the requested path %1 is not available.	sitemgr	fi	Polku %1 ei ole saatavilla
+the second directory is the sitemgr-site directory.  this can be moved <i>anywhere</i>.  it can also be named <i>anything</i>.  wherever it winds up, when you point a web browser to it, you will get the generated website.  assuming, of course, that you've accurately completed the setup fields below and also <b><i>edited the config.inc.php</i></b> file.	sitemgr	fi	Toinen hakemisto on Sivustonhallinnan hakemisto. Tämä voidaan siirtää <i>minne vaan</i>. Se voi olla myös nimetty <i>miten vaan</i>. Minne tahansa laitat sen, saat selaimeen kehitetyn verkkosivun. Oletetaan tietysti että olet tarkalleen määrittänyt asetukset alapuolella ja lisäksi <b><i>muokannut config.inc.php</i></b>tiedoston oikein.
+the text for the link, if empty the module returns the raw url (without a link)	sitemgr	fi	Teksti linkkiin. Jos tyhjä, moduuli palauttaa URL:n (ilman linkkiä)
+the url can be relative or absolute.  name must end in a slash.	sitemgr	fi	URL voi olla suhteellinen tai täydellinen. Nimen täytyy loppua vinoviivaan.
+the url must be absolute and end in a slash, for example http://mydomain.com/mysite/	sitemgr	fi	URL täytyy olla täydellinen ja loppua kauttaviivaan esimerkiksi http://mydomain.com/mysite/
+the url to display	sitemgr	fi	Näytettävä URL
+the url to redirect to	sitemgr	fi	Uudelleenohjauksen URL
+the web	sitemgr	fi	Verkko
+the website has changed. too see the change, follow this url: $url.	sitemgr	fi	Sivustoa on muokattu. Nähdäksesi muutokset, seuraa tätä URL: $URL.
+the whole page	sitemgr	fi	Koko sivu
+the xml files' common name	sitemgr	fi	XML -tiedoston yleinen nimi
+theme or template select	sitemgr	fi	Teeman tai mallipohjan valinta
+there are %1 elements in the list.	sitemgr	fi	%1 elementtiä listalla
+there are no categories	sitemgr	fi	Kategorioita ei ole
+there are no forums in this category	sitemgr	fi	Ei foorumeita tässä kategoriassa
+there are no pages in this section	sitemgr	fi	Ei sivuja tässä aihepiirissä.
+there are no properties defined for this module	sitemgr	fi	Tälle moduulille ei ole ominaisuuksia
+there are no sections available to you.	sitemgr	fi	Osaa ei ole saatavilla sinulle
+there are two subdirectories off of your sitemgr directory that you should move before you do anything else.  you don't <i>have</i> to move either of these directories, although you will probably want to.	sitemgr	fi	Siirrä kaksi alihakemistoa Sivustonhallinta-hakemistossa, ennen kuin teet muuta. Kumpaakaan näistä ei ole <I>pakko</I> siirtää, mutta ehkä kannattaa.
+there can only be one version in (pre(un))published state, with the one exeption that one prepublished version can coexist with one preunpublished version	sitemgr	fi	Esipoistetusta/esijulkaistusta tilasta voi olla vain yksi versio. Poikkeuksena: yksi esijulkaistu versio voi olla olemassa yhden esipoistetun kanssa.
+there is no website configured for url %1.  notify the administrator.	sitemgr	fi	EI WEBSIVUSTOA KONFIGUROITU URL:ään %1. HUOMAUTA YLLÄPITÄJÄLLE.
+there is nothing to list.	sitemgr	fi	Lista on tyhjä.
+there was an error accessing the requested page. either you do not have permission to view this page, or the page does not exist.	common	fi	Virhe halutulle sivulle pääsemisessä. Joko sinulla ei ole oikeutta katsella kyseistä sivua tai sivua ei ole olemassa.
+there was an error writing to the database.	sitemgr	fi	Virhe kirjoitettaessa tietokantaan
+this block displays a javascript based tree menu	sitemgr	fi	Tämä lohko näyttää Javaskripti pohjaisen puumenun
+this block displays the current section's table of contents	sitemgr	fi	Tämä lohko näyttää nykyisen osion sisältöluettelon
+this category has no pages.	sitemgr	fi	Kategoriassa ei ole sivuja.
+this is a simple sample module	sitemgr	fi	Tämä on yksinkertainen malli-moduuli
+this is only used as an internal name for the website.	sitemgr	fi	Tätä käytetään vain sivuston sisäisenä nimenä
+this is used chiefly for meta data and the title bar. if you change the site languages below you have to save before being able to set this preference for a new language.	sitemgr	fi	Käytetään pääasiassa Metatiedolle ja otsikkopalkille. Jos muutat sivuston kieltä alempana, sinun täytyy tallentaa se ennenkuin voit asettaa tämän määrityksen uudelle kielelle.
+this is used chiefly for meta data. if you change the site languages below you have to save before being able to set this preference for a new language.	sitemgr	fi	Käytetään pääasiassa metatiedolle. Jos muutat sivuston kieltä alapuolella sinun täytyy tallentaa se ennen kuin voit asettaa tämän määrityksen uudelle kielelle.
+this module create a link for downloading a file from the vfs	sitemgr	fi	Tämä moduuli luo linkin tiedoston lataamiselle VFS:stä
+this module create a link for downloading a file(s) from the vfs	sitemgr	fi	Tämä moduuli luo linkin tiedosto(je)n lataamiselle VFS:stä
+this module demonstrates how handling data stored in xml and building an interacvite interface from it	sitemgr	fi	Tämä moduuli näyttää kuinka käsitellään tiedon varastointia XML:ssä ja rakentaa interaktiivisen käyttöliittymän siihen
+this module displays a login form	sitemgr	fi	Tämä moduuli näyttää kirjautumislomakkeen
+this module displays any kind of navigation element.	sitemgr	fi	Tämä moduli näyttää kaikki navigointi elementit
+this module displays bookmarks in a javascript based tree	sitemgr	fi	Tämä moduuli näyttää Suosikit javaskriptillä luodussa rungossa.
+this module displays the current month	sitemgr	fi	Tämä moduuli näyttää nykyisen kuukauden
+this module displays the egw forums on the web site	sitemgr	fi	Tämä moduli näyttää EGW foorumit tällä sivustolla
+this module displays the root categories in one block each, with pages and subcategories (incl. their pages if activated).	sitemgr	fi	Tämä moduli näyttää juurikategoriat, kukin yhdessä lohkossa sivuineen ja alakategorioineen (sisältää niiden sivut, mikäli ne ovat aktiivisia).
+this module displays the root categories, its pages and evtl. subcategories. it is meant for side areas	sitemgr	fi	Tämä moduuli näyttää juurikategoriat, niiden sivut ja alikategoriat. Tätä käytetään sivuosioissa.
+this module includes the contents of an url or file (readable by the webserver and in its docroot !)	sitemgr	fi	Tämä moduuli sisältää URLin tai tiedoston sisällön (luettavissa palvelimen juurikansiosta!)
+this module is a customisable navigation element	sitemgr	fi	Tämä moduuli on muokattavissa oleva navigointielementti
+this module is a selectbox to change the mode (production, draft or edit) plus a link back to sitemgr and to log out. it is meant for registered users only	sitemgr	fi	Tämä moduuli on pudotusvalikko tilan vaihtoon (tuotanto, luonnos tai muokkaus), + linkki takaisin Sivun hallintaan ja uloskirjautuminen. Tarkoitettu vain rekisteröidyille käyttäjille.
+this module is a simple html editor	sitemgr	fi	Tämä moduuli on yksinkertainen HTML -editori
+this module lets the users choose a template or shows a template gallery	sitemgr	fi	Tämä moduuli antaa käyttäjän valita malliphjan ja näyttää mallipohja-gallerian.
+this module lets users choose language	sitemgr	fi	Tämä moduuli antaa käyttäjän valita kielen
+this module lets you define pages that redirect to another url, if you use it, there should be no other block defined for the page	sitemgr	fi	Tämä moduuli antaa määritellä sivujen uudelleenohjautumiselle toiseen URL:in, jos käytät tätä sivulla ei tulisi olla muita sisältölohkoja.
+this module lets you include an applet into the page.	sitemgr	fi	Tämä moduli antaa sinun lisätä appletteja sivulle
+this module permits browsing through xml files stored in a directory, and transformed by xslt	sitemgr	fi	Tämä moduuli mahdollistaa XML-tiedostojen selailun ja XSLT-määrittelyn
+this module provides a complete table of contents, it is automatically used by the toc and category_id get parameters	sitemgr	fi	Tämä moduuli luo luettelon koko sisällöstä, sitä käytetään automaattisesti sisältöluetteloinnissa ja category_id GET-parametreissä.
+this module provides a condensed table of contents, meant for side areas	sitemgr	fi	Tämä moduuli luo tiivistetyn sisältöluettelon. tarkoitettu käytettäväksi sivuosioissa.
+this module provides an xml sitemap (see www.sitemap.org)	sitemgr	fi	Tämä moduuli luo XML sivustokartan (esimerkki sivulla wwwsitemap.org)
+this module provides the path to the element currently shown	sitemgr	fi	Tämä moduli tekee polun nyt näkyvään elementtiin
+this module provides the site index, it is automatically used by the index get parameter	sitemgr	fi	Tämä moduuli luo sivuston indeksin, käytetään automaattisesti indeksin GET-parametrissä
+this module search throw the content (page title/description and html content)	sitemgr	fi	Tämä moduuli etsii koko sisällöstä. (Sivun otsikko /Kuvaus ja HTML sisällöstä)
+this module show the status / percentage of the translation of egw	sitemgr	fi	Tämä moduuli näyttää EGW:n käännöksen tilan/prosentin
+this must be an absolute directory location.  <b>no trailing slash</b>.	sitemgr	fi	Tämä täytyy olla hakemiston täydellinen sijainti. <b>ei kauttaviivaa loppuun</b>
+this should be a comma-separated list of language-codes.	sitemgr	fi	Tämän on oltava pilkulla eroteltu lista kielikoodeista
+this should be a page that is readable by everyone. if you leave this blank, the site index will be shown by default.	sitemgr	fi	Tämän pitäisi olla sivu, joka on kaikkien luettavissa. Jos jätät tämän tyhjäksi, sivuston indeksi näytetään oletuksena.
+this site	sitemgr	fi	Tämä sivusto
+title	sitemgr	fi	Otsikko
+topic	sitemgr	fi	Aihe
+translate	sitemgr	fi	Käännä
+translate category	sitemgr	fi	Käännä kategoria
+translate page	sitemgr	fi	Käännä sivu
+translate site-wide content blocks	sitemgr	fi	Käännä sivuston laajuiset sisältölohkot
+translation manager	sitemgr	fi	Käännösten hallinta
+translation status	sitemgr	fi	Käännöksen tila
+up to parent	sitemgr	fi	Ylävalikkoon
+up to table of contents	sitemgr	fi	Sisältöluetteloon
+update notification	sitemgr	fi	Päivitä huomautusviesti
+updating to new category system	sitemgr	fi	Päivitetään uuteen kategoriajärjestelmään
+url pointing to the image-directory	sitemgr	fi	Kuvahakemistoon osoittava URL
+url to sitemgr-site	sitemgr	fi	URL Sivustonhallintaan
+use phpnuke themes instead of templates	sitemgr	fi	Käytä phpNuke-teemoja näiden teemojen sijaan
+use this module for displaying book ads for the amazon web site	sitemgr	fi	Käytä tätä moduulia näyttääksesi julkaisun mainokset Amazon verkkosivustolla
+use this module for displaying wiki-pages	sitemgr	fi	Käytä tätä moduulia näyttäämään Wiki-sivut
+user name	sitemgr	fi	Käyttäjänimi
+vertical	sitemgr	fi	Pystysuoraan
+view administrative menu	sitemgr	fi	Näytä ylläpitäjän valikko
+view full index	sitemgr	fi	Näytä koko indeksi
+view generated site	sitemgr	fi	Näytä kehitetty sivusto
+view template on this site	sitemgr	fi	Näytä malli tällä sivustolla
+view threads	sitemgr	fi	Näytä säikeet
+viewed	sitemgr	fi	Katseltu
+web content manager	common	fi	Sivustonhallinta - Sisältöhallinta
+web content manager administration	sitemgr	fi	Verkkosisällön hallinnan ylläpito
+web site manager	sitemgr	fi	Websivuston ylläpitäjä
+website	sitemgr	fi	Websivusto
+week	sitemgr	fi	Viikko
+what do you want to do with existing translations of categories and pages for this language?	sitemgr	fi	Mitä haluat tehdä tämän kielen olemassaoleville kategorioiden ja sivujen käännöksille?
+when is a tab activated?	sitemgr	fi	Milloin välilehti on aktivoitu?
+which application should be executed after login?	sitemgr	fi	Mikä sovellus avataan kirjautumisen jälkeen?
+which main categories should be included (comma separated list, empty for all)	sitemgr	fi	Mitkä pääkategoriat tulisi sisällyttää? (pilkulla erotettu lista, tyhjä=kaikki)
+wiki	sitemgr	fi	Wiki
+wiki startpage	sitemgr	fi	Wiki -aloitussivu
+with which view should the module be displayed in the beginning?	sitemgr	fi	Missä näkymässä moduulin tulisi näkyä aluksi?
+work phone	sitemgr	fi	Työpuhelin
+write permission	sitemgr	fi	ACL-kirjoitusoikeus
+xml browser	sitemgr	fi	XML selaustoiminto
+yes, please delete it	sitemgr	fi	Kyllä, poista se
+you are not entitled to change the scope of block %1 to cat %2 and page %3	sitemgr	fi	Et ole oikeutettu muuttamaan lohkon laajuutta %1 kategoriassa %2 ja sivulla %3
+you are not entitled to create module %1 on this scope	sitemgr	fi	Et ole oikeutettu luomaan moduulia %1 tässä laajuudessa.
+you are not entitled to edit block %1	sitemgr	fi	Et ole oikeutettu muokkaamaan lohkoa %1
+you can choose the modules that can be used on the site. the first list is a sort of master list, that is consulted if you do not configure lists specific to contentareas or (sub)categories. then you can choose lists specific to each content area. in the category manager these lists can be overriden for each (sub)category.	sitemgr	fi	Voit valita moduulit, joita käytetään sivustolla. Ensimmäinen lista on tavallaan oletuslista, jota käytetään jos et määritä osa-alueille omaa listaa. Kategoriahallinassa nämä valinnat voidaan ohittaa jokaisessa (ali)kategoriassa.
+you can either migrate them to a new language or delete them	sitemgr	fi	Voit joko siirtää ne uudelle kielelle tai poistaa ne
+you can override each content blocks default title. be aware that not in all content areas the block title will be visible.	sitemgr	fi	Voit ohittaa jokaisen lohkon oletusotsikon. Huomaa että kaikissa lohkoissa otsikko ei ole näkyvissä.
+you did not choose a module.	sitemgr	fi	Et valinnut moduulia.
+you do not have access to any content on this site.	sitemgr	fi	Ei oikeutta sisältöön tällä sivustolla.
+you do not have write permissions for any site categories.	sitemgr	fi	Sinulla ei ole ACL-kirjoitusoikeuksia mihinkään sivuston kategoriaan.
+you don't have permission to write in the category	sitemgr	fi	Sinulla ei ole kirjoitusoikeutta kategoriaan
+you don't have permission to write to that category.	sitemgr	fi	Sinulla ei ole kirjoitusoikeutta tähän kategoriaan.
+you failed to fill in one or more required fields.	sitemgr	fi	Yksi tai useampi kenttä jäi täyttämättä.
+you have no rights to view wiki content or the wiki is not installed at all !!!	sitemgr	fi	Sinulla ei ole oikeuksia nähdä Wiki sisältöä tai Wikiä ei ole asennettu !!!
+you may have deinstalled the used template '%1'. reinstall it or go to sitemgr --> configure website and select an other one.	sitemgr	fi	Olet ehkä poistanut käytetyn mallin '%1'. Asenna se uudelleen tai mene Sivustonhallintaan --> Muokkaa sivustoa ja valitse toinen malli.
+you must be an admin to edit categories.	sitemgr	fi	Sinun täytyy olla ylläpitäjä muokataksesi kategorioita.
+you must be an admin to edit the site header and footer.	sitemgr	fi	Sinun täytyy olla ylläpitäjä muokataksesi sivuston ylä- ja alatunnistetta.
+you must be an admin to manage module properties.	sitemgr	fi	Sinun täytyy olla ylläpitäjä hallitaksesi moduulin  ominaisuuksia.
+you must be an administrator to setup the site manager.	sitemgr	fi	Sinun täytyy olla ylläpitäjä muuttaaksesi Sivustonhallinnnan asetuksia.
+you need to be an administrator of this website to enter javascript!	sitemgr	fi	Sinun täytyy olla ylläpitäjä muuttaaksesi/syöttääksesi Javaskriptiä.
+you removed one ore more languages from your site languages.	sitemgr	fi	Poistit yhden tai useamman kielen sivustosi kielistä.
+you will remove the message in the following language from your notification system:	sitemgr	fi	Poista huomautusviestijärjestelmästä viesti valitsemaltasi kieletä:
+your administrator has not yet setup the web content manager for public viewing.  go bug your administrator to get their butt in gear.	sitemgr-link	fi	Pääkäyttäjä ei ole vielä asettanut sisällönhallintaa julkiseksi. Huomauta tästä pääkäyttäjälle.
+your calendar	sitemgr	fi	Kalenterisi
+your comment	sitemgr	fi	Kommenttisi
+your connection is not safe.	sitemgr	fi	Yhteytesi ei ole suojattu.
+your name	sitemgr	fi	Nimesi
+zip code	sitemgr	fi	Postinumero

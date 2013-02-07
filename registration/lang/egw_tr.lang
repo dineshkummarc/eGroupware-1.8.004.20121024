@@ -1,0 +1,59 @@
+account password retrieval	tr	Account password retrieval
+account registration	tr	Hesap kaydý
+address	tr	Adres
+after you enter your username, instructions to change your password will be sent to you by e-mail to the address you gave when you registered.	tr	Kullanýcý adýnýzý girdikten sonra, parolanýzý deðiþtirmek için gerekli bilgiler belirttiðiniz ePosta adresine gönderilecektir.
+an error occured. please contact our technical support and let them know.	tr	Hata oluþtu. Destek servisimizi arayýnýz.
+birthday	tr	Doðum Günü
+change password for user	tr	Kullanýcý için parola deðiþtir
+checkbox	tr	Kutucuk
+choose language	tr	Dil seçiniz
+city	tr	Ýl
+close window	tr	Pencereyi Kapat
+country	tr	Ülke
+current fields:	tr	Þu anki sahalar:
+dropdown	tr	Aþaðý açýlabilir
+egroupware - account registration	tr	Hesap Kaydý
+enter your new password	tr	Yeni parolanýzý giriniz
+female	tr	Kadýn
+gender	tr	Erkek
+hi	tr	Merhabe
+i have read the terms and conditions and agree by them.	tr	Kullaným koþullarýný okudum ve kabul ediyorum.
+if you did not request this account, simply ignore this message.	tr	Eðer bu hesabý istemediyseniz bu mesajý gözardý edin.
+if you did not request this change, simply ignore this message.	tr	Eðer bu deðiþikliði istemediyseniz bu mesajý gözardý edin.
+male	tr	Male
+name (blank unless text, textarea, dropdown, checkbox; else alphanumeric only)	tr	Name (blank unless Text, Textarea, Dropdown, Checkbox; else alphanumeric only)
+on-line registration is not activated. please contact the site administrator for more information about registration.	tr	On-line registration is not activated. Please contact the site administrator for more information about registration.
+order	tr	Sýra
+phone	tr	Tel
+phpgroupware - account registration	tr	Hesap kaydý
+re-enter password	tr	Parolanýzý tekrar giriniz
+re-enter your password	tr	Parolanýzý tekrar giriniz
+remove	tr	Kaldýr
+report all problems and abuse to	tr	Sorun ve kötü kullaným raporlarýnýz için
+required	tr	Gerekli
+sorry, that username does not exist.	tr	Bu kullanýcý tanýnmýyor.
+sorry, that username is already taken.	tr	Bu kullanýcý daha önce kayýtlý.
+sorry, we are having a problem activating your account. note that links sent by e-mail are only valid during two hours. if you think this delay was expired, just retry. otherwise, please contact the site administrator.	tr	Sorry, we are having a problem activating your account. Note that links sent by e-mail are only valid during two hours. If you think this delay was expired, just retry. Otherwise, please contact the site administrator.
+state	tr	State
+terms of service	tr	Hizmet Koþullarý
+text	tr	Text
+textarea	tr	Textarea
+the passwords you entered don	tr	t match
+the two passwords are not the same	tr	Ýki parola farklý
+this is a confirmation email for your new account.  click on the following link to finish activating your account. this link will expire in 2 hours.	tr	Bu ePosta yeni hesabýnýzý doðrulamak içindir. Hesabýnýzý devreye sokmak için takip eden baðlantýyý týklayýnýz. Bu baðlantý iki saat içinde devredýþý olacaktýr.
+type	tr	Tip
+update/add	tr	Güncelle/Ekle
+values (for dropdown only; comma separated)	tr	Values (For Dropdown only; comma separated)
+we have sent a confirmation email to your email address. you must click on the link within 2 hours. if you do not, it may take a few days until your loginid will become available again.	tr	Bu ePosta yeni hesabýnýzý doðrulamak içindir. Hesabýnýzý devreye sokmak için takip eden baðlantýyý týklayýnýz. Bu baðlantý iki saat içinde devredýþý olacaktýr. Bir iki gün sonra hesabýnýz tekrar devreye alýnabilir hale gelecektir.
+we have sent a mail with instructions to change your password. you should follow the included link within two hours. if you do not, you will have to go to the lost password screen again.	tr	Size daha önce parola deðiþtirme süreciyle ilgili bir ePostasý gönderdik. Buradaki baðlantýyý iki saat içinde týklamanýz gerekirdi. Eðer týklamadýysanýz Parolamý Unuttum sayfasýna gidiniz.
+wrong session	tr	Yanlýþ oturum
+you have entered an invalid birthday	tr	Yanlýþ doðum günü
+you have entered an invalid email address	tr	Yanlýþ ePosta adresi
+you must enter a password	tr	Parola girmelisiniz
+you must enter a username	tr	Kullanýcý adý girmelisiniz
+you must fill in all of the required fields	tr	Tüm gerekli sahalarý doldurmalýsýnýz
+you requested to change your password. please follow the url below to do so. this url will expire in two hours. after this delay you should go thru the lost password procedure again.	tr	Parolanýzý deðiþtirmek istediniz. Bunu gerçekleþtirmek için takip eden baðlantýyý iki saat içinde týklayýnýz. Aksi halde tekrar Parolamý Unuttum sayfasýna gitmelisiniz.
+you specified a value for	tr	Deðer belirttiðiniz
+your account is now active!  click <a href="%1">here</a> to log into your account.	tr	Hesabýnýz açýldý!  Giriþ için <a href="%1">burayý</a> týklayýnýz.
+your password was changed. you can go back to the <a href="%1">login</a> page.	tr	Parolanýz deðiþtirildi. <a href="%1">Giriþ</a> sayfasýna geri dönebilirsiniz.
+zip/postal	tr	ZIP/Postal

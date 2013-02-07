@@ -1,0 +1,64 @@
+active	news_admin	da	Aktiv
+add new article	news_admin	da	Tilføj ny artikel
+add new news	news_admin	da	Tilføj nyhed
+add news item	news_admin	da	Tilføj nyhed
+all news	news_admin	da	Alle nyheder
+always	news_admin	da	Altid
+configuration	news_admin	da	konfiguration
+configure access permissions	common	da	Konfigurer adgangsrettigheder
+configure rss exports	common	da	Konfigurer RSS export
+contains html	news_admin	da	Indeholder HTML
+content	news_admin	da	Indhold
+edit news item	news_admin	da	Editer nyhed
+failed to add message	news_admin	da	Kunne ikke tilføje ny besked
+format for links to items	news_admin	da	Format for links til emner
+format of export	news_admin	da	Export format
+from	news_admin	da	Fra
+global categories	news_admin	da	Globale kategorier
+global news	news_admin	da	Globale nyheder
+global_news	news_admin	da	Globale_nyheder
+image link	news_admin	da	Billedlink
+image title	news_admin	da	Billed titel
+image url	news_admin	da	Billed URL
+implies read permission	news_admin	da	læserettigheder underforstået
+item has been deleted	news_admin	da	Emne er slettet
+item not found	news_admin	da	Emne ikke fundet
+link	news_admin	da	Link
+main	news_admin	da	Hoved
+maintain	news_admin	da	Vedligehold
+maintain news	admin	da	Vedligehold nyheder
+message has been added	news_admin	da	Besked er tilføjet
+more news	news_admin	da	Flere nyheder
+new item has been added	news_admin	da	Nyt emne er tilføjet
+news	news_admin	da	Nyheder
+news admin	news_admin	da	Nyheder admin
+news administration	news_admin	da	Nyheds administration
+news item has been added	news_admin	da	Nyhed er blevet tilføjet
+news item has been updated	news_admin	da	Nyhed er blevet opdateret
+news_admin	common	da	Nyheds admin
+no entries found	news_admin	da	Ikke fundet
+no news	news_admin	da	Ingen nyheder i denne kategori
+no rss export	news_admin	da	Ingen RSS export
+number of articles to display on the main screen	news_admin	da	Antal artikler til visning på forside
+picture upload (leave the upload directory empty to disable the upload)	admin	da	Billede Upload (tomt bibliotek for at forhindre upload)
+please select a category	news_admin	da	Vælg en kategori
+publish date	news_admin	da	Publiceret
+read news	news_admin	da	Læs nyheder
+read permissions	news_admin	da	Læserettigheder
+send mail to others	news_admin	da	Send mail til andre
+should news_admin display the latest article headlines on the main screen.	news_admin	da	Skal Nyheds admin vise de sidste artikler overskrifter på hoved forside
+show latest news articles?	news_admin	da	Vis seneste nyhedsartikler
+show news articles on main page?	news_admin	da	Vis nyhedsartikler på forside
+small view	news_admin	da	Lille 'view'
+submitted by	common	da	Sendt fra
+teaser	news_admin	da	Teaser
+the news content is missing	news_admin	da	Nyheds indhold mangler
+the number of articles to display on the main screen.	news_admin	da	Antal af artikler til at vise på forside
+the subject is missing	news_admin	da	Emne mangler
+until	news_admin	da	indtil
+view this category	news_admin	da	Vis kategori
+visible	news_admin	da	Synlig
+webpage news admin	news_admin	da	Webside nyheds admin
+write	news_admin	da	Skriv
+write permissions	news_admin	da	Skriverettigheder
+

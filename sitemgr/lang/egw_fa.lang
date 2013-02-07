@@ -1,0 +1,521 @@
+%1 content manager	sitemgr	fa	%1 مدیر محتوی
+%1 module manager	sitemgr	fa	%1 مدیر پیمانه
+'%1' is no valid sitemgr-site directory !!!	sitemgr	fa	'%1' پوشه معتبر برای sitemgr-site نیست!!!
+(do not put spaces or punctuation in the name field.)	sitemgr	fa	(فاصله و کاراکترهای غیر حرفی - عددی در نام فیلد استفاده نکنید).
+(leave blank to allow insecure logins)	sitemgr	fa	(برای ورودهای ناامن، خالی بگذارید)
+(only used in case of single file)	sitemgr	fa	(فقط در مورد فایلهای تکی استفاده می شود)
+1 day	common	fa	یک روز
+1 hour	common	fa	یک ساعت
+1 month	common	fa	یک ماه
+1 week	common	fa	یک هفته
+<b>autoregistration is not enabled / configured in the registration app !!!</b><br>you need to do so, to get the autoregistration link working.	sitemgr	fa	<b>ثبت نام خودکار در کاربرد ثبت نام فعال یا پیکربندی نشده است!!! </b> <br> شما باید این کار را انجام دهید تا پیوند ثبت نام خودکار را ببینید.
+<b>want more templates?</b><br />just download one from the template gallery at %1www.egroupware.org%2 or use a %3mambo open source%4 version 4.5 compatible template eg. from %5. unpack the downloaded template in your templates directory (%6).	sitemgr	fa	<b>قالبهای بیشتری نیاز دارید؟</b> <br /> فقط کافیست آنها را از گالری سایت %1گروه افزار%2 یا %3متن باز مامبو%4 سازگار با نسخه 4.5از %5 دریافت کنید. آنها را پوشه templates باز کنید.(%6).
+a simple picture galery	sitemgr	fa	یک گالری ساده تصویری
+actif	sitemgr	fa	Actif
+add a category	sitemgr	fa	افزودن دسته
+add a new application	sitemgr	fa	افزودن کاربرد
+add a new guestbook	sitemgr	fa	افزودن دفترچه مهمان
+add block ...	sitemgr	fa	افزودن بلاک...
+add block to content area %1	sitemgr	fa	افزودن بلاک به ناحیه محتوای %1
+add category	sitemgr	fa	افزودن دسته
+add new page to this category	sitemgr	fa	افزودن یک صفحه جدید به این دسته
+add page	sitemgr	fa	افزودن صفحه
+add page to category	sitemgr	fa	افزودن صفحه به دسته
+add website	sitemgr	fa	افزودن وب سایت
+administration	sitemgr	fa	مدیریت
+administrative menu	sitemgr	fa	فهرست مدیریت
+administrators	sitemgr	fa	مدیران
+all categories	sitemgr	fa	همه دسته ها
+all forums in category %1	sitemgr	fa	همه انجمنها در دسته %1
+all languages	sitemgr	fa	همه زبانها
+allignment of navigation elements	sitemgr	fa	چیدمان عناصر ناوبری
+allow posting of questions	sitemgr	fa	اجازه برای ارسال سؤالات
+amazon	sitemgr	fa	آمازون
+amazon server (without www), eg. amazon.com	sitemgr	fa	کارگزار آمازون
+an application directory	sitemgr	fa	یک پوشه کاربرد
+anonymous	sitemgr	fa	بی نام
+anonymous user login domain	sitemgr	fa	حوزه ورود کاربر بی نام
+anonymous user's password	sitemgr	fa	گذرواژه کاربر بی نام
+anonymous user's username	sitemgr	fa	نام کاربری کاربر بی نام
+applet	sitemgr	fa	اپلت
+application	sitemgr	fa	کاربرد
+application '%1' is not installed !!!<br>please install it, to be able to use the block.	sitemgr	fa	کاربرد '%1' نصب نشده است!!! <br> لطفا نصبش کنید تا بتوانید بلوک آنرا اضافه کنید
+application sitemgr_module_guestbook must be installed as a egroupware application for this module to run	sitemgr	fa	کاربرد sitemgr_module_guestbook باید بعنوان یک کاربرد در گروه افزار نصب باشد تا این پیمانه بتواند اجرا شود
+apply permissions also to subcategories?	sitemgr	fa	مجوزها به زیر دسته ها هم اعمال شود؟
+archived	sitemgr	fa	آرشیو شده
+archived content	sitemgr	fa	محتوای آرشیو شده
+are contributors allowed to define new guestbooks?	sitemgr	fa	آیا یاری دهندگان اجازه تغییر در دفترچه مهمان را دارند؟
+are you sure you want to delete site %1 and all its content? you cannot retrieve it if you continue.	sitemgr	fa	آیا مطمئنید که می خواهید سایت %1 و همه محتویات آنرا حذف کنید؟ اگر ادامه دهید، نمی توانید آنرا برگردانید
+are you sure you want to delete the category %1 and all of its associated pages?  you cannot retrieve the deleted pages if you continue.	sitemgr	fa	آیا مطمئنید که می خواهید دسته %1 و تمام صفحات اختصاص یافته به آن را حذف کنید؟  اگر ادامه دهید، نمی توانید آنرا برگردانید
+as	common	fa	بعنوان
+asin[=title] pairs (title is optional)	sitemgr	fa	ASIN[=title] pairs (title is optional)
+attempt to access information outside current website	sitemgr	fa	تلاش برای دسترسی به اطلاعاتی خارج از این وب سایت
+attempt to edit non-editable block	sitemgr	fa	تلاش برای ویرایش بلاک غیرقابل ویرایش
+automatic index	sitemgr	fa	نمایه خودکار
+automatically generated notification	sitemgr	fa	آگاهی ساز خودکار
+back to module manager	sitemgr	fa	بازگشت به مدیر پیمانه
+back to the list of languages	sitemgr	fa	بازگشت به فهرست زبانها
+basic settings	sitemgr	fa	تنظیمات پایه
+before the public web site can be viewed, you must configure the various locations and preferences.  please go to the sitemgr setup page by following this link:	sitemgr	fa	قبل از اینکه سایت اصلی قابل دیدن باشد، شما باید پیکربندی های مکانهائی را در قسمت تنظیمات انجام دهید، به قسمت نصب مدیر وب سایت بروید و از پیوند زیر ردگیری کنید
+block not found.	sitemgr	fa	بلاک پیدا نشد
+block reloaded	sitemgr	fa	بلاک بارگذاری مجدد شد
+block returned no content.	sitemgr	fa	بلاک، محتوائی را برنگرداند
+block saved	sitemgr	fa	بلاک ضبط شد
+bookmarks	sitemgr	fa	چوب الفها
+buy at %1	sitemgr	fa	خرید در %1
+calendar	sitemgr	fa	تقویم
+can't open an url or execute a script, because allow_url_fopen is not set in your php.ini !!!	sitemgr	fa	ناتوان از بازکردن نشانی برای اجرای اسکریپت، چون allow_url_fopen در php.ini شما فعال نیست
+cancel the delete	sitemgr	fa	لغو حذف
+cannot move page until it has been saved.	sitemgr	fa	ناتوان از جابجا کردن صفحه، تا زمانی که ضبط شود
+category	sitemgr	fa	دسته
+category description	sitemgr	fa	شرح دسته
+category manager	sitemgr	fa	مدیر دسته
+category name	sitemgr	fa	نام دسته
+category saved	sitemgr	fa	دسته ضبط شد
+changes saved.	sitemgr	fa	دسته ضبط شد.
+check here after every upgrade	sitemgr	fa	پس از هر بهنگام سازی اینجا را بررسی کنید
+check to hide from condensed site index.	sitemgr	fa	علامت بگذارید تا از نمایه فشرده سایت پنهان شود
+choose a category	sitemgr	fa	دسته را انتخاب کنید
+choose a format	sitemgr	fa	قالب را انتخاب کنید
+choose a guestbook	sitemgr	fa	دفترچه مهمان را انتخاب کنید
+choose language	sitemgr	fa	زبان را انتخاب کنید
+choose news layout	sitemgr	fa	نمای اخبار را انتخاب کنید
+choose template	sitemgr	fa	قالب سایت را انتخاب کنید
+choose the categories to display	sitemgr	fa	دسته های قابل نمایش را انتخاب کنید
+choose the valid html type (note: not all icons are available):	sitemgr	fa	یک نوع زنگام(html) معتبر انتخاب کنید.(توجه: همه نمایه ها موجود نیستند)
+choose your site's theme or template.  note that if you changed the above checkbox you need to save before choosing a theme or template.	sitemgr	fa	تم یا قالب سایت خود را انتخاب کنید. توجه کنید اگر جعبه بررسی فوق را عوض کرده باشید باید قبل از برگزیدن تم یا قالب، ذخیره کنید.
+click here to login through a safe connection.	sitemgr	fa	اینجا را برای ورود امن کلیک کنید
+code file	sitemgr	fa	پرونده کد
+codebase url	sitemgr	fa	نشانی کدپایه
+collapse threads	sitemgr	fa	پخش کردن سرنخها
+comment	sitemgr	fa	شرح
+commit changes	sitemgr	fa	ثبت تغییرات
+common prefix of the image-name (a number starting with 1 will be appended)	sitemgr	fa	پیشوند مشترک برای نام تصویر (یک عدد که با 1 شروع می شود، افزوده خواهد شد)
+complete news	sitemgr	fa	اخبار کامل
+configure module properties	sitemgr	fa	پیکربندی مشخصات پیمانه
+configure sitemgr	sitemgr	fa	تنظیمات سایت ساز
+configure website	sitemgr	fa	تنظیمات وب سایت
+contact the administrator.	sitemgr	fa	تماس بامدیر
+content areas	sitemgr	fa	نواحی محتوی
+content blocks	sitemgr	fa	بلاکهای محتوی
+content blocks for category	sitemgr	fa	بلاکهای محتوی برای دسته ها
+content manager	sitemgr	fa	مدیر محتوی
+contentarea	sitemgr	fa	ناحیه محتوی
+contributor menu	sitemgr	fa	قهرست همیار
+copyright	sitemgr	fa	حق نسخه برداری
+create new version	sitemgr	fa	ایجاد نسخه جدید
+css styles	sitemgr	fa	سبک CSS
+current section	sitemgr	fa	بخش جاری
+custom	sitemgr	fa	سفارشی
+default	sitemgr	fa	پیش فرض
+default home page id number	sitemgr	fa	شماره شناسه خانه پیش فرض
+define websites	common	fa	تعریف وب سایتها
+delete block	sitemgr	fa	حذف بلاک
+delete category	sitemgr	fa	حذف دسته
+delete page	sitemgr	fa	حذف صفحه
+delete this application	sitemgr	fa	حذف این کاربرد
+delete this block	sitemgr	fa	حذف این بلاک
+delete this guestbook	sitemgr	fa	حذف این دفترچه مهمان
+delete version	sitemgr	fa	حذف نسخه
+deleting all data for %1	sitemgr	fa	حذف همه اطلاعات %1
+details for language %1 (%2)	sitemgr	fa	جزئیات برای زبان %1 (%2)
+directory for uploads (images etc.)	sitemgr	fa	پوشه برای ارسال (مانند images و غیره)
+directory is not writeable by webserver. please correct this situation!	sitemgr	fa	پوشه توسط کارگزار قابل نوشتن نیست. لطفا این مشکل را رفع کنید
+discussions	sitemgr	fa	بحث ها
+display link to autoregistration below login form?	sitemgr	fa	نمایش پیوند برای ثبت نام خودکار در صفحه ورود؟
+do you realy want to delete the selected categories (including all pages), pages and blocks?	sitemgr	fa	آیا واقعا می خواهید دسته های انتخاب شده بهمراه همه صفحاتشان، صفحات و بلاکها را حذف کنید؟
+do you realy want to delete this block?	sitemgr	fa	آیا واقعا می خواهید این بلاک را حذف کنید؟
+do you realy want to delete this page?	sitemgr	fa	آیا واقعا می خواهید این صفحه را حذف کنید؟
+do you want to delete them?	sitemgr	fa	آیا واقعا می خواهیدآنها را حذف کنید؟
+do you want to publish a rss feed for this news category	sitemgr	fa	آیا می خواهید که یک خوراننده RSS برای این دسته خبر منتشر کنید؟
+documentation	sitemgr	fa	مستندسازی
+domain-name (offical dns-name eg. www.egroupware.org) if you want to give the user a choice between searching this site or the whole web. leaving it empty allows to search the web only.	sitemgr	fa	نام حوزه (نام حوزه رسمی مانند: egw.ir)، اگر می خواهید که به کاربر گزینه ای بین جستجوی این سایت و همه وب بدهید. خالی بگذارید اگر می خواهید همه وب جستجو شود
+don't have an account?	sitemgr	fa	حساب کاربری ندارید؟
+done	sitemgr	fa	انجام شد
+download as zip-archiv	sitemgr	fa	دریافت بعنوان آرشیو ZIP
+download:	sitemgr	fa	دریافت:
+downloaded	sitemgr	fa	دریافت شود
+draft	sitemgr	fa	پیش نویس
+draft mode	sitemgr	fa	سبک پیش نویس
+edit categories and permissions	common	fa	ویراستن مجوزها و دسته ها
+edit category	sitemgr	fa	ویراستن دسته
+edit individual pages	common	fa	ویراستن صفحات منحصربفرد
+edit mode	sitemgr	fa	سبک ویراستن
+edit page	sitemgr	fa	ویراستن صفحه
+edit properties of module %1 for %2 with scope %3	sitemgr	fa	ویراستن مشخصات پیمانه %1 برای %2 با حدود %3
+edit site	sitemgr	fa	ویراستن سایت
+edit site header and footer	common	fa	ویراستن سرصفحه و پاصفحه سایت
+edit this block	sitemgr	fa	ویراستن این بلاک
+edit website	sitemgr	fa	ویراستن وب سایت
+egw users	sitemgr	fa	کاربران گروه افزار
+element successfully deleted.	sitemgr	fa	عنصر با موفقیت حذف شد
+enter a name	sitemgr	fa	یک نام وارد کنید
+enter the block content here	sitemgr	fa	محتوای بلاک را اینجا وارد کنید
+enter the email to be notified about changes of the website.	sitemgr	fa	رایانامه ای که باید در مورد تغییرات وب سایت به آن اطلاع داده شود وارد کنید
+enter the email to be notified about changes of the website:	sitemgr	fa	رایانامه ای که باید در مورد تغییرات وب سایت به آن اطلاع داده شود وارد کنید
+enter the page content here	sitemgr	fa	محتوای صفحه را اینجا وارد کنید
+enterprise knowledge articles repository	sitemgr	fa	مخزن مقالات بنگاه دانش
+entry duplicated.	sitemgr	fa	ورودی دوتائی شده
+entry saved.	sitemgr	fa	ورودی ضبط شد
+error accessing page	common	fa	خطا در دسترسی به صفحه
+error deleting the element.	sitemgr	fa	خطا در حذف عنصر
+error writing to the database.	sitemgr	fa	خطا در نوشتن به پایگاه داده
+error writing to the database: %1.	sitemgr	fa	خطا در نوشتن به پایگاه داده : %1
+everybody	sitemgr	fa	همه
+expand current category	sitemgr	fa	گسترده سازی پوشه جاری
+file %1 is not readable by the webserver !!!	sitemgr	fa	پرونده %1 قابل خواندن توسط کارگزار وب نیست!!!
+file %1 is outside the docroot of the webserver !!!<br>this module does not allow - for security reasons - to open files outside the docroot.	sitemgr	fa	پرونده %1 خارج از ریشه اسناد کارگزار وب است!!! <br> این پیمانه مجوز ندارد - به دلایل امنیتی - که بیرون از ریشه اسناد کارگزار وب اجرا شود.
+file contents	sitemgr	fa	محتوای پرونده
+file download	sitemgr	fa	دریافت پرونده
+filename	sitemgr	fa	نام پرونده
+filesystem path of the directory where xml files are stored	sitemgr	fa	مسیر سیستم فایل که پوشه پرونده های XML ذخیره شده در آن وجود دارد
+filesystem path of the image-directory	sitemgr	fa	مسیر پوشه تصویر در سیستم پرونده
+filesystem path to sitemgr-site directory	sitemgr	fa	مسیر پوشه sitemgr-site در سیستم پرونده
+fill in permissions from parent category? if you check this, below values will be ignored	sitemgr	fa	مجوزها از دسته والد پر شوند؟ اگر این را فعال کنید، مقادیر ذیل نادیده گرفته می شوند
+following new modules registed: %1	sitemgr	fa	پیمانه های جدید زیر افزوده شدند: %1
+footer editor	sitemgr	fa	ویرایشگر پاصفحه
+forever	common	fa	همیشه
+forum	sitemgr	fa	انجمن
+full path of the xslt file that should be applied to the xml files	sitemgr	fa	مسیر کامل پرونده XSLT که باید به پرونده های XML اعمال شود
+galerie	sitemgr	fa	گالری
+gallery plus chooser	sitemgr	fa	گالری با انتخابگر
+gallery plus chooser and download	sitemgr	fa	گالری با انتخابگر و دریافت
+gallery plus download	sitemgr	fa	گالری و دریافت
+go back to page manager	sitemgr	fa	بازگشت به مدیر صفحه
+go back to the category manager.	sitemgr	fa	بازگشت به مدیر دسته
+go to	sitemgr	fa	برو به
+go to page manager	sitemgr	fa	رفتن به مدیر صفحه
+google	sitemgr	fa	گوگل
+google search	sitemgr	fa	جستجوی گوگل
+group access permissions	sitemgr	fa	مجوز دسترسی گروه
+group name	sitemgr	fa	نام گروه
+header editor	sitemgr	fa	ویرایشگر سرصفحه
+headlines	sitemgr	fa	سرتیترها
+hello	sitemgr	fa	سلام
+hello world	sitemgr	fa	سلام دنیا
+helps you respect html/xhtml standards.	sitemgr	fa	به شما کمک می کند تا استانداردهای HTML/XHTML را رعایت نمائید
+horizontal	sitemgr	fa	افقی
+html frame	sitemgr	fa	قاب زنگام
+html module	sitemgr	fa	پیمانه زنگام
+i'm sorry, you do not have write permissions for any site categories.	sitemgr	fa	متأسفانه شما حق نوشتن برای هیچ دسته ای از سایت را ندارید
+if nonsecure redirect to:	sitemgr	fa	اگر نا امن است برو به:
+if you haven't done so already, create a user that will be used for public viewing of the site.  recommended name: anonymous.	sitemgr	fa	اگر قبلا این کار را انجام نداده اید، یک کاربر بسازید که دسترسی به نمایش این سایت داشته باشد. نام پیشنهادی: anonymous
+image type	sitemgr	fa	نوع تصویر
+implies read permission	sitemgr	fa	مجوزخواندن را می رساند
+index	sitemgr	fa	نمایه
+individual access permission	sitemgr	fa	مجوز مستقل دسترسی
+individual access permissions	sitemgr	fa	مجوزهای مستقل دسترسی
+interface to google website	sitemgr	fa	رابط با وبسایت گوگل
+invalid template directory '%1' !!!	sitemgr	fa	پوشه نامعتبر قالب سایت '%1' !!!
+knowledge base	sitemgr	fa	پایگاه دانش
+languages the site user can choose from	sitemgr	fa	زبانهائی که کاربران سایت می توانند آنرا انتخاب کنند
+last entries to the guestbook	sitemgr	fa	آخرین ورودیها برای دفترچه مهمان
+latest reply	sitemgr	fa	آخرین پاسخ
+list of permitted modules specific to content area %1	sitemgr	fa	فهرست پیمانه های مجاز که به ناحیه محتوی %1 تخصیص می شوند
+loged in as:	sitemgr	fa	ورود بعنوان:
+login	sitemgr	fa	ورود
+login name	sitemgr	fa	نام ورود
+main content	sitemgr	fa	محتوای اصلی
+mains	sitemgr	fa	اصلیها
+manage archived content	sitemgr	fa	مدیریت محتوای آرشیو شده
+manage categories	sitemgr	fa	مدیریت دسته ها
+manage categories and pages	sitemgr	fa	مدیریت دسته ها و صفحات
+manage category wide content	sitemgr	fa	مدیریت دسته محتوی محور
+manage category wide module properties	sitemgr	fa	مدیریت دسته پیمانه محور
+manage content	sitemgr	fa	مدیریت محتوی
+manage modules	sitemgr	fa	مدیریت پیمانه
+manage notification messages	sitemgr	fa	مدیریت پیامهای آگهی رسانی
+manage notifications	sitemgr	fa	مدیریت آگهی رسانی ها
+manage page specific content	sitemgr	fa	مدیریت محتوای صفحه
+manage pages	common	fa	مدیریت صفحات
+manage site content	sitemgr	fa	مدیریت محتوای سایت
+manage site-wide content	sitemgr	fa	مدیریت محتوای سایت محور
+manage site-wide module properties	sitemgr	fa	مدیریت مشخصات پیمانه سایت محور
+manage translations	sitemgr	fa	مدیریت ترجمه ها
+master list of permitted modules	sitemgr	fa	فهرست اصلی پیمانه های مجاز
+messages are defined for all site languages.	sitemgr	fa	پیامهائی که برای همه زبانهای سایت تعریف شده اند
+migrating data for %1 to %2	sitemgr	fa	مهاجرت داده ها از %1 به %2
+module %1 is not permitted in this context!	sitemgr	fa	پیمانه %1 برای این موقیعت، مجاز نیست
+module manager	sitemgr	fa	مدیر پیمانه
+module: %1, scope: %2, contentarea: %3, viewable: %4	sitemgr	fa	پیمانه: %1، محدوده: %2، ناحیه محتوی: %3، قابل نمایش: %4
+more news	sitemgr	fa	اخبار بیشتر
+move block down (increase sort order)	sitemgr	fa	حرکت بلاک به پائین
+move block up (decrease sort order)	sitemgr	fa	حرکت بلاک به بالا
+move to	sitemgr	fa	انتقال به
+name	sitemgr	fa	نام
+name has been translated to lower case	sitemgr	fa	نام، به حروف کوچک ترجمه شد
+new application	sitemgr	fa	کاربرد جدید
+new guestbook	sitemgr	fa	دفترچه مهمان جدید
+new sitemgr site	sitemgr	fa	سایت جدید
+news module	sitemgr	fa	پیمانه اخبار
+no additional arguments required	sitemgr	fa	آرگومان بیشتری نیاز نیست
+no anonymous user accounts installed.  notify the administrator.	sitemgr	fa	هیچ حساب کاربری بی نامی نصب نشده. به مدیر خبر بده
+no content areas found in selected template	sitemgr	fa	هیچ ناحیه محتوائی در قالب انتخاب شده نیست
+no content found	sitemgr	fa	محتوائی یافت نشد
+no groups defined.	sitemgr	fa	گروهی تعریف نشده
+no link to full index	sitemgr	fa	پیوندی به نمایه کامل نیست
+no matching news item	sitemgr	fa	موردی که با اخبار جور شود نیست
+no modules permitted for this content area/category	sitemgr	fa	هیچ پیمانه مجازی برای این ناحیه/دسته محتوی موجود نیست
+no new modules found !!!	sitemgr	fa	پیمانه جدید یافت نشد!!!
+no options available.	sitemgr	fa	گزینه ای موجود نیست
+no pages available	sitemgr	fa	صفحه ای موجود نیست
+no sitelanguages configured	sitemgr	fa	زبانی برای سایت پیکربندی نشده
+no template file found.	sitemgr	fa	پرونده قالب سایتی پیدا نشد
+no templates found.	sitemgr	fa	قالب سایتی پیدا نشد
+no thumbnail availible	sitemgr	fa	بندانگشتی موجود نیست
+no users defined.	sitemgr	fa	کاربری تعریف نشده
+no websites defined	sitemgr	fa	وب سایتی تعریف نشده
+no, chooser only (for side-areas)	sitemgr	fa	خیر، فقط گزینشگر(برای ناحیه های کناری)
+no, chooser with preview	sitemgr	fa	خیر، گزینشگر با پیش نمایش
+not	common	fa	نه
+not yet translated	sitemgr	fa	هنوز ترجمه نشده
+note that you may get this message if your preferences are incorrect.  for example, if config.inc.php is not found in the directory that you specified.	sitemgr	fa	توجه کنید که شما ممکن است این پیام را در صورت اشتباه در تنظیم مشخصات دریافت کرده باشید. برای مثال اگر پرونده config.inc.php در پوشه ای که شما تعیین کرده اید یافت نشود.
+note, this directory has to be writeable by webserver!	sitemgr	fa	توجه: این پوشه باید توسط کارگزار وب قابل نوشتن باشد
+number of news items to be displayed on page	sitemgr	fa	تعداد موارد اخبار برای نمایش در صفحه
+on all pages	sitemgr	fa	در همه صفحات
+only gallery	sitemgr	fa	فقط گالری
+only on the first page	sitemgr	fa	فقط در صفحه اصلی
+or enter the title for a new guestbook	sitemgr	fa	یا یک عنوان برای دفترچه مهمان وارد کنید
+other websites	sitemgr	fa	وب سایتهای دیگر
+overview of all available categories	sitemgr	fa	دورنمای همه دسته ها
+overview of one specific category	sitemgr	fa	دورنمای یک دسته خاص
+own amazon partner-id or empty to donate to the egroupware project	sitemgr	fa	شناسه همکار Amazon یا خالی گذاشتن برای یاری رساندن به پروژه eGroupWare
+page	sitemgr	fa	صفحه
+page content	sitemgr	fa	صفحه جاری
+page manager	sitemgr	fa	مدیریت صفحه
+page name	sitemgr	fa	نام صفحه
+page saved	sitemgr	fa	صفحه ذخیره شد.
+page saved.	sitemgr	fa	صفحه ذخیره شد.
+page subtitle	sitemgr	fa	زیر عنوان صفحه
+page title	sitemgr	fa	عنوان صفحه
+pages	sitemgr	fa	صفحات
+pages:	sitemgr	fa	صفحات
+parent	sitemgr	fa	والد
+parent directory	sitemgr	fa	پوشه والد
+parent section:	sitemgr	fa	بخش والد:
+password	sitemgr	fa	کلید واژه
+password that you assigned for the anonymous user account.	sitemgr	fa	گذرواژه ای که تخصیص به کاربر بی نام یافته است.
+path	sitemgr	fa	مسیر
+path to image-directory '%1' is not valid or readable by the webserver !!!	sitemgr	fa	مسیر به پوشه تصویر '%1'  معتبر نیست یا توسط کارگزار وب قابل خواندن نیست !!!
+path to zip binary if not in path of the webserver	sitemgr	fa	مسیر دودوئی فشرده، اگر در مسیر کارگزار وب نیست
+percentage	sitemgr	fa	درصد
+phrases in total	sitemgr	fa	تعداد کل عبارات
+please enter a name for that site !	sitemgr	fa	لطفا نامی برای آن سایت وارد کنید !
+please sign the guestbook	sitemgr	fa	لطفا دفترچه مهمان را امضاء کنید
+post a message to this thread	sitemgr	fa	ارسال پیام به این سرنخ
+prepublished	sitemgr	fa	پیش انتشار
+preunpublished	sitemgr	fa	پیش خروج ازانتشار
+previous	sitemgr	fa	قبلی
+production mode	sitemgr	fa	سبک تولید
+published	sitemgr	fa	منتشر شده
+reactivate content	sitemgr	fa	فعالسازی مجدد محتوی
+read permission	sitemgr	fa	مجوز خواندن
+redirection	sitemgr	fa	تغییر جهت
+refresh	sitemgr	fa	بازخوانی
+register for one now.	sitemgr	fa	حالا ثبت برای یکی
+register new modules	sitemgr	fa	ثبت پیمانه های جدید
+reload	sitemgr	fa	بازخوانی
+remember me	common	fa	مرا بخاطر داشته باش
+replies	sitemgr	fa	پاسخ می دهد
+required fields	sitemgr	fa	فیلدهای لازم
+reset	sitemgr	fa	از نو
+return to forums	sitemgr	fa	بازگشت به انجمنها
+return to main menu.	sitemgr	fa	بازگشت به فهرست اصلی
+return to message list	sitemgr	fa	بازگشت به فهرست پیامها
+root site index	sitemgr	fa	نمایه ریشه سایت
+save	sitemgr	fa	ذخیره
+save block	sitemgr	fa	ذخیره بلاک
+saved	sitemgr	fa	ذخیره شده
+scope	sitemgr	fa	محدوده
+seen by	sitemgr	fa	دیده شود بوسیله
+select a category	sitemgr	fa	انتخاب دسته
+select a forum	sitemgr	fa	انتخاب انجمن
+select allowed modules	sitemgr	fa	انتخاب پیمانه های مجاز
+select persons and groups that are entitled to configure the website.	sitemgr	fa	انتخاب اشخاص و گروههائی که مجاز به پیکربندی وب سایت می باشند
+select the templates the user is allowed to see	sitemgr	fa	انتخاب قالبهائی که کاربر مجاز به دیدن آنهاست
+select type of navigation	sitemgr	fa	انتخاب نوع ناوبری
+selected template %1 does not exist.	sitemgr	fa	قالب %1 انتخاب شده موجود نیست
+selected theme %1 does not exist.	sitemgr	fa	تم %1 انتخاب شده موجود نیست
+should the file be viewed in the browser or downloaded	sitemgr	fa	آیا پرونده باید در مرورگر نمایش داده شود یا دریافت شود
+show a template-gallery (thumbnail and informations)	sitemgr	fa	نمایش یک گالری قالب (بندانگشتی و اطلاعات مربوطه)
+show contents of a directory	sitemgr	fa	نمایش محتوای پوشه
+show contents of a directory with subdirectories	sitemgr	fa	نمایش محتوای پوشه با زیر پوشه هایش
+show details for the applications	sitemgr	fa	نمایش جزئیات برای کاربردها
+show only (in the next field) selected templates	sitemgr	fa	فقط نمایش قالبهای انتخاب شده(در فیلد بعدی)
+show only headers containing links for complete news	sitemgr	fa	فقط نمایش سرآیندهای شامل پیوندها برای اخبار کامل
+show path?	sitemgr	fa	نمایش مسیر؟
+show searchbox	sitemgr	fa	نمایش جعبه جستجو
+show site index	sitemgr	fa	نمایش نمایه سایت
+show subcategories	sitemgr	fa	نمایش زیر دسته ها
+show the title of the wiki page	sitemgr	fa	نمایش عنوان صفحه ویکی
+single file download	sitemgr	fa	دریافت پرونده یکتائی
+site	sitemgr	fa	سایت
+site %1 has been added, you need to %2configure the site%3 now	sitemgr	fa	سایت %1 افزوده شد، شما باید حالا %2سایت را پیکربندی کنید%3
+site %1 has been updated	sitemgr	fa	سایت %1 بهنگام شد
+site administrators	sitemgr	fa	مدیران سایت
+site description	sitemgr	fa	شرح سایت
+site format manager	sitemgr	fa	مدیر قالب سایت
+site index	sitemgr	fa	نمایه سایت
+site name	sitemgr	fa	نام  وب سایت
+site setup	common	fa	راه اندازی  وب سایت
+site tree menu	sitemgr	fa	فهرست دختی سایت
+site wide	sitemgr	fa	سایت محور
+sitemgr	common	fa	سایت ساز
+sitemgr manual	sitemgr	fa	راهنمای سایت ساز
+sitemgr options	sitemgr	fa	گزینه های سایت ساز
+sitemgr setup instructions	sitemgr	fa	راهنمای برپاسازی سایت ساز
+sitemgr setup page	sitemgr	fa	صفحه برپاسازی سایت ساز
+sitemgr web content manager	common	fa	مدیریت محتوای وب سایت ساز
+sitemgr websites	sitemgr	fa	سایتهای سایت ساز
+sitemgr-link	common	fa	وب سایت
+size	sitemgr	fa	اندازه
+sort order	sitemgr	fa	ترتیب مرتب سازی
+state	sitemgr	fa	وضعیت
+strip html from block content?	sitemgr	fa	جداسازی زنگام(html) از بلاک محتوا؟
+subcategories	sitemgr	fa	زیر دسته ها
+subsections:	sitemgr	fa	زیر بخش ها:
+subtext for image %1	sitemgr	fa	زیر متن برای %1
+subtitle	sitemgr	fa	زیر عنوان
+summary of one forum	sitemgr	fa	خلاصه ای از یک انجمن
+suppress link to index (show all)	sitemgr	fa	فشرده کردن پیوند در نمایه (نمایش همه)
+suppress link to parent category	sitemgr	fa	فشرده سازی پیوند به دسته والد
+suppress the current page	sitemgr	fa	فشرده سازی صفحه جاری
+table of contents	sitemgr	fa	فهرست محتویات
+template based navigation module	sitemgr	fa	پیمانه ناوبری برپایه قالب
+template select	sitemgr	fa	انتخاب قالب
+text allignment	sitemgr	fa	چینش متن
+textarea	sitemgr	fa	ناحیه متن
+the category to display, 0 for complete table of contents	sitemgr	fa	دسته برای نمایش، صفر- برای نمایش همه جدول محتوی
+the complete url or path to a file to be included	sitemgr	fa	مسیر یا نشانی کامل پرونده ای که باید اضافه شود
+the config.inc.php file needs to be edited to point to the egroupware directory. copy the config.inc.php.template file to config.inc.php and then edit it.	sitemgr	fa	پرونده config.inc.php نیاز دارد که ویرایش شود تا به پوشه گروه افزار اشاره کند. پرونده config.inc.php.template را به نام config.inc.php نسخه برداری کنید و سپس آنرا ویرایش نمائید
+the file to be downloaded	sitemgr	fa	پرونده ای که باید دریافت شود
+the filesystem path to your sitemgr-site directory '%1' is probably wrong. go to sitemgr --> define websites and edit/fix the concerned site.	sitemgr	fa	مسیر سیستم پرونده '%1'  برای پوشه sitemgr-site اشتباه است. به سایت ساز --> تعریف وب سایتها رفته و آنرا ویرایش یا تصحیح نمائید.
+the first directory to think about is sitemgr-link.  if you move this to the parent directory of sitemgr (your egroupware root directory) then you can use setup to install the app and everyone with access to the app will get an icon on their navbar that links them directly to the public web site.  if you don't want this icon, there's no reason to ever bother with the directory.	sitemgr	fa	اولین پوشه ای که باید به آن فکر کنید sitemgr-link است. اگر این پوشه را به پوشه والد sitemgr (یعنی پوشه ریشه گروه افزار -kgw-) انتقال دهید و سپس نصب را اجرا کنید و این کاربرد را نصب کنید، کاربرانی که حق دیدن این کاربرد را داشته باشند از طریق دسترسی مستقیم به این کاربرد توسط کلیک بر نمایه آن در فهرست خودشان، می توانند وب سایت را ببینند. اگر این را نمیخواهید در مورد این پوشه فکر نکنید.
+the name field cannot contain punctuation or spaces (field modified).	sitemgr	fa	فیلد نام نمی تواند از کاراکترهای غیرچاپی و فاصله استفاده کند(فیلد تغییریافته)
+the page name must be unique.	sitemgr	fa	نام صفحه باید یکتائی باشد
+the page was successfully saved.	sitemgr	fa	صفحه با موفقیت ذخیره شد
+the path to the file to be downloaded	sitemgr	fa	مسیر پرونده برای دریافت
+the person to say hello to	sitemgr	fa	شخصی که باید به او سلام گفت
+the text for the link, if empty the module returns the raw url (without a link)	sitemgr	fa	متن برای پیوند، اگر خالی باشد، پیمانه یک نشانی خام بر میگرداند(بدون پیوند)
+the url can be relative or absolute.  name must end in a slash.	sitemgr	fa	نشانی می تواند وابسته یا مستقل باشد. نام باید با یک ممیز تمام شود.
+the url must be absolute and end in a slash, for example http://mydomain.com/mysite/	sitemgr	fa	نشانی باید مستقل بوده  و با یک ممیز تمام شود، برای مثال: /http://mydomain.com/mysite
+the url to display	sitemgr	fa	نشانی برای نمایش
+the url to redirect to	sitemgr	fa	نشانی برای تغییر جهت
+the web	sitemgr	fa	وب
+the website has changed. too see the change, follow this url: $url.	sitemgr	fa	وب سایت تغییر یافت. برای دیدن تغییر یافته از نشانی: $URL استفاده کنید.
+the whole page	sitemgr	fa	همه صفحه
+the xml files' common name	sitemgr	fa	نام مشترک پرونده XML
+theme or template select	sitemgr	fa	انتخاب تم یا قالب
+there are %1 elements in the list.	sitemgr	fa	تعداد %1 عنصر در فهرست وجود دارد
+there are no categories	sitemgr	fa	هیچ دسته ای نیست
+there are no forums in this category	sitemgr	fa	هیچ انجمنی در این دسته نیست
+there are no pages in this section	sitemgr	fa	هیچ صفحه ای در این بخش نیست
+there are no properties defined for this module	sitemgr	fa	هیچ مشخصاتی برای این پیمانه تعریف نشده است
+there are no sections available to you.	sitemgr	fa	هیچ بخشی برای شما موجود نیست
+there are two subdirectories off of your sitemgr directory that you should move before you do anything else.  you don't <i>have</i> to move either of these directories, although you will probably want to.	sitemgr	fa	دو زیر پوشه در پوشه sitemgr شما وجود دارد که قبل از ادامه باید آنها را منتقل کنید. شما <i>مجبور</i> به انتقال این پوشه ها نیستید، اما اگر بخواهید می توانید
+there can only be one version in (pre(un))published state, with the one exeption that one prepublished version can coexist with one preunpublished version	sitemgr	fa	فقط یک نسخه می تواند در وضعیت قبل از انتشارشده/انتشارنشده باشد، با یک استثناء، یک نسخه قبل از انتشارشده می تواند با یک نسخه قبل از انشار نشده وجود داشته باشد
+there is no website configured for url %1.  notify the administrator.	sitemgr	fa	هیچ سایتی برای نشانی %1 پیکربندی نشده. به مدیر خبر دهید.
+there is nothing to list.	sitemgr	fa	هیچ چیز در فهرست نیست
+there was an error accessing the requested page. either you do not have permission to view this page, or the page does not exist.	common	fa	یک خطا در دسترسی به صفحه درخواست شده هست. ممکن است شما مجوز دسترسی به این صفحه را نداشته باشید یا صفحه موجود نباشد.
+there was an error writing to the database.	sitemgr	fa	خطا در نوشتن روی پایگاه داده
+this block displays a javascript based tree menu	sitemgr	fa	این بلاک یک فهرست درختی جاوااسکریپتی نمایش می دهد
+this block displays the current section's table of contents	sitemgr	fa	این بلاک فهرست محتویات بخش جاری را نمایش میدهد
+this category has no pages.	sitemgr	fa	این دسته صفحه ای ندارد
+this is a simple sample module	sitemgr	fa	این یک پیمانه ساده نمونه است
+this is only used as an internal name for the website.	sitemgr	fa	این فقط بعنوان یک نام داخلی برای وب سایت استفاده می شود
+this module create a link for downloading a file from the vfs	sitemgr	fa	این پیمانه یک پیوند برای دریافت پرونده از یک VFS ایجاد میکند.
+this module create a link for downloading a file(s) from the vfs	sitemgr	fa	این پیمانه یک پیوند برای دریافت پرونده ها از یک VFS ایجاد میکند.
+this module demonstrates how handling data stored in xml and building an interacvite interface from it	sitemgr	fa	این پیمانه نمایش میدهد که چگونه از اطلاعات XML  برای واسط تعاملی استفاده می شود.
+this module displays a login form	sitemgr	fa	این پیمانه یک فرم ورود نمایش میدهد
+this module displays any kind of navigation element.	sitemgr	fa	این پیمانه انواع عناصر ناوبری را نمایش میدهد.
+this module displays bookmarks in a javascript based tree	sitemgr	fa	این پیمانه چوب الفها را بصورت نمای درختی جاوااسکریپتی نمایش میدهد
+this module displays the current month	sitemgr	fa	این پیمانه ماه جاری را نمایش می دهد
+this module displays the egw forums on the web site	sitemgr	fa	این پیمانه انجمنها را روی وب سایت نمایش می دهد
+this module displays the root categories in one block each, with pages and subcategories (incl. their pages if activated).	sitemgr	fa	این پیمانه دسته های ریشه با صفحات و زیر دسته ها(بهمراه صفحات فعالشان) را در هر بلاک نمایش می دهد
+this module displays the root categories, its pages and evtl. subcategories. it is meant for side areas	sitemgr	fa	این پیمانه دسته های ریشه با صفحات و زیر دسته ها(بهمراه صفحات فعالشان) را در ناحیه های کناری نمایش می دهد
+this module includes the contents of an url or file (readable by the webserver and in its docroot !)	sitemgr	fa	این پیمانه شامل محتویات یک نشانی یا پرونده می شود (قابل خواندن توسط کارگزار وب و ریشه سند آن باشد)
+this module is a customisable navigation element	sitemgr	fa	این پیمانه یک عنصر قابل سفارشی ناوبری است
+this module is a selectbox to change the mode (production, draft or edit) plus a link back to sitemgr and to log out. it is meant for registered users only	sitemgr	fa	این پیمانه یک جعبه انتخاب برای تغییر سبک است.(تولید، پیش نویس یا ویرایش) بهمراه یک پیوند برگشت به سایت ساز و برای خروج. این فقط برای کاربران ثبت شده معنی دارد
+this module is a simple html editor	sitemgr	fa	این پیمانه یک ویرایشگر ساده زنگام(html) است.
+this module lets the users choose a template or shows a template gallery	sitemgr	fa	این پیمانه به کاربران اجازه میدهد که کاربران یک قالب را ببینند یا انتخاب کنند
+this module lets users choose language	sitemgr	fa	این پیمانه به کاربران اجازه میدهد که یک زبان را انتخاب کند
+this module lets you define pages that redirect to another url, if you use it, there should be no other block defined for the page	sitemgr	fa	این پیمانه به شما اجازه می دهد تا صفحاتی را تعریف کنید تا تغییر جهت به نشانی دیگر دهد، اگر شما استفاده اش کنید، نباید بلاک دیگری را برای صفحه تعریف کنید
+this module lets you include an applet into the page.	sitemgr	fa	این پیمانه به شما اجازه می دهد تا یک اپلت به این صفحه اضافه کنید
+this module lets you show a given url inside an iframe in the page.	sitemgr	fa	این پیمانه به شما اجازه میدهد که نشانی داده شده را در یک صفحه دارای IFRAME نمایش دهید
+this module permits browsing through xml files stored in a directory, and transformed by xslt	sitemgr	fa	این پیمانه اجازه میدهد که پرونده های XML را که در یک پوشه ذخیره شده اند و با XSLT منتقل می شوند، مرورکنید
+this module provides a complete table of contents, it is automatically used by the toc and category_id get parameters	sitemgr	fa	این پیمانه یک فهرست کامل محتوی را شامل می شود، بصورت خودکار بوسیله پارامترهایGET در toc  و category_id استفاده می شوند.
+this module provides a condensed table of contents, meant for side areas	sitemgr	fa	این پیمانه فهرست محتویات را بطور فشرده برای ناحیه های کناری فراهم میکند
+this module provides the path to the element currently shown	sitemgr	fa	این پیمانه یک مسیر به عنصر درحال نمایش، فراهم میکند
+this module provides the site index, it is automatically used by the index get parameter	sitemgr	fa	این پیمانه یک نمایه از سایت فراهم میکند که بطور خودکار توسط پارامتر GET نمایه استفاده می شود
+this module publishes news from the news_admin application on your website. be aware of news_admin's acl restrictions.	sitemgr	fa	این پیمانه اخبار را از طریق کاربرد «اخبار» به وب سایت شما منتشر میکند. به محدودیتهای دسترسی به اخبار در کاربرد «اخبار» توجه داشته باشید
+this module show the status / percentage of the translation of egw	sitemgr	fa	این پیمانه وضعیت/درصد ترجمه گروه افزار را نمایش می دهد
+this must be an absolute directory location.  <b>no trailing slash</b>.	sitemgr	fa	این بایدیک محل پوشه مستقل باشد. <b>بدون ممیز در انتها</b>
+this should be a comma-separated list of language-codes.	sitemgr	fa	این باید فهرستی جدا شده با ویرگول از کدهای زبانی باشد(مانند: en,fa)
+this should be a page that is readable by everyone. if you leave this blank, the site index will be shown by default.	sitemgr	fa	این باید صفحه ای باشد که برای همه قابل خواندن باشد. اگر آن را خالی بگذارید، نمایه سایت بطور پیش فرض نمایش داده خواهد شد.
+this site	sitemgr	fa	این سایت
+title	sitemgr	fa	عنوان
+topic	sitemgr	fa	عنوان
+translate	sitemgr	fa	ترجمه
+translate category	sitemgr	fa	ترجمه دسته
+translate page	sitemgr	fa	ترجمه صفحه
+translate site-wide content blocks	sitemgr	fa	ترجمه محتوای بلاک سایت محور
+translation manager	sitemgr	fa	مدیر ترجمه
+translation status	sitemgr	fa	وضعیت ترجمه
+unsubscribe	sitemgr	fa	خروج از عضویت
+up to parent	sitemgr	fa	رفتن بالا به والد
+up to table of contents	sitemgr	fa	رفتن بالا به جدول محتوی
+update notification	sitemgr	fa	آگهی رسانی بهنگام سازی
+updating to new category system	sitemgr	fa	بهنگام سازی به سیستم دسته جدید
+url	sitemgr	fa	نشانی
+url of directory for uploads (images etc.)	sitemgr	fa	نشانی پوشه برای ارسال (تصاویر و غیره)
+url pointing to the image-directory	sitemgr	fa	نشانی که به پوشه تصاویر اشاره می کند
+url to sitemgr-site	sitemgr	fa	نشانی به sitemgr-site
+use phpnuke themes instead of templates	sitemgr	fa	بجای قالبها از تمهای phpNuke استفاده کنید
+use this module for displaying book ads for the amazon web site	sitemgr	fa	از این پیمانه برای نمایش تبلیغات کتابها از سایت amazon استفاده کنید
+use this module for displaying wiki-pages	sitemgr	fa	از این پیمانه برای نمایش صفحات ویکی استفاده کنید
+user name	sitemgr	fa	نام کاربری
+validator	sitemgr	fa	اعتبارده
+vertical	sitemgr	fa	عمودی
+view administrative menu	sitemgr	fa	دیدن فهرست مدیریت
+view full index	sitemgr	fa	دیدن نمایه کامل
+view generated site	sitemgr	fa	دیدن سایت ایجاد شده
+view template on this site	sitemgr	fa	دیدن قالبها در این سایت
+view threads	sitemgr	fa	دیدن سرنخها
+viewed	sitemgr	fa	دیده شود
+web content manager	common	fa	مدیر محتوای وب سایت ساز
+web content manager administration	sitemgr	fa	مدیر مدیریت محتوای وب
+web site manager	sitemgr	fa	مدیر وب سایت
+website	sitemgr	fa	وب سایت
+week	sitemgr	fa	هفته
+what do you want to do with existing translations of categories and pages for this language?	sitemgr	fa	شما با ترجمه های موجود برای دسته ها و صفحات برای این زبان چه میخواهید بکنید؟
+which application should be executed after login?	sitemgr	fa	کدام برنامه باید بعد از ورود اجرا شود؟
+wiki	sitemgr	fa	ویکی
+wiki startpage	sitemgr	fa	صفحه شروع ویکی
+with which view should the module be displayed in the beginning?	sitemgr	fa	در کدام نما باید پیمانه در ابتدا نمایش داده شود
+write permission	sitemgr	fa	مجوز نوشتن
+xml browser	sitemgr	fa	مرورگر XML
+yes, please delete it	sitemgr	fa	بله لطفا حذف شود
+you are not entitled to change the scope of block %1 to cat %2 and page %3	sitemgr	fa	شما حق ندارید که محدوده بلاک %1 را به  دسته  %2 و صفحه %3 تغییر دهید
+you are not entitled to create module %1 on this scope	sitemgr	fa	شما حق ندارید که پیمانه %1 را در این محدوده بسازید
+you are not entitled to edit block %1	sitemgr	fa	شما حق ندارید که بلاک %1 را ویرایش کنید
+you can choose the modules that can be used on the site. the first list is a sort of master list, that is consulted if you do not configure lists specific to contentareas or (sub)categories. then you can choose lists specific to each content area. in the category manager these lists can be overriden for each (sub)category.	sitemgr	fa	شما می توانید پیمانه های قابل استفاده در سایت را انتخاب کنید. فهرست اول ترتیبی از فهرست اصلی است، که به شما در پیکربندی فهرستهای ناحیه محتوای و زیر دسته ها و دسته ها یاری می رساند. در مدیر دسته این فهرستها می توانند برای هر زیر دسته نادیده گرفته شوند.
+you can either migrate them to a new language or delete them	sitemgr	fa	شما می توانید آنها را به زبان جدید مهاجرت دهید یا حذفشان کنید
+you can override each content blocks default title. be aware that not in all content areas the block title will be visible.	sitemgr	fa	شما می توانید هر عنوان پیش فرض محتوای بلاک را نادیده بگیرید. توجه کنید که درهمه محتوای بلاکها ، عنوان قابل دیدن است.
+you did not choose a module.	sitemgr	fa	شما پیمانه ای انتخاب نکردید
+you do not have access to any content on this site.	sitemgr	fa	شما به هیچ محتوائی از سایت دسترسی ندارید
+you do not have write permissions for any site categories.	sitemgr	fa	شما مجوز نوشتن برای همه دسته های سایت را ندارید
+you don't have permission to write in the category	sitemgr	fa	شما مجوز نوشتن به این دسته را ندارید
+you don't have permission to write to that category.	sitemgr	fa	شما مجوز نوشتن به آن دسته را ندارید
+you failed to fill in one or more required fields.	sitemgr	fa	شما در پرکردن یک یا چند فیلد لازم اشتباه کردید
+you have no rights to view wiki content or the wiki is not installed at all !!!	sitemgr	fa	شما حقی برای دیدن محتوای ویکی ندارید یا همه محتوای ویکی هنوز نصب نشده است
+you may have deinstalled the used template '%1'. reinstall it or go to sitemgr --> configure website and select an other one.	sitemgr	fa	شاید شما مجبور شوید که قالب '%1' را عزل کنید. دوباره آنرا نصب کنید یا به سایت ساز--> پیکربندی وب سایت رفته و قالب دیگری انتخاب کنید.
+you must be an admin to edit categories.	sitemgr	fa	شما باید مدیر باشید تا دسته ها را ویرایش کنید
+you must be an admin to edit the site header and footer.	sitemgr	fa	شما باید مدیر باشید تا سرصفحه و پاصفحه سایت را ویرایش کنید
+you must be an admin to manage module properties.	sitemgr	fa	شما باید مدیر باشید تا تنظیمات پیمانه را مدیریت کنید
+you must be an administrator to setup the site manager.	sitemgr	fa	شما باید مدیر باشید تا نصب سایت ساز را انجام دهید
+you removed one ore more languages from your site languages.	sitemgr	fa	شما یک یا چند زبان را از زبانهای سایت خود را حذف کردید
+your administrator has not yet setup the web content manager for public viewing.  go bug your administrator to get their butt in gear.	sitemgr	fa	مدیر شما هنوز مدیریت محتوای وبی برای دید عموم تنظیم نکرده است.
+your calendar	sitemgr	fa	تقویم شما
+your comment	sitemgr	fa	توضیحات شما
+your connection is not safe.	sitemgr	fa	اتصال شما امن نیست
+your name	sitemgr	fa	نام شما

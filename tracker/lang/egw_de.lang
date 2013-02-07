@@ -1,0 +1,253 @@
+%1 entries updated.	tracker	de	%1 Einträge aktualisiert.
+%1 tickets have been converted	tracker	de	%1 Tickets konvertiert
+&#9830; not closed	tracker	de	♦ Nicht geschlossen (oder gelöscht)
+&#9830; own not closed	tracker	de	♦ Eigene nicht geschlossen
+&#9830; own without reply not closed	tracker	de	♦ Eigene ohne Antwort nicht geschlossen
+&#9830; without 30 days reply not closed	tracker	de	♦ Ohne Antwort für 30 Tage nicht geschlossen
+&#9830; without reply not closed	tracker	de	♦ Ohne Antwort nicht geschlossen
+(new tickets as	tracker	de	(Neue Tickets als
+--> choose a project from the drop-down list	tracker	de	--> ein Projekt aus der Auswahlliste wählen
+--> enter new name	tracker	de	--> neuen Namen eingeben
+1 - lowest	tracker	de	1 - niedrigste
+5 - medium	tracker	de	5 - mittlere
+9 - highest	tracker	de	9 - höchste
+accepted	tracker	de	Akzeptiert
+actions	tracker	de	Befehle
+activate users queue access control	tracker	de	Zugriffskontrolle für Verfolgungsystem aktivieren
+add additionally	tracker	de	zusätzlich hinzufügen
+add assigned	tracker	de	Zugewiesen hinzufügen
+add comment	tracker	de	Kommentar hinzufügen
+add timesheet entry	tracker	de	Stundenzettel hinzufügen
+add unrecognized mail address to the cc field	tracker	de	Nicht erkannte Mail Adresse zu CC hinzufügen
+after	tracker	de	nach
+after how many days a not replied item should be marked overdue?	tracker	de	Nach wievielen Tagen soll ein nicht beantworteter Eintrag als überfällig markiert werden?
+after how many days pending items should be closed automatic	tracker	de	Nach wievielen Tagen sollen schwebende Einträge automatisch geschlossen werden?
+all tickets are already converted to tracker	tracker	de	alle Tickets sinde bereits konvertiert
+allow bounties	tracker	de	Prämien erlauben
+allow default projects for tracker	tracker	de	Erlaube Zuordnung von Projekten in der Tracker Konfiguration
+allow editing by	tracker	de	Bearbeiten erlauben von
+allow the predefinition of projects that will be assigned to new tracker-items.	tracker	de	Erlaube die Voreinstellung von Projektzuordnungen für Trackereinträge.
+allow to assign groups to tracker items	tracker	de	Erlaube Einträgen Gruppen zuzuweisen
+allow voting	tracker	de	Erlaube Abstimmungen
+allow voting on tracker items, show and sort after the votes	tracker	de	Erlauben das Abstimmen über Einträge des Verfolgungssystem, zeige und sortiere nach den Stimmen
+already escalated	tracker	de	bereits eskaliert
+amount	tracker	de	Betrag
+assign to project	tracker	de	Projektzuweisung
+assigned to	tracker	de	Zugewiesen an
+assigning groups	tracker	de	Gruppen zuweisen
+attachments & links	tracker	de	Anhänge & Verknüpfungen
+autoassign to	tracker	de	Automatisch zuweisen an
+automatic email handling	tracker	de	Automatische Mail Behandlung
+bounties	tracker	de	Prämien
+bounty confirmed	tracker	de	Prämie bestätigt
+bounty confirmed.	tracker	de	Prämie bestätigt.
+bounty deleted	tracker	de	Prämie gelöscht
+bounty deleted.	tracker	de	Prämie gelöscht.
+bounty set	tracker	de	Prämie gesetzt
+canned response	tracker	de	Standardantwort
+canned responses	tracker	de	Standardantworten
+categories, versions, canned responses	tracker	de	Kategorien, Versionen, Standardantworten
+category for new tickets	tracker	de	Kategorie für neue Tickets
+changes made below will be lost, if not applied before!	tracker	de	Änderungen darunter gehen verloren, wenn sie nicht vorher übernommen werden!
+check all	tracker	de	Alle auswählen
+check mail interval	tracker	de	Überprüfungsinterval für Mails
+choose a project from the drop-down list	tracker	de	ein Projekt aus der Auswahlliste wählen
+close pending	tracker	de	Schließe schwebend
+closed	tracker	de	Geschlossen
+comment by %1 at %2:	tracker	de	Kommentar von %1 am %2:
+comments	tracker	de	Kommentare
+completed	tracker	de	Prozent erledigt
+configuration	tracker	de	Konfiguration
+configuration for all trackers	tracker	de	Konfiguration für alle Verfolgungssysteme
+configuration updated.	tracker	de	Konfiguration aktualisiert.
+configuration, acl, notifications	tracker	de	Konfiguration, Zugriffskontrolle, Benachrichtigungen
+confirm that you pay the specified bounty to implement or fix the issue	tracker	de	Bestätigen Sie, dass Sie die angegebenen Prämie zahlen, für die Implementation oder Behebung dieses Themas
+confirm the receipt of money for this bounty	tracker	de	Bestätigen Sie den Zahlungseingang dieser Prämie
+confirmed	tracker	de	Bestätigt
+convert all closed tickets	tracker	de	konvertiere geschlossene Tickets
+convert all open tickets	tracker	de	konvertiere alle offenen Tickets
+converted count	tracker	de	Anzahl konvertiert
+copy to	tracker	de	Kopie an
+create new links	tracker	de	Neue Verknüpfung anlegen
+created	tracker	de	Erstellt
+creation date	tracker	de	Erstellungsdatum
+creator	tracker	de	Ersteller
+custom fields	tracker	de	Benutzerdefinierte Felder
+custom tracker priorities	tracker	de	Benutzerdefinierte Prioritäten
+date opened	tracker	de	Datum angelegt
+define escalations	common	de	Eskalation definieren
+delete mails from server	tracker	de	Mails auf dem Server löschen
+delete this bounty	tracker	de	Diese Prämie löschen
+delete this canned response	tracker	de	Diese Standardantwort löschen
+delete this category	tracker	de	Diese Kategorie löschen
+delete this entry	tracker	de	Diesen Eintrag löschen
+delete this escalation	tracker	de	Diese Eskalation löschen
+delete this status	tracker	de	Diesen Status löschen
+delete this tracker including all it's items and categories	tracker	de	Dieses Verfolgungssystem einschließlich aller Einträge und Kategorien löschen
+delete this version	tracker	de	Diese Version löschen
+delete unrecognized mails from the server, even if 'delete mails' above is not tagged.	tracker	de	Löscht nicht zuordenbar Mails vom Server, selbst wenn oben 'Mails löschen' nicht ausgewählt wurde.
+deleted	tracker	de	Gelöscht
+do you want to vote for this item	tracker	de	Wollen Sie für diesen Eintrag stimmen
+donator name to show	tracker	de	Name des Spenders zum anzeigen
+duplicate	tracker	de	Doppelt
+e-mail address to which a copy of all tracker-notifications should be send	tracker	de	E-Mail Adresse zu der eine Kopie aller Benachrichtigungen des Verfolgungssystem geschickt werden soll
+e-mail notifications	tracker	de	E-Mail Benachrichtigungen
+edit %1	tracker	de	%1 bearbeiten
+edit entry	tracker	de	Ticket bearbeiten
+email address to contact you	tracker	de	E-Mail-Adresse um Sie zu kontaktieren
+email handling can be configured only for all trackers	tracker	de	Die Mail Behandlung kann nur für alle Verfolgungssystem konfiguriert werden.
+enter an email address here if unrecognized mails should be forwarded	tracker	de	Mail Adresse zu der nicht zuordenbare Mails weitergeleitet werden
+enter an opening text for the reply message	tracker	de	Geben Sie einen Anfangstext für die Antwort Nachricht ein
+enter the imap server from which emails should be fetched	tracker	de	IMAP Server von dem Mail gelesen werden sollen
+enter the mail address that will be read.	tracker	de	Mail Adresse die gelesen wird.
+entry saved	tracker	de	Eintrag gespeichert
+error adding the new tracker!	tracker	de	Fehler beim Anlegen des neuen Verfolgungssystems!
+error deleting escalation!	tracker	de	Fehler beim Löschen der Eskalation!
+error saving the entry!!!	tracker	de	Fehler beim Speichern des Eintrags!!!
+escalation	tracker	de	Eskalation
+escalation added.	tracker	de	Eskalation hinzugefügt.
+escalation deleted.	tracker	de	Eskalation gelöscht.
+escalation not found!	tracker	de	Eskalation nicht gefunden!
+escalation saved.	tracker	de	Eskalation gespeichert.
+everybody	tracker	de	Jeder
+existing links	tracker	de	Bestehende Verknüpfungen
+field	tracker	de	Feld
+fixed	tracker	de	Gelöst
+forward to	tracker	de	Weiterleiten an
+forward unrecognized mails to the email address that has to be specified here.	tracker	de	Leitet nicht zuordenbare Mail an die hier eingetragene Adresse weiter.
+from	tracker	de	Von
+history	tracker	de	Historie
+html editing	tracker	de	Formatierte Textbearbeitung
+id	tracker	de	ID
+if this item is important for you, please consider to set a bounty for it!	tracker	de	Wenn dieser Punkt für Sie wichtig ist, können Sie dafür eine Prämie setzen!
+if this item is important for you, please vote for it.	tracker	de	Wenn dieser Punkt für Sie wichtig ist, stimmen Sie bitte dafür ab.
+ignore	tracker	de	Ignorieren
+ignore unrecognized mails. they will not be deleted from the server, even if 'delete mails' above is tagged.	tracker	de	Nicht zuordenbare Mail ignorieren. Sie werden nicht vom Server gelöscht, selbst wenn oben 'Mails löschen' ausgewählt wurde.
+import tts tickets	tracker	de	TTS Tickets importieren
+incoming mail folder	tracker	de	Ordner für eingehende Mail
+incoming mail rules	tracker	de	Regeln für eingehende Mail
+incoming mail server	tracker	de	Server für eingehende Mail
+info only	tracker	en	zur Information
+interval in minutes for checking the incoming mails	tracker	de	Interval in Minute zur Überprüfung der eingehenden Mails
+introduction message	tracker	de	Willkomensnachricht
+invalid	tracker	de	Ungültig
+item assignee	tracker	de	Eintrag Zugewiesener
+item creator	tracker	de	Eintrag Ersteller
+language for the copy	tracker	de	Sprache für die Kopie
+last modified	tracker	de	Zuletzt geändert
+last reply	tracker	de	letzte Antwort
+later	tracker	de	Später
+links	tracker	de	Verknüpfungen
+list of coma separated email address	tracker	de	Liste von EMail Adressen mit Komma getrennt
+mail handling	tracker	de	Mail Behandlung
+matching filter	tracker	de	Filter zutreffend
+new %1	tracker	de	%1 hinzfügen
+new items	tracker	de	Neue Einträge
+new ticket submitted by %1 at %2	tracker	de	Neues Ticket erstellt von %1 am %2
+new tracker item submitted by %1 at %2	tracker	de	Neuer Eintrag im Verfolgungsystem erstellt von %1 am %2
+no change	tracker	de	Keine Änderung
+no trackers found, aborting	tracker	de	Abbruch, keine Verfolgungssystem gefunden
+non-anonymous users	tracker	de	Nicht anonyme Benutzer
+noone	tracker	de	Niemand
+notification	tracker	de	Benachrichtigung
+open	tracker	de	Offen
+out of date	tracker	de	Nicht mehr aktuell
+overdue after	tracker	de	Überfällig nach
+ownership of the ticket	tracker	de	Besitzer der Tickets
+pending	tracker	de	Schwebend
+pending items never get close automatic.	tracker	de	Schwebende Einträge werden nie automatisch geschlossen.
+pending items will be closed automatic after %1 days without response.	tracker	de	Schwebende Einträge werden nach %1 Tagen ohne Antwort automatisch geschlossen.
+permission denied !!!	tracker	de	Zugriff verweigert !!!
+permit html editing in overview and comments	tracker	de	Formatierte Textbearbeitung im Überblick und den Antworten
+port number	tracker	de	Portnummer
+postponed	tracker	de	Vertagt
+print entry	tracker	de	Ticket drucken
+priorities	tracker	de	Prioritäten
+priorities with empty label are not available to the user	tracker	de	Prioritäten mit leerer Beschriftung sind für den Benutzer nicht verfügbar
+project selection	tracker	de	Projektauswahl
+projects	tracker	de	Projekte
+queue	tracker	de	Queue
+read mail address	tracker	de	Mail Adresse zum lesen
+receive notifications about assigned tracker-items	tracker	de	Empfange Benachrichtigungen über zugewiesene Einträge
+receive notifications about created tracker-items	tracker	de	Empfange Benachrichtigungen über selbst angelegte Einträge
+receive notifications in html	tracker	de	Empfange Benachrichtigungen als HTML Mail
+recieve notifications about own changes in tracker-items	tracker	de	Empfange Benachrichtigungen über eigne Einträge
+rejected	tracker	de	Zurückgewiesen
+remind	tracker	de	Erinnern
+reply also to unknown addresses	tracker	de	Auch unbekannten Adressen antworten
+resolution	tracker	de	Lösung
+restict tracker items to the creator and the staff only	tracker	de	Tickets auf Ersteller und Mitarbeiter einschränken
+restict tracker items to the creators primary group and the staff only	tracker	de	Tickets auf primäre Grupper des Ersteller und Mitarbeiter einschränken
+restrict tracker items to staff and:	tracker	de	Tickets einschränken auf Mitarbeiter und:
+restriction	tracker	de	Einschränkungen
+select a default tracker for new tickets or 'reject' to disallow ticket creation via mail.	tracker	de	Einen Tracker für neue Tickets auswählen oder 'Zurückweisen' um das Erzeugen von Tickets per Mail zu verbieten.
+select how autoreplies should be sent when mails are received	tracker	de	Auswählen wie automatische Antworden gesendet werden, wenn Mails empfangen werden
+select multiple	tracker	de	Mehrere Auswählen
+select tracker queue	tracker	de	Tracker Queue auswählen
+select which categories should be used in tracker for the tts categories	tracker	de	Welche Kategorien sollen im Tracker für die TTS Kategorien verwendet werden
+select which username should be used when unrecognized mails are handled.	tracker	de	Auswählen welcher Benutzer für nicht zuordenbare Mails verwendet wird.
+select which username should be used when unrecognized replies are handled	tracker	de	Auswählen welcher Benutzer für nicht zuordenbare Antworten verwendet wird.
+sender address	tracker	de	Absender Adresse
+sender address for all notifications, eg. noreply@egroupware.org	tracker	de	Absenderadresse für alle Benachrichtigungen, z.B. noreply@egroupware.org
+sent autoreplies	tracker	de	Automatische Antworten senden
+server type	tracker	de	Server Type
+set %1	tracker	de	%1 setzen
+set an own bounty (in %s)	tracker	de	Eigene Prämie setzen (in %s)
+set bounty	tracker	de	Prämie setzen
+should the actions column in the tracker list-view be shown?	tracker	de	Soll die Befehle-Spalte in der Trackerübersicht angezeigt werden?
+should the tracker send you notification mails, if tracker items assigned to you get updated?	tracker	de	Soll das Verfolgungssystem Ihnen Benachrichtigungsmails senden, wenn Einträge die Ihnen zugewiesen sind aktualisiert werden?
+should the tracker send you notification mails, if tracker items you created get updated?	tracker	de	Soll das Verfolgungssystem Ihnen Benachrichtigungsmails senden, wenn Einträge die von Ihnen angelegt wurden aktualisiert werden?
+show a new column that calculated the acumulated times of timesheet entries.	tracker	de	Zeige eine neue Spalte mit den zusammengefasten Zeiten der Stundenzettel
+show actions in tracker listing	tracker	de	Zeige Befehle in der Trackerübersicht
+show the acumulated times of timesheet entries	tracker	de	Zeige die zusammengefassten Zeiten der Stundenzettel
+show the tracker send you notification mails, in tracker items that you updates?	tracker	de	Empfange Sie Benachrichtigungen über Einträge die Sie selbst geändert haben
+staff	tracker	de	Mitarbeiter
+state	tracker	de	Status
+stati	tracker	de	Status
+store as	tracker	de	Speichern als
+summary	tracker	de	Zusammenfassung
+technicians	tracker	de	Techniker
+thank you for setting this bounty.	tracker	de	Danke das Sie diese Prämie gesetzt haben.
+thank you for voting.	tracker	de	Danke das Sie abgestimmt haben.
+the bounty will not be shown, until the money is received.	tracker	de	Die Prämie wird NICHT angezeigt, bis das Geld eingegangen ist.
+the canned response will be prefix the text you type.	tracker	de	Die Standardantwort wird dem Text, den Sie eingeben, vorangestellt.
+there already an escalation for that filter!	tracker	de	Es gibt bereits eine Eskalation für diesen Filter!
+this module displays information from the tracker.	tracker	de	Dieses Modul zeigt Informationen des Verfolgungssystems an.
+this tracker item was closed automatically by the system. it was previously set to a pending status, and the original submitter did not respond within %1 days.	tracker	de	Dieser Eintrag im Verfolgungssystem wurde automatisch geschlossen. Er wurde zuvor auf den Status Schwebend gesetzt, und derjenige der den Eintrag angelegt hat, hat nicht binnen %1 Tagen geantwortet.
+ticket count	tracker	de	Anzahl Tickets
+ticket modified by %1 at %2	tracker	de	Ticket geändert von %1 am %2
+times	tracker	de	Zeiten
+tracker	common	de	Verfolgungssystem
+tracker added	tracker	de	Verfolgungssystem hinzugefügt
+tracker admins	tracker	de	Administratoren des Verfolgungssystems
+tracker admins & technicians	tracker	de	Administratoren & Techniker des Verfolgungssystems
+tracker configuration	tracker	de	Konfiguration des Verfolgungssystems
+tracker deleted	tracker	de	Verfolgungssystem gelöscht
+tracker for new tickets	tracker	de	Tracker für neue Tickets
+tracker item modified by %1 at %2	tracker	de	Verfolgungssystem Eintrag geändert von %1 am %2
+tracker item not found !!!	tracker	de	Eintrag im Verfolgungssystem nicht gefunden !!!
+tracker queue	tracker	de	Verfolgungs Queue
+tracker-%1 '%2' added.	tracker	de	Verfolgungssystem-%1 '%2' zugefügt.
+tracker-%1 '%2' updated.	tracker	de	Verfolgungssystem-%1 '%2' aktualisiert.
+tracker-%1 deleted.	tracker	de	Verfolgungssystem-%1 gelöscht.
+unchanged	tracker	de	Unverändert
+unrecognized mails	tracker	de	Nicht zuordenbare Mails
+url of the tracker	tracker	de	Internetadresse des Verfolgungssystems
+url to be included in the notification, eg. to the page with the sitemgr module, default tracker inside egw	tracker	de	Internetadresse die in den Benachrichtigungen enthalten ist, z.B. zur Seite mit dem SiteMgr Module, Vorgabe das Verfolgungssystem innerhalb der eGW
+use a default user for mails that where not recognized	tracker	de	Verwende einen Vorgabe Benutzer für Mails die nicht zugeordnet werden können
+versions	tracker	de	Versionen
+vote for it!	tracker	de	Dafür abstimmen!
+votes	tracker	de	Stimmen
+when emails are received from an unknown email address, tag this field to have them added to the tracker's cc field automatically. this field is ignored if unrecognized mail addresses are not handled.	tracker	de	Wenn Emails von einer unbekannten Email Adresse empfangen werden, diese Feld ankreuzen um sie automatisch zum Feld CC hinzu zu fügen. Diese Feld wird ignoriert, wenn unbekannte Email Adressen nicht behandelt werden.
+wont fix	tracker	de	Ändere ich nicht
+works for me	tracker	de	Funktioniert bei mir
+yes, display groups first	tracker	de	Ja, zeige Gruppen zuerst an
+yes, display users first	tracker	de	Ja, zeige Benutzer zuerst an
+yes, with larger fontsize	tracker	de	Ja, mit einer größeren Schrift
+you can enable/disable the queue access restrictions in the configuration tab (for all queues)	tracker	de	Sie können die Zugriffskontrolle des Verfolgungssystem im Kartenreiter Konfiguration (für alle Systeme) ein- oder ausschalten
+you can respond by visiting:	tracker	de	Sie können unter dem folgenden Verweis antworten:
+you need to enter a name	tracker	de	Sie müssen einen Namen angeben
+you need to login to vote!	tracker	de	Sie müssen sich anmelden um Abstimmen zu können!
+you need to select something to change and some tracker items!	tracker	de	Sie müssen etwas zum Ändern UND einige Einträge auswählen!
+you need to specify amount, donators name and email address!	tracker	de	Sie müssen Betrag, Name und E-Mail des Spenders angeben!
+you voted %1.	tracker	de	Sie stimmten am %1 ab.

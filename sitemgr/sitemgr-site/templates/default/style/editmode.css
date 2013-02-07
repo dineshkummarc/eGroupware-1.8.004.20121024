@@ -1,0 +1,57 @@
+/**
+ * EGroupware SiteMgr CMS - Style sheet for edit mode
+ *
+ * @link http://www.egroupware.org
+ * @package sitemgr
+ * @subpackage sitemgr-site
+ * @author Ralf Becker <RalfBecker-AT-outdoor-training.de>
+ * @license http://opensource.org/licenses/gpl-license.php GPL - GNU General Public License
+ * @copyright Ralf Becker <RalfBecker-AT-outdoor-training.de>
+ * @version $Id: editmode.css 33188 2010-11-28 20:27:05Z ralfbecker $
+ */
+
+/* red dotted lines around blocks in edit-mode */
+.edit {
+	border: thin dotted red;
+	margin-top: 10px;
+	padding: 2px;
+}
+
+/* in case block transformer (eg. ja_purity) sets a float, which makes all UI elements inaccessible otherwise! */
+.edit div {
+	float: none ! important;
+}
+
+/* red dashed lines around contentareas in edit-mode */
+.editContentarea {
+	border: thin dashed red;
+	margin-top: 10px;
+	padding: 2px;
+}
+
+/* black dotted lines around blocks in edit-mode, which are anonymous viewable and so normaly not visible */
+.editAnonymous {
+	border: thin dotted black;
+	margin-top: 10px;
+	padding: 2px;
+}
+
+/* div for the icons in edit mode */
+.editIcons{
+	position: relative;
+	top: -10px;
+	text-align: right;
+	border-style: none;
+}
+
+/* iconice text for module- or contentarea-name in edit-mode */
+.editIconText
+{
+	vertical-align: top;
+	border: 2px ridge black;
+	background-color: white;
+	padding-bottom: 1px;
+	padding-left: 2px;
+	padding-right: 2px;
+}
+

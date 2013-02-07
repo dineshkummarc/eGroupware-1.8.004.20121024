@@ -1,0 +1,110 @@
+%1 module	news_admin	ru	%1 модуль
+%1 news imported (%2 new).	news_admin	ru	%1 новостей импортировано (%2 новых)
+%s hours	news_admin	ru	%s часов
+actions	news_admin	ru	Действия
+active	news_admin	ru	Активно
+add new article	news_admin	ru	Добавить Новую Статью
+add new news	news_admin	ru	Добавить новую новость
+add news item	news_admin	ru	Добавить новый элемент
+all news	news_admin	ru	Все новости
+always	news_admin	ru	Всегда
+by date	news_admin	ru	По дате
+categories to displayed on main page?	news_admin	ru	Категории для отображения на главной странице?
+category deleted.	news_admin	ru	Категория удалена.
+category saved.	news_admin	ru	Категория сохранена.
+choose a category	news_admin	ru	Выберите категорию
+configuration	news_admin	ru	Конфигурация
+configure access permissions	common	ru	Настроить разрешения доступа
+configure rss exports	common	ru	Настроить экспорт RSS
+contains html	news_admin	ru	Содержит HTML
+content	news_admin	ru	Содержание
+count	news_admin	ru	Кол-во
+date and time	news_admin	ru	Дата и время
+delete this news	news_admin	ru	Удалить эту новость
+do you want to publish a rss feed for this news category	news_admin	ru	Хотите ли вы публиковать ленту RSS для этой категории новостей
+edit news item	news_admin	ru	Редактировать новости
+end	news_admin	ru	Конец
+error importing the feed!	news_admin	ru	Ошибка импортирования данных (feeds)!
+error saving the category!	news_admin	ru	Ошибка сохранения категории!
+error saving the news!	news_admin	ru	Ошибка записи новости
+failed to add message	news_admin	ru	Ошибка при добавлении нового сообщения
+format for links to items	news_admin	ru	Формат для ссылок на элементы
+format of export	news_admin	ru	Формат экспорта
+from	news_admin	ru	От
+from all	news_admin	ru	От всех
+future	news_admin	ru	Будущие
+global categories	news_admin	ru	Общие Категории
+global news	news_admin	ru	Общие Новости
+global_news	news_admin	ru	Общие Новости
+headline	news_admin	ru	Заголовок
+headline with link	news_admin	ru	Заголовок с линком
+image link	news_admin	ru	Ссылка на изображение
+image title	news_admin	ru	Заголовок изображения
+image url	news_admin	ru	URL изображения
+implies read permission	news_admin	ru	подразумевает разрешение на чтение
+import every	news_admin	ru	Импортировать каждый
+import now	news_admin	ru	Импортировать сейчас
+import url	news_admin	ru	Импортировать ссылку (URL)
+imported feeds can not be writable!	news_admin	ru	Импортированные данные(feeds) НЕ могут быть перезаписаны!
+item has been deleted	news_admin	ru	Элемент удален
+item not found	news_admin	ru	Элемент не найден
+last updated	news_admin	ru	Последняя модификация
+link	news_admin	ru	Ссылка
+main	news_admin	ru	Главная
+maintain	news_admin	ru	Обслуживание
+maintain news	admin	ru	Новости Обслуживания (Обслуживать Новости?)
+message has been added	news_admin	ru	Сообщение добавлено
+more news	news_admin	ru	Еще новости
+more news link	news_admin	ru	Другие линки новостей
+new item has been added	news_admin	ru	Новый элемент добавлен
+news	news_admin	ru	Новости
+news admin	news_admin	ru	Администратор Новостей
+news administration	news_admin	ru	Администрирвание Новостей
+news deleted.	news_admin	ru	Новость удалена.
+news item has been added	news_admin	ru	Элемент Новостей добавлен
+news item has been updated	news_admin	ru	Элемент Новостей обновлен
+news saved.	news_admin	ru	Новост записана.
+news_admin	common	ru	Администрирование Новостей
+no entries found	news_admin	ru	записи не найдены
+no matching news item	news_admin	ru	Нет соответствующей новости.
+no news	news_admin	ru	В этой категории в данный момент нет новостей
+no rss export	news_admin	ru	Экспорта RSS нет
+now	news_admin	ru	Сегодня
+number of articles to display on the main screen	news_admin	ru	Количество новостей, показываемых на главной странице
+number of news items to be displayed on page	news_admin	ru	Количество новостей, показываемых на одной странице
+old	news_admin	ru	Старые
+on	news_admin	ru	на
+page-name the item should be displayed (empty = current page)	news_admin	ru	Название страницы должно быть показано (пусто = текущая страница)
+parent	news_admin	ru	Родитель
+picture upload (leave the upload directory empty to disable the upload)	admin	ru	Публикация изображения (оставить папку публикации пустым для запрета публикации)
+please select a category	news_admin	ru	Пожалуйста выберите категорию
+publish date	news_admin	ru	Дата опубликования
+read more	news_admin	ru	читать дальше
+read news	news_admin	ru	Читать новости
+read permissions	news_admin	ru	Разрешения на чтение
+reload	news_admin	ru	Перезагрузка
+send mail to others	news_admin	ru	Отправить Письмо Остальным
+should news_admin display the latest article headlines on the main screen.	news_admin	ru	Должен ли Администратор Новостей показывать заголовки последних статей на главной странице.
+show latest news articles?	news_admin	ru	Показывать последние новости?
+show news articles on main page?	news_admin	ru	Показывать новости на главной странице?
+small view	news_admin	ru	мелкий вид
+start	news_admin	ru	Начало
+submitted by	common	ru	Новость предоставлена
+submitted by %1 on %2	news_admin	ru	Предоставлено %1 на %2
+submitted by and date	news_admin	ru	Кем предоставлено и дата
+teaser	news_admin	ru	Завлекалка
+teaser with read more link	news_admin	ru	Завлекалка с линком "читать далее"
+the news content is missing	news_admin	ru	Отсутствует содержание новостей
+the number of articles to display on the main screen.	news_admin	ru	Количество статей, показываемых на главной странице
+the subject is missing	news_admin	ru	Отсутствует тема
+there no such translation.	news_admin	ru	Нет такого перевода
+this module publishes news from the news_admin application on your website. be aware of news_admin's acl restrictions.	news_admin	ru	Этот модуль публикует новости из приложения Администратор новостей на вашем сайте. Будьте внимательны с установкой прав (ACL) в Администраторе навостей
+until	news_admin	ru	до
+url of the rss or atom feed, empty for own news feed	news_admin	ru	Ссылка(URL) на RSS или Atom ленту, пусто если собственная новостная лента
+view this category	news_admin	ru	Показать эту категорию
+visible	news_admin	ru	Видимый
+webpage news admin	news_admin	ru	Веб-страница администратора новостей
+which information do you want to show (css class)	news_admin	ru	Какую информацию вы хотите показать (класс CSS)
+which news categories should be displayed on the main screen.	news_admin	ru	Какие категории новостей должны отображаться на основном экране.
+write	news_admin	ru	Записать
+write permissions	news_admin	ru	Разрешения на запись

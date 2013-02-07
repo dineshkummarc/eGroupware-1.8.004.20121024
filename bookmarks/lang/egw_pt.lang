@@ -1,0 +1,74 @@
+%1 bookmarks have been deleted	bookmarks	pt	Foram eliminados %1 marcadores
+%1 bookmarks imported from %2 successfully.	bookmarks	pt	Foram importandos %1 marcadores de %2 com sucesso.
+(comma separate multiple addresses)	bookmarks	pt	(vírgula para separar vários endereços)
+<b>note:</b> this currently works with netscape bookmarks only	bookmarks	pt	<b>Nota:</b> Esta função funciona apenas com marcadores da netscape
+all bookmarks	bookmarks	pt	Todos os marcadores
+and	bookmarks	pt	E
+append this message to mailed bookmarks	bookmarks	pt	Anexar esta mensagem aos marcadores enviados por correio electrónico
+ascending	bookmarks	pt	Ordem crescentes
+book marks	common	pt	Marcadores
+bookmark changed sucessfully	bookmarks	pt	Marcador alterado com sucesso
+bookmark created successfully.	bookmarks	pt	Marcador criado com sucesso.
+bookmark deleted successfully	bookmarks	pt	Marcador eliminado com sucesso.
+bookmark deleted successfully.	bookmarks	pt	Marcador eliminado com sucesso.
+bookmark not editable	bookmarks	pt	Marcador não editável
+bookmark not readable	bookmarks	pt	Marcador não legível
+bookmarks	common	pt	Marcadores
+bookmarks settings	bookmarks	pt	Definições de marcadores
+change bookmark	bookmarks	pt	Alterar marcador
+close this window to return	bookmarks	pt	Fechar esta janela e volta
+create bookmark	bookmarks	pt	Criar marcador
+create new bookmark	bookmarks	pt	Criar novo marcador
+date added	bookmarks	pt	Data adicionada
+date changed	bookmarks	pt	Data alterada
+date last updated	bookmarks	pt	Data da última actualização
+date last visited	bookmarks	pt	Data da última visita
+descending	bookmarks	pt	Ordem decrescente
+edit bookmark	bookmarks	pt	Editar marcador
+edit this bookmark	bookmarks	pt	Editar este marcador
+enter the name of the netscape bookmark file<br>that you want imported into bookmarker below.	bookmarks	pt	Insira o nome do ficheiro do marcador da Netscape que deseja importar.
+export bookmarks	common	pt	Exportar marcadores
+fewer	bookmarks	pt	Menos
+filter by	bookmarks	pt	Filtrar por
+found a link you might like	bookmarks	pt	Encontrei uma ligação que lhe pode interessar
+from	bookmarks	pt	De
+from category %1	bookmarks	pt	da categoria %1
+highest	bookmarks	pt	Mais alto
+i thought you would be interested in the following link(s):	bookmarks	pt	Talvez esteja interessado/a na(s) seguinte(s) ligação (ligações):
+import bookmarks	common	pt	Importar marcadores
+like	bookmarks	pt	como
+list view	bookmarks	pt	Ver lista
+lowest	bookmarks	pt	Mais baixo
+mail this bookmark	bookmarks	pt	Enviar este marcador por correio electrónico
+mail-this-link message sent to %1.	bookmarks	pt	A mensagem com ligação foi enviada para %1
+mass update:	bookmarks	pt	Actualização em massa:
+message from	bookmarks	pt	Mensagem de
+more	bookmarks	pt	Mais
+name	bookmarks	pt	Nome
+name is required	bookmarks	pt	É necessário inserir um nome
+netscape bookmark file	bookmarks	pt	Ficheiro de marcadores da Netscape
+netscape bookmark filename is required!	bookmarks	pt	É necessário inserir o nome do ficheiro de marcadores da Netscape!
+new	bookmark	pt	Novo
+new bookmark	bookmarks	pt	Novo marcador
+or	bookmarks	pt	ou
+please fill out <b>to e-mail address</b>, <b>subject</b>, and <b>message</b>!	bookmarks	pt	Por favor, preencha os campos <B>Para</B>, <B>Assunto</B>, e <B>Mensagem</B>!
+please select the categories to export	bookmarks	pt	Por favor, seleccione as categorias a exportar
+query condition	bookmarks	pt	Condição de Query
+rating	bookmarks	pt	Classificação
+search for:	bookmarks	pt	Pesquisar por:
+select the format you would like to export to	bookmarks	pt	Seleccione o formato para exportação
+send bookmark	bookmarks	pt	Enviar marcador
+sub category	bookmarks	pt	Subcategoria
+to address %1 invalid. format must be <strong>user@domain</strong> and domain must exist!	bookmarks	pt	O endereço %1 para o qual deseja enviar é inválido. O formato deve ser <strong>utilizador@domínio</strong> e o domínio tem de existir!
+to e-mail addresses	bookmarks	pt	Para (endereços de correio electrónico):
+to which category should the imported folder hierarchy be attached	bookmarks	pt	Categoria a que deve ser anexada a hierarquia de pastas importadas.
+total visits	bookmarks	pt	Total de visitas
+tree view	bookmarks	pt	Ver em árvore
+unable to open temp file %1 for import.	bookmarks	pt	Não foi possível abrir o ficheiro temporário %1 para importar.
+url is required.	bookmarks	pt	É necessário inserir uma URL.
+view bookmark	bookmarks	pt	Ver marcador
+view this bookmark	bookmarks	pt	Ver este marcador
+warning	bookmarks	pt	Aviso
+you are viewing this site outside of egroupware	bookmarks	pt	Está a visitar um sítio externo ao eGroupWare.
+you must select a category	bookmarks	pt	É necessário seleccionar uma categoria
+you need to select a category!	bookmarks	pt	É necessário seleccionar uma categoria!

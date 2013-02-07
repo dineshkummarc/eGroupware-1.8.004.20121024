@@ -1,0 +1,146 @@
+<?xml version="1.0"?>
+<!-- $Id: index.xet 27925 2009-09-26 11:17:19Z ralfbecker $ -->
+<overlay>
+	<template id="timesheet.index.dates" template="" lang="" group="0" version="1.2.001">
+		<hbox rows="1" cols="1" class="custom_hide">
+			<description value="Start"/>
+			<date id="startdate"/>
+			<description value="End"/>
+			<date id="enddate" statustext="Leave it empty for a full week"/>
+		</hbox>
+		<styles>
+			.custom_hide { visibility: hidden; }
+		</styles>
+	</template>
+	<template id="timesheet.index.add" template="" lang="" group="0" version="1.7.001">
+		<buttononly label="Add" id="add" onclick="window.open(egw::link('/index.php','menuaction=timesheet.timesheet_ui.edit'),'_blank','dependent=yes,width=600,height=400,scrollbars=yes,status=yes'); return false;"/>
+	</template>
+	<template id="timesheet.index.rows" template="" lang="" group="0" version="1.7.003">
+		<grid width="100%">
+			<columns>
+				<column width="15%"/>
+				<column width="50%"/>
+				<column/>
+				<column/>
+				<column disabled="@no_ts_quantity"/>
+				<column disabled="@no_ts_unitprice"/>
+				<column disabled="@no_ts_total"/>
+				<column disabled="@no_owner_col"/>
+				<column disabled="@no_ts_status"/>
+				<column/>
+				<column/>
+			</columns>
+			<rows>
+				<row class="th">
+					<nextmatch-sortheader label="Date" id="ts_start"/>
+					<grid spacing="0" padding="0">
+						<columns>
+							<column/>
+						</columns>
+						<rows>
+							<row disabled="@pm_integration=full">
+								<nextmatch-filterheader options="All projects" id="ts_project" no_lang="1"/>
+							</row>
+							<row disabled="!@pm_integration=full">
+								<nextmatch-customfilter options="projectmanager-select,All projects" id="pm_id" onchange="1"/>
+							</row>
+							<row>
+								<nextmatch-customfilter options="link-entry" onchange="1" id="linked"/>
+							</row>
+							<row>
+								<nextmatch-sortheader label="Title" id="ts_title"/>
+							</row>
+						</rows>
+					</grid>
+					<nextmatch-sortheader label="Category" id="cat_id"/>
+					<vbox>
+						<nextmatch-sortheader label="Duration" id="ts_duration"/>
+						<date-duration id="duration" options=",h,,,1" readonly="true"/>
+					</vbox>
+					<vbox options="0,0">
+						<nextmatch-sortheader label="Quantity" id="ts_quantity"/>
+						<textbox type="float" id="quantity" readonly="true" precision="3"/>
+					</vbox>
+					<nextmatch-sortheader label="Price" id="ts_unitprice"/>
+					<vbox>
+						<nextmatch-sortheader label="Total" id="ts_total"/>
+						<textbox type="float" id="price" readonly="true" precision="2"/>
+					</vbox>
+					<nextmatch-filterheader id="ts_owner" options="User" no_lang="1" class="$cont[ownerClass]"/>
+					<nextmatch-filterheader id="ts_status" onchange="1" options="All status"/>
+					<nextmatch-customfields id="customfields"/>
+					<hbox class="noPrint">
+						<description value="Actions" class="noPrint" align="right"/>
+						<button label="Check all" image="check" id="check_all" needed="1" statustext="Check all" onclick="toggle_all(this.form,form::name('checked[]')); return false;"/>
+					</hbox>
+				</row>
+				<row class="$row_cont[class]">
+					<date-time id="${row}[ts_start]" readonly="true" options=",8"/>
+					<vbox options="0,0">
+						<link id="${row}[ts_link]" no_lang="1"/>
+						<description id="${row}[ts_title]" no_lang="1" class="$row_cont[titleClass]"/>
+						<description id="${row}[ts_description]" no_lang="1"/>
+					</vbox>
+					<menulist class="noWrap">
+						<menupopup type="select-cat" readonly="true" id="${row}[cat_id]"/>
+					</menulist>
+					<date-duration id="${row}[ts_duration]" readonly="true" options=",h,,,1"/>
+					<textbox type="float" id="${row}[ts_quantity]" no_lang="1" precision="3" readonly="true"/>
+					<description no_lang="1" id="${row}[ts_unitprice]"/>
+					<textbox type="float" no_lang="1" id="${row}[ts_total]" precision="2" readonly="true"/>
+					<menulist class="$cont[ownerClass]">
+						<menupopup type="select-account" id="${row}[ts_owner]" readonly="true"/>
+					</menulist>
+					<menulist>
+						<menupopup id="${row}[ts_status]" readonly="true"/>
+					</menulist>
+					<customfields-list id="$row" readonly="true"/>
+					<hbox class="noPrint" align="right">
+						<button image="view" label="View" id="view[$row_cont[ts_id]]" onclick="window.open(egw::link('/index.php','menuaction=timesheet.timesheet_ui.view&amp;ts_id=$row_cont[ts_id]'),'_blank','dependent=yes,width=600,height=400,scrollbars=yes,status=yes'); return false;" statustext="View this entry"/>
+						<button image="edit" label="Edit" id="edit[$row_cont[ts_id]]" statustext="Edit this entry" onclick="window.open(egw::link('/index.php','menuaction=timesheet.timesheet_ui.edit&amp;ts_id=$row_cont[ts_id]'),'_blank','dependent=yes,width=600,height=400,scrollbars=yes,status=yes'); return false;"/>
+						<button image="delete" label="Delete" id="delete[$row_cont[ts_id]]" statustext="Delete this entry" onclick="return confirm('Delete this entry');"/>
+						<checkbox options="$row_cont[ts_id]" id="checked[]" statustext="Select multiple timeshhets for a further action"/>
+					</hbox>
+				</row>
+			</rows>
+		</grid>
+	</template>
+	<template id="timesheet.index" template="" lang="" group="0" version="1.7.003">
+		<grid width="100%">
+			<columns>
+				<column/>
+				<column/>
+			</columns>
+			<rows>
+				<row disabled="!@msg">
+					<description span="all" class="redItalic" no_lang="1" id="msg" align="center"/>
+					<description/>
+				</row>
+				<row disabled="1">
+					<hbox>
+						<template id="dates"/>
+						<template id="add" align="right"/>
+					</hbox>
+					<description/>
+				</row>
+				<row>
+					<nextmatch id="nm" options="timesheet.index.rows" span="all"/>
+				</row>
+				<row class="noPrint">
+					<button label="Add" id="add" onclick="window.open(egw::link('/index.php','menuaction=timesheet.timesheet_ui.edit'),'_blank','dependent=yes,width=600,height=400,scrollbars=yes,status=yes'); return false;"/>
+					<hbox align="right">
+						<checkbox id="use_all" label="whole query" onchange="if (this.checked==true &amp;&amp; !confirm('Apply the action on the whole query, NOT only the shown timesheets!!!')) this.checked=false;" statustext="Apply the action on the whole query, NOT only the shown timesheets!!!"/>
+						<menulist>
+							<menupopup onchange="do_action(this);" options="Select action" id="action" statustext="Select action"/>
+						</menulist>
+						<button image="arrow_ltr" label="Check all" id="check_all" statustext="Check all" onclick="toggle_all(this.form,form::name('nm[rows][checked][]')); return false;" needed="1" class="checkAllArrow"/>
+					</hbox>
+				</row>
+				<row disabled="1">
+					<button label="Export" onclick="timesheet_export(); return false;" id="export"/>
+					<description/>
+				</row>
+			</rows>
+		</grid>
+	</template>
+</overlay>

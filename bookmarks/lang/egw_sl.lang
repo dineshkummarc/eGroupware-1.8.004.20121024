@@ -1,0 +1,75 @@
+%1 bookmarks have been deleted	bookmarks	sl	%1 zaznamkov je bilo izbrisanih
+%1 bookmarks imported from %2 successfully.	bookmarks	sl	%1 od %2 uspešno vnešenih zaznamkov
+(comma separate multiple addresses)	bookmarks	sl	(vejica loči posamezne naslove)
+<b>note:</b> this currently works with netscape bookmarks only	bookmarks	sl	<b>Pozor:</b> Uvoz zaenkrat deluje le z zaznamki izvoženimi v Netscape formatu!
+all bookmarks	bookmarks	sl	Vsi zaznamki
+and	bookmarks	sl	in
+append this message to mailed bookmarks	bookmarks	sl	Pripni to sporočilo k zaznamkom poslanimi po E-pošti
+ascending	bookmarks	sl	Naraščajoče
+book marks	common	sl	Zaznamki
+bookmark changed sucessfully	bookmarks	sl	Zaznamek je bil uspešno spremenjen.
+bookmark created successfully.	bookmarks	sl	Zaznamek je bil uspešno ustvarjen.
+bookmark deleted successfully	bookmarks	sl	Zaznamek je bil uspešno zbrisan.
+bookmark deleted successfully.	bookmarks	sl	zaznamek je bil uspešno zbrisan.
+bookmark not editable	bookmarks	sl	Zaznamek ni spremenljiv
+bookmark not readable	bookmarks	sl	Zaznamek ni berljiv
+bookmarks	common	sl	Zaznamki
+bookmarks settings	bookmarks	sl	Nastavitve zaznamkov
+change bookmark	bookmarks	sl	Spremeni zaznamek
+close this window to return	bookmarks	sl	zapri to okno za vrnitev
+create bookmark	bookmarks	sl	Ustvari zaznamek
+create new bookmark	bookmarks	sl	Ustvari nov zaznamek
+date added	bookmarks	sl	Datum dodajanja
+date changed	bookmarks	sl	Datum spreminjanja
+date last updated	bookmarks	sl	Datum zadnje posodobitve
+date last visited	bookmarks	sl	Datum zadnjega obiska
+descending	bookmarks	sl	Padajoče
+edit bookmark	bookmarks	sl	Uredi zaznamek
+edit this bookmark	bookmarks	sl	Uredi ta zaznamek
+enter the name of the netscape bookmark file<br>that you want imported into bookmarker below.	bookmarks	sl	Vnesite ime datoteke z zaznamki (v Netscape formatu),<br>iz katere želite uvoziti zaznamke.
+export bookmarks	common	sl	Izvozi zaznamke
+fewer	bookmarks	sl	Manj
+filter by	bookmarks	sl	Izloči po
+found a link you might like	bookmarks	sl	Najdena je bila povezava, ki vam bo morda všeč
+from	bookmarks	sl	Od
+from category %1	bookmarks	sl	Od kategorije %1
+global categories	bookmarks	sl	Globalne kategorije
+highest	bookmarks	sl	Najvišja
+i thought you would be interested in the following link(s):	bookmarks	sl	Menim, da bi vas zanimale naslednje povezave:
+import bookmarks	common	sl	Uvozi zaznamke
+like	bookmarks	sl	Podobno
+list view	bookmarks	sl	Seznam
+lowest	bookmarks	sl	Najnižja
+mail this bookmark	bookmarks	sl	Pošlji ta zaznamek po E-pošti
+mail-this-link message sent to %1.	bookmarks	sl	Sporočilo "pošlji-to-povezavo" poslano na %1
+mass update:	bookmarks	sl	Masovne posodobitve:
+message from	bookmarks	sl	Sporočilo od
+more	bookmarks	sl	Več
+name	bookmarks	sl	Ime
+name is required	bookmarks	sl	Ime je obvezno
+netscape bookmark file	bookmarks	sl	Netscape datoteka z zaznamki
+netscape bookmark filename is required!	bookmarks	sl	Zahtevana datoteka z zaznamki mora biti v Netscape formatu!
+new	bookmark	sl	Novo
+new bookmark	bookmarks	sl	Nov zaznamek
+or	bookmarks	sl	ali
+please fill out <b>to e-mail address</b>, <b>subject</b>, and <b>message</b>!	bookmarks	sl	Izpolnite <B>E-poštni naslov</B>, <B>Predmet</B>, in <B>Sporočilo</B>
+please select the categories to export	bookmarks	sl	Izberite kategorije za izvoz
+query condition	bookmarks	sl	Stanje poizvedovanja
+rating	bookmarks	sl	Ocena
+search for:	bookmarks	sl	Pošči:
+select the format you would like to export to	bookmarks	sl	Izberite izvozni format
+send bookmark	bookmarks	sl	Pošlji zaznamek
+sub category	bookmarks	sl	Podkategorija
+to address %1 invalid. format must be <strong>user@domain</strong> and domain must exist!	bookmarks	sl	Naslovnik %1 je nepravilen. Oblika mora biti <strong>uporabnik@domena</strong> in domena mora obstajati!
+to e-mail addresses	bookmarks	sl	Prejemnikov E-naslov
+to which category should the imported folder hierarchy be attached	bookmarks	sl	Na katero kategorijo naj bi bila pripeta hierarhija map
+total visits	bookmarks	sl	vsi obiski
+tree view	bookmarks	sl	Drevesni prikaz
+unable to open temp file %1 for import.	bookmarks	sl	Ne morem odpreti temp datoteke %1 za uvoz.
+url is required.	bookmarks	sl	URL naslov je obvezen.
+view bookmark	bookmarks	sl	Poglej zaznamek
+view this bookmark	bookmarks	sl	Poglej ta zaznamek
+warning	bookmarks	sl	Opozorilo
+you are viewing this site outside of egroupware	bookmarks	sl	Ta stran je prikazana izven EGW
+you must select a category	bookmarks	sl	Kategorijo morate izbrati
+you need to select a category!	bookmarks	sl	Izbrati morate kategorijo!

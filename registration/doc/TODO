@@ -1,0 +1,9 @@
+TODOs for registration app:
+- (!) Error checking
+- Cleaner layout
+- (!) Check for invailed char in certain fields, eg loginid
+- Add challange question option to lostpw confirmation
+- Add smart address entry (check with address book)
+- Add a user level account administration page (check with address book)
+- Add changes (registration,lostpw, and lost user id) to sitemgr login
+- Automatic change password needs to be added with grace period (not using email)

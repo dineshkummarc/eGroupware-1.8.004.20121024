@@ -1,0 +1,25 @@
+%1 - %2 of %3	sambaadmin	sk	%1 - %2 z %3
+add workstation	sambaadmin	sk	Pridať stanicu
+check ldap setup (experimental!!!)	admin	sk	Skontrolovať ldap nastavenie (experimentálne!!!)
+computer group	admin	sk	Počítačová skupina
+computer ou	admin	sk	ou počítača
+displayname	sambaadmin	sk	Zobrazované meno
+do you really want to delete selected workstation accounts?	sambaadmin	sk	Naozaj chcete odstrániť vybrané účty staníc?
+homedrive	admin	sk	Disk domovského adresára
+homepath	sambaadmin	sk	Cesta k domovskému adresáru
+logonscript	admin	sk	Logon script
+new account defaults	admin	sk	Predvoľby nových účtov
+participants	sambaadmin	sk	Účastníci
+path to mkntpwd	admin	sk	Cesta k mkntpwd
+profilepath	admin	sk	Cesta k profilu
+samba config	sambaadmin	sk	Konfigurácia Samby
+samba settings	common	sk	Nastavenia Samby
+samba sid	admin	sk	Samba SID
+sambaadmin	common	sk	Sambaadmin
+smb homepath	admin	sk	Cesta k SMB domovskému priečinku
+workstation account for	sambaadmin	sk	účet stanice pre
+workstation configuration	sambaadmin	sk	Konfigurácia stanice
+workstation list	sambaadmin	sk	Zoznam staníc
+workstation name	sambaadmin	sk	Názov stanice
+workstationaccount active	sambaadmin	sk	Účet stanice je aktívny
+workstations	sambaadmin	sk	Stanice

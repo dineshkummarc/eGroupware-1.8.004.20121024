@@ -1,0 +1,85 @@
+%1 module	news_admin	it	modulo %1
+actions	news_admin	it	Azioni
+active	news_admin	it	Attivo
+add new article	news_admin	it	Aggiungi Nuovo Articolo
+add new news	news_admin	it	Aggiungi Nuova Notizia
+add news item	news_admin	it	Aggiungi oggetto notizia
+all news	news_admin	it	Tutte le Notizie
+always	news_admin	it	Sempre
+by date	news_admin	it	Per data
+choose a category	news_admin	it	Scegli una categoria
+configuration	news_admin	it	Configurazione
+configure access permissions	common	it	Configura i permessi di accesso
+configure rss exports	common	it	Configura l'esportazione RSS
+contains html	news_admin	it	Contiene HTML
+content	news_admin	it	Contenuto
+date and time	news_admin	it	Data e ora
+delete this news	news_admin	it	Cancella questa notizia
+do you want to publish a rss feed for this news category	news_admin	it	Vuoi pubblicare un feed RSS per questa categoria di notizie?
+edit news item	news_admin	it	Modifica oggetto notizia
+end	news_admin	it	Fine
+error saving the news!	news_admin	it	Errore durante il salvataggio delle notizie!
+failed to add message	news_admin	it	Aggiunta nuovo messaggio fallita
+format for links to items	news_admin	it	Formato per i collegamenti agli oggetti
+format of export	news_admin	it	Formato esportazione
+from	news_admin	it	Da
+from all	news_admin	it	Da tutti
+future	news_admin	it	Futuro
+global categories	news_admin	it	Categorie Globali
+global news	news_admin	it	Notizie Generali
+global_news	news_admin	it	Notizie_Generali
+headline	news_admin	it	Titolo
+headline with link	news_admin	it	Titolo con link
+image link	news_admin	it	Link Immagine
+image title	news_admin	it	Titolo Immagine
+image url	news_admin	it	Url Immagine
+implies read permission	news_admin	it	implica i permessi di lettura
+item has been deleted	news_admin	it	L'oggetto è stato cancellato
+item not found	news_admin	it	Oggetto non trovato
+link	news_admin	it	Link
+main	news_admin	it	Principale
+maintain	news_admin	it	Manutenzione
+maintain news	admin	it	Manutenzione Notizie
+message has been added	news_admin	it	Il messaggio è stato aggiunto
+more news	news_admin	it	Altre Notizie
+more news link	news_admin	it	Altri collegamenti a notizie
+new item has been added	news_admin	it	Il nuovo oggetto è stato aggiunto
+news	news_admin	it	Notizie
+news admin	news_admin	it	Gestione Notizie
+news administration	news_admin	it	Amministrazione Notizie
+news deleted.	news_admin	it	Notizia cancellata.
+news item has been added	news_admin	it	l'oggetto Notizia è stato aggiunto
+news item has been updated	news_admin	it	l'oggetto Notizia è stato aggiornato
+news saved.	news_admin	it	Notizia salvata.
+news_admin	common	it	Gestione Notizie
+no entries found	news_admin	it	nessuna voce trovata
+no matching news item	news_admin	it	Nessuna notizia corrispondente.
+no news	news_admin	it	Nessuna Notizia è attualmente disponibile nella Categoria
+no rss export	news_admin	it	Nessuna esportazione RSS
+now	news_admin	it	Adesso
+number of articles to display on the main screen	news_admin	it	Numero di articoli da visualizzare sulla schermata principale
+old	news_admin	it	Vecchie
+on	news_admin	it	il
+please select a category	news_admin	it	Prego seleziona una categoria
+publish date	news_admin	it	Data pubblicazione
+read more	news_admin	it	leggi di più
+read news	news_admin	it	Leggi Notizie
+read permissions	news_admin	it	Permessi di lettura
+send mail to others	news_admin	it	Invia Mail a Altri
+should news_admin display the latest article headlines on the main screen.	news_admin	it	Gestione Notizie deve mostrare i titoli degli articoli più recenti sulla schermata principale?
+show latest news articles?	news_admin	it	Mostra gli articoli delle notizie più recenti?
+show news articles on main page?	news_admin	it	Mostra gli articoli delle notizie sulla schermata principale?
+small view	news_admin	it	Visualizzazione ridotta
+start	news_admin	it	Inizio
+submitted by	common	it	Aggiunto da
+submitted by %1 on %2	news_admin	it	Aggiunto da %1 il %2
+teaser	news_admin	it	Didascalia
+the news content is missing	news_admin	it	Il contenuto della notizia è mancante
+the number of articles to display on the main screen.	news_admin	it	Il numero di articoli da mostrare sulla schermata principale.
+the subject is missing	news_admin	it	L'oggetto è mancante
+until	news_admin	it	fino al
+view this category	news_admin	it	Visualizza questa categoria
+visible	news_admin	it	Visibile
+webpage news admin	news_admin	it	Pagina web News Admin
+write	news_admin	it	Scrivi
+write permissions	news_admin	it	Permessi di scrittura

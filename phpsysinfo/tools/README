@@ -1,0 +1,4 @@
+GenerateChangeLog.sh - Generate a GNU style changelog via the RCS change messages
+GenerateCL.sh - Generate a GNU style changelog via the CVS change messages
+MakeRelease.sh - Cleanup the code a bit for a release
+MakeCVS.sh - Make tarball based on the local cvs image

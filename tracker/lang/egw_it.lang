@@ -1,0 +1,229 @@
+%1 entries updated.	tracker	it	%1 voci aggiornate.
+%1 tickets have been converted	tracker	it	%1 tickets sono stati convertiti
+&#9830; not closed	tracker	it	&#9830; Non chiusi
+&#9830; own not closed	tracker	it	&#9830; Propri non chiusi
+&#9830; own without reply not closed	tracker	it	&#9830; Propri senza risposte e non chiusi
+&#9830; without 30 days reply not closed	tracker	it	&#9830; Da 30 giorni senza risposte e non chiusi
+&#9830; without reply not closed	tracker	it	&#9830; Senza risposte  e non chiusi
+(new tickets as	tracker	it	( Nuovo ticket come
+--> choose a project from the drop-down list	tracker	it	--> scegli un progetto dal menù a tendina
+--> enter new name	tracker	it	->> inserisci nuovo nome
+1 - lowest	tracker	it	1 - più bassa
+5 - medium	tracker	it	5 - media
+9 - highest	tracker	it	9 - più alta
+accepted	tracker	it	Accettato
+actions	tracker	it	Azioni
+activate users queue access control	tracker	it	Attivazione controllo accessi utenti
+add additionally	tracker	it	Aggiungi inoltre
+add assigned	tracker	it	Aggiungi assegnatario
+add comment	tracker	it	Aggiungi commento
+add timesheet entry	tracker	it	Aggiungi timesheet
+after	tracker	it	dopo
+after how many days a not replied item should be marked overdue?	tracker	it	Dopo quanti giorni un oggetto senza risposta sarà considerato scaduto?
+after how many days pending items should be closed automatic	tracker	it	Dopo quanti giorni gli oggetti in sospeso saranno chiusi automaticamente?
+all tickets are already converted to tracker	tracker	it	tutti i tickets sono già convertite al Tracker
+allow bounties	tracker	it	Consenti bounty
+allow default projects for tracker	tracker	it	Consenti progetto di default per Tracker
+allow editing by	tracker	it	Consenti modifica di
+allow the predefinition of projects that will be assigned to new tracker-items.	tracker	it	Consenti di definire il progetto di riferimento alla creazione di un nuovo oggetto tracker
+allow to assign groups to tracker items	tracker	it	Permetti di assegnare gruppi agli oggetti tracker
+allow voting	tracker	it	Permetti votazione
+allow voting on tracker items, show and sort after the votes	tracker	it	Permetti votazione degli oggetti tracker, mostra e ordina in base alle votazioni
+amount	tracker	it	Importo
+assign to project	tracker	it	Assegna al progetto
+assigned to	tracker	it	Assegnato a
+assigning groups	tracker	it	Gruppi assegnazione
+attachments & links	tracker	it	Allegati e Collegamenti
+autoassign to	tracker	it	Autoassegna a
+automatic email handling	tracker	it	Elaborazione automatica mail
+bounties	tracker	it	Bounty
+bounty confirmed	tracker	it	Bounty confermato
+bounty confirmed.	tracker	it	Bounty confermato
+bounty deleted	tracker	it	Bounty cancellato
+bounty deleted.	tracker	it	Bounty cancellato
+bounty set	tracker	it	Bounty impostato
+canned response	tracker	it	Risposta preconfezionata
+canned responses	tracker	it	Risposte preconfezionate
+categories, versions, canned responses	tracker	it	Categorie, versioni, risposte preconfezionate
+changes made below will be lost, if not applied before!	tracker	it	le modifiche apportate fino ad ora andranno perdute , se non applicate prima !
+check all	tracker	it	Seleziona tutto
+check mail interval	tracker	it	Controllo della mail ogni
+choose a project from the drop-down list	tracker	it	scegli il progetto dal menù a tendina
+close pending	tracker	it	Chiudi in sospeso
+closed	tracker	it	Chiuso
+comment by %1 at %2:	tracker	it	Commento di %1 il %2:
+comments	tracker	it	Commenti
+completed	tracker	it	Completato
+configuration	tracker	it	Configurazione
+configuration for all trackers	tracker	it	Configurazione per tutte le code di tracker
+configuration updated.	tracker	it	Configurazione aggiornata
+configuration, acl, notifications	tracker	it	Configurazione, ACL, Notifiche
+confirm that you pay the specified bounty to implement or fix the issue	tracker	it	Conferma che paghi il bounty specificato per implementare o correggere il problema
+confirm the receipt of money for this bounty	tracker	it	Conferma il ricevimento di denaro per questo bounty
+confirmed	tracker	it	Confermato
+convert all closed tickets	tracker	it	convertire tutti i ticket chiusi
+convert all open tickets	tracker	it	convertire tutti i ticket aperti
+converted count	tracker	it	contatore convertitore
+copy to	tracker	it	Copia a
+create new links	tracker	it	Crea nuovi collegamenti
+created	tracker	it	Creato
+creation date	tracker	it	date di creazione
+creator	tracker	it	Creatore
+custom tracker priorities	tracker	it	Priorità del tracker personalizzate
+date opened	tracker	it	Data apertura
+define escalations	common	it	Definisci azioni
+delete mails from server	tracker	it	Cancella mail dal server
+delete this bounty	tracker	it	Cancella questo bounty
+delete this canned response	tracker	it	Cancella questa risposta preconfezionata
+delete this category	tracker	it	Elimina questa categoria
+delete this entry	tracker	it	Cancella questa voce
+delete this escalation	tracker	it	Cancella questa azione
+delete this status	tracker	it	Cancella questo stato
+delete this tracker including all it's items and categories	tracker	it	Elimina questo tracker inclusi tutti i suoi oggetti e categorie
+delete this version	tracker	it	Elimina questa versione
+deleted	tracker	it	Eliminato
+do you want to vote for this item	tracker	it	Vuoi votare per questo oggetto
+donator name to show	tracker	it	Nome donatore da mostrare
+duplicate	tracker	it	Duplica
+e-mail address to which a copy of all tracker-notifications should be send	tracker	it	Indirizzo e-mail al quale inviare una copia di tutte le notifiche tracker
+e-mail notifications	tracker	it	Notifiche e-mail
+edit %1	tracker	it	Modifica %1
+edit entry	tracker	it	Edita voce
+email address to contact you	tracker	it	Indirizzo e-mail per contattarti
+email handling can be configured only for all trackers	tracker	it	L'elaborazione delle mail può essere configurato solo per tutti i trackers
+enter the mail address that will be read.	tracker	it	Inserisci l'indirizzo email che vuoi venga legga
+entry saved	tracker	it	Voce salvata
+error adding the new tracker!	tracker	it	Errore durante aggiunta nuovo tracker!
+error deleting escalation!	tracker	it	Errore durante la cancellazione dell'azione
+error saving the entry!!!	tracker	it	Errore durante salvataggio voce!!!
+escalation	tracker	it	Azioni
+escalation added.	tracker	it	Azione aggiunta
+escalation deleted.	tracker	it	Azione cancellata
+escalation not found!	tracker	it	Azione non trovata
+escalation saved.	tracker	it	Azione salvata
+everybody	tracker	it	Tutti
+existing links	tracker	it	Collegamenti esistenti
+field	tracker	it	Campo
+fixed	tracker	it	Corretto
+forward to	tracker	it	Inoltra a
+forward unrecognized mails to the email address that has to be specified here.	tracker	it	Inoltra le mail non roconosciute all'indirizzo email che ho specificato qui.
+from	tracker	it	Da
+history	tracker	it	Cronologia
+html editing	tracker	it	Editor Html
+id	tracker	it	ID
+if this item is important for you, please consider to set a bounty for it!	tracker	it	Se questo oggetto è importante per te, per favore considera la possibilità di mettere un Bounty sullo stesso!
+if this item is important for you, please vote for it.	tracker	it	Se questo oggetto è importante per te, per favore votalo.
+ignore	tracker	it	Ignora
+import tts tickets	tracker	it	Importa TTS tickets
+incoming mail folder	tracker	it	Cartella della posta in arrivo
+incoming mail rules	tracker	it	Regole della posta in arrivo
+incoming mail server	tracker	it	Server della posta in arrivo
+interval in minutes for checking the incoming mails	tracker	it	Intervallo in minuti controllo nuove email in arrivo
+invalid	tracker	it	Non valido
+item assignee	tracker	it	Assegnatario oggetto
+item creator	tracker	it	Creatore oggetto
+language for the copy	tracker	it	Lingua per la copia
+last modified	tracker	it	Ultima modifica
+last reply	tracker	it	ultima risposta
+later	tracker	it	Più tardi
+mail handling	tracker	it	Elaborazione mail
+new %1	tracker	it	Nuovo %1
+new items	tracker	it	Nuovi oggetti
+new ticket submitted by %1 at %2	tracker	it	Nuovo ticket inoltrato da %1 al %2
+new tracker item submitted by %1 at %2	tracker	it	Nuovo oggetto tracker aggiunto da %1 il %2
+no change	tracker	it	Nessuna modifica
+no trackers found, aborting	tracker	it	Trackers non trovati , in chiusura
+non-anonymous users	tracker	it	Utenti non-anonimi
+noone	tracker	it	Nessuno
+notification	tracker	it	Notifica
+open	tracker	it	Aperto
+out of date	tracker	it	Scaduto
+overdue after	tracker	it	Scaduto dopo
+ownership of the ticket	tracker	it	Proprietà del ticket
+pending	tracker	it	In sospeso
+pending items never get close automatic.	tracker	it	Gli oggetti in sospeso non vengono mai chiusi automaticamente.
+pending items will be closed automatic after %1 days without response.	tracker	it	Gli oggetti in sospeso saranno chiusi automaticamente dopo %1 giorni senza risposta.
+permission denied !!!	tracker	it	Permesso negato
+permit html editing in overview and comments	tracker	it	Consenti l'uso dell'editor html in visione e nei commenti
+port number	tracker	it	Porta n°
+postponed	tracker	it	Posticipato
+print entry	tracker	it	Stampa voce
+priorities	tracker	it	Priorità
+project selection	tracker	it	Selezione progetto
+projects	tracker	it	Progetti
+queue	tracker	it	Code
+read mail address	tracker	it	Leggi la posta
+receive notifications about assigned tracker-items	tracker	it	Ricezione notifiche riguardo oggetti-tracker assegnati
+receive notifications about created tracker-items	tracker	it	Ricezione notifiche riguardo oggetti-tracker creati
+receive notifications in html	tracker	it	Ricezione notifiche in html
+rejected	tracker	it	Rifiutato
+remind	tracker	it	Ricorda
+resolution	tracker	it	Soluzione
+restict tracker items to the creator and the staff only	tracker	it	Restringi l'accesso agli oggetti-tracker solo al creatore e allo Staff
+restict tracker items to the creators primary group and the staff only	tracker	it	Restringi l'accesso agli oggetti-tracker solo ai creatori del gruppo primario e allo Staff
+restrict tracker items to staff and:	tracker	it	Restringi l'accesso agli oggetti-tracker allo staff e:
+restriction	tracker	it	Restrizioni
+select a default tracker for new tickets or 'reject' to disallow ticket creation via mail.	tracker	it	Seleziona un tracker di default per i nuovi tickets o 'Rifiuta' la possibilità di creazione di ticket tramite email
+select multiple	tracker	it	Selezione multipla
+select tracker queue	tracker	it	Seleziona coda del tracker
+select which categories should be used in tracker for the tts categories	tracker	it	seleziona quali categorie dovrebbero essere utilizzate in Tracker per le categorie TTS
+select which username should be used when unrecognized mails are handled.	tracker	it	Seleziona quale nome utente deve essere utilizzato quando una mail non viene ricosciuta dal sistema
+select which username should be used when unrecognized replies are handled	tracker	it	Seleziona quale nome utente deve essere utilizzato quando le risposte non vengono ricosciute dal sistema
+sender address	tracker	it	Indirizzo mittente
+sender address for all notifications, eg. noreply@egroupware.org	tracker	it	Indirizzo mittente per tutte le notifiche, es. nonrispondere@egroupware.org
+server type	tracker	it	Tipo del server
+set %1	tracker	it	Imposta %1
+set an own bounty (in %s)	tracker	it	Imposta un bounty (in %s)
+set bounty	tracker	it	Imposta bounty
+should the tracker send you notification mails, if tracker items assigned to you get updated?	tracker	it	Tracker dovrà inviarti una mail di notifica, se gli oggetti tracker a te assegnati vengono aggiornati?
+should the tracker send you notification mails, if tracker items you created get updated?	tracker	it	Tracker dovrà inviarti una mail di notifica, se gli oggetti tracker da te creati vengono aggiornati?
+show actions in tracker listing	tracker	it	Visualizza le azioni nella lista del tracker
+staff	tracker	it	Staff
+state	tracker	it	Stato
+stati	tracker	it	Stati
+store as	tracker	it	Archivio come
+summary	tracker	it	Riepilogo
+technicians	tracker	it	Tecnici
+thank you for setting this bounty.	tracker	it	Grazie per avere impostato questo bounty.
+thank you for voting.	tracker	it	Grazie per avere votato.
+the bounty will not be shown, until the money is received.	tracker	it	Il bounty NON sarà mostrato fino al ricevimento del denaro.
+the canned response will be prefix the text you type.	tracker	it	La risposta preconfezionata sarà premessa al testo che scrivi.
+there already an escalation for that filter!	tracker	it	C'è già un azione con questo filtro !
+this module displays information from the tracker.	tracker	it	Questo modulo mostra informazioni dal Tracker
+this tracker item was closed automatically by the system. it was previously set to a pending status, and the original submitter did not respond within %1 days.	tracker	it	Questo oggetto Tracker è stato chiuso automaticamente dal sistema. E' stato precedentemente sospeso e il creatore dell'oggetto non ha risposto in %1 giorni.
+ticket count	tracker	it	Contatore ticket
+ticket modified by %1 at %2	tracker	it	Ticket modificato da %1 al %2
+times	tracker	it	Volte
+tracker	common	it	Tracking
+tracker added	tracker	it	Coda Tracker aggiunta
+tracker admins	tracker	it	Gestione Tracker
+tracker admins & technicians	tracker	it	Amministratori e tecnici tracker
+tracker configuration	tracker	it	Configurazione Tracker
+tracker deleted	tracker	it	Coda Tracker eliminata
+tracker for new tickets	tracker	it	Coda di tracker per i nuovi tickets
+tracker item modified by %1 at %2	tracker	it	Oggetto tracker modificato da %1 il %2
+tracker item not found !!!	tracker	it	Oggetto Tracker non trovato !!!
+tracker queue	tracker	it	Code del tracker
+tracker-%1 '%2' added.	tracker	it	Tracker-%1 '%2' aggiunto.
+tracker-%1 '%2' updated.	tracker	it	Tracker-%1 '%2' aggiornato.
+tracker-%1 deleted.	tracker	it	Tracker-%1 eliminato.
+unchanged	tracker	it	Non cambiare
+unrecognized mails	tracker	it	Email non ricosciute
+url of the tracker	tracker	it	URL del tracker
+url to be included in the notification, eg. to the page with the sitemgr module, default tracker inside egw	tracker	it	URL da includere nella notifica, es. alla pagina con il modulo SiteMgr, tracker predefinito in eGW
+use a default user for mails that where not recognized	tracker	it	Usa un utente di default per quelle email che non vengono riconosciute
+versions	tracker	it	Versioni
+vote for it!	tracker	it	Votalo!
+votes	tracker	it	Voti
+wont fix	tracker	it	Non funzionerà
+works for me	tracker	it	Funziona per me
+yes, display groups first	tracker	it	Sì, mostra prima i gruppi
+yes, display users first	tracker	it	Sì, mostra prima gli utenti
+yes, with larger fontsize	tracker	it	Si, di dimensioni più grandi
+you can enable/disable the queue access restrictions in the configuration tab (for all queues)	tracker	it	Puoi abilitare/disabilitare le restrizioni sulle code di tracker nella scheda di configurazione (per tutte le code)
+you can respond by visiting:	tracker	it	Puoi rispondere visitando:
+you need to enter a name	tracker	it	Devi inserire un nome
+you need to login to vote!	tracker	it	Devi fare il login per votare!
+you need to select something to change and some tracker items!	tracker	it	Devi selezionare qualcosa da cambiare E qualche oggetto tracker!
+you need to specify amount, donators name and email address!	tracker	it	Devi specificare l'importo, i nomi dei donatori E l'indirizzo email!
+you voted %1.	tracker	it	Hai votato %1.

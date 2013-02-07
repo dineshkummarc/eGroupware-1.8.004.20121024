@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<!-- $Id: edit.xet 23595 2007-04-14 17:01:43Z ralfbecker $ -->
+<overlay>
+	<template id="wiki.edit" template="" lang="" group="0" version="1.2">
+		<grid width="100%">
+			<columns>
+				<column/>
+				<column/>
+			</columns>
+			<rows>
+				<row class="th">
+					<description value="Name"/>
+					<hbox options="0" orient="0">
+						<textbox size="60" id="name"/>
+						<menulist class="leftpadding5">
+							<menupopup label="Lang" no_lang="1" id="lang"/>
+						</menulist>
+						<button class="leftpadding5" label="Load" id="action[load]" statustext="Loads the named page in the given language, all change so far get lost !!!"/>
+						<button class="leftpadding5" label="Rename" id="action[rename]" statustext="Renames page to the given name and language"/>
+					</hbox>
+				</row>
+				<row class="row">
+					<description value="Title"/>
+					<hbox options="0" orient="0">
+						<textbox size="60" id="title" statustext="different languages can have different titles"/>
+						<description class="leftpadding5" value="Writable by"/>
+						<menulist class="leftpadding5">
+							<menupopup type="select-account" options=",groups" no_lang="1" id="writable" statustext="who should be able to edit this page"/>
+						</menulist>
+						<description class="leftpadding5" value="Readable by"/>
+						<menulist class="leftpadding5">
+							<menupopup type="select-account" options=",groups" no_lang="1" id="readable" statustext="who should be able to read this page"/>
+						</menulist>
+					</hbox>
+				</row>
+				<row class="row" disabled="!@is_html">
+					<htmlarea span="all" id="text" mode="$cont[rtfEditorFeatures]" height="320px" width="100%" toolbar="true" base_href="$cont[upload_dir]"/>
+				</row>
+				<row disabled="@is_html">
+					<textbox multiline="true" rows="15" cols="120" span="all" id="text"/>
+				</row>
+				<row class="row">
+					<description value="Summary"/>
+					<textbox size="80" id="summary" statustext="Summary of change"/>
+				</row>
+				<row class="row">
+					<description value="Category"/>
+					<textbox size="80" id="category" statustext="Add document to category"/>
+				</row>
+				<row>
+					<hbox span="2">
+						<button label="Save" id="action[save]" statustext="Save the changes and exit"/>
+						<button label="Apply" id="action[apply]" statustext="Saves and continues editing"/>
+						<button label="Preview" id="action[preview]" statustext="Updates the preview"/>
+						<button label="Delete" id="action[delete]" statustext="Deletes this page"/>
+						<button label="Richtext" id="action[convert]" statustext="Converts the page to richtext"/>
+						<button label="Cancel" id="action[cancel]" statustext="Cancel without saving"/>
+					</hbox>
+				</row>
+				<row>
+					<htmlarea span="2" id="preview" readonly="true"/>
+				</row>
+			</rows>
+		</grid>
+		<styles>
+			.leftpadding5 { padding-left: 5px; }
+
+		</styles>
+	</template>
+</overlay>

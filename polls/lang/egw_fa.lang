@@ -1,0 +1,35 @@
+actions	polls	fa	فعالیتها
+add answer to poll	polls	fa	افزودن پاسخ به نظرسنجی
+add answers	polls	fa	افزودن پاسخها
+add new poll question	polls	fa	افزودن سؤال جدید
+add questions	polls	fa	افزودن سؤال
+administration	polls	fa	مدیریت
+allow users to vote more then once	polls	fa	اجازه به کاربران برای رأی دهی بیش از یک بار
+answer	polls	fa	پاسخ
+answer has been added to poll	polls	fa	پاسخ به نظر سنجی افزوده شد
+answer has been updated	polls	fa	پاسخ بهنگام شد
+answers	polls	fa	پاسخ ها
+are you sure want to delete this answer ?	polls	fa	آیا مطمئنید که می خواهید این پاسخ را حذف کنید؟
+are you sure want to delete this question ?	polls	fa	آیا مطمئنید که می خواهید این سؤال را حذف کنید؟
+current poll	polls	fa	نظرسنجی فعلی
+edit answer	polls	fa	ویرایش پاسخ
+edit poll question	polls	fa	ویراستن سؤال نظرسنجی
+enter poll question	polls	fa	ورود سؤال نظر سنجی
+new poll has been added.  you should now add some answers for this poll	polls	fa	نظرسنجی جدید افزوده شد. حالا شما باید چند پاسخ به این نظرسنجی اضافه کنید.
+poll question	polls	fa	سؤال نظرسنجی
+poll settings	common	fa	تنظیمات نظرسنجی
+polls	common	fa	نظر سنجی
+polls menu	polls	fa	منوی نظرسنجی
+question has been updated	polls	fa	سؤال بهنگام شد
+select current poll	polls	fa	انتخاب نظرسنجی فعلی
+settings	polls	fa	تنظیمات
+settings updated	polls	fa	تنظیمات بهنگام شد
+show answers	polls	fa	نمایش پاسخها
+show questions	common	fa	نمایش سؤالات
+total votes	polls	fa	کل
+view poll	polls	fa	نمایش نظرسنجی
+view results	polls	fa	دیدن نتایج
+vote	polls	fa	رأی
+voting booth admin	admin	fa	غرفه رأی دهی
+voting booth administration	polls	fa	مدیریت غرفه رأی دهی
+which poll	polls	fa	کدام نظرسنجی

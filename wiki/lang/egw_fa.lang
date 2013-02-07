@@ -1,0 +1,100 @@
+(don't offer the possibility)	admin	fa	(عدم پیشنهاد احتمال)
+<em>but</em> display at least this many entries in recentchanges and other subscription lists:	wiki	fa	<em>اما</em> حداقل این ورودیها را در تغییرات اخیر و فهرست اشتراکهای دیگر نمایش بده
+add document to category	wiki	fa	افزودن توضیحات به دسته
+added	wiki	fa	افزوده شد
+administration features are disabled for this wiki.	wiki	fa	قابلیتهای مدیریت برای این ویکی غیر فعال است
+admins	wiki	fa	مدیران
+after how many days should old versions of a page be removed (0 for never)	admin	fa	بعد از چند روز نسخه های قدیمی صفحات باید برداشته شوند( صفر برای هیچوقت)
+allow anonymous access	admin	fa	اجازه به دسترسی بی نام
+anonymous password	admin	fa	گذرواژه بی نام
+anonymous session type	admin	fa	نوع نشست بی نام
+anonymous username	admin	fa	نام کاربری بی نام
+automatically convert pages with wiki-syntax to richtext (if edited)?	admin	fa	تبدیل خودکار صفحات با نوشتار-ویکی به متن پیشرفته (اگر ویرایش شد)؟
+block	wiki	fa	قفل
+block / unblock hosts	common	fa	قفل/باز کردن میزبانها
+blocked ip address ranges	wiki	fa	محدوده قفل IPها
+cancel without saving	wiki	fa	لغو بدون ضبط
+changed	wiki	fa	تغییر یافت
+changes by last author	wiki	fa	تغییر بوسیله آخرین نویسنده
+choose your current time here, so the server may figure out what time zone you are in.	wiki	fa	زمان جاری خود را اینجا انتخاب کنید، کارگزار ناحیه زمانی محل حضور شما را تنظیم میکند
+columns	wiki	fa	ستونها
+compute difference	wiki	fa	محاسبه اختلافها
+converts the page to richtext	wiki	fa	تبدیل صفحه به متن پیشرفته
+current version	wiki	fa	نسخه جاری
+deleted	wiki	fa	حذف شده
+deletes this page	wiki	fa	این صفحه را حذف می کند
+difference between versions	wiki	fa	اختلاف بین نسخه ها
+differences in	wiki	fa	اختلاف در
+different languages can have different titles	wiki	fa	زبانهای مختلف می توانند عناوین مختلف داشته باشند
+document last modified	wiki	fa	آخرین تغییر سند
+edit box	wiki	fa	جعبه ویرایش
+edit this <em>archive version</em> of this document	wiki	fa	ویرایش این<em>نسخه آرشیو</em> از این سند
+edit this document	wiki	fa	ویرایش این سند
+edit with preview	admin	fa	ویرایش با پیش نمایش
+editable	admin	fa	قابل ویراستن
+editing	wiki	fa	ویرایش می شود
+emailaddress administrator	admin	fa	مدیر رایانامه
+enable free links	admin	fa	فعالسازی پیوندهای آزاد
+enable wiki links	admin	fa	فعالسازی پیوندهای ویکی
+error creating temporary file.	wiki	fa	خطای ایجاد پرونده موقت
+error writing to temporary file.	wiki	fa	خطای نوشتن در پرونده موقت
+everyone	wiki	fa	همه
+find	wiki	fa	جستجو
+history	wiki	fa	تاریخچه
+history lists	wiki	fa	فهرست تاریخچه
+history of	wiki	fa	تاریخچه
+interwikiprefix	admin	fa	پیشوند ویکی داخلی
+invalid page name.	wiki	fa	نام صفحه نامعتبر
+load	wiki	fa	بارگذاری
+lock / unlock pages	common	fa	قفل/باز کردن صفحات
+locked	wiki	fa	قفل شده
+name wiki home link	admin	fa	نامگذاری پیوند ویکی خانه
+newer	wiki	fa	جدیدتر
+no never	admin	fa	نه هیچوقت
+no only on request	admin	fa	نه فقط روی درخواست
+not set	wiki	fa	تنظیم نشده
+older	wiki	fa	قدیمی تر
+on all pages	wiki	fa	در تمام صفحات
+only if browser supports a richtext-editor	admin	fa	فقط وفتی مرورگر از ویرایشگر متن پیشرفته پشتیبانی می کند
+only on the first page	wiki	fa	فقط در صفحه اول
+page '%1' not found !!!	wiki	fa	صفحه '%1' پیدا نشد
+preview	wiki	fa	پیش نمایش
+preview of current version	wiki	fa	پیش نمایش نسخه کنونی
+rate control / ip blocking disabled	wiki	fa	مهار امتیاز/ قفل IP غیر فعال
+readable by	wiki	fa	قابل خواندن توسط
+readonly	admin	fa	فقط خواندنی
+recent changes	wiki	fa	تغییرات اخیر
+renames page to the given name and language	wiki	fa	تغییر نام صفحه به نام و زبان  داده شده
+richtext	wiki	fa	متن پیشرفته
+rows	wiki	fa	سطور
+save the changes and exit	wiki	fa	ضبط تغییرات و خروج
+saves and continues editing	wiki	fa	ضبط و ادامه ویرایش
+search for	wiki	fa	جستجو برای
+see complete list (%1 entries)	wiki	fa	دیدن فهرست کامل (%1 ورودی)
+show a search	wiki	fa	نمایش یک جستجو
+show the title of the wiki page	wiki	fa	نمایش عنوان صفحه ویکی
+summary	wiki	fa	خلاصه
+summary of change	wiki	fa	خلاصه تغییرات
+the search returned no result!	wiki	fa	جستجو نتیجه ای در بر نداشت!
+this page can not be edited.	wiki	fa	این صفحه نمی تواند ویرایش شود
+twin pages	wiki	fa	صفحات دوقلو
+unblock	wiki	fa	باز
+updates the preview	wiki	fa	بهنگام سازی پیش نمایش
+url of the upload directory	admin	fa	نشانی پوشه
+use this module for displaying wiki-pages	wiki	fa	از این پیمانه برای نمایش صفحات ویکی استفاده کن
+users	wiki	fa	کاربران
+view document history	wiki	fa	دیدن تاریخچه سند
+visit %1 to set your user name	wiki	fa	دیدن %1 برای تنظیم نام کاربری
+who should be able to edit this page	wiki	fa	چه کسی قادر خواهد بود تا این صفحه را ویراش کند
+who should be able to read this page	wiki	fa	چه کسی قادر خواهد بود تا این صفحه را بخواند
+wiki	common	fa	ویکی
+wiki administration	wiki	fa	مدیریت ویکی
+wiki menu	wiki	fa	فهرست ویکی
+wiki startpage	wiki	fa	صفحه شروع ویکی
+writable by	wiki	fa	نوشته شده بوسیله
+yes always	admin	fa	بله همیشه
+you have been denied access to this site.	wiki	fa	دسترسی شما به این سایت ممنوع شده است
+you have entered an invalid user name.	wiki	fa	شما نام کاربری غیر معتبر وارد کرده اید
+you have no rights to view wiki content !!!	wiki	fa	شما حقی برای دیدن محتوای ویکی ندارید!!!
+your changes	wiki	fa	تغییرات شما
+your user name is "%1".	wiki	fa	نام کاربری شما هست: "%1"

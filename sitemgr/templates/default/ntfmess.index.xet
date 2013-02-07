@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<!-- $Id$ -->
+<overlay>
+	<template id="sitemgr.ntfmess.index.right" template="" lang="" group="0" version="0.0.001">
+		<buttononly label="Add" id="add" onclick="window.open(egw::link('/index.php','menuaction=sitemgr.uintfmess.edit&amp;site_id={$cont[filter]}'),'_blank','dependent=yes,width=650,height=300,scrollbars=yes,status=yes'); return false;"/>
+	</template>
+	<template id="sitemgr.ntfmess.index.rows" template="" lang="" group="0" version="0.0.002">
+		<grid width="100%">
+			<columns>
+				<column/>
+				<column/>
+				<column/>
+				<column/>
+				<column width="5%"/>
+			</columns>
+			<rows>
+				<row class="th">
+					<nextmatch-sortheader label="ID" id="notification_id" class="tracker-id"/>
+					<nextmatch-sortheader label="Site" id="site_id"/>
+					<nextmatch-sortheader label="Language" id="language"/>
+					<nextmatch-sortheader label="Subject" id="subject"/>
+					<description value="Actions"/>
+				</row>
+				<row class="row">
+					<description id="${row}[message_id]" no_lang="1"/>
+					<description options="None" id="${row}[site_id]" readonly="true"/>
+					<description id="${row}[language]" no_lang="1"/>
+					<description id="${row}[subject]" readonly="true" no_lang="1"/>
+					<hbox>
+						<button image="edit" align="center" id="edit[$row_cont[message_id]]" onclick="window.open(egw::link('/index.php','menuaction=sitemgr.uintfmess.edit&amp;message_id=$row_cont[message_id]&amp;site_id=$row_cont[site_id]'),'_blank','dependent=yes,width=650,height=300,scrollbars=yes,status=yes'); return false;"/>
+						<button id="delete[$row_cont[message_id]]" image="delete" onclick="return confirm('Delete this entry');"/>
+					</hbox>
+				</row>
+			</rows>
+		</grid>
+	</template>
+	<template id="sitemgr.ntfmess.index" template="" lang="" group="0" version="0.0.004">
+		<grid width="100%" class="sitemgr-index">
+			<columns>
+				<column/>
+				<column/>
+			</columns>
+			<rows>
+				<row>
+					<description align="center" id="msg" span="all" class="redItalic" no_lang="1"/>
+					<description/>
+				</row>
+				<row disabled="1">
+					<template id="sitemgr.ntfmess.index"/>
+					<template align="right" id="sitemgr.ntfmess.index.right"/>
+				</row>
+				<row>
+					<nextmatch options="sitemgr.ntfmess.index.rows" id="nm" span="all"/>
+				</row>
+			</rows>
+		</grid>
+	</template>
+</overlay>

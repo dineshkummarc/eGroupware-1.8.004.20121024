@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<mosinstall type="template">
+	<name>realss</name>
+	<creationDate>2004.06.25</creationDate>
+	<author>Zhang Weiwu</author>
+	<copyright>GPL</copyright>
+	<authorEmail></authorEmail>
+	<authorUrl>http://www.zhangweiwu.com/</authorUrl>
+	<version>1.0</version>
+	<description>the template used for my own company 
+www.realss.com</description>
+</mosinstall>

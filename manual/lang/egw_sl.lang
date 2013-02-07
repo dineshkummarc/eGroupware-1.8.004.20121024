@@ -1,0 +1,15 @@
+%1 manual page(s) added or updated	manual	sl	%1 strani priročnika je bilo dodanih ali obnovljenih.
+allow anonymous access to the manual, only necessary to act as remote manual	admin	sl	Dovoli anonimni dostop do priročnika. Potrebno le za postavitev oddaljenega priročnika
+anonymous password	admin	sl	Geslo za anonimno prijavo
+anonymous username	admin	sl	Uporabniškoo ime za anonimno prijavo
+download	manual	sl	Prenesi
+index	manual	sl	Indeks
+install or update the manual-pages	admin	sl	Namestitev ali osvežitev strani priročnika.
+manual	common	sl	Priročnik / Pomoč
+page(s) %1 not found !!!	manual	sl	Ne najdem strani %1.
+remote egroupware url for the manual to use, empty for a local manual, default	admin	sl	Naslov URL priročnika eGroupWare. Privzeta nastavitev je prazna, kar pomeni lokalni priročnik
+search for	manual	sl	Išči
+starting import from %1, this might take several minutes (specialy if you start it the first time) ...	manual	sl	Uvoz iz %1 se je začel. Traja lahko več minut (še posebej, če uvoz izvajate prvič).
+the search returned no result!	manual	sl	Iskanje ni vrnilo rezultata!
+update url for the local manual, default	admin	sl	Posodobi url za lokalni priročnik (privzeto)
+wiki id for the local manual, default 1, 0 to use the wiki to edit the manual pages	admin	sl	ID wikija za lokalni priročnik. Privzeta nastavitev je 1, 0 pomeni uporabo wikija za urejanje priročnika

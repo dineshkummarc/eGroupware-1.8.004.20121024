@@ -1,0 +1,186 @@
+<?xml version="1.0"?>
+<!-- $Id$ -->
+<overlay>
+	<template id="tracker.index.left" template="" lang="" group="0" version="1.3.003">
+		<menulist class="bold">
+			<menupopup rows="1" cols="1" id="col_filter[tr_tracker]" no_lang="1" onchange="1" options="All" label="Tracker Queue"/>
+		</menulist>
+	</template>
+	<template id="tracker.index.right" template="" lang="" group="0" version="1.5.001">
+		<buttononly label="Add" id="add" onclick="window.open(egw::link('/index.php','menuaction=tracker.tracker_ui.edit&amp;tracker={$cont[col_filter][tr_tracker]}'),'_blank','dependent=yes,width=700,height=480,scrollbars=yes,status=yes'); return false;"/>
+	</template>
+	<template id="tracker.index.rows" template="" lang="" group="0" version="1.7.001">
+		<grid width="100%">
+			<columns>
+				<column/>
+				<column disabled="@no_tr_tracker"/>
+				<column disabled="@no_cat_id"/>
+				<column/>
+				<column width="30%"/>
+				<column/>
+				<column/>
+				<column width="10%"/>
+				<column/>
+				<column/>
+				<column width="18%"/>
+				<column disabled="!@allow_sum_timesheet"/>
+				<column disabled="@no_votes"/>
+				<column disabled="@no_bounties"/>
+				<column/>
+				<column/>
+				<column width="3%" disabled="!@allow_actions"/>
+				<column disabled="!@is_admin"/>
+			</columns>
+			<rows>
+				<row class="th">
+					<nextmatch-sortheader label="ID" id="tr_id" class="tracker-id"/>
+					<nextmatch-sortheader label="Tracker Queue" id="tr_tracker" class="tracker"/>
+					<nextmatch-sortheader label="Category" id="cat_id" class="tracker-cat"/>
+					<nextmatch-sortheader label="Version" id="tr_version" class="tracker"/>
+					<nextmatch-sortheader label="Summary" id="tr_summary" class="tracker-summary"/>
+					<vbox>
+						<nextmatch-sortheader label="Date opened" id="tr_created" class="tracker-created"/>
+						<nextmatch-sortheader label="Last modified" id="tr_modified"/>
+					</vbox>
+					<nextmatch-sortheader label="Priority" id="tr_priority" class="tracker-priority" align="center"/>
+					<vbox options="0,0">
+						<nextmatch-filterheader options="All" id="tr_status" label="Status" class="status_filter"/>
+					</vbox>
+					<nextmatch-filterheader options="All" id="tr_resolution" label="Resolution" class="status_filter"/>
+					<nextmatch-sortheader label="Completed" id="tr_completion" class="tracker-completion" align="center"/>
+					<vbox options="0,0">
+						<nextmatch-accountfilter options="Created by" id="tr_creator" class="user_filter"/>
+						<nextmatch-filterheader id="tr_assigned" options="Assigned to" no_lang="1" class="user_filter"/>
+					</vbox>
+					<nextmatch-header label="Times" id="tr_sum_timesheets" class="tracker-times" align="center"/>
+					<nextmatch-sortheader label="Votes" id="votes" class="tracker-votes"/>
+					<nextmatch-sortheader label="Bounties" id="bounties" class="tracker-bounties"/>
+					<nextmatch-filterheader options="Escalation" id="esc_id"/>
+					<nextmatch-customfields id="customfields"/>
+					<description class="noPrint" value="Actions" align="center"/>
+					<button image="check" label="Check all" id="check_all" statustext="Check all" onclick="toggle_all(this.form,form::name('checked[]')); return false;" needed="1" class="tracker-checkall"/>
+				</row>
+				<row class="row">
+					<description id="${row}[tr_id]" no_lang="1"/>
+					<menulist>
+						<menupopup no_lang="1" id="${row}[tr_tracker]" readonly="true"/>
+					</menulist>
+					<menulist>
+						<menupopup type="select-cat" options="None" readonly="true" id="${row}[cat_id]"/>
+					</menulist>
+					<menulist>
+						<menupopup type="select-cat" options="None" readonly="true" id="${row}[tr_version]"/>
+					</menulist>
+					<description id="${row}[tr_summary]" no_lang="1" options=",tracker.tracker_ui.edit&amp;tr_id=$row_cont[tr_id],,,tracker,700x535" class="$row_cont[seen_class]"/>
+					<vbox readonly="true">
+						<date-time id="${row}[tr_created]" readonly="true" class="noWrap $row_cont[overdue_class]"/>
+						<date-time id="${row}[tr_modified]" readonly="true" class="noWrap"/>
+						<menulist class="noWrap">
+							<menupopup type="select-account" id="${row}[tr_modifier]" readonly="true"/>
+						</menulist>
+					</vbox>
+					<description align="center" id="${row}[prio_label]" class="indexPrio"/>
+					<menulist>
+						<menupopup id="${row}[tr_status]" readonly="true"/>
+					</menulist>
+					<menulist>
+						<menupopup id="${row}[tr_resolution]" readonly="true"/>
+					</menulist>
+					<image src="${row}[tr_completion]" label="$row_cont[tr_completion]" no_lang="1" align="center"/>
+					<vbox options="0,0">
+						<hbox readonly="true" options="0,0">
+							<image readonly="true" label="Created by" src="move2"/>
+							<menulist class="leftPad5">
+								<menupopup type="select-account" id="${row}[tr_creator]" readonly="true"/>
+							</menulist>
+						</hbox>
+						<hbox readonly="true" options="0,0">
+							<image src="groupevent" readonly="true" label="Assigned to"/>
+							<menulist class="leftPad5">
+								<menupopup type="select-account" id="${row}[tr_assigned]" readonly="true"/>
+							</menulist>
+						</hbox>
+					</vbox>
+					<date-duration id="${row}[tr_sum_timesheets]" readonly="true" options="@duration_format" align="center"/>
+					<int align="center" id="${row}[votes]" readonly="true"/>
+					<textbox type="float" align="center" id="${row}[bounties]" readonly="true" label="$row_cont[currency]" no_lang="1"/>
+					<date-since id="${row}[esc_start]"/>
+					<customfields-list id="$row"/>
+					<hbox options="0" align="center" class="noPrint" orient="0">
+						<button image="timesheet" class="noPrint" label="Add timesheet entry" align="center" id="timesheet[$row_cont[tr_id]]" onclick="window.open(egw::link('/index.php','menuaction=timesheet.uitimesheet.edit&amp;link_app[]=tracker&amp;link_id[]=$row_cont[tr_id]$row_cont[extra_links]'),'_blank','dependent=yes,width=600,height=400,scrollbars=yes,status=yes'); return false;"/>
+						<button image="print" class="noPrint" label="Print entry" align="center" id="tprint[$row_cont[tr_id]]" onclick="window.open(egw::link('/index.php','menuaction=tracker.tracker_ui.tprint&amp;tr_id=$row_cont[tr_id]'),'_blank','dependent=yes,width=700,height=535,scrollbars=yes,status=yes'); return false;"/>
+						<button image="edit" class="noPrint" label="Edit entry" align="center" id="edit[$row_cont[tr_id]]" onclick="window.open(egw::link('/index.php','menuaction=tracker.tracker_ui.edit&amp;tr_id=$row_cont[tr_id]'),'_blank','dependent=yes,width=700,height=535,scrollbars=yes,status=yes'); return false;"/>
+					</hbox>
+					<checkbox options="$row_cont[tr_id]" id="checked[]" align="center"/>
+				</row>
+			</rows>
+		</grid>
+	</template>
+	<template id="tracker.index" template="" lang="" group="0" version="1.7.001">
+		<grid width="100%" class="tracker-index">
+			<columns>
+				<column/>
+				<column/>
+			</columns>
+			<rows>
+				<row disabled="!@msg">
+					<description align="center" id="msg" span="all" class="redItalic" no_lang="1"/>
+					<description/>
+				</row>
+				<row disabled="1">
+					<template id="left"/>
+					<template align="right" id="right"/>
+				</row>
+				<row>
+					<nextmatch options="tracker.index.rows" id="nm" span="all"/>
+				</row>
+				<row disabled="!@is_admin">
+					<hbox span="all">
+						<menulist>
+							<menupopup id="cat_id" options="No change" label="Category" no_lang="1"/>
+						</menulist>
+						<menulist>
+							<menupopup id="tr_version" options="No change" label="Version" no_lang="1"/>
+						</menulist>
+						<menulist>
+							<menupopup id="tr_priority" options="No change" label="Priority"/>
+						</menulist>
+						<menulist>
+							<menupopup id="tr_status_admin" options="No change" label="Status" statustext="@status_help"/>
+						</menulist>
+						<menulist>
+							<menupopup id="tr_assigned" options="No change" label="Assigned to" no_lang="1"/>
+						</menulist>
+						<checkbox id="no_notifications" label="Do not notify of these changes"/>
+						<button id="update" label="Update"/>
+						<button image="arrow_ltr" label="Check all" id="check_all" statustext="Check all" onclick="toggle_all(this.form,form::name('nm[rows][checked][]')); return false;" needed="1" class="check_all_arrow" align="right"/>
+					</hbox>
+				</row>
+				<row disabled="!@is_admin">
+					<grid>
+						<columns>
+							<column/>
+							<column/>
+						</columns>
+						<rows>
+							<row>
+								<description value="Canned response"/>
+								<description value="Comment"/>
+							</row>
+							<row valign="top">
+								<menulist>
+									<menupopup id="canned_response" options="Select one" no_lang="1" statustext="The canned response will be prefix the text you type."/>
+								</menulist>
+								<textbox multiline="true" rows="3" cols="60" id="reply_message"/>
+							</row>
+						</rows>
+					</grid>
+				</row>
+				<row disabled="@is_admin">
+					<button label="Add" id="add" onclick="window.open(egw::link('/index.php','menuaction=tracker.tracker_ui.edit&amp;tracker={$cont[nm][col_filter][tr_tracker]}'),'_blank','dependent=yes,width=700,height=480,scrollbars=yes,status=yes'); return false;"/>
+					<description/>
+				</row>
+			</rows>
+		</grid>
+	</template>
+</overlay>

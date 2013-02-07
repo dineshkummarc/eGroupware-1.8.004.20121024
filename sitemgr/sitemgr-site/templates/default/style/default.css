@@ -1,0 +1,160 @@
+/**
+ * EGroupware SiteMgr CMS - Style sheet for edit mode
+ *
+ * @link http://www.egroupware.org
+ * @package sitemgr
+ * @subpackage sitemgr-site
+ * @author Ralf Becker <RalfBecker-AT-outdoor-training.de>
+ * @license http://opensource.org/licenses/gpl-license.php GPL - GNU General Public License
+ * @copyright Ralf Becker <RalfBecker-AT-outdoor-training.de>
+ * @version $Id: default.css 33188 2010-11-28 20:27:05Z ralfbecker $
+ */
+
+/*--------------------------------*/
+/*| styles for navigation module |*/
+/*--------------------------------*/
+
+.nav-header-subsection { font-weight: bold; }
+.nav-header-parent { font-weight: bold; }
+.nav-title { font-weight: bold; }
+.nav-edit-icons {}
+.nav-cat-description { font-style: italic; font-weight: normal;}
+.nav-cat-description:before{ content: " " "-" " " ;}
+.nav-page-description { font-style: italic; font-weight: normal;}
+.nav-full-index { margin-top: 10px; }
+.nav-full-index a:before { content: '('; }
+.nav-full-index a:after { content: ')'; }
+
+.nav-highlight_current_page a:before { content: '>'; }
+.nav-highlight_current_page a:after { content: '<'; }
+
+#navigation-currentsection .nav-cat-entry ul, li { padding-left: 2em; }
+#navigation-currentsection .nav-page-entry ul, li { padding-left: 2em; }
+
+#navigation-index .nav-cat-entry { font-weight: bold; }
+#navigation-index .nav-cat-entry ul, li { padding-left: 0px; }
+#navigation-index .nav-page-entry ul, li { padding-left: 0px; }
+#navigation-index .depth-1 { margin-left: 5px; }
+#navigation-index .depth-2 { margin-left: 20px; }
+#navigation-index .depth-3 { margin-left: 35px; }
+#navigation-index .depth-4 { margin-left: 50px; }
+#navigation-index .depth-5 { margin-left: 65px; }
+
+/*#navigation-index_block .depth-1 li { list-style-type: none; }
+This code would produce 100% complability with old module, but looks ugly in case of cat collaps*/
+#navigation-index_block .depth-2 { margin-left: 15px; }
+#navigation-index_block .depth-3 { margin-left: 30px; }
+#navigation-index_block .depth-4 { margin-left: 45px; }
+#navigation-index_block ul,li { padding-left: 5px; }
+#navigation-index_block .nav-cat-entry.depth-1 {margin-top: 4px; padding-left: 5px;}
+#navigation-index_block .nav-cat-entry.depth-2 a:after { content: ' ...'; }
+#navigation-index_block .nav-cat-entry.depth-3 a:after { content: ' ...'; }
+#navigation-index_block .nav-cat-entry.depth-4 a:after { content: ' ...'; }
+
+#navigation-toc .nav-cat-entry ul, li { padding-left: 15px; }
+#navigation-toc .nav-page-entry ul, li { padding-left: 0px; }
+#navigation-toc .depth-2 { margin-left: 15px; }
+#navigation-toc .depth-3 { margin-left: 30px; }
+#navigation-toc .depth-4 { margin-left: 45px; }
+#navigation-toc .depth-5 { margin-left: 60px; }
+
+#navigation-toc_block .nav-cat-entry ul, li { padding-left: 0px; }
+#navigation-toc_block .nav-page-entry ul, li { padding-left: 0px; }
+#navigation-toc_block .depth-2 { margin-left: 15px; }
+#navigation-toc_block .depth-3 { margin-left: 30px; }
+#navigation-toc_block .depth-4 { margin-left: 45px; }
+#navigation-toc_block .depth-5 { margin-left: 60px; }
+
+#navigation-path .nav-cat-entry ul, li { padding-left: 0px; }
+#navigation-path .nav-page-entry ul, li { padding-left: 0px; }
+#navigation-path li { list-style-image:url("../../../images/pix.gif"); float: left; }
+#navigation-path a:before { content: " > "; }
+
+#navigation-path-nosep .nav-cat-entry ul, li { padding-left: 0px; }
+#navigation-path-nosep .nav-page-entry ul, li { padding-left: 0px; }
+#navigation-path-nosep li { list-style-image:url("../../../images/pix.gif"); float: left; }
+
+/*--------------------------*/
+/*| styles for wiki module |*/
+/*--------------------------*/
+.wiki-title { width: 100%; background: #d0d0d0; font-weight: bold; padding: 2px; font-size: 120%; margin-bottom: 5px; }
+.wiki-content { }
+
+
+/*--------------------------*/
+/*| styles for news module |*/
+/*--------------------------*/
+/*
+#news_headerstyle_item a { text-align:left; }
+
+
+#news_completestyle_item .news_title { font-weight: bold; text-align:left; }
+#news_completestyle_item .news_submitter { font-style: italic; text-align:left;}
+#news_completestyle_item .news_date { font-style: italic; text-align:left; }
+#news_completestyle_item .news_content { text-align:left; }
+*/
+/*------------------------------------*/
+/*| styles for the news_admin module |*/
+/*------------------------------------*/
+
+.news_items { text-align: left; }
+.news_item { margin-top: 5px; }
+.news_date { font-style: italic; display: inline; }
+.news_title { display: inline; }
+.news_headline { font-weight: bold; font-size: 120%; }
+.news_submitted { font-style: italic; }
+.news_teaser { font-weight: bold; }
+.news_teaser_more { }
+/* read more link in a new line .news_teaser_more a { display: block; } */
+.news_content {  }
+.news_more_news { margin-top: 5px; }
+.news_rss { margin-top: 5px; }
+
+/*--------------------------------*/
+/*| styles for lang_block module |*/
+/*--------------------------------*/
+#langsel_flags { width: 150px;}
+#langsel_flags ul { display:inline; margin:0; padding:0px 0px 0 0px; list-style:none; }
+#langsel_flags li { float:left; margin:0 2px 0 0; padding:0 0px 0 0px; }
+
+/*-----------------------------------------------*/
+/*| styles for printing (eg. eTemplate modules) |*/
+/*-----------------------------------------------*/
+
+@media screen {	.onlyPrint { display: none; } }
+@media print  {	.noPrint { display: none; } }
+
+/*-----------------------------------------------*/
+/*| styles for search module                    |*/
+/*-----------------------------------------------*/
+.search_results {
+    border: 1px solid #000000;
+    padding: 5px 5px 5px 5px;
+}
+.highlight { font-family: Verdana; color: red; font-weight: bold; }
+/*-----------------------------------------------*/
+/*| styles for tables -> addressbook module     |*/
+/*-----------------------------------------------*/
+.th { 
+	color: black; 
+	background-color: #D3DCE3; 
+}
+.row_on { 
+	color: black; 
+	background-color: #F1F1F1; 
+}
+.row_off { 
+	color: black; 
+	background-color: #ffffff; 
+}
+
+/**
+ * Joomla 1.5 template support
+ */
+/* Joomla modules get wrapped by that table, some SiteMgr Modules scale to parent width */
+table.moduletable {
+	width: 100%;
+}
+/* pathway per direct module include should behave inline */
+#pathway div, #pathway ul, #ja-pathway div, #ja-pathway ul { display: inline; }
+#pathway li, #ja-pathway li { float: none ! important; display: inline; }

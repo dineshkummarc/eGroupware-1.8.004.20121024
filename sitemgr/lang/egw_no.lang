@@ -1,0 +1,521 @@
+%1 content manager	sitemgr	no	%1 innholdsadministrator
+%1 module manager	sitemgr	no	%1 moduladministrator
+'%1' is no valid sitemgr-site directory !!!	sitemgr	no	'%1' er ikke et gyldig sitemgr-site bibliotek !
+(do not put spaces or punctuation in the name field.)	sitemgr	no	(Ikke benytt blank eller punktum i navnfeltet.)
+(leave blank to allow insecure logins)	sitemgr	no	(la stå blank for usikrede pålogginger)
+(only used in case of single file)	sitemgr	no	(brukes bare dersom det er en enkelt fil)
+1 day	sitemgr	no	1 dag
+1 hour	sitemgr	no	1 time
+1 month	sitemgr	no	1 måned
+1 week	sitemgr	no	1 uke
+<b>autoregistration is not enabled / configured in the registration app !!!</b><br>you need to do so, to get the autoregistration link working.	sitemgr	no	<b>Autoregistreing er ikke aktivert / konfigurert i registreringsprogrammet !</b> Dette må gjøres for at autoregistreringslenken skal fungere.
+<b>want more templates?</b><br />just download one from the template gallery at %1www.egroupware.org%2 or use a %3mambo open source%4 version 4.5 compatible template eg. from %5. unpack the downloaded template in your templates directory (%6).	sitemgr	no	<b>Ønsker du flere maler?</b><br />Dette kan lastes ned fra vårt malgalleri på %1www.eGroupWare.org%2 eller bruk en %3Mambo Open Source%4 versjon 4.5 kompatibel mal.
+a simple picture galery	sitemgr	no	Et enkelt bildegalleri
+actif	sitemgr	no	Actif
+add a category	sitemgr	no	Legg til en kategori
+add a new application	sitemgr	no	Legg til en ny applikation
+add a new guestbook	sitemgr	no	Legg til en ny gjestebok
+add block ...	sitemgr	no	Legg til blokk...
+add block to content area %1	sitemgr	no	Legg til blokk til innholdsområde %1
+add category	sitemgr	no	Legg til kategori
+add new page to this category	sitemgr	no	Legg til en ny side til denne kategori
+add page	sitemgr	no	Legg til side
+add page to category	sitemgr	no	Legg side til kategori
+add website	sitemgr	no	Legg til nettsted
+administration	sitemgr	no	Administrasjon
+administrative menu	sitemgr	no	Administrasjonsmeny
+administrators	sitemgr	no	administratorer
+all categories	sitemgr	no	Alle kategorier
+all forums in category %1	sitemgr	no	Alle forum i kategorien %1
+all languages	sitemgr	no	alle språk
+allignment of navigation elements	sitemgr	no	Plassering av navigasjonselementer
+allow posting of questions	sitemgr	no	Tillate posting av spørsmål
+amazon	sitemgr	no	Amazon
+amazon server (without www), eg. amazon.com	sitemgr	no	Amazon server (uten www), f.eks. amazone.com
+an application directory	sitemgr	no	En programmappe
+anonymous	sitemgr	no	anonym
+anonymous user login domain	sitemgr	no	Anonym brukers domeneinnlogging
+anonymous user's password	sitemgr	no	Anonym brukers adgangskode
+anonymous user's username	sitemgr	no	Anonym brukers brukernavn
+applet	sitemgr	no	Applet
+application	sitemgr	no	Program
+application '%1' is not installed !!!<br>please install it, to be able to use the block.	sitemgr	no	Program '%1' er ikke installert ! <br> Dette må installeres for å kunne benytte blokk.
+application sitemgr_module_guestbook must be installed as a egroupware application for this module to run	sitemgr	no	Programmet sitemgr_module_guestbook må være installert som en eGrouwareapplikasjon for at denne modulen skal skunne benyttes.
+apply permissions also to subcategories?	sitemgr	no	Anvende rettighetene også til underkategorier?
+archived	sitemgr	no	arkivert
+archived content	sitemgr	no	Arkivert innhold
+are contributors allowed to define new guestbooks?	sitemgr	no	Skal bidragsytere kunne opprette gjestebøker
+are you sure you want to delete site %1 and all its content? you cannot retrieve it if you continue.	sitemgr	no	Ønsker du å slette nettstedet %1 og alt innhold.  Det kan ikke gjenskapes om du fortsetter
+are you sure you want to delete the category %1 and all of its associated pages?  you cannot retrieve the deleted pages if you continue.	sitemgr	no	Ønsker du virkelig å slette denne kategorien %1 og alle tilknyttede sider? Sidene kan ikke gjenskapes om du fortsetter.
+as	common	no	som
+asin[=title] pairs (title is optional)	sitemgr	no	ASIN[=Tittel] par (Tittel er ikke nødvendig)
+attempt to access information outside current website	sitemgr	no	Forsøk på å få adgang til informasjon utenfor gjeldende nettsted.
+attempt to edit non-editable block	sitemgr	no	Forsøk på å redigere en ikke redigerbar blokk
+automatic index	sitemgr	no	Automatisk indeks
+automatically generated notification	sitemgr	no	Automatisk generert melding
+back to module manager	sitemgr	no	Tilbake til moduladministrasjon
+back to the list of languages	sitemgr	no	Tilbake til språklisten
+basic settings	sitemgr	no	Grunninnstillinger
+before the public web site can be viewed, you must configure the various locations and preferences.  please go to the sitemgr setup page by following this link:	sitemgr	no	Før nettstedet kan offentligjøres må du konfigurere forksjellige lokasjoner og preferanser.  Går til Nettstedsadministasjonens innstillingsside ved å følge denne lenken.
+block not found.	sitemgr	no	Blokk ikke funnet.
+block reloaded	sitemgr	no	Blokk lastet på nytt
+block returned no content.	sitemgr	no	Blokk returnerte ikke noe innhold.
+block saved	sitemgr	no	Blokk lagret
+bookmarks	sitemgr	no	Bokmerker
+buy at %1	sitemgr	no	Kjøp hos %1
+calendar	sitemgr	no	Kalender
+can't open an url or execute a script, because allow_url_fopen is not set in your php.ini !!!	sitemgr	no	Kan ikke åpne URL eller utføre et skript fordi allow_url_fopen ikke er satt i php.ini !
+cancel the delete	sitemgr	no	Annullere slettingen
+cannot move page until it has been saved.	sitemgr	no	Siden kan ikke flyttes før den er blitt lagret
+category	sitemgr	no	Kategori
+category description	sitemgr	no	Kategoribeskrivelse
+category manager	sitemgr	no	Kategoriadministrator
+category name	sitemgr	no	Kategorinavn
+category saved	sitemgr	no	Kategori lagret
+changes saved.	sitemgr	no	Endringer ble lagret.
+check here after every upgrade	sitemgr	no	avkryss her efter hver oppgdatering
+check to hide from condensed site index.	sitemgr	no	Kryss av for å skjule nettstedets sammentrykte indeks
+choose a category	sitemgr	no	Velg en kategori
+choose a format	sitemgr	no	Velg et format
+choose a guestbook	sitemgr	no	Velg en gjestebok
+choose language	sitemgr	no	Velg språk
+choose news layout	sitemgr	no	Velg format for nyheter
+choose template	sitemgr	no	Velg en mal
+choose the categories to display	sitemgr	no	Velg kategoriene som skal vises
+choose the valid html type (note: not all icons are available):	sitemgr	no	Velg en gyldig HTML type(Note: ikke alle ikoner er tilgjengelige):
+choose your site's theme or template.  note that if you changed the above checkbox you need to save before choosing a theme or template.	sitemgr	no	Velg din sides tema eller mal. Dersom du endret i sjekkboks må du lagre før du velger et tema eller en mal.
+click here to login through a safe connection.	sitemgr	no	Klikke her for å logge inn via en trygg forbindelse
+code file	sitemgr	no	Kodefile
+codebase url	sitemgr	no	URL til kodebase
+collapse threads	sitemgr	no	Trekk trådene sammen
+commit changes	sitemgr	no	Lagre endringene
+common prefix of the image-name (a number starting with 1 will be appended)	sitemgr	no	Felle prefiks for bildenavn ( et nummer som startet med 1 will bli lagt til )
+complete news	sitemgr	no	Fullfør nyheter
+configure module properties	sitemgr	no	Konfigurere modulens egenskaper
+configure sitemgr	sitemgr	no	Konfigurere Nettstedsadm.
+configure website	sitemgr	no	Konfigurere nettsted
+contact the administrator.	sitemgr	no	Kontakt systemadministratoren
+content areas	sitemgr	no	Innholdsområder
+content blocks	sitemgr	no	Innholdsblokker
+content blocks for category	sitemgr	no	Innholdsblokker i kategorier
+content manager	sitemgr	no	Innholdsansvarlig
+contentarea	sitemgr	no	Innholdsområde
+contributor menu	sitemgr	no	Medvirkendes meny
+copyright	sitemgr	no	Copyright
+create new version	sitemgr	no	Oprett en ny version
+css styles	sitemgr	no	CSS Stiler
+current section	sitemgr	no	Nåværende sekjson
+custom	sitemgr	no	egendefinert
+default	sitemgr	no	Standard
+default home page id number	sitemgr	no	Standard hjemmesides identnummer
+define websites	common	no	Definer nettsteder
+delete block	sitemgr	no	Slette blokk
+delete category	sitemgr	no	Slette kategori
+delete page	sitemgr	no	Slette side
+delete this application	sitemgr	no	Slette dette program
+delete this block	sitemgr	no	Slette denne blokken
+delete this guestbook	sitemgr	no	Slette denne gjesteboken
+delete version	sitemgr	no	Slette versjon
+deleting all data for %1	sitemgr	no	Sletter alle data fra %1
+details for language %1 (%2)	sitemgr	no	Sletter for språk %1(%2)
+directory for uploads (images etc.)	sitemgr	no	Katalog for opplasting (bilder etc)
+directory is not writeable by webserver. please correct this situation!	sitemgr	no	Katalog kan ikke skrives til av nettstedstjener.  Vennligst korriger dette!
+discussions	sitemgr	no	Diskusjoner
+display link to autoregistration below login form?	sitemgr	no	Vise lenke til autoregistrering under pålogginsbildet ?
+do you realy want to delete the selected categories (including all pages), pages and blocks?	sitemgr	no	Ønsker du virkelig å slette den valgte kategori (inkl. alle sider), sider og blokker?
+do you realy want to delete this block?	sitemgr	no	Ønsker du å slette denne blokken ?
+do you realy want to delete this page?	sitemgr	no	Ønsker du å slette denne siden ?
+do you want to delete them?	sitemgr	no	Ønsker du å slette dem ?
+do you want to publish a rss feed for this news category	sitemgr	no	Ønsker du å publisere en RSS fees for denne nyhetskategorien.
+documentation	sitemgr	no	Dokumentasjon
+domain-name (offical dns-name eg. www.egroupware.org) if you want to give the user a choice between searching this site or the whole web. leaving it empty allows to search the web only.	sitemgr	no	Domenenavn (offisielt DNS-navn som www.eGrouWare.org) der du ønsker å gi brukeren valg melleom å søke for denne siden eller hele web.  Dersom dette er blank vil det kun tillates søk på web.
+don't have an account?	sitemgr	no	Har du ingen konto?
+done	sitemgr	no	Utført
+download as zip-archiv	sitemgr	no	Laste ned som ZIP-arkiv
+downloaded	sitemgr	no	Lastet ned
+draft	sitemgr	no	Kladd
+draft mode	sitemgr	no	Kladdemodus
+edit categories and permissions	common	no	Endre kategorier og tillatelser
+edit category	sitemgr	no	Endre kategori
+edit individual pages	common	no	Endre individuelle sider
+edit mode	sitemgr	no	Endre modus
+edit page	sitemgr	no	Endre side
+edit properties of module %1 for %2 with scope %3	sitemgr	no	Endre egenskaper for modul %1 for %2 med ramme %3
+edit site	sitemgr	no	Endre nettsted
+edit site header and footer	common	no	Endre nettstedet topp og ende
+edit this block	sitemgr	no	Endre denne blokken
+edit website	sitemgr	no	Endret nettsted
+egw users	sitemgr	no	eGroupware brukere
+element successfully deleted.	sitemgr	no	Elementet ble slettet
+enter a name	sitemgr	no	Registrer et navn
+enter the block content here	sitemgr	no	Registrer blokkinholdet her
+enter the email to be notified about changes of the website.	sitemgr	no	Registrer din e-mailadresse for å få meldinger om endringer av nettstedet.
+enter the email to be notified about changes of the website:	sitemgr	no	Registrer din e-mailadresse for å få meldinger om endringer av nettstedet:
+enter the page content here	sitemgr	no	Registrer sideinnholdet her
+enterprise knowledge articles repository	sitemgr	no	Foretagets arkiv for kunnskapsartikler
+entry duplicated.	sitemgr	no	Forekomst dublisert
+entry saved.	sitemgr	no	Forekomst lagret
+error accessing page	common	no	Feil ved adgang til siden
+error deleting the element.	sitemgr	no	Feil ved sletting av elementet.
+error writing to the database.	sitemgr	no	Feil ved skriving til database
+error writing to the database: %1.	sitemgr	no	Feil ved skriving til database: %1
+everybody	sitemgr	no	alle
+expand current category	sitemgr	no	Ekspander gjeldende kategori
+file %1 is not readable by the webserver !!!	sitemgr	no	Filen %1 er ikke lesbar av nettstedsvert !
+file %1 is outside the docroot of the webserver !!!<br>this module does not allow - for security reasons - to open files outside the docroot.	sitemgr	no	Fil %1 er på utsiden av dokumentroten for nettstedstjeneren! <br>Denne modulen tillater ikke, av sikkerhetshensyn, å åpne dokumenter utenfor dokumentroten.
+file contents	sitemgr	no	Filinnhold
+file download	sitemgr	no	Nedlasting av fil
+filename	sitemgr	no	Filnavn
+filesystem path of the directory where xml files are stored	sitemgr	no	Filsystemets sti for mappen hvor XML sider lagres
+filesystem path of the image-directory	sitemgr	no	Filsystemets sti for mappen hvor bilder lagres
+filesystem path to sitemgr-site directory	sitemgr	no	Filsystemets sti til sitemgr-site biblioteket
+fill in permissions from parent category? if you check this, below values will be ignored	sitemgr	no	Fylle inn tillatelser fra foreldrekategorien?  Krysser du av for dette vil nedenforstående verdier ignoreres.
+following new modules registed: %1	sitemgr	no	Følgende nye moduler registrert : %1
+footer editor	sitemgr	no	Sidefotsredigering
+forever	sitemgr	no	For alltid
+forum	sitemgr	no	Forum
+full path of the xslt file that should be applied to the xml files	sitemgr	no	Full filsti for XSLT filen som skal legges til XML filene.
+galerie	sitemgr	no	Galleri
+gallery plus chooser	sitemgr	no	Galleri + velger
+gallery plus chooser and download	sitemgr	no	Galleri + velger + nedlasting
+gallery plus download	sitemgr	no	Galleri + nedlasting
+go back to page manager	sitemgr	no	Gå tilbake til Sideadministrasjon
+go back to the category manager.	sitemgr	no	Gå tilbake til Kategoriadministrasjon
+go to	sitemgr	no	Gå til
+go to page manager	sitemgr	no	Gå til Sideadministrasjon
+google	sitemgr	no	Google
+google search	sitemgr	no	Google søk
+group access permissions	sitemgr	no	Gruppetillatelser
+group name	sitemgr	no	Gruppenavn
+header editor	sitemgr	no	Sidehoderedigering
+headlines	sitemgr	no	Overskrifter
+hello	sitemgr	no	Hei
+hello world	sitemgr	no	Hei verden
+helps you respect html/xhtml standards.	sitemgr	no	Hjelper deg å respekterer HTML/XHTML standardene
+horizontal	sitemgr	no	Horisontal
+html frame	sitemgr	no	HTML Frame
+html module	sitemgr	no	HTML modul
+i'm sorry, you do not have write permissions for any site categories.	sitemgr	no	Dessverre, du har ikke skriverettigheter for noen av nettstedets kategorier.
+if nonsecure redirect to:	sitemgr	no	Dersom usikret rediriger til:
+if you haven't done so already, create a user that will be used for public viewing of the site.  recommended name: anonymous.	sitemgr	no	Dersom du ikke allerede har gjort det, opprett en bruker som benyttes for almen visning av nettstedet.  Anbefalt navn : anonymous
+image type	sitemgr	no	bildetype
+implies read permission	sitemgr	no	impliserer lesetillatelse
+index	sitemgr	no	Indeks
+individual access permission	sitemgr	no	Individuell adgangstillatelse
+individual access permissions	sitemgr	no	Individuelle adgangstillatelser
+interface to google website	sitemgr	no	Grensesnitt til google nettsted
+invalid template directory '%1' !!!	sitemgr	no	Feil malmappe '%1' !
+knowledge base	sitemgr	no	Kunnskapsbase
+languages the site user can choose from	sitemgr	no	Språk nettstedets brukere kan velge fra
+last entries to the guestbook	sitemgr	no	Siste registrering i gjestebok
+latest reply	sitemgr	no	Siste svar
+list of permitted modules specific to content area %1	sitemgr	no	Liste over tillatte moduler spesifikt for innholdsområde %1
+loged in as:	sitemgr	no	Logget inn som:
+login	sitemgr	no	Login
+login name	sitemgr	no	Login navn
+main content	sitemgr	no	Hovedinnhold
+mains	sitemgr	no	Hoved
+manage archived content	sitemgr	no	Administrere arkivert innhold
+manage categories	sitemgr	no	Administrere kategorier
+manage categories and pages	sitemgr	no	Administrere kategorier og sider
+manage category wide content	sitemgr	no	Administrere globale kategoriers innhold
+manage category wide module properties	sitemgr	no	Administrere globale modulers innstillinger
+manage content	sitemgr	no	Administrer innhold
+manage modules	sitemgr	no	Administrer moduler
+manage page specific content	sitemgr	no	Administrere sidespesifikt innhold
+manage pages	common	no	Administrer sider
+manage site content	sitemgr	no	Administrer nettstedet innhold
+manage site-wide content	sitemgr	no	Administrere nettstedets globale innhold
+manage site-wide module properties	sitemgr	no	Administrere nettstedets globale modulinnstillinger
+manage translations	sitemgr	no	Administrere oversettelser
+master list of permitted modules	sitemgr	no	Hovedliste over tillatte moduler
+messages are defined for all site languages.	sitemgr	no	Meldinger er definert for alle nettstedets språk
+migrating data for %1 to %2	sitemgr	no	Migrere data fra %1 til %2
+module %1 is not permitted in this context!	sitemgr	no	Modul %1 er ikke tillatt i denne sammenhæng!
+module manager	sitemgr	no	Moduladministrasjon
+module: %1, scope: %2, contentarea: %3, viewable: %4	sitemgr	no	Module: %1, Område: %2 Innholdsområde: %3, Visbar: %4
+more news	sitemgr	no	Flere nyheter
+move block down (increase sort order)	sitemgr	no	Flytt blokk ned (
+move block up (decrease sort order)	sitemgr	no	Flytt blokk opp (
+move to	sitemgr	no	Flytt til
+name	sitemgr	no	Navn
+name has been translated to lower case	sitemgr	no	Navnet ble endret til små bokstaver
+new application	sitemgr	no	Nytt program
+new guestbook	sitemgr	no	Ny gjestebok
+new sitemgr site	sitemgr	no	Ny sitemgr nettsted
+news module	sitemgr	no	Nyhetsmodul
+no additional arguments required	sitemgr	no	Ingen ytterligere argumenter nødvendig
+no anonymous user accounts installed.  notify the administrator.	sitemgr	no	Ingen anonyme brukerkonti opprettet.  Gi beskjed til EDB-ansvarlig !
+no content areas found in selected template	sitemgr	no	Innholdsområde ikke funnet i denne malen
+no content found	sitemgr	no	Innhold ikke funnet
+no groups defined.	sitemgr	no	Ingen grupper er definert
+no link to full index	sitemgr	no	Ingen lenke til full innholdsfortegnelse
+no matching news item	sitemgr	no	Ingen passende nyhetsenheter
+no modules permitted for this content area/category	sitemgr	no	Ingen moduler tillatt for dette innholdsområde / kategori
+no new modules found !!!	sitemgr	no	Ingen nye moduler funnet !
+no options available.	sitemgr	no	Ingen valg tilgjengelige
+no pages available	sitemgr	no	Ingen sider tilgjengelige
+no sitelanguages configured	sitemgr	no	Ingen språk definert for nettstedet
+no template file found.	sitemgr	no	Ingen malfil funnet
+no templates found.	sitemgr	no	Ingen mal funnet
+no thumbnail availible	sitemgr	no	Intet miniatyrbilde funnet
+no users defined.	sitemgr	no	Ingen brukere definert
+no websites defined	sitemgr	no	Ingen nettsteder er definert
+no, chooser only (for side-areas)	sitemgr	no	Ingen, bare velger(for sideområder)
+no, chooser with preview	sitemgr	no	Ingen, bare velger med forhåndsvisn.
+not	sitemgr	no	ikke
+not yet translated	sitemgr	no	ennå ikke oversatt
+note that you may get this message if your preferences are incorrect.  for example, if config.inc.php is not found in the directory that you specified.	sitemgr	no	Du får denne meldingen dersom dine preferanser ikke er korrekte.  F.eks, dersom config.inc.php ikke finnes i mappen du registrerte.
+note, this directory has to be writeable by webserver!	sitemgr	no	Note: Denne katalogen må være skrivbar av nettstedstjeneren!
+number of news items to be displayed on page	sitemgr	no	Antall nyheter som skal vises på siden
+on all pages	sitemgr	no	på alle sider
+only gallery	sitemgr	no	I galleriet
+only on the first page	sitemgr	no	bare på den første siden
+or enter the title for a new guestbook	sitemgr	no	eller registrer tittel for ny gjestebok
+other websites	sitemgr	no	Andre nettsteder
+overview of all available categories	sitemgr	no	Oversikt over alle tilgjengelige kategorier
+overview of one specific category	sitemgr	no	Oversikt over en spesifikk kategori
+own amazon partner-id or empty to donate to the egroupware project	sitemgr	no	Egen Amazon partnerident eller tom for å donere til eGroupWare-prosjektet.
+page	sitemgr	no	Side
+page content	sitemgr	no	Sideinnhold
+page manager	sitemgr	no	Sideadministrator
+page name	sitemgr	no	Sidenavn
+page saved	sitemgr	no	Side lagret
+page saved.	sitemgr	no	Side lagret.
+page subtitle	sitemgr	no	Sidens undertittel
+page title	sitemgr	no	Siden tittel
+pages	sitemgr	no	Sider
+pages:	sitemgr	no	Sider:
+parent	sitemgr	no	Overordnet
+parent directory	sitemgr	no	Overordnet katalog
+parent section:	sitemgr	no	Overordnet seksjon:
+password	sitemgr	no	Passord
+password that you assigned for the anonymous user account.	sitemgr	no	Passordet du tilordnet til den anonyme brukerkontoen.
+path to image-directory '%1' is not valid or readable by the webserver !!!	sitemgr	no	Sti til bildegalleri '%1' er ikke gyldig eller ikke lesbar av nettstedets vert!
+path to zip binary if not in path of the webserver	sitemgr	no	Stien til zip filen, dette ikke i webserverens sti
+percentage	sitemgr	no	Prosent
+phrases in total	sitemgr	no	Fraser totalt
+please enter a name for that site !	sitemgr	no	Registrer et navn for nettstedet
+please sign the guestbook	sitemgr	no	Vennligst skriv i vår gjestebok
+post a message to this thread	sitemgr	no	Post en melding i denne tråden
+prepublished	sitemgr	no	Forhånds publisert
+preunpublished	sitemgr	no	Forhånds upublisert
+previous	sitemgr	no	Forrige
+production mode	sitemgr	no	Produksjonsmiljø
+published	sitemgr	no	publisert
+reactivate content	sitemgr	no	Reaktiver innhold
+read permission	sitemgr	no	Lesetillatelse
+redirection	sitemgr	no	Redirigering
+refresh	sitemgr	no	Oppfrisk
+register for one now.	sitemgr	no	Registrer for en nå.
+register new modules	sitemgr	no	Registrer nye moduler
+reload	sitemgr	no	Last på nytt
+remember me	sitemgr	no	Husk meg
+replies	sitemgr	no	Svar
+required fields	sitemgr	no	Nødvendige felter
+reset	sitemgr	no	Tilbakestill
+return to forums	sitemgr	no	Returner til forumet
+return to main menu.	sitemgr	no	Returner til hovedmeny
+return to message list	sitemgr	no	Returner til meldingslisten
+root site index	sitemgr	no	Nettstedets rotindeks
+save	sitemgr	no	Lagre
+save block	sitemgr	no	Lagre blokk
+saved	sitemgr	no	Lagret
+scope	sitemgr	no	Omfang
+seen by	sitemgr	no	Sett av
+select a category	sitemgr	no	Velg en kategori
+select a forum	sitemgr	no	Velg et forum
+select allowed modules	sitemgr	no	Velg tillatte moduler
+select persons and groups that are entitled to configure the website.	sitemgr	no	Velg personer og grupper med adgnag til å konfigurere nettstedet.
+select the templates the user is allowed to see	sitemgr	no	Velg malene brukerne har adgang til
+select type of navigation	sitemgr	no	Velg type navigasjon
+selected template %1 does not exist.	sitemgr	no	Valgt mal %1 finnes ikke
+selected theme %1 does not exist.	sitemgr	no	Valgt tema %1 finnes ikke
+should the file be viewed in the browser or downloaded	sitemgr	no	Skal filen vises i nettleser eller lastes ned
+show a template-gallery (thumbnail and informations)	sitemgr	no	Vis et mal-galleri (miniatyrbilder og informasjon)
+show contents of a directory	sitemgr	no	Vis innholdet i en katalog
+show contents of a directory with subdirectories	sitemgr	no	Vis innholdet i en katalog med underordnede kataloger
+show details for the applications	sitemgr	no	Vis detaljer for programmene
+show only (in the next field) selected templates	sitemgr	no	Vis bare (i neste felt) valgte maler
+show only headers containing links for complete news	sitemgr	no	Vis bare overskrifter som inneholder lenker for ferdige nyheter
+show path?	sitemgr	no	Vis sti?
+show searchbox	sitemgr	no	Vis søkeboks
+show site index	sitemgr	no	Vis nettstedets innholdfortegnelse
+show subcategories	sitemgr	no	Vis underkategorier
+show the title of the wiki page	sitemgr	no	Vis tittel for wikisiden
+single file download	sitemgr	no	Nedlasting av en enkelt fil
+site	sitemgr	no	Nettsted
+site %1 has been added, you need to %2configure the site%3 now	sitemgr	no	Nettsted %1 ble lagt til, du må %2konfigurere nettstedet%3 nå
+site %1 has been updated	sitemgr	no	Nettsted %1 ble oppdatert
+site administrators	sitemgr	no	Nettstedsadministratorer
+site description	sitemgr	no	Nettstedsbeskrivelse
+site format manager	sitemgr	no	Administrer nettstedets format
+site index	sitemgr	no	Nettstedsindeks
+site name	sitemgr	no	Nettstedsnavn
+site setup	common	no	Nettstedsoppsett
+site tree menu	sitemgr	no	Nettstedets tremeny
+site wide	sitemgr	no	Hele nettstedet
+sitemgr	common	no	Nettstedsadm.
+sitemgr manual	sitemgr	no	Nettstedsmanual
+sitemgr options	sitemgr	no	Nettstedsadm valg
+sitemgr setup instructions	sitemgr	no	Nettstedsadm. innstillingsinstruksjoner
+sitemgr setup page	sitemgr	no	Nettstedsadm. innstillingsside
+sitemgr web content manager	common	no	Nettstedsadm. Administrasjon av innhold
+sitemgr websites	sitemgr	no	Nettstedsadm. nettsteder
+sort order	sitemgr	no	Sortering
+state	sitemgr	no	Status
+strip html from block content?	sitemgr	no	Fjerne HTML fra blokkinnholdet
+subcategories	sitemgr	no	Underkategorier
+subsections:	sitemgr	no	Underseksjoner:
+subtext for image %1	sitemgr	no	Undertekst for bilde %1
+subtitle	sitemgr	no	Undertittel
+summary of one forum	sitemgr	no	Sum av et forum
+suppress link to index (show all)	sitemgr	no	Undertrykk lenke til indeks (Vis alle)
+suppress link to parent category	sitemgr	no	Undertrykk lenge til overordnet kategori
+suppress the current page	sitemgr	no	Undertrykk gjeldende side
+table of contents	sitemgr	no	Innholdsfortegnelse
+template based navigation module	sitemgr	no	Malbasert navigasjonsmodul
+template select	sitemgr	no	Velg mal
+text allignment	sitemgr	no	Tekstoppstilling
+textarea	sitemgr	no	Tekstområde
+the category to display, 0 for complete table of contents	sitemgr	no	Kategorien som skal vises, 0 for en komplett tabell over innholdet.
+the complete url or path to a file to be included	sitemgr	no	Komplett URL eller sti til filen som skal inkluderes
+the config.inc.php file needs to be edited to point to the egroupware directory. copy the config.inc.php.template file to config.inc.php and then edit it.	sitemgr	no	config.inc.php filen må endres slik at den peker til eGrouWare mappen. Kopier config.inc.php.template filen til config.inc.php og rediger denne.
+the file to be downloaded	sitemgr	no	Filen som skal lastes ned
+the filesystem path to your sitemgr-site directory '%1' is probably wrong. go to sitemgr --> define websites and edit/fix the concerned site.	sitemgr	no	Filstien til Nettstedsadm. nettstedsmappe '%1' er antagelig feil.  Gå til Nettstedsadm.-->Definer nettsteder og endre / ordne for dette nettstedet.
+the first directory to think about is sitemgr-link.  if you move this to the parent directory of sitemgr (your egroupware root directory) then you can use setup to install the app and everyone with access to the app will get an icon on their navbar that links them directly to the public web site.  if you don't want this icon, there's no reason to ever bother with the directory.	sitemgr	no	Den første mappen som må registreres er Nettstedsadm.-lenken.  Dersom du flytter denne til til opphavsmappen for Nettstedsadm. (din egroupware rotmappe) kan du benytte setup for å installere programmet og alle med tilgang til programmet vil få et ikon på sin navigasjonsmeny som linker de direkte til det offentlige nettstedet.  Dersom du ikke ønsker dette ikonet er det ingen grunn til å bry seg med denne mappen.
+the name field cannot contain punctuation or spaces (field modified).	sitemgr	no	Navnfeltet kan ikke inneholde punktum eller opphold (felt modifisert)
+the page name must be unique.	sitemgr	no	Sidenavnet må være unikt
+the page was successfully saved.	sitemgr	no	Siden ble lagret
+the path to the file to be downloaded	sitemgr	no	Sti til filen som skal lastes ned
+the person to say hello to	sitemgr	no	Personen å si hei til
+the second directory is the sitemgr-site directory.  this can be moved <i>anywhere</i>.  it can also be named <i>anything</i>.  wherever it winds up, when you point a web browser to it, you will get the generated website.  assuming, of course, that you've accurately completed the setup fields below and also <b><i>edited the config.inc.php</i></b> file.	sitemgr	no	Den andre mappen er Nettstedsadm.-nettstedsmappe.  Denne kan flyttes <i>hvorsomhelst</i>.  Den kan også kalles <i>hva som helst</i>.  Hvoren den havner, når du peker med webleseren til denne vil du få den genererte nettsiden. Forutsatt, selvfølgelig, at du har fylt ut oppsettfeltene nedenfor og også <b><i>redigert config.inc.php</i></b> filen.
+the text for the link, if empty the module returns the raw url (without a link)	sitemgr	no	Tekst for lenken.  Dersom dette ikke angis vises URL uten en lenke.
+the url can be relative or absolute.  name must end in a slash.	sitemgr	no	URL kan bli relative eller absolutt. Navn må ende med en slash.
+the url must be absolute and end in a slash, for example http://mydomain.com/mysite/	sitemgr	no	URL må være absolutt. Navn må ende med en slash, f.eks http://mydomain.com/mysite/
+the url to display	sitemgr	no	URL som skal vises
+the url to redirect to	sitemgr	no	URL det skal redirigeres til
+the web	sitemgr	no	Nettstedet
+the website has changed. too see the change, follow this url: $url.	sitemgr	no	Nettstedet er endret.  Får å se endringen følg denne lenken: $URL
+the whole page	sitemgr	no	Hele siden
+the xml files' common name	sitemgr	no	XML-filenes felles navn
+theme or template select	sitemgr	no	Valg av tema eller mal
+there are %1 elements in the list.	sitemgr	no	Det er %1 elemeter i listen
+there are no categories	sitemgr	no	Det er ingen kategorier
+there are no forums in this category	sitemgr	no	Det er ingen forum i denne kategorien
+there are no pages in this section	sitemgr	no	Det er ingen sider i denne seksjonen
+there are no properties defined for this module	sitemgr	no	Det er ingen innstilinger definert for denne modul
+there are no sections available to you.	sitemgr	no	Det er ingen seksjoner tilgjengelig for deg.
+there are two subdirectories off of your sitemgr directory that you should move before you do anything else.  you don't <i>have</i> to move either of these directories, although you will probably want to.	sitemgr	no	Det er to undermapper i din nettstedsadm.mappe som du bør flytte før du gjør noe annet. Du må ikke flytte noen av disse, men du vil antageligvis ønske å gjøre det.
+there can only be one version in (pre(un))published state, with the one exeption that one prepublished version can coexist with one preunpublished version	sitemgr	no	Det kan bare vær en versjon av (tidlig(u))publisert status, men et unntak for at en forhåndspublisert versjon kan eksister sammen med en forhåndsupublisert versjon.
+there is no website configured for url %1.  notify the administrator.	sitemgr	no	Det er ikke noe nettsted konfigurert for URL %1.  Kontakt EDB-ansvarlig
+there is nothing to list.	sitemgr	no	Det er ingenting å liste
+there was an error accessing the requested page. either you do not have permission to view this page, or the page does not exist.	common	no	Det oppsto en feil ved forsøk på å vise den forespurte siden.  Endten mangler du tillatelser til å vise siden eller den eksisterer ikke.
+there was an error writing to the database.	sitemgr	no	Det oppsto en feil ved skriving til databasen.
+this block displays a javascript based tree menu	sitemgr	no	Denne blokken viser en javabasert tremeny
+this block displays the current section's table of contents	sitemgr	no	Denne blokken viser gjeldene seksjons innholdfortegnelse.
+this category has no pages.	sitemgr	no	Denne kategorien har ingen sider
+this is a simple sample module	sitemgr	no	Dette er en enkel prøvemodul
+this is only used as an internal name for the website.	sitemgr	no	Dette brukes bare som et internt navn for nettstedet.
+this is used chiefly for meta data and the title bar. if you change the site languages below you have to save before being able to set this preference for a new language.	sitemgr	no	Brukes hovedsaklig for meta data og tittelen.  Dersom du endrer i nettstedets språkliste nedenfor må du lagre før du kan sette referanser for et nytt språket.
+this is used chiefly for meta data. if you change the site languages below you have to save before being able to set this preference for a new language.	sitemgr	no	Brukes hovedsaklig for meta data.  Dersom du endrer i nettstedets språkliste nedenfor må du lagre før du kan sette referanser for et nytt språket.
+this module create a link for downloading a file from the vfs	sitemgr	no	Denne modulens skaper en lenke for å laste ned en fil fra VFS
+this module create a link for downloading a file(s) from the vfs	sitemgr	no	Denne modulen lager en lenke for å laste ned fil(er) fra VFS
+this module demonstrates how handling data stored in xml and building an interacvite interface from it	sitemgr	no	Denne modulen demonstrerer hvordan den håndterer data lagret i XML og bygger en interaktiv visning for denne.
+this module displays a login form	sitemgr	no	Denne modulen viser en påloggingsside
+this module displays any kind of navigation element.	sitemgr	no	Denne modulen viser alle slag av navigasjoneselementer
+this module displays bookmarks in a javascript based tree	sitemgr	no	Denne modulen viser bokmerkene i et javabasert tre
+this module displays the current month	sitemgr	no	Denne modulen viser inneværende måned
+this module displays the egw forums on the web site	sitemgr	no	Denne modulen viser eGW forumet for nettstedet.
+this module displays the root categories in one block each, with pages and subcategories (incl. their pages if activated).	sitemgr	no	Denne modulen viser rotkategoriene i hver og en blokk, med sider og underkategorier (inkl. deres sider om aktivert)
+this module displays the root categories, its pages and evtl. subcategories. it is meant for side areas	sitemgr	no	Denne modulen viser rotkategoriene, dets sider og eventuelle underkategorier. Denne er men for sideområdene.
+this module includes the contents of an url or file (readable by the webserver and in its docroot !)	sitemgr	no	Denne modulen inkluderer innholdet i en URL eller fil (lesbar av nettetsver og i dennes doku.rot !)
+this module is a customisable navigation element	sitemgr	no	Denne modulen lar deg tilpasse navigasjonselementer
+this module is a selectbox to change the mode (production, draft or edit) plus a link back to sitemgr and to log out. it is meant for registered users only	sitemgr	no	Denne modulen er en valgboks for å endere modus(produksjon, kladd eller endr.) pluss en lenke tilbake til Nettstedsadm. samt å logge ut.  Ment kun for registrerte brukere.
+this module is a simple html editor	sitemgr	no	Denne modullen er en enkel HTML editor.
+this module lets the users choose a template or shows a template gallery	sitemgr	no	Denne modulen lar brukeren velge en mal eller viser et mal-galleri.
+this module lets users choose language	sitemgr	no	Denne modulen lar brukeren velge språk.
+this module lets you define pages that redirect to another url, if you use it, there should be no other block defined for the page	sitemgr	no	Denne modulen lar deg definere sider som redirigerer til en annen URL.  Dersom denne benyttes skal ikke andre blokker defineres for siden.
+this module lets you include an applet into the page.	sitemgr	no	Denne moduler lar deg inkludere en applet på siden
+this module lets you show a given url inside an iframe in the page.	sitemgr	no	Denn modulen lar deg vise en gitt URL innefor en IFRAME i denne siden.
+this module permits browsing through xml files stored in a directory, and transformed by xslt	sitemgr	no	Denne modulen tillater visning av XMLfiler lagret i en mappe, og omdannet av XSLT
+this module provides a complete table of contents, it is automatically used by the toc and category_id get parameters	sitemgr	no	Denne modulen bidrar med et komplett sett av innholdet.  Benyttes automatisk av toc og category_id GET parametere.
+this module provides a condensed table of contents, meant for side areas	sitemgr	no	Denne modulen bidrar med en komprimert tabell av innholdet, ment for sidefeltene.
+this module provides the path to the element currently shown	sitemgr	no	Denne modulen gir stien for elementet i gjeldende visning
+this module provides the site index, it is automatically used by the index get parameter	sitemgr	no	Denne modulen bidrar med innholdsfortegnelse for nettstedet.  Den benyttes automatisk av indeks GET parameteren.
+this module publishes news from the news_admin application on your website. be aware of news_admin's acl restrictions.	sitemgr	no	Denne modulen publisere nyheter fra news_admin programmet. Vær obs. på news_admin's ACL restriksjoner.
+this module show the status / percentage of the translation of egw	sitemgr	no	Denne modulen viser status / rprosent oversettelse av eGW
+this must be an absolute directory location.  <b>no trailing slash</b>.	sitemgr	no	Dette må være en absolutt mappe lokasjon. <br>Uten slash tilslutt</b>
+this should be a comma-separated list of language-codes.	sitemgr	no	Her skal det være en kommaseparert liste over språkkoder.
+this should be a page that is readable by everyone. if you leave this blank, the site index will be shown by default.	sitemgr	no	Dette skal være en side som er lesbar av alle.  Dersom du lar denne stå blank vil nettstedets indeks vises som standard.
+this site	sitemgr	no	dette nettstedet
+title	sitemgr	no	Tittel
+topic	sitemgr	no	Emne
+translate	sitemgr	no	Oversett
+translate category	sitemgr	no	Oversett kategori
+translate page	sitemgr	no	Oversett side
+translate site-wide content blocks	sitemgr	no	Oversett universelle innholdsblokker
+translation manager	sitemgr	no	Verkstøy for oversettelse
+translation status	sitemgr	no	Status for oversettelse
+unsubscribe	sitemgr	no	Si opp abbonement
+up to parent	sitemgr	no	Opp til overordnet
+up to table of contents	sitemgr	no	Opp til innholdsfortegnelsen
+update notification	sitemgr	no	Oppdater meddelelser
+updating to new category system	sitemgr	no	Oppdater til nytt kategorisystem
+url of directory for uploads (images etc.)	sitemgr	no	URL for katalog for opplastinger(bilder etc)
+url pointing to the image-directory	sitemgr	no	URL som peker til bildemappen
+url to sitemgr-site	sitemgr	no	URL til nettstedsadm.nettstedet
+use phpnuke themes instead of templates	sitemgr	no	Bruk phpNyke temaer i stedet for maler
+use this module for displaying book ads for the amazon web site	sitemgr	no	Bruk denne modulen for å vise bokreklamer for Amazon-nettstedet.
+use this module for displaying wiki-pages	sitemgr	no	Bruk denne modulen for å vise wikisider
+user name	sitemgr	no	Brukernavn
+validator	sitemgr	no	Godkjennes av
+vertical	sitemgr	no	Vertikal
+view administrative menu	sitemgr	no	Vis administrativ meny
+view full index	sitemgr	no	Vis full innholdsfortegnelse
+view generated site	sitemgr	no	Vis generert nettsted
+view template on this site	sitemgr	no	Vis mal for dette nettstedet
+view threads	sitemgr	no	Vis tråder
+viewed	sitemgr	no	vist
+web content manager	common	no	Nettstedsadm. Nettstedsinnholdsansvarlig
+web content manager administration	sitemgr	no	Nettstedet innholdsadministrasjon
+web site manager	sitemgr	no	Nettstedets ansvarlige
+website	sitemgr	no	Nettsted
+week	sitemgr	no	uke
+what do you want to do with existing translations of categories and pages for this language?	sitemgr	no	Hva ønsker du å gjøre med eksisterende oversettelser av kategorier og sider for dette språket?
+which application should be executed after login?	sitemgr	no	Hvilket program skal utføres etter pålogging?
+wiki	sitemgr	no	Wiki
+wiki startpage	sitemgr	no	Wiki startside
+with which view should the module be displayed in the beginning?	sitemgr	no	På hvilken måte skal modulen vises i begynnelsen ?
+write permission	sitemgr	no	Skrivetillatelser
+xml browser	sitemgr	no	XML nettleser
+yes, please delete it	sitemgr	no	Ja, slett denne
+you are not entitled to change the scope of block %1 to cat %2 and page %3	sitemgr	no	Du har ikke tillatelse til å endre område av blokken %1 til kat. %2 på side %3
+you are not entitled to create module %1 on this scope	sitemgr	no	Du har ikke tillatelse til å lage module %1 i dette området.
+you are not entitled to edit block %1	sitemgr	no	Du har ikke adgang til å redigere blokken %1
+you can choose the modules that can be used on the site. the first list is a sort of master list, that is consulted if you do not configure lists specific to contentareas or (sub)categories. then you can choose lists specific to each content area. in the category manager these lists can be overriden for each (sub)category.	sitemgr	no	Du kan velge moduler som skal benyttes for dette nettstedet.  Den første lister er en masterliste som benyttes dersom du ikke konfigurerer spesielle lister for innholdsområder eller (under-)kategorier.  Derved kan du velge lister spesielt for hvert innholdsområde.  I kategoribehandleren kan disse listene overstyres for hver (under-)kategori.
+you can either migrate them to a new language or delete them	sitemgr	no	Du kan enten migrere disse til et nytt språk eller slette de.
+you can override each content blocks default title. be aware that not in all content areas the block title will be visible.	sitemgr	no	Du kan overstyr tittel på hver innholdsblokk.  Vær klar over at ikke alle innholdsområders titler vil være synlige.
+you did not choose a module.	sitemgr	no	Du valgte ikke en modul
+you do not have access to any content on this site.	sitemgr	no	Du har ikke tilgang til noe innhold på dette nettstedet.
+you do not have write permissions for any site categories.	sitemgr	no	Du har ikke skriverettigheter for noen av kategoriene.
+you don't have permission to write in the category	sitemgr	no	Du har ikke skrive rettigheter i denne kategori
+you don't have permission to write to that category.	sitemgr	no	Du har ikke rettigheter til å skrive i denne kategorien.
+you failed to fill in one or more required fields.	sitemgr	no	Du har ikke registrert alle påkrevede felt
+you have no rights to view wiki content or the wiki is not installed at all !!!	sitemgr	no	Du har ingen rettigheter til å vise wikiinnhold, eller wiki er ikke installert !
+you may have deinstalled the used template '%1'. reinstall it or go to sitemgr --> configure website and select an other one.	sitemgr	no	Du har fjernet den brukte malen '%1'.  Reinstaller denne eller gå til Nettstedsadm.-->Konfigurer nettsted eller velg et annet.
+you must be an admin to edit categories.	sitemgr	no	Du skal være en systemadministrator for å kunne redigere denne kategori.
+you must be an admin to edit the site header and footer.	sitemgr	no	Du må være administrator for å endre nettstedet hode og fot.
+you must be an admin to manage module properties.	sitemgr	no	Du skal være en systemadministrator for å kunne redigere modulers innstillinger.
+you must be an administrator to setup the site manager.	sitemgr	no	Du må være en administrator for å sette opp Nettstedsadministrasjon.
+you removed one ore more languages from your site languages.	sitemgr	no	Du fjernet et eller flere språk av nettstedets språk.
+your administrator has not yet setup the web content manager for public viewing.  go bug your administrator to get their butt in gear.	sitemgr	no	EDB-ansvarlig har ennå ikke satt opp sidene for offentlig visning.  Be vedkommende om å få fart på baken !
+your calendar	sitemgr	no	Din kalender
+your comment	sitemgr	no	Dine kommentarer
+your connection is not safe.	sitemgr	no	Din forbindelse er ikke trygg
+your name	sitemgr	no	Ditt navn
+before the public web site can be viewed, you must configure the various locations and preferences.  please go to the sitemgr setup page by following this link:	sitemgr-link	no	Før det publiserte nettstedet kan vises må du først konfigurere de forskjellige lokasjoner og preferanser.  Vennligst gå til Nettstedsadm. oppsettside ved å følge denne linken.
+note that you may get this message if your preferences are incorrect.  for example, if config.inc.php is not found in the directory that you specified.	sitemgr-link	no	Noter at du kan få denne meldingen dersom dine preferanser ikke er korrekte. F.eks. dersom filen config.inc.php ikke finnes i den katalogen du spesifiserte.
+sitemgr setup page	sitemgr-link	no	Nettstedsadm. innstillingsside
+you need to make sure the sitemgr-link app is in the egroupware directory.  if you made a symbolic link... it isn't working.	sitemgr-link	no	Du må være sikker på at sitemgr-link programmet er i katalogen til egroupware.  Dersom du bare opprettet en symlink vil ikke dette virke.
+your administrator has not yet setup the web content manager for public viewing.  go bug your administrator to get their butt in gear.	sitemgr-link	no	Din EDB-Ansvarlige har ikke satt opp nettstedet for almen visning.  Gå og gi vedkommende et spark i baken.

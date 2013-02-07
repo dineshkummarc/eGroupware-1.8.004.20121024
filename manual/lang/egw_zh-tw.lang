@@ -1,0 +1,13 @@
+%1 manual page(s) added or updated	manual	zh-tw	新增或更新了 %1 頁
+allow anonymous access to the manual, only necessary to act as remote manual	admin	zh-tw	允許訪客存取手冊，只有在啟用遠端手冊時才需要
+download	manual	zh-tw	下載
+index	manual	zh-tw	首頁
+install or update the manual-pages	admin	zh-tw	安裝或更新手冊
+manual	common	zh-tw	手冊
+page(s) %1 not found !!!	manual	zh-tw	頁面 %1 找不到
+remote egroupware url for the manual to use, empty for a local manual, default	admin	zh-tw	要使用的遠端 eGroupWare 手冊網址，空白（預設）表示使用本地端資料
+search for	manual	zh-tw	搜尋
+starting import from %1, this might take several minutes (specialy if you start it the first time) ...	manual	zh-tw	開始從 %1 匯入，這需要一點時間(特別是第一次執行時)...
+the search returned no result!	manual	zh-tw	沒有找到任何資料！
+update url for the local manual, default	admin	zh-tw	更新本地端手冊的網址，預設
+wiki id for the local manual, default 1, 0 to use the wiki to edit the manual pages	admin	zh-tw	本地端手冊 wiki 編號，預設為 1 ，設定為 0 可以透過 wiki 編輯手冊內容

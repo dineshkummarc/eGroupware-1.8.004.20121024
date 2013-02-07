@@ -1,0 +1,45 @@
+%1 group	polls	nl	%1 groep
+actions	polls	nl	acties
+add answer to poll	polls	nl	Voeg een antwoord aan de enquete toe
+add answers	polls	nl	Antwoorden toevoegen
+add new poll question	polls	nl	Voeg een nieuwe enquete vraag toe
+add questions	polls	nl	Vragen toevoegen
+administrators	polls	nl	Beheerders
+allow users to vote more then once	polls	nl	Gebruikers toestaan om meer dan één keer te stemmen
+allways use latest poll	polls	nl	Gebruik altijd de nieuwste enquete
+answer	polls	nl	Antwoord
+answer has been added to poll	polls	nl	Antwoord is aan de enquete toegevoegd
+answer has been updated	polls	nl	Antwoord is bijgewerkt
+answers	polls	nl	Antwoorden
+are you sure want to delete this answer ?	polls	nl	Weet u zeker dat u dit antwoord wilt verwijderen ?
+are you sure want to delete this question ?	polls	nl	Weet u zeker dat u deze vraag wilt verwijderen ?
+current poll	polls	nl	Huidige enquete
+edit answer	polls	nl	Antwoord bewerken
+edit poll question	polls	nl	Enquete vraag bewerken
+egroupware users (non-anonymous)	polls	nl	eGroupWare gebruikers (geen anonieme gebruikers)
+enter poll question	polls	nl	Enquete vraag invoeren
+everyone incl. anonymous users	polls	nl	Iedereen inclusief anonieme gebruikers
+new poll has been added.  you should now add some answers for this poll	polls	nl	Nieuwe enquete is toegevoegd. U moet nu enkele antwoorden aan deze enquete gaan toevoegen
+noone	polls	nl	Niemand
+poll question	polls	nl	Enquete vraag
+poll votable by	polls	nl	Enquete kan gebruikt worden door
+polls	common	nl	Enquetes
+question has been updated	polls	nl	Vragen zijn bijgewerkt
+result visible to	polls	nl	Resultaat zichtbaar voor
+select current poll	polls	nl	Selecteer de huidge enquete
+settings updated	polls	nl	Instellingen bijgewerkt
+show answers	polls	nl	Toon antwoorden
+show bullet if allowed to vote and result else	polls	nl	Toon een bullet indien gestemd mag worden en resultaten bekeken mogen worden, anders
+show only the ballot	polls	nl	Toon alleen de vragenlijst
+show only the result	polls	nl	Toon alleen de resultaten
+show questions	common	nl	Toon vragen
+this module displays polls.	polls	nl	Deze module toont enquetes.
+total votes	polls	nl	Totaal
+view poll	polls	nl	Enquete weergeven
+view results	polls	nl	Resultaten weergeven
+vote	polls	nl	Stemmen
+voting booth admin	admin	nl	Stemhokje
+voting booth administration	polls	nl	Stemhokje beheer
+what to show	polls	nl	Wat moet er getoond worden
+which poll	polls	nl	Welke enquete
+you are not (yet) allowed view the result of this vote.	polls	nl	U heeft (nog) geen toestemming om de resultaten van deze enquete te bekijken.

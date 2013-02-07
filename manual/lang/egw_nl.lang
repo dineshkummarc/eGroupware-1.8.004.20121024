@@ -1,0 +1,15 @@
+%1 manual page(s) added or updated	manual	nl	%1 handleidingpagina('s) toegevoegd of bijgewerkt
+allow anonymous access to the manual, only necessary to act as remote manual	admin	nl	Sta anonieme toegang tot de manual toe, alleen nodig om als remote manual te gebruiken
+anonymous password	admin	nl	Anoniem wachtwoord
+anonymous username	admin	nl	Anoniem gebruikersnaam
+download	manual	nl	downloaden
+index	manual	nl	Index
+install or update the manual-pages	admin	nl	installeer of update de handleidingpagina's
+manual	common	nl	Handleiding / Help
+page(s) %1 not found !!!	manual	nl	Pagina('s) %1 niet gevonden !!!
+remote egroupware url for the manual to use, empty for a local manual, default	admin	nl	eGroupWare URL voor de manual op afstand, leeg voor een lokale manual, standaard
+search for	manual	nl	Zoek naar
+starting import from %1, this might take several minutes (specialy if you start it the first time) ...	manual	nl	Start het importeren vanaf %1, dit kan een aantal minuten duren (vooral als de eerste keer is dat u dit uitvoert) ...
+the search returned no result!	manual	nl	De zoekopdracht leverde geen resultaat op!
+update url for the local manual, default	admin	nl	URL naar de lokale manual bijwerken, standaard
+wiki id for the local manual, default 1, 0 to use the wiki to edit the manual pages	admin	nl	Wiki ID voor de lokale manual, standaard 1, 0 om de wiki te gebruiken om manual pagina's te bewerken

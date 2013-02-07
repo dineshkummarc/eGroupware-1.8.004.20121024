@@ -1,0 +1,109 @@
+%1 module	news_admin	sl	Modul %1
+%1 news imported (%2 new).	news_admin	sl	%1 novic uvoženih (%2 novih).
+%s hours	news_admin	sl	%s ur
+actions	news_admin	sl	Dejanja
+active	news_admin	sl	Aktiven
+add new article	news_admin	sl	Dodaj nov članek
+add new news	news_admin	sl	Dodaj novico
+add news item	news_admin	sl	Dodaj nov zapis
+all news	news_admin	sl	Vse novice
+always	news_admin	sl	Vedno
+by date	news_admin	sl	Po datumu
+categories to displayed on main page?	news_admin	sl	Kategorije za prikaz na prvi strani?
+category deleted.	news_admin	sl	Kategorije izbrisana
+category saved.	news_admin	sl	Kategorije shranjena.
+choose a category	news_admin	sl	Izberite kategorijo
+configuration	news_admin	sl	Konfiguracija
+configure access permissions	common	sl	Konfiguriraj pravice dostopa
+configure rss exports	common	sl	Konfiguriraj RSS izvoz
+contains html	news_admin	sl	Vsebuje HTML
+content	news_admin	sl	Vsebina
+count	news_admin	sl	Števec
+date and time	news_admin	sl	Datum in čas
+delete this news	news_admin	sl	Izbriši to novico
+do you want to publish a rss feed for this news category	news_admin	sl	Ali želite objaviti RSS za to kategorijo novic
+edit news item	news_admin	sl	Uredi novico
+end	news_admin	sl	Konec
+error saving the category!	news_admin	sl	Napaka med shranjevanjem kategorije!
+error saving the news!	news_admin	sl	Napaka pri shranjevanju novice!
+failed to add message	news_admin	sl	Novo sporočilo ni bilo uspešno dodano
+format for links to items	news_admin	sl	Oblika povezav na zapise
+format of export	news_admin	sl	Oblika za izvoz
+from	news_admin	sl	Pošiljatelj
+from all	news_admin	sl	Od vseh
+future	news_admin	sl	Prihodnost
+global categories	news_admin	sl	Globalne kategorije
+global news	news_admin	sl	Globalne novice
+global_news	news_admin	sl	Globalne_novice
+headline	news_admin	sl	Naslov
+headline with link	news_admin	sl	Naslov s povezavo
+image link	news_admin	sl	Povezava na sliko
+image title	news_admin	sl	Naslov slike
+image url	news_admin	sl	URL slike
+implies read permission	news_admin	sl	Vsebuje pravice za branje
+import every	news_admin	sl	Uvozi vse
+import now	news_admin	sl	Uvozi vrstico
+import url	news_admin	sl	Uvozi URL
+item has been deleted	news_admin	sl	Zapis je bil izbrisan
+item not found	news_admin	sl	Ne najdem zapisa
+last updated	news_admin	sl	Nazadnje posodobljeno
+link	news_admin	sl	Povezava
+main	news_admin	sl	Glavno
+maintain	news_admin	sl	Vzdrževanje
+maintain news	admin	sl	Vzdrževanje novic
+message has been added	news_admin	sl	Sporočilo je bilo dodano.
+more news	news_admin	sl	Več novic
+more news link	news_admin	sl	Povezava do več novic
+new item has been added	news_admin	sl	Nov zapis je bil dodan.
+news	news_admin	sl	Novice
+news admin	news_admin	sl	Upravljalec novic
+news administration	news_admin	sl	Upravljanje novic
+news deleted.	news_admin	sl	Novica izbrisana.
+news item has been added	news_admin	sl	Zapis o novici je bil dodan.
+news item has been updated	news_admin	sl	Zapis o novici je bil osvežen.
+news saved.	news_admin	sl	Novica shranjena.
+news_admin	common	sl	Upravljanje novic
+no anonymous user accounts installed.  notify the administrator.	news_admin	sl	Anonimni uporabnik ni določen. Obvestite oskrbnika.
+no entries found	news_admin	sl	Ne najdem zapisov.
+no matching news item	news_admin	sl	Ni ustreznih novic
+no news	news_admin	sl	V tej kategoriji trenutno ni razpoložljivih novic.
+no rss export	news_admin	sl	Ni RSS izvoza.
+now	news_admin	sl	Zdaj
+number of articles to display on the main screen	news_admin	sl	Število prispevkov, ki se prikažejo na začetnem zaslonu.
+number of news items to be displayed on page	news_admin	sl	Število novih elementov, ki naj se prikažejo na strani
+old	news_admin	sl	Staro
+on	news_admin	sl	Vključeno
+page-name the item should be displayed (empty = current page)	news_admin	sl	Ime strani, na kateri naj bo prikazana (prazno = trenutna stran)
+parent	news_admin	sl	Nadrejen
+picture upload (leave the upload directory empty to disable the upload)	admin	sl	Prenos slik (pustite prazno, če želite onemogočiti prenos)
+please select a category	news_admin	sl	Izberite kategorijo
+publish date	news_admin	sl	Datum objave
+read more	news_admin	sl	Preberi več
+read news	news_admin	sl	Beri novice
+read permissions	news_admin	sl	Beri dovoljenja
+reload	news_admin	sl	Obnovi
+send mail to others	news_admin	sl	Pošlji e-pošto ostalim
+should news_admin display the latest article headlines on the main screen.	news_admin	sl	Ali naj Upravljalec novic prikaže zadnji prispevek na začetnem zaslonu?
+show latest news articles?	news_admin	sl	Pokažem zadnje članke?
+show news articles on main page?	news_admin	sl	Pokažem zadnje članke na začetni strani?
+small view	news_admin	sl	Skrčen pogled
+start	news_admin	sl	Začetek
+submitted by	common	sl	Oddal
+submitted by %1 on %2	news_admin	sl	Oddal %1 dna %2
+submitted by and date	news_admin	sl	Posredovano od in datum
+teaser	news_admin	sl	Uvodnik
+teaser with read more link	news_admin	sl	Uvodnik s povezavo "preberi več"
+the news content is missing	news_admin	sl	Manjka vsebina novice.
+the number of articles to display on the main screen.	news_admin	sl	Število prispevkov na začetnem zaslonu.
+the subject is missing	news_admin	sl	Manjka zadeva
+there no such translation.	news_admin	sl	Ni takega prevoda
+this module publishes news from the news_admin application on your website. be aware of news_admin's acl restrictions.	news_admin	sl	Ta modul objavi novico iz aplikacije news_admin na vaši spletni strani. Pazite na omejitve ACL news_admin.
+until	news_admin	sl	Dokler
+url of the rss or atom feed, empty for own news feed	news_admin	sl	URL vira RSS ali Atom-a, prazno za lastne news feeds.
+view this category	news_admin	sl	Preglej kategorijo
+visible	news_admin	sl	Vidno
+webpage news admin	news_admin	sl	Upravljanje novic na spletni strani
+which information do you want to show (css class)	news_admin	sl	Katere informacije bi radi prikazali (razred CSS)
+which news categories should be displayed on the main screen.	news_admin	sl	Katera kategorija novic naj bo prikazana na prvi strani.
+write	news_admin	sl	Zapiši
+write permissions	news_admin	sl	Pravice pisanja

@@ -1,0 +1,15 @@
+%1 manual page(s) added or updated	manual	zh	使用指南添加或更新了%1 页
+allow anonymous access to the manual, only necessary to act as remote manual	admin	zh	允许匿名访问该指南，不过必须作为远程手册来访问
+anonymous password	admin	zh	匿名密码
+anonymous username	admin	zh	匿名用户名
+download	manual	zh	下载
+index	manual	zh	索引
+install or update the manual-pages	admin	zh	安装或更新手册页
+manual	common	zh	使用指南
+page(s) %1 not found !!!	manual	zh	使用指南的%1页未找到！
+remote egroupware url for the manual to use, empty for a local manual, default	admin	zh	使用指南的远程 eGroupWare 网址(默认)，留空为本地使用指南
+search for	manual	zh	搜索为
+starting import from %1, this might take several minutes (specialy if you start it the first time) ...	manual	zh	开始从%1 导入，这可能需要几分钟时间(特别当您是第一次执行)...
+the search returned no result!	manual	zh	搜索
+update url for the local manual, default	admin	zh	默认本地指南更新网址
+wiki id for the local manual, default 1, 0 to use the wiki to edit the manual pages	admin	zh	本地手册的维基代号，默认 1，0 为使用维基编辑指南页

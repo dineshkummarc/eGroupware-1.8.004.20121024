@@ -1,0 +1,24 @@
+%1 - %2 of %3	sambaadmin	zh-tw	%1 - %2 於 %3
+add workstation	sambaadmin	zh-tw	新增工作站
+check ldap setup (experimental!!!)	admin	zh-tw	檢查 ldap 設定（實驗性功能）
+computer group	admin	zh-tw	電腦群組
+computer ou	admin	zh-tw	電腦 ou
+displayname	sambaadmin	zh-tw	顯示名稱
+do you really want to delete selected workstation accounts?	sambaadmin	zh-tw	您確定要刪除選擇的工作站帳號？
+homedrive	admin	zh-tw	家目錄設備
+homepath	sambaadmin	zh-tw	家目錄路徑
+logonscript	admin	zh-tw	登入指令
+new account defaults	admin	zh-tw	新增帳號預設值
+participants	sambaadmin	zh-tw	參與者
+path to mkntpwd	admin	zh-tw	mkntpwd 指令的路徑
+profilepath	admin	zh-tw	基本資料路徑
+samba config	sambaadmin	zh-tw	samba設定檔案
+samba settings	common	zh-tw	samba設定
+samba sid	admin	zh-tw	Samba SID
+smb homepath	admin	zh-tw	Samba家目錄路徑
+workstation account for	sambaadmin	zh-tw	工作站帳號於
+workstation configuration	sambaadmin	zh-tw	工作站設定
+workstation list	sambaadmin	zh-tw	工作站清單
+workstation name	sambaadmin	zh-tw	工作站名稱
+workstationaccount active	sambaadmin	zh-tw	工作站帳號狀態
+workstations	sambaadmin	zh-tw	工作站

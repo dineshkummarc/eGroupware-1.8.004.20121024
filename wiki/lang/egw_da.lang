@@ -1,0 +1,97 @@
+<em>but</em> display at least this many entries in recentchanges and other subscription lists:	wiki	da	<em>Men</em> vis i det mindste så mange ændringer i FornyeligeÆndringer og andre abonnements lister
+add document to category	wiki	da	Tilføj dokument til kategori
+added	wiki	da	Tilføjet
+administration features are disabled for this wiki.	wiki	da	Administrations indstillingerne er deaktiveret for denne Wiki.
+admins	wiki	da	Administratore
+allow anonymous access	admin	da	Tillad anonym adgang
+anonymous password	admin	da	Anonym adgangskode
+anonymous session type	admin	da	Anonym session type
+anonymous username	admin	da	Anonym brugernavn
+automatically convert pages with wiki-syntax to richtext (if edited)?	admin	da	Konverter automatisk sider med wiki-syntaks til richtext (hvis redigeret)?
+block	wiki	da	Spær
+block / unblock hosts	common	da	tilføj/fjern spærring af værter
+block/unblock hosts	wiki	da	tilføj/fjern spærring af værter
+blocked ip address ranges	wiki	da	Spær IP adresse område
+but display at least this many entries in recentchanges and other subscription lists	wiki	da	Men vis mindst så mange indtastninger i FornyeligeÆndringer og andre abonnements lister
+cancel without saving	wiki	da	Annullere uden at gemme
+changed	wiki	da	Ændret
+changes by last author	wiki	da	Ændringer fra sidste skribent
+choose your current time here, so the server may figure out what time zone you are in	wiki	da	Vælg din lokale tid her, så serveren kan finde ud af hvilke tidszone du er i
+choose your current time here, so the server may figure out what time zone you are in.	wiki	da	Vælg din nuværende tid her, så serveren fan finde ud af hvilken tidzone du er i.
+columns	wiki	da	Kolonne
+compute difference	wiki	da	Udregn forskel
+converts the page to richtext	wiki	da	Konverter sidererne til richtext
+current version	wiki	da	eng
+deleted	wiki	da	slettet
+deletes this page	wiki	da	Slet denne side
+difference between versions	wiki	da	Forskellighed mellem versioner
+differences in	wiki	da	Forskellig i
+different languages can have different titles	wiki	da	forskellige sprog kan have forskellige titler
+document last modified	wiki	da	Dokument sidst ændret
+edit box	wiki	da	Redigér Boks
+edit this document	wiki	da	Redigér dette dokument
+edit with preview	admin	da	Redigér med smugvisning
+editable	admin	da	redigérbar
+editing	wiki	da	Redigéring
+emailaddress administrator	admin	da	Administrator e-mail adresse
+enable free links	admin	da	Aktivere gratis links
+enable wiki links	admin	da	Aktivere Wiki links
+enter here the maximum number of entries to display in a documents history list	wiki	da	Indtast her det maksimum antal af indtastninger i et dokuments historie liste
+enter here the number of days of edits to display on recentchanges or any other subscription list.  set this to zero if you wish to see all pages in recentchanges, regardless of how recently they were edited	wiki	da	Indtast her det antal dage af redigeringer som skal vises i FornyeligeÆndringer eller hvilken anden abonnements liste. Sæt den til nul hvis du vil se alle sider i fornyelige ændringer, uanset hvornår de sidst var ændret
+enter ip address range in form <tt>12.*</tt>, <tt>34.56.*</tt>, or <tt>78.90.123.*</tt>	wiki	da	Indtast IP adresse område på følgende måde: <tt>12.*</tt>, <tt>34.56.*</tt>, or <tt>78.90.123.*</tt>
+error creating temporary file.	wiki	da	Fejl ved oprettelse af midlertidig fil
+error writing to temporary file.	wiki	da	Fejl ved skrivning af midlertidig fil
+everyone	wiki	da	enhver
+find	wiki	da	Søg
+history	wiki	da	historie
+history display should show <em>all</em> changes made by the latest author.  otherwise, show only the last change made.	wiki	da	Historie skal vise <em>alle</em> ændriger lave af den sidste skribent. Eller, kun vise den sidste ændring lavet.
+history display should show all changes made by the latest author.  otherwise, show only the last change made	wiki	da	Historie visning bør vise alle ændringer lavet af den sidste skribent. Eller, vise kun den sidste ændring lavet
+history lists	wiki	da	Historie liste
+history of	wiki	da	Historie af
+load	wiki	da	Indlæs
+loads the named page in the given language, all change so far get lost !!!	wiki	da	Indlæser den navngivende side på det valgte sprog, alle ændringer op til nu er tabt!!!
+lock / unlock pages	common	da	lås/åben sider
+lock/unlock pages	wiki	da	lås/åben sider
+locked	wiki	da	Låst
+newer	wiki	da	Nyere
+not set	wiki	da	ikke set
+older	wiki	da	Ældre
+only if browser supports a richtext-editor	admin	da	Kun hvis browseren understøtter en richtext-editor
+please contact the %1administrator%2 for assistance.	wiki	da	Kontakt venligst %1systemadministratoren %2 for hjælp.
+please contact the <a href="mailto:%1">administrator</a> for assistence.	wiki	da	Kontakt venligst <a href="mailto:%1">systemadministratoren</a> for hjælp
+preferences	wiki	da	eng
+preview	wiki	da	Snig vis
+preview of current version	wiki	da	Snig vis nuværende version
+previewing	wiki	da	Snig visning
+readable by	wiki	da	Læsbar af
+readonly	admin	da	læs-kun
+recent changes	wiki	da	Fornylige ændringer
+richtext	wiki	da	Richtext
+rows	wiki	da	Rækker
+save & continue	wiki	da	Gem og forsæt
+save the changes and exit	wiki	da	Gem ændringerne og afslut
+saves and continues editing	wiki	da	Gem ændringerne og forsæt redigeringen
+search	wiki	da	wiki
+see complete list (%1 entries)	wiki	da	Se den komplette liste (%1 posteringer)
+summary	wiki	da	Resumé
+summary of change	wiki	da	resumé over ændringer
+this document cannot be edited	wiki	da	Dette dokument kan ikke redigeres
+this page can not be edited.	wiki	da	Denne side kan ikke redigeres
+unblock	wiki	da	Fjern spærring
+updates the preview	wiki	da	Opdatere snig visningen
+users	wiki	da	brugere
+view document history	wiki	da	Se dokument histroie
+warning since you started editing this document has been changed by someone else	wiki	da	Advarsel: siden du startede redigeringen, er dette dokument ændret af en anden. Flet venligst dine ændringer ind i den nuværende version af dette dokument.
+warning: since you started editing, this document has been changed by someone else.  please merge your edits into the current version of this document.	wiki	da	Advarsel: siden du startede redigeringen, er dette dokument ændret af en anden. Flet venligst dine ændringer ind i den nuværende version af dette dokument.
+who should be able to edit this page	wiki	da	hvem skal have rettighed til at rette i denne side
+who should be able to read this page	wiki	da	hvem skal have rettighed til at læse denne side
+wiki	common	da	Wiki
+wiki administration	wiki	da	Wiki administration
+wiki menu	wiki	da	Wiki Menu
+yes always	admin	da	Altid ja
+you have been denied access to this site.	wiki	da	Du er blevet nægtet afgang til denne side.
+you have entered an invalid user name.	wiki	da	Du har indtastet et ugyldig brugernavn.
+you have exeeded the number of pages you are allowed to visit in a given period of time.  please return later.	wiki	da	Du har oversteget det antal sider du må besøge på i en periode. Kom igen senere
+your changes	wiki	da	Dine ændringer
+your user name is "%1".	wiki	da	Dit brugernavn er "%1".
+your user name is %1	wiki	da	Dit brugernavn er %1

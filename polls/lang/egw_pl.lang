@@ -1,0 +1,45 @@
+%1 group	polls	pl	%1 grupa
+actions	polls	pl	Akcje
+add answer to poll	polls	pl	Dodawanie odpowiedzi
+add answers	polls	pl	Dodaj odpowiedź
+add new poll question	polls	pl	Dodawanie nowych pyta
+add questions	polls	pl	Dodaj pytanie
+administrators	polls	pl	Administratorzy
+allow users to vote more then once	polls	pl	Pozwól użytkownikom głosować więcej niż jeden raz
+allways use latest poll	polls	pl	Zawsze używaj najnowszego głosowania
+answer	polls	pl	Odpowiedź
+answer has been added to poll	polls	pl	Dodano odpowiedź do głosowania
+answer has been updated	polls	pl	Zaktualizowano odpowiedź
+answers	polls	pl	Odpowiedzi
+are you sure want to delete this answer ?	polls	pl	Na pewno usunąć odpowiedź?
+are you sure want to delete this question ?	polls	pl	Na pewno usunąć pytanie?
+current poll	polls	pl	Aktywne głosowanie
+edit answer	polls	pl	Edycja odpowiedzi
+edit poll question	polls	pl	Edycja pytania
+egroupware users (non-anonymous)	polls	pl	użytkownicy eGroupWare (nie osoby anonimowe)
+enter poll question	polls	pl	Wpisz pytanie
+everyone incl. anonymous users	polls	pl	wszyscy - łącznie z osobami anonimowymi
+new poll has been added.  you should now add some answers for this poll	polls	pl	Dodano nowe głosowanie. Teraz należy dodać odpowiedzi
+noone	polls	pl	Nikt, ale naprawdę nikt
+poll question	polls	pl	Pytanie
+poll votable by	polls	pl	Mogą głosować
+polls	common	pl	Głosowania
+question has been updated	polls	pl	Zaktualizowano pytanie
+result visible to	polls	pl	Wynik widoczny dla
+select current poll	polls	pl	Wybierz aktualne głosowanie
+settings updated	polls	pl	Uaktualniono konfigurację
+show answers	polls	pl	Pokaż odpowiedzi
+show bullet if allowed to vote and result else	polls	pl	Pokaż bullet jeśli użytkownik ma uprawnienia do głosowania, w przeciwnym wypadku wyświetl wynik
+show only the ballot	polls	pl	Pokaż tylko głosowanie
+show only the result	polls	pl	Pokaż tylko rezultaty
+show questions	common	pl	Pokaż pytania
+this module displays polls.	polls	pl	Ten moduł wyświetla
+total votes	polls	pl	Wszystkich głosów
+view poll	polls	pl	Wyświetl głosowania
+view results	polls	pl	Zobacz rezultaty
+vote	polls	pl	Głosuj
+voting booth admin	admin	pl	Głosowania
+voting booth administration	polls	pl	Administracja głosowaniami
+what to show	polls	pl	Co pokazać
+which poll	polls	pl	Wybór głosowania
+you are not (yet) allowed view the result of this vote.	polls	pl	Nie masz (jeszcze) zgody na oglądanie wyniku tego głosowania.

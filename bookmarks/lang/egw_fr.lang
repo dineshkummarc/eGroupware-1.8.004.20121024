@@ -1,0 +1,75 @@
+%1 bookmarks have been deleted	bookmarks	fr	%1 signets ont été supprimés
+%1 bookmarks imported from %2 successfully.	bookmarks	fr	%1 signets importés depuis %2 avec succès.
+(comma separate multiple addresses)	bookmarks	fr	(l'espace sépare les adresses multiples)
+<b>note:</b> this currently works with netscape bookmarks only	bookmarks	fr	<b>Note:</b> ceci fonctionne actuellement uniquement avec les signets Netscape
+all bookmarks	bookmarks	fr	Tous les signets
+and	bookmarks	fr	Et
+append this message to mailed bookmarks	bookmarks	fr	Ajouter ce message aux signets envoyés par EMail
+ascending	bookmarks	fr	Croissant
+book marks	common	fr	Signets
+bookmark changed sucessfully	bookmarks	fr	Signet modifié avec succès
+bookmark created successfully.	bookmarks	fr	Signet créé avec succès.
+bookmark deleted successfully	bookmarks	fr	Signet supprimé avec succès.
+bookmark deleted successfully.	bookmarks	fr	signet supprimé avec succès.
+bookmark not editable	bookmarks	fr	Signet non modifiable
+bookmark not readable	bookmarks	fr	Signet illisible
+bookmarks	common	fr	Signets
+bookmarks settings	bookmarks	fr	Réglages Signets
+change bookmark	bookmarks	fr	Modifier le signet
+close this window to return	bookmarks	fr	fermer cette fenêtre pour retourner
+create bookmark	bookmarks	fr	Créer un signet
+create new bookmark	bookmarks	fr	Créer un nouveau signet
+date added	bookmarks	fr	Date ajoutée
+date changed	bookmarks	fr	Date modifiée
+date last updated	bookmarks	fr	Date de dernière mise à jour
+date last visited	bookmarks	fr	Date de dernière visite
+descending	bookmarks	fr	Décroissant
+edit bookmark	bookmarks	fr	Editer le signet
+edit this bookmark	bookmarks	fr	Editer ce signet
+enter the name of the netscape bookmark file<br>that you want imported into bookmarker below.	bookmarks	fr	Entrez le nom du fichier des signets Netscape<br>que vous voulez importer dans le gestionnaire de signets ci-dessous.
+export bookmarks	common	fr	Exporter les Signets
+fewer	bookmarks	fr	Moins
+filter by	bookmarks	fr	Filtrer par
+found a link you might like	bookmarks	fr	J'ai trouvé un lien que vous pourriez aimer
+from	bookmarks	fr	Depuis
+from category %1	bookmarks	fr	depuis la catégorie %1
+global categories	bookmarks	fr	Catégories Globales
+highest	bookmarks	fr	Le plus haut
+i thought you would be interested in the following link(s):	bookmarks	fr	J'ai pensé que vous pourriez être intéressé par le(s) lien(s) suivant(s):
+import bookmarks	common	fr	Importer les signets
+like	bookmarks	fr	comme
+list view	bookmarks	fr	vue liste
+lowest	bookmarks	fr	Le plus bas
+mail this bookmark	bookmarks	fr	Envoyer ce signet par EMail
+mail-this-link message sent to %1.	bookmarks	fr	Message envoyer-ce-lien-par-email envoyé à %1.
+mass update:	bookmarks	fr	Mise à jour de masse:
+message from	bookmarks	fr	Message de
+more	bookmarks	fr	Plus
+name	bookmarks	fr	Nom
+name is required	bookmarks	fr	Le nom est requis
+netscape bookmark file	bookmarks	fr	Fichier de Signets Netscape
+netscape bookmark filename is required!	bookmarks	fr	Le nom du fichier de signets Netscape est requis!
+new	bookmark	fr	Nouveau
+new bookmark	bookmarks	fr	nouveau signet
+or	bookmarks	fr	ou
+please fill out <b>to e-mail address</b>, <b>subject</b>, and <b>message</b>!	bookmarks	fr	SVP remplissez <B>l'adresse EMail destinataire</B>, <B>le sujet</B>, et <B>le message</B>!
+please select the categories to export	bookmarks	fr	Merci de sélectionner les catégories à exporter
+query condition	bookmarks	fr	Condition de Requête
+rating	bookmarks	fr	Note
+search for:	bookmarks	fr	Rechercher:
+select the format you would like to export to	bookmarks	fr	Sélectionnez le format dans lequel vous désirez exporter
+send bookmark	bookmarks	fr	Envoyer le signet
+sub category	bookmarks	fr	Sous-catégorie
+to address %1 invalid. format must be <strong>user@domain</strong> and domain must exist!	bookmarks	fr	L'adresse du destinataire %1 est invalide. Le format doit être <strong>utilisateur@domaine</strong> et le domaine doit exister!
+to e-mail addresses	bookmarks	fr	Adresses EMail des destinataires
+to which category should the imported folder hierarchy be attached	bookmarks	fr	A quelle catégorie la hiérarchie du dossier importé doit être attachée
+total visits	bookmarks	fr	visites totales
+tree view	bookmarks	fr	Arborescence
+unable to open temp file %1 for import.	bookmarks	fr	Impossible d'ouvrir le fichier temporaire %1 pour l'importation.
+url is required.	bookmarks	fr	L'URL est requise.
+view bookmark	bookmarks	fr	Voir le signet
+view this bookmark	bookmarks	fr	Voir ce signet
+warning	bookmarks	fr	Attention
+you are viewing this site outside of egroupware	bookmarks	fr	Vous visualisez ce site en dehors d'eGroupWare
+you must select a category	bookmarks	fr	Vous devez choisir une catégorie
+you need to select a category!	bookmarks	fr	Vous devez sélectionner une catégorie!

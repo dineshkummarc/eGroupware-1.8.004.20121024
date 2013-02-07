@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<!-- $Id$ -->
+<overlay>
+	<template id="news_admin.edit" template="" lang="" group="0" version="1.3.002">
+		<grid>
+			<columns>
+				<column/>
+				<column/>
+				<column/>
+				<column/>
+				<column/>
+				<column/>
+			</columns>
+			<rows>
+				<row disabled="!@msg">
+					<description span="all" class="redItalic" align="center" id="msg" no_lang="1"/>
+					<description/>
+					<description/>
+					<description/>
+					<description/>
+					<description/>
+				</row>
+				<row class="th" height="28">
+					<description options=",,,cat_id" value="Category"/>
+					<menulist span="all">
+						<menupopup options="Select one" id="cat_id" needed="1" no_lang="1"/>
+					</menulist>
+				</row>
+				<row class="row">
+					<description options=",,,news_headline" value="Headline"/>
+					<textbox size="70" maxlength="128" id="news_headline" span="all" class="news_headline" needed="1"/>
+					<description/>
+					<description/>
+					<description/>
+					<description/>
+				</row>
+				<row class="row" valign="top">
+					<description options=",,,news_teaser" value="Teaser"/>
+					<textbox multiline="true" rows="3" cols="80" id="news_teaser" span="all" class="news_teaser"/>
+					<description/>
+					<description/>
+					<description/>
+					<description/>
+				</row>
+				<row class="row" valign="top">
+					<description options=",,,news_content" value="Content"/>
+					<htmlarea id="news_content" span="all" mode="$cont[rtfEditorFeatures]" height="320px" width="100%" toolbar="true" base_href="$cont[upload_dir]" needed="1"/>
+				</row>
+				<row class="row">
+					<description value="Visible"/>
+					<menulist>
+						<menupopup id="visible"/>
+					</menulist>
+					<description options=",,,news_begin" value="Start" align="right"/>
+					<date id="news_begin"/>
+					<description options=",,,news_end" value="End" align="right"/>
+					<date id="news_end"/>
+				</row>
+				<row class="row" disabled="!@news_submittedby">
+					<description value="Created by"/>
+					<menulist span="4">
+						<menupopup type="select-account" id="news_submittedby" readonly="true"/>
+					</menulist>
+					<date-time align="right" id="news_date" readonly="true"/>
+				</row>
+				<row>
+					<hbox span="5">
+						<button label="Save" id="button[save]"/>
+						<button id="button[apply]" label="Apply"/>
+						<button id="button[cancel]" label="Cancel" onclick="window.close();"/>
+					</hbox>
+					<button label="Delete" align="right" id="button[delete]" onclick="return confirm('Delete this news');"/>
+				</row>
+			</rows>
+		</grid>
+	</template>
+</overlay>

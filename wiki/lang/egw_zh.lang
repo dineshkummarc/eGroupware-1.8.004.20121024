@@ -1,0 +1,112 @@
+(don't offer the possibility)	admin	zh	(不提供可行性)
+<em>but</em> display at least this many entries in recentchanges and other subscription lists:	wiki	zh	<em>但是</em>至少显示这许多条目在最近更改和其他订阅的列表：
+add document to category	wiki	zh	添加文档到类别
+added	wiki	zh	已添加
+administration features are disabled for this wiki.	wiki	zh	该 Wiki 的管理功能特性已经禁用。
+admins	wiki	zh	管理员
+after how many days should old versions of a page be removed (0 for never)	admin	zh	页面的旧版本应该在多少天后被删除？(0 为从不)
+allow anonymous access	admin	zh	允许匿名访问
+anonymous password	admin	zh	匿名访问密码
+anonymous session type	admin	zh	匿名会话类型
+anonymous username	admin	zh	匿名用户名
+automatically convert pages with wiki-syntax to richtext (if edited)?	admin	zh	自动将页面从 Wiki 语法转换到 RichText 格式(如果被编辑)？
+block	wiki	zh	封禁
+block / unblock hosts	common	zh	封禁/解除主机封禁
+blocked ip address ranges	wiki	zh	封禁 IP 地址段
+cancel without saving	wiki	zh	取消并放弃保存
+changed	wiki	zh	已更改
+changes by last author	wiki	zh	最近进行更改的作者
+choose your current time here, so the server may figure out what time zone you are in.	wiki	zh	在此选择您的当前时间，服务器会自动计算出您所在的时区。
+columns	wiki	zh	列
+compute difference	wiki	zh	计算差异
+converts the page to richtext	wiki	zh	转换到 RichText 格式
+current version	wiki	zh	当前版本
+deleted	wiki	zh	已删除
+deletes this page	wiki	zh	删除此页
+difference between versions	wiki	zh	版本差异
+differences in	wiki	zh	差异在
+different languages can have different titles	wiki	zh	不同的语言可以有不同的标题
+document last modified	wiki	zh	文档最近更改
+edit box	wiki	zh	编辑框
+edit this <em>archive version</em> of this document	wiki	zh	编辑该文档的<em>文章版本</em>
+edit this document	wiki	zh	编辑该文档
+edit with preview	admin	zh	编辑与预览
+editable	admin	zh	可编辑的
+editing	wiki	zh	编辑的
+emailaddress administrator	admin	zh	管理员电子邮件地址
+enable free links	admin	zh	启用开放链接
+enable wiki links	admin	zh	启用 Wiki 链接
+enter here the maximum number of entries to display in a document's history list.	wiki	zh	请在此输入在文档历史列表中显示的最多条目数。
+enter here the number of days of edits to display on recentchanges or any other subscription list.  set this to zero if you wish to see all pages in recentchanges, regardless of how recently they were edited.	wiki	zh	请输入在最近更改或任何其他订阅列表上编辑显示的天数，如果您希望在最近更改中看到所有页面而无论它们最近是否被编辑，则设置为 0。
+enter ip address range in form <tt>12.*</tt>, <tt>34.56.*</tt>, or <tt>78.90.123.*</tt>	wiki	zh	输入 IP 地址段，格式为：<tt>12.*</tt>, <tt>34.56.*</tt>, 或<tt>78.90.123.*</tt>
+error creating temporary file.	wiki	zh	创建临时文件错误。
+error writing to temporary file.	wiki	zh	写入临时文件错误。
+everyone	wiki	zh	所有人
+find	wiki	zh	找到
+history	wiki	zh	历史记录
+history display should show <em>all</em> changes made by the latest author.  otherwise, show only the last change made.	wiki	zh	历史记录将显示<em>所有</em>由最后作者所作的更改。否则，仅显示最后所做更改。
+history lists	wiki	zh	历史列表
+history of	wiki	zh	历史记录
+interwikiprefix	admin	zh	InterWiki 链接前缀
+invalid page name.	wiki	zh	错误页面名称。
+load	wiki	zh	载入
+loads the named page in the given language, all change so far get lost !!!	wiki	zh	载入指定语言的命名页，所有的更改将丢失！
+lock / unlock pages	common	zh	锁定/取消锁定页
+locked	wiki	zh	被锁定
+name wiki home link	admin	zh	Wiki 首页链接名称
+newer	wiki	zh	更新
+no never	admin	zh	从不
+no only on request	admin	zh	仅需要时
+not set	wiki	zh	未设定
+older	wiki	zh	更旧
+on all pages	wiki	zh	在所有页面
+only if browser supports a richtext-editor	admin	zh	只有当浏览器支持 RichText-编辑器
+only on the first page	wiki	zh	只在第一页
+page '%1' not found !!!	wiki	zh	找不到 '%1' 页！
+path of the upload directory (has to be writable by the webserver!)	admin	zh	上传目录的路径(能被Web服务器写入！)
+picture upload via richtext editor (leave the upload directory empty to disable the upload)	admin	zh	通过 RichText-编辑器上传图片(上传目录留空表示禁用上传)
+please contact the %1administrator%2 for assistance.	wiki	zh	请联系%1系统管理员%2帮助。
+preview	wiki	zh	预览
+preview of current version	wiki	zh	预览当前版本
+rate control / ip blocking disabled	wiki	zh	评分控制/禁用 IP 封禁
+readable by	wiki	zh	可读用户(组)：
+readonly	admin	zh	只读
+recent changes	wiki	zh	最近更改
+recentchanges	wiki	zh	最近更改
+renames page to the given name and language	wiki	zh	重命名该页为指定的名称和语言
+richtext	wiki	zh	Richtext
+rows	wiki	zh	行
+save the changes and exit	wiki	zh	保存更改并退出
+saves and continues editing	wiki	zh	保存并继续编辑
+search for	wiki	zh	搜索
+see complete list (%1 entries)	wiki	zh	查看完整列表(%1条目)
+show a search	wiki	zh	显示一搜索
+show the title of the wiki page	wiki	zh	显示 Wiki 页面的标题
+summary	wiki	zh	概要
+summary of change	wiki	zh	概要更改
+the search returned no result!	wiki	zh	搜索无结果！
+this page can not be edited.	wiki	zh	该页不能编辑。
+twin pages	wiki	zh	相似页
+unblock	wiki	zh	解除封禁
+updates the preview	wiki	zh	更新预览
+url of the upload directory	admin	zh	上传目录的网址
+use this module for displaying wiki-pages	wiki	zh	使用该模块显示 Wiki-页面
+users	wiki	zh	用户
+view document history	wiki	zh	查看文档历史
+visit %1 to set your user name	wiki	zh	访问%1设置您的用户名
+warning: since you started editing, this document has been changed by someone else.  please merge your edits into the current version of this document.	wiki	zh	警告：自从上次您开始编辑以来，该文档已被别人更改过。请您合并您所编辑的内容到该文档的当前版本。
+who should be able to edit this page	wiki	zh	谁能够编辑此页
+who should be able to read this page	wiki	zh	谁能够阅读此页
+wiki	common	zh	维基(Wiki)
+wiki administration	wiki	zh	Wiki 管理
+wiki menu	wiki	zh	Wiki 菜单
+wiki startpage	wiki	zh	wiki 首页
+writable by	wiki	zh	可写用户组
+yes always	admin	zh	始终是
+yes with navbar	admin	zh	使用导航条
+you have been denied access to this site.	wiki	zh	您没有权限访问这个站点。
+you have entered an invalid user name.	wiki	zh	您输入了一个无效的用户名。
+you have exeeded the number of pages you are allowed to visit in a given period of time. please return later.	wiki	zh	您在系统给定的时间以内超出了您被允许访问的页面数量，请稍候回来。
+you have no rights to view wiki content !!!	wiki	zh	您没有权限查看 Wiki 内容！
+your changes	wiki	zh	您的更改
+your user name is "%1".	wiki	zh	您的用户名是"%1"。

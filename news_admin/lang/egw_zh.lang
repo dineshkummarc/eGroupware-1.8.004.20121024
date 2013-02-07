@@ -1,0 +1,102 @@
+%1 module	news_admin	zh	%1模块
+%1 news imported (%2 new).	news_admin	zh	%1新闻被导入(%2新的)
+actions	news_admin	zh	操作
+active	news_admin	zh	启用
+add new article	news_admin	zh	添加新文章
+add new news	news_admin	zh	添加新新闻
+add news item	news_admin	zh	添加新闻项目
+administration	news_admin	zh	系统管理
+all news	news_admin	zh	所有新闻
+always	news_admin	zh	总是
+by date	news_admin	zh	根据日期
+categories to displayed on main page?	news_admin	zh	在主页上显示分类吗？
+category deleted.	news_admin	zh	类别已删除。
+category saved.	news_admin	zh	类别已保存。
+choose a category	news_admin	zh	选择分类
+configuration	news_admin	zh	设置
+configure access permissions	common	zh	设置访问权限
+configure rss exports	common	zh	设置 RSS 输出
+contains html	news_admin	zh	包含 HTML
+content	news_admin	zh	内容
+date and time	news_admin	zh	日期和时间
+delete this news	news_admin	zh	删除该新闻
+do you want to publish a rss feed for this news category	news_admin	zh	你想发布这类新闻的 RSS Feed 吗
+edit news item	news_admin	zh	编辑新闻项目
+end	news_admin	zh	结束
+error importing the feed!	news_admin	zh	导入 Feed 时出错！
+error saving the category!	news_admin	zh	保存类别时出错！
+error saving the news!	news_admin	zh	保存新闻时出错！
+failed to add message	news_admin	zh	添加新消息失败
+format for links to items	news_admin	zh	新闻项的链接格式
+format of export	news_admin	zh	输出文件格式
+from	news_admin	zh	来自
+from all	news_admin	zh	所有人
+future	news_admin	zh	未来
+global categories	news_admin	zh	全局分类
+global news	news_admin	zh	全局新闻
+global_news	news_admin	zh	全局新闻
+headline	news_admin	zh	大字标题
+headline with link	news_admin	zh	大字标题具有链接
+image link	news_admin	zh	图片链接
+image title	news_admin	zh	图片标题
+image url	news_admin	zh	图片网址
+implies read permission	news_admin	zh	意味着读取权限
+imported feeds can not be writable!	news_admin	zh	导入的 Feed 不可写！
+item has been deleted	news_admin	zh	条目已删除
+item not found	news_admin	zh	条目未找到
+link	news_admin	zh	链接
+main	news_admin	zh	主要
+maintain	news_admin	zh	维护
+maintain news	admin	zh	新闻维护
+message has been added	news_admin	zh	消息已添加
+more news	news_admin	zh	更多新闻
+more news link	news_admin	zh	更多新闻链接
+new item has been added	news_admin	zh	新条目已添加
+news	news_admin	zh	新闻
+news admin	news_admin	zh	新闻管理
+news administration	news_admin	zh	全局管理
+news deleted.	news_admin	zh	新闻已删除
+news item has been added	news_admin	zh	新闻条目已添加
+news item has been updated	news_admin	zh	新闻条目已更新
+news saved.	news_admin	zh	新闻已保存
+news_admin	common	zh	新闻管理
+no entries found	news_admin	zh	未发现条目
+no matching news item	news_admin	zh	无匹配新闻项
+no news	news_admin	zh	分类中没有新闻是目前可用的
+no rss export	news_admin	zh	无 RSS 输出文件
+now	news_admin	zh	现在
+number of articles to display on the main screen	news_admin	zh	在首页上显示的文章数目
+number of news items to be displayed on page	news_admin	zh	页面上显示的新闻项数目
+old	news_admin	zh	旧的
+on	news_admin	zh	在
+page-name the item should be displayed (empty = current page)	news_admin	zh	应该显示页面名称项(留空=当前页)
+picture upload (leave the upload directory empty to disable the upload)	admin	zh	图片上传(上传目录留空禁用上传)
+please select a category	news_admin	zh	请选择一个分类
+publish date	news_admin	zh	发布日期
+read more	news_admin	zh	阅读更多
+read news	news_admin	zh	阅读新闻
+read permissions	news_admin	zh	读取权限
+send mail to others	news_admin	zh	发送邮件给其他人
+should news_admin display the latest article headlines on the main screen.	news_admin	zh	新闻管理员应该在首页显示最新的文章摘要。
+show latest news articles?	news_admin	zh	是否显示最新新闻文章?
+show news articles on main page?	news_admin	zh	是否在首页显示新闻文章?
+site configuration	news_admin	zh	站点配置
+small view	news_admin	zh	仅显示部分新闻
+start	news_admin	zh	开始
+submitted by	common	zh	提交者
+submitted by %1 on %2	news_admin	zh	由 %1 在 %2 提交
+submitted by and date	news_admin	zh	提交者和日期
+teaser	news_admin	zh	取笑者
+teaser with read more link	news_admin	zh	有关 Teaser 阅读更多链接
+the news content is missing	news_admin	zh	缺少新闻内容
+the number of articles to display on the main screen.	news_admin	zh	在主窗口上显示的文章数目。
+the subject is missing	news_admin	zh	缺少主题
+this module publishes news from the news_admin application on your website. be aware of news_admin's acl restrictions.	news_admin	zh	该模块从新闻管理应用程序发布新闻到您的网站上。要知道新闻管理的 ACL 限制。
+until	news_admin	zh	直到
+view this category	news_admin	zh	查看该类别
+visible	news_admin	zh	可见的
+webpage news admin	news_admin	zh	新闻网页管理
+which information do you want to show (css class)	news_admin	zh	您想要显示哪些信息 (层迭样式表类 CSS class)
+which news categories should be displayed on the main screen.	news_admin	zh	将在主页显示哪些类别的新闻。
+write	news_admin	zh	写
+write permissions	news_admin	zh	写权限

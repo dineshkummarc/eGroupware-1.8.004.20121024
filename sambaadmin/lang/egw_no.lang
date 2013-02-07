@@ -1,0 +1,24 @@
+%1 - %2 of %3	sambaadmin	no	%1 - %2 av %3
+add workstation	sambaadmin	no	Legg til arbeidsstasjon
+check ldap setup (experimental!!!)	admin	no	Kontoller LDAP oppsett (Eksperimentell !)
+computer group	admin	no	Datamaskingruppe
+computer ou	admin	no	Datamaskin OU
+displayname	sambaadmin	no	Visningsnavn
+do you really want to delete selected workstation accounts?	sambaadmin	no	Ønsker du virkelig å slette valgte arbeidsstasjonskonto?
+homedrive	admin	no	Hjemmedisk
+homepath	sambaadmin	no	Hjemmesti
+logonscript	admin	no	Loginskript
+new account defaults	admin	no	Standard for nye konti
+participants	sambaadmin	no	Deltakere
+path to mkntpwd	admin	no	Stil mkntpwd
+profilepath	admin	no	Sti for profiler
+samba config	sambaadmin	no	Samba konfigurasjon
+samba settings	common	no	Samba instillinger
+samba sid	admin	no	Samba SID
+smb homepath	admin	no	SMB Hjemmesti
+workstation account for	sambaadmin	no	Arbeidsstasjonens konto for
+workstation configuration	sambaadmin	no	arbeidsstasjonens konfigurasjon
+workstation list	sambaadmin	no	Liste over arbeidsstasjoner
+workstation name	sambaadmin	no	Arbeidsstasjonens navn
+workstationaccount active	sambaadmin	no	Arbeidsstasjonskonto aktiv
+workstations	sambaadmin	no	Arbeidsstasjoner

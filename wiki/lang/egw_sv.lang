@@ -1,0 +1,111 @@
+(don't offer the possibility)	admin	sv	(erbjud inte möjligheten)
+<em>but</em> display at least this many entries in recentchanges and other subscription lists:	wiki	sv	<em>Men</em> visa åtminstone så här många poster i "Senaste Ändring" och andra prenumerationslistor:
+add document to category	wiki	sv	Lägg till dokument i kategorin
+added	wiki	sv	Tillagd
+administration features are disabled for this wiki.	wiki	sv	Administrations möjligheterna är inaktiverade i denna Wiki.
+admins	wiki	sv	Adminstratörer
+after how many days should old versions of a page be removed (0 for never)	admin	sv	Efter hur många dagar ska gamla versioner av sidor raderas (0 betyder aldrig)
+allow anonymous access	admin	sv	Tillåt anonym åtkomst
+anonymous password	admin	sv	Anonyma sessioners lösenord
+anonymous session type	admin	sv	Anonyma sessioners rättigheter
+anonymous username	admin	sv	Anonyma sessioners användarnamn
+automatically convert pages with wiki-syntax to richtext (if edited)?	admin	sv	Konvertera sidor automatiskt med Wiki-syntax till richtext (om ändrad)?
+block	wiki	sv	Spärra
+block / unblock hosts	common	sv	Spärra/tillåt klienter
+blocked ip address ranges	wiki	sv	Spärra IP adress spann
+cancel without saving	wiki	sv	Avbryt utan att spara
+changed	wiki	sv	Ändrad
+changes by last author	wiki	sv	Ändringar av senaste författare
+choose your current time here, so the server may figure out what time zone you are in.	wiki	sv	Välj din nuvarande tid så att servern kan hålla reda på vilken i tidzon du befinner dig.
+columns	wiki	sv	Kolumner
+compute difference	wiki	sv	Utarbeta skillnader
+converts the page to richtext	wiki	sv	Konvertera sidan till richtext
+current version	wiki	sv	Aktuell version
+deleted	wiki	sv	Raderad
+deletes this page	wiki	sv	Raderar sidan
+difference between versions	wiki	sv	Skillnader mellan versioner
+differences in	wiki	sv	Skillnader i
+different languages can have different titles	wiki	sv	Olika språk kan ha olika rubriker
+document last modified	wiki	sv	Dokumentet senast ändrad
+edit box	wiki	sv	Editor fönster
+edit this <em>archive version</em> of this document	wiki	sv	Ändra <em>ARKIVERADE VERSIONEN</em> av detta dokument
+edit this document	wiki	sv	Ändra dokumentet
+edit with preview	admin	sv	Ändra med förhandsgranskning
+editable	admin	sv	Ändringsbar
+editing	wiki	sv	Ändrar
+emailaddress administrator	admin	sv	Administratörens e-postadress
+enable free links	admin	sv	Aktivera "Fria länkar"
+enable wiki links	admin	sv	Aktivera "Wiki länkar"
+enter here the maximum number of entries to display in a document's history list.	wiki	sv	Antal poster som visas i dokumentets historik.
+enter here the number of days of edits to display on recentchanges or any other subscription list.  set this to zero if you wish to see all pages in recentchanges, regardless of how recently they were edited.	wiki	sv	Ange antal dagar med ändringar att visa i "Senaste Ändringar" eller i annan prenumerations tjänst. Sätt till noll för att se alla sidor i "Senaste Ändringar", oavsett när ändringen gjordes.
+enter ip address range in form <tt>12.*</tt>, <tt>34.56.*</tt>, or <tt>78.90.123.*</tt>	wiki	sv	Ange IP adress spann enligt <tt>12.*</tt>, <tt>34.56.*</tt> eller <tt>78.90.123.*</tt>
+error creating temporary file.	wiki	sv	Kunde inte skapa temporär fil.
+error writing to temporary file.	wiki	sv	Kunde inte skriva till temporär fil.
+everyone	wiki	sv	Alla
+find	wiki	sv	Hitta
+history	wiki	sv	Historik
+history display should show <em>all</em> changes made by the latest author.  otherwise, show only the last change made.	wiki	sv	Historik ska visa <em>alla</em> ändringar gjorda av senaste författare. Visa annars endast senaste ändring.
+history lists	wiki	sv	Ändringshistorik
+history of	wiki	sv	Historik för
+interwikiprefix	admin	sv	InterWikiPrefix
+invalid page name.	wiki	sv	Ogiltigt sidnamn
+load	wiki	sv	Ladda
+loads the named page in the given language, all change so far get lost !!!	wiki	sv	Laddar sida på angivet språk, alla ändringar hittills går förlorade!
+lock / unlock pages	common	sv	Lås/öppna sidor
+locked	wiki	sv	Låst
+name wiki home link	admin	sv	Namnge Wiki hemlänk
+newer	wiki	sv	Aldrig
+no never	admin	sv	Aldrig
+no only on request	admin	sv	Bara på begäran
+not set	wiki	sv	Inte satt
+older	wiki	sv	Äldre
+on all pages	wiki	sv	På alla sidor
+only if browser supports a richtext-editor	admin	sv	Bara om webbläsaren stödjer richtext redigering
+only on the first page	wiki	sv	Bara på första sidan
+page '%1' not found !!!	wiki	sv	Sidan '%1' kunde inte hittas
+path of the upload directory (has to be writable by the webserver!)	admin	sv	Sökväg till uppladdnings katalogen (måste vara skrivbar av webbservern)
+picture upload via richtext editor (leave the upload directory empty to disable the upload)	admin	sv	Bilduppladdning via richtext editor (lämnas tomt för att inaktivera uppladdning)
+please contact the %1administrator%2 for assistance.	wiki	sv	Var god kontakta %1Administratör%2 för hjälp.
+preview	wiki	sv	Förhandsgranska
+preview of current version	wiki	sv	Förhandsgranska aktuell version
+rate control / ip blocking disabled	wiki	sv	"Rate control" / IP blockering inaktiverad
+readable by	wiki	sv	Läsbar av
+readonly	admin	sv	Skrivskyddad
+recent changes	wiki	sv	Senaste ändringar
+renames page to the given name and language	wiki	sv	Byter sidans namn och språk
+richtext	wiki	sv	Richtext
+rows	wiki	sv	Rader
+save the changes and exit	wiki	sv	Spara ändringar och avsluta
+saves and continues editing	wiki	sv	Spara ändringar och fortsätt skriva
+search for	wiki	sv	Sök efter
+see complete list (%1 entries)	wiki	sv	Se fullständig lista (%1 poster)
+show a search	wiki	sv	Visa sökt
+show the title of the wiki page	wiki	sv	Visa namnet på Wikisidan
+summary	wiki	sv	Summering
+summary of change	wiki	sv	Summering av ändringar
+the search returned no result!	wiki	sv	Sökningen returnerade inget svar
+this page can not be edited.	wiki	sv	Denna sida kan inte ändras
+twin pages	wiki	sv	Dublett
+unblock	wiki	sv	Öppna
+updates the preview	wiki	sv	Uppdatera förhandsgranskning
+url of the upload directory	admin	sv	URL till uppladdnings katalogen
+use this module for displaying wiki-pages	wiki	sv	Använd modulen för att visa wikisidor
+users	wiki	sv	Användare
+view document history	wiki	sv	Visa historik
+visit %1 to set your user name	wiki	sv	Besök %1 för att sätta ditt användarnamn
+warning: since you started editing, this document has been changed by someone else.  please merge your edits into the current version of this document.	wiki	sv	Varning: sedan du började skriva har dokumentet uppdaterats av annan. Var god och migrera dina ändringar till aktuell version av dokumentet.
+who should be able to edit this page	wiki	sv	Vem ska kunna ändra sidan
+who should be able to read this page	wiki	sv	Vem ska kunna läsa sidan
+wiki	common	sv	Wiki
+wiki administration	wiki	sv	Wiki administration
+wiki menu	wiki	sv	Wiki meny
+wiki startpage	wiki	sv	Wiki startsida
+writable by	wiki	sv	Skrivbar av
+yes always	admin	sv	Alltid ja
+yes with navbar	admin	sv	Ja, med navigeringslisten
+you have been denied access to this site.	wiki	sv	Du nekas tillträde till denna sajt.
+you have entered an invalid user name.	wiki	sv	Du har angett ett ogiltigt användarnamn.
+you have exeeded the number of pages you are allowed to visit in a given period of time. please return later.	wiki	sv	Du har besökt fler sidor än du har rätt till under given period. Var god och återkom senare.
+you have no rights to view wiki content !!!	wiki	sv	Du saknar rättighet att se wiki innehållet
+your changes	wiki	sv	Dina ändringar
+your user name is "%1".	wiki	sv	Ditt användarnamn är "%1".

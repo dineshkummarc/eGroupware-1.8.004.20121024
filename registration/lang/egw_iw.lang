@@ -1,0 +1,83 @@
+account password retrieval	registration	iw	שליפת סיסמת החשבון
+account registration	registration	iw	רישום חשבון
+activate account	admin	iw	הפעל חשבון
+address	registration	iw	כתובת
+after you enter your username, instructions to change your password will be sent to you by e-mail to the address you gave when you registered.	registration	iw	לאחר הכנסת שם הכניסה שלך, הוראות  לשינוי הסיסמא יישלחו אליך בדוא"ל אל הכתובת  שציינת בעת הרישום
+an error occured. please contact our technical support and let them know.	registration	iw	.אירעה שגיאה. נא ליצור קשר ליידע את סיוע הטכני שלנו
+anonymous password	admin	iw	סיסמה של אנונימי
+birthday	registration	iw	יום הולדת
+change password for user	registration	iw	שנה סיסמא של המשתמש
+checkbox	registration	iw	תיבת סימון
+choose language	registration	iw	בחר שפה
+choose your language	common	iw	בחר את השפה שלך
+city	registration	iw	עיר
+close window	registration	iw	(סגור חלון (קר בבית :-)
+country	registration	iw	ארץ
+current fields:	registration	iw	:שדות נוכחיים
+days until trial accounts expire	admin	iw	ימים את שיפוג תוקפו של חשבון הדמו
+display terms of service?	admin	iw	?להציג את תנאי השרות
+dropdown	registration	iw	יורד
+egroupware - account registration	registration	iw	eGroupware יצירת חשבון
+email address to display for support	admin	iw	כתובת דוא"ל של התמיכה
+email address to send notices from	admin	iw	כתובת דוא"ל שיהווה מקור ההודעות
+enable registration?	admin	iw	?לאפשר רישום
+enter your new password	registration	iw	הכנס את הסיסמא החדשה שלך
+female	registration	iw	נקבה
+gender	registration	iw	מין
+hi	registration	iw	שלום
+http password	admin	iw	HTTP סיסמת
+http username	admin	iw	HTTP שם כניסה
+i have read the terms and conditions and agree by them.	registration	iw	.קראתי את התנאים ואת הסייגים ומסכים להם
+if you did not request this account, simply ignore this message.	registration	iw	.אם לא אתא ביקשת חשבון זה, פשוט תתעלם מהודעה זו
+if you did not request this change, simply ignore this message.	registration	iw	.אם לא אתא ביקשת שינוי זה, פשוט תתעלם מהודעה זו
+immediately	admin	iw	מיד
+male	registration	iw	זכר
+manage fields	admin	iw	ניהול שדות
+name (blank unless text, textarea, dropdown, checkbox; else alphanumeric only)	registration	iw	(שם (ריק אלא אם טקסט, תיבת טקסט, חלון יורד, או תיבת סימון; אחרת רק אלפא-נומרי
+not a user yet? register now	login	iw	עדיין לא משתמש? הרשם עכשיו
+on-line registration is not activated. please contact the site administrator for more information about registration.	registration	iw	.רישום מקונן לא פעיל. נא ליצור קשר עם המנהל לקבלת מידע נוסף בדבר הרישום
+order	registration	iw	סדר
+password is	admin	iw	הסיסמא הוא
+phone	registration	iw	טלפון
+phpgroupware - account registration	registration	iw	phpGroupWare - רישום חשבון
+re-enter password	registration	iw	הכנס שוב את הסיסמא
+re-enter your password	registration	iw	הכנס שוב את הסיסמא שלך
+register link at login screen?	admin	iw	?לרשום קישור במסך הכניסה
+registration	common	iw	רישום
+registration settings	admin	iw	הגדרות רישום
+remove	registration	iw	הסר
+report all problems and abuse to	registration	iw	-דווח על כל בעיה או שימוש פוגע ל
+required	registration	iw	נדרש
+send email	admin	iw	שלח דוא"ל
+sorry, that username does not exist.	registration	iw	מצטער, שם משתמש זה לא קיים
+sorry, that username is already taken.	registration	iw	מצטער, שם משתמש זה כבר בשימוש
+sorry, we are having a problem activating your account. note that links sent by e-mail are only valid during two hours. if you think this delay was expired, just retry. otherwise, please contact the site administrator.	registration	iw	מצטער, יש בעיה בהפעלת החשבון שלך. שים לב שהקישורים הנשלחים בדואר אלקטרוני פועלים למשך שעתיים בלבד. אם לדעתך זמן זה עבר, נסה שוב. אחרת, נה לדווח למנהל
+state	registration	iw	מצב
+subject for confirmation email	admin	iw	נושא לדוא"ל של האישרור
+terms of service	registration	iw	תנאי שרות
+terms of service text	admin	iw	טקסט של תנאי שרות
+text	registration	iw	טקסט
+textarea	registration	iw	איזור טקסט
+the passwords you entered don't match	registration	iw	הסיסמאות שהכנסת אינם תואמים
+the two passwords are not the same	registration	iw	שני הסיסמאות אינם זהים
+this is a confirmation email for your new account.  click on the following link to finish activating your account. this link will expire in 2 hours.	registration	iw	זהו דואר אשרור עבור חשבונך החדש. הקלק על הקישור הבא לסיום יצירת החשבון. קישור זה יפוג תוך שעתיים
+type	registration	iw	סוג
+update/add	registration	iw	עדכן/הוסף
+use html	admin	iw	HTML-השתמש ב
+use trial accounts?	admin	iw	?להשתמש בחשבונות דמו
+username is	admin	iw	שם המשתמש הוא
+values (for dropdown only; comma separated)	registration	iw	(ערכים (לתיבה יורדת בלבד; מופרדים בפסיק
+we have sent a confirmation email to your email address. you must click on the link within 2 hours. if you do not, it may take a few days until your loginid will become available again.	registration	iw	שלחנו הודעת אישרור אל כתובת דואר האלקטרוני שלך. עליך להקלק על הקישור בה תוך שעתיים. אם לא, יכול לעבור כמה ימים עד אשר זיהוי הכניסה שלך יהיה שוב זמין
+we have sent a mail with instructions to change your password. you should follow the included link within two hours. if you do not, you will have to go to the lost password screen again.	registration	iw	שלחנו לך הודעה עם הוראות לשינוי סיסמתך. עליך להקלק על הקישור בה תוך שעתיים. אם לא תעשה כן, תצטריך לחזור אל מסך סיסמא אבודה
+wrong session	registration	iw	מושב שגוי
+you have entered an invalid birthday	registration	iw	הכנסת יום הולדת לא חוקי
+you have entered an invalid email address	registration	iw	הכנסת כתובת דוא"ל לא חוקי
+you must enter a password	registration	iw	עליך להכניס סיסמא
+you must enter a username	registration	iw	עליך להכניס שם כניסה
+you must fill in all of the required fields	registration	iw	עליך למלא את כל שדות החובה
+you requested to change your password. please follow the url below to do so. this url will expire in two hours. after this delay you should go thru the lost password procedure again.	registration	iw	ביקשת לשנות את סיסמתך. אנא הקלק על הקישור המצורף כדי לבצע זאת. תוקפו של קישור זה יפוג בעוד שעתיים. אם יפוג יהיה עליך לחזור ולבצע את תהליך סיסמה אבודה שוב
+you specified a value for	registration	iw	ציינת ערך עבור
+you specified a value for %1 that is not a choice	registration	iw	ציינת ערך עבור %1 שאינו בין האפשרויות
+your account is now active!  click <a href="%1">here</a> to log into your account.	registration	iw	!חשבונך פעיל. לחץ <a href="%1">כאן</a> לכניסה לחשבון
+your password was changed. you can go back to the <a href="%1">login</a> page.	registration	iw	סיסמתך השתנה. עליך לחזור לעמוד ה-<a href="%1">כניסה</a>
+zip/postal	registration	iw	מיקוד

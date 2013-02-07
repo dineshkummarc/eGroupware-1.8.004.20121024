@@ -1,0 +1,74 @@
+%1 bookmarks have been deleted	bookmarks	iw	%1 סימניות נמחקו
+%1 bookmarks imported from %2 successfully.	bookmarks	iw	%1 סימניות הובאו מ-%2 בהצלחה.
+(comma separate multiple addresses)	bookmarks	iw	(הפרד בין כתובות מרובות בעזרת פסיק)
+<b>note:</b> this currently works with netscape bookmarks only	bookmarks	iw	<b>הערה:</b> זה עובד כרגע רק עם סימניות של Netscape
+all bookmarks	bookmarks	iw	כל הסימניות
+and	bookmarks	iw	-ו
+append this message to mailed bookmarks	bookmarks	iw	הוסף הודעה זו לסימניות שנשלחות בדואר
+ascending	bookmarks	iw	בסדר עולה
+book marks	common	iw	סימניות
+bookmark changed sucessfully	bookmarks	iw	הסימניה שונתה בהצלחה.
+bookmark created successfully.	bookmarks	iw	הסימניה נוצרה בהצלחה.
+bookmark deleted successfully	bookmarks	iw	הסימניה נמחקה בהצלחה.
+bookmark deleted successfully.	bookmarks	iw	הסימניה נמחקה בהצלחה.
+bookmark not editable	bookmarks	iw	הסימניה לא ניתנת לעריכה
+bookmark not readable	bookmarks	iw	הסימניה לא ניתנת לקריאה
+bookmarks	common	iw	סימניות
+bookmarks settings	bookmarks	iw	הגדרות סימניות
+change bookmark	bookmarks	iw	שנה סימניה
+close this window to return	bookmarks	iw	סגור חלון זה כדי לחזור
+create bookmark	bookmarks	iw	צור סימניה
+create new bookmark	bookmarks	iw	צור סימניה חדשה
+date added	bookmarks	iw	תאריך הוספה
+date changed	bookmarks	iw	תאריך שינוי
+date last updated	bookmarks	iw	תאריך עדכון אחרון
+date last visited	bookmarks	iw	תאריך ביקור אחרון
+descending	bookmarks	iw	בסדר יורד
+edit bookmark	bookmarks	iw	ערוך סימניה
+edit this bookmark	bookmarks	iw	ערוך סימניה זו
+enter the name of the netscape bookmark file<br>that you want imported into bookmarker below.	bookmarks	iw	Netscape הקלד כאן את שם קובץ הסימניות של<br>שברצונך לייבא אל יוצר הסימניות למטה
+export bookmarks	common	iw	ייצוא סימניות
+fewer	bookmarks	iw	פחות
+filter by	bookmarks	iw	סנן לפי
+found a link you might like	bookmarks	iw	מצאתי קישור שאולי תוהב
+from	bookmarks	iw	מאת
+from category %1	bookmarks	iw	מקטגוריה %1
+global categories	bookmarks	iw	קטגוריות גלובליות
+highest	bookmarks	iw	הגבוהה ביותר
+i thought you would be interested in the following link(s):	bookmarks	iw	חשבתי שהקישורים הבאים יעניינו אותך:
+import bookmarks	common	iw	ייבוא סימניות
+like	bookmarks	iw	-דומה ל
+list view	bookmarks	iw	רשימה
+lowest	bookmarks	iw	הנמוך ביותר
+mail this bookmark	bookmarks	iw	שלח סימניה זו בדואר אלקטרוני
+mail-this-link message sent to %1.	bookmarks	iw	הודעת שלח-קישור-זה נשלח אל %1.
+mass update:	bookmarks	iw	עדכון מסיבי:
+message from	bookmarks	iw	הדעה מאת
+more	bookmarks	iw	עוד
+name	bookmarks	iw	שם
+name is required	bookmarks	iw	השם חובה
+netscape bookmark file	bookmarks	iw	Netscape קובץ סימניות של
+netscape bookmark filename is required!	bookmarks	iw	חובה Netscape שם קובץ הסימניות של
+new	bookmark	iw	חדש
+or	bookmarks	iw	או
+please fill out <b>to e-mail address</b>, <b>subject</b>, and <b>message</b>!	bookmarks	iw	נא לציין <b>כתובת דואר אלקטרוני אל</b>, <b>נושא</b>, ו-<b>הודעה</b>!
+please select the categories to export	bookmarks	iw	נא לבחור את הקטגוריות לייצא
+query condition	bookmarks	iw	תנאי שאילתא
+rating	bookmarks	iw	דירוג
+search for:	bookmarks	iw	חפש:
+select the format you would like to export to	bookmarks	iw	בחר את הפורמאט לייצוא
+send bookmark	bookmarks	iw	שלח סימניה
+sub category	bookmarks	iw	תת קטגוריה
+to address %1 invalid. format must be <strong>user@domain</strong> and domain must exist!	bookmarks	iw	כתובת אל %1 אינה חוקית. הפורמאט חייב להיות <strong>user@domain</strong> והדומיין חייב להיות אמיתית!
+to e-mail addresses	bookmarks	iw	אל כתובת דואר אלקטרוני
+to which category should the imported folder hierarchy be attached	bookmarks	iw	לאיזה קטגוריה יש לצרף את היררכיית המחיצות המיובאות
+total visits	bookmarks	iw	סך כל הביקורים
+tree view	bookmarks	iw	תצוגת עץ
+unable to open temp file %1 for import.	bookmarks	iw	לא הצלחתי לפתוח את קובץ הזמני %1 לייבוא.
+url is required.	bookmarks	iw	חובה URL-ה
+view bookmark	bookmarks	iw	הצג סימניה
+view this bookmark	bookmarks	iw	הצג סימניה זו
+warning	bookmarks	iw	אזהרה
+you are viewing this site outside of egroupware	bookmarks	iw	eGroupWare-הנל צופה אתר זה מחוץ ל
+you must select a category	bookmarks	iw	עליך לבחור קטגוריה
+you need to select a category!	bookmarks	iw	!עליך לבחור קטגוריה

@@ -1,0 +1,60 @@
+active	news_admin	iw	פעיל
+add new article	news_admin	iw	הוסף מאמר חדש
+add new news	news_admin	iw	הוסף חדשות חדשה
+add news item	news_admin	iw	הוסף פריט חדשות
+all news	news_admin	iw	כל החדשות
+always	news_admin	iw	תמיד
+configuration	news_admin	iw	תצורה
+configure access permissions	common	iw	קונפיגורצית הרשאות גישה
+configure rss exports	common	iw	RSS קונפיגורצית ייצוא של
+contains html	news_admin	iw	HTML מכיל
+content	news_admin	iw	תוכן
+edit news item	news_admin	iw	ערוך פריט חדשות
+failed to add message	news_admin	iw	לא הצלחתי להוסיף הודעה חדשה
+format for links to items	news_admin	iw	הפורמאט של קישורים לפריטים
+format of export	news_admin	iw	הפורמאט של ייצוא
+from	news_admin	iw	מאת
+global categories	news_admin	iw	קטגוריות גלובליות
+global news	news_admin	iw	חדשות גלובליות
+global_news	news_admin	iw	חדשות גלובליות
+image link	news_admin	iw	קישור של תמונה
+image title	news_admin	iw	כותרת של תמונה
+image url	news_admin	iw	של התמונה URL
+implies read permission	news_admin	iw	משתמע הרשאת קריאה
+item has been deleted	news_admin	iw	הפריט נמחק
+item not found	news_admin	iw	הפריט לא נמצא
+link	news_admin	iw	קישור
+main	news_admin	iw	ראשי
+maintain	news_admin	iw	אחזקה
+maintain news	admin	iw	אחזקת חדשות
+message has been added	news_admin	iw	ההודעה נוספה
+more news	news_admin	iw	עוד חדשות
+new item has been added	news_admin	iw	פריט חדש נוסף
+news admin	news_admin	iw	מנהל החדשות
+news administration	news_admin	iw	מנהל החדשות
+news item has been added	news_admin	iw	נוסף פריט חדשות
+news item has been updated	news_admin	iw	עודכן פריט חדשות
+news_admin	common	iw	מנהל תחדשות
+no entries found	news_admin	iw	לא נמצאו רשומות
+no news	news_admin	iw	אין כרגע חדשות בקטגוריה זו
+no rss export	news_admin	iw	RSS אין יצוא
+number of articles to display on the main screen	news_admin	iw	כמות המאמרים להציג במסך הראשי
+on	news_admin	iw	-ב
+publish date	news_admin	iw	תאריך הוצאה לאור
+read news	news_admin	iw	קרא חדשות
+read permissions	news_admin	iw	הרשאות קריאה
+should news_admin display the latest article headlines on the main screen.	news_admin	iw	האם על מנהל החדשות להציג את בותרות המאמרים האחרונים במסך הראשי
+show latest news articles?	news_admin	iw	?הצג מאמרי חדשות האחרונים
+show news articles on main page?	news_admin	iw	?הצג מאמרי חדשות בעמוד הראשי
+small view	news_admin	iw	תצוגה קטנה
+submitted by	common	iw	הוגש על ידי
+teaser	news_admin	iw	טיזר
+the news content is missing	news_admin	iw	תוכן החדשות חסר
+the number of articles to display on the main screen.	news_admin	iw	כמות המאמרים להציג במסך הראשי
+the subject is missing	news_admin	iw	הנושא חבר
+until	news_admin	iw	עד
+view this category	news_admin	iw	הצג רטגוריה זו
+visible	news_admin	iw	נראה
+webpage news admin	news_admin	iw	מנהל עמודי חדשות בווב
+write	news_admin	iw	כתוב
+write permissions	news_admin	iw	הרשאות כתיבה

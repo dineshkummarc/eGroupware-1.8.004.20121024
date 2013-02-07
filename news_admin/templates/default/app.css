@@ -1,0 +1,23 @@
+/* $Id$ */
+
+.redItalic
+{
+  color: red;
+  font-style: italic;
+}
+.news_headline
+{
+  font-weight: bold; 
+  font-size: 120%;
+}
+.news_submitted
+{
+  font-size: 90%;
+}
+.news_teaser,.news_teaser textarea
+{
+  font-weight: bold; 
+}
+.news_content
+{
+}

@@ -1,0 +1,281 @@
+<?xml version="1.0"?>
+<!-- $Id$ -->
+<overlay>
+	<template id="tracker.edit.description" template="" lang="" group="0" version="0.1.002">
+		<grid width="100%" height="250" overflow="auto">
+			<columns>
+				<column width="100"/>
+				<column/>
+			</columns>
+			<rows>
+				<row class="row_off" valign="top">
+					<description value="Description"/>
+					<htmlarea mode="@tr_description_options" span="3" id="tr_description" needed="1"/>
+				</row>
+			</rows>
+		</grid>
+	</template>
+	<template id="tracker.edit.comments" template="" lang="" group="0" version="0.1.002">
+		<grid width="100%" height="250" overflow="auto">
+			<columns>
+				<column width="100"/>
+				<column/>
+			</columns>
+			<rows>
+				<row class="th">
+					<description value="Comments"/>
+					<int id="num_replies" readonly="true"/>
+				</row>
+				<row class="row" valign="top">
+					<vbox options="0,0">
+						<date-time id="replies[$row][reply_created]" readonly="true"/>
+						<menulist>
+							<menupopup type="select-account" id="replies[$row][reply_creator]" readonly="true"/>
+						</menulist>
+					</vbox>
+					<htmlarea span="3" id="replies[$row][reply_message]" readonly="true"/>
+				</row>
+			</rows>
+		</grid>
+	</template>
+	<template id="tracker.edit.add_comment" template="" lang="" group="0" version="0.1.002">
+		<grid width="100%" height="250" overflow="auto">
+			<columns>
+				<column width="100"/>
+				<column/>
+			</columns>
+			<rows>
+				<row class="th" disabled="@no_canned">
+					<description options=",,,canned_response" value="Canned response" class="3"/>
+					<menulist>
+						<menupopup id="canned_response" options="Select one" no_lang="1" statustext="The canned response will be prefix the text you type."/>
+					</menulist>
+				</row>
+				<row class="row" valign="top" disabled="@no_reply">
+					<description options=",,,reply_message" value="Comment"/>
+					<htmlarea mode="@tr_reply_options" span="3" id="reply_message"/>
+				</row>
+			</rows>
+		</grid>
+	</template>
+	<template id="tracker.edit.links" template="" lang="" group="0" version="0.1.002">
+		<grid width="100%">
+			<columns>
+				<column width="100"/>
+				<column/>
+			</columns>
+			<rows>
+				<row class="th" disabled="@no_links">
+					<description span="all" value="Create new links"/>
+				</row>
+				<row class="row" disabled="@status_only">
+					<link-to span="all" id="link_to"/>
+				</row>
+				<row class="th">
+					<description span="all" value="Existing links"/>
+				</row>
+				<row class="row_off" valign="top">
+					<link-list span="all" id="link_to"/>
+				</row>
+			</rows>
+		</grid>
+	</template>
+	<template id="tracker.edit.custom" template="" lang="" group="0" version="1.7.001">
+		<grid width="100%" height="250" overflow="auto">
+			<columns>
+				<column/>
+			</columns>
+			<rows>
+				<row class="row" valign="top">
+					<customfields/>
+				</row>
+			</rows>
+		</grid>
+	</template>
+	<template id="tracker.edit.history" template="" lang="" group="0" version="0.1.002">
+		<grid width="100%" height="250" overflow="auto">
+			<columns>
+				<column/>
+			</columns>
+			<rows>
+				<row valign="top">
+					<historylog id="history"/>
+				</row>
+			</rows>
+		</grid>
+	</template>
+	<template id="tracker.edit.bounties" template="" lang="" group="0" version="0.1.003">
+		<grid width="100%" height="250" overflow="auto" id="bounties">
+			<columns>
+				<column/>
+				<column/>
+				<column/>
+				<column/>
+				<column/>
+				<column/>
+			</columns>
+			<rows>
+				<row disabled="@no_set_bounty">
+					<description span="2" value="Set an own bounty (in %s)" id="currency" no_lang="1"/>
+					<textbox type="float" id="new[bounty_amount]"/>
+					<textbox size="16" maxlength="64" id="new[bounty_name]" statustext="Donator name to show" blur="@user_name"/>
+					<textbox size="24" maxlength="64" id="new[bounty_email]" statustext="Email address to contact you" blur="@user_email"/>
+					<button span="all" label="Set bounty" id="bounty" statustext="If this item is important for you, please consider to set a bounty for it!" onclick="return confirm('Confirm that you pay the specified bounty to implement or fix the issue');"/>
+				</row>
+				<row class="th">
+					<description value="Datum"/>
+					<description value="User"/>
+					<textbox type="float" label="Amount" id="total" readonly="true"/>
+					<description value="Name"/>
+					<description value="Email"/>
+					<description value="Confirmed"/>
+				</row>
+				<row class="row" disabled="!@num_bounties">
+					<date-time id="${row}[bounty_created]" readonly="true"/>
+					<menulist>
+						<menupopup type="select-account" id="${row}[bounty_creator]" readonly="true"/>
+					</menulist>
+					<textbox type="float" id="${row}[bounty_amount]" readonly="true" label="@currency" no_lang="1"/>
+					<description id="${row}[bounty_name]" no_lang="1"/>
+					<description id="${row}[bounty_email]" no_lang="1"/>
+					<hbox options="0,0" align="center">
+						<date-time id="${row}[bounty_confirmed]" readonly="true"/>
+						<button image="edit" label="Confirm" align="center" id="confirm[$row_cont[bounty_id]]" statustext="Confirm the receipt of money for this bounty" onclick="return confirm('Confirm the receipt of money for this bounty');"/>
+						<button image="delete" label="Delete" align="center" id="delete[$row_cont[bounty_id]]" statustext="Delete this bounty" onclick="return confirm('Delete this bounty');"/>
+					</hbox>
+				</row>
+			</rows>
+		</grid>
+	</template>
+	<template id="tracker.edit" template="" lang="" group="0" version="1.7.005">
+		<grid width="100%">
+			<columns>
+				<column width="95"/>
+				<column width="270"/>
+				<column width="95"/>
+				<column width="230"/>
+			</columns>
+			<rows>
+				<row disabled="!@msg">
+					<description span="all" class="redItalic" align="center" id="msg" no_lang="1"/>
+					<description/>
+					<description/>
+					<description/>
+				</row>
+				<row class="th" height="28">
+					<description options=",,,tr_tracker" value="Tracker Queue"/>
+					<hbox onchange="1" options="0,0" class="user_filter">
+						<menulist class="width100">
+							<menupopup id="tr_tracker" no_lang="1" onchange="1"/>
+						</menulist>
+						<int id="tr_id" class="trIdEdit" readonly="true"/>
+					</hbox>
+					<description options=",,,tr_private" value="Private"/>
+					<checkbox id="tr_private"/>
+				</row>
+				<row class="row">
+					<description options=",,,cat_id" value="Category"/>
+					<menulist class="cat_select">
+						<menupopup id="cat_id" options="Select one" no_lang="1" needed="1"/>
+					</menulist>
+					<description options=",,,tr_version" value="Version"/>
+					<menulist class="user_select">
+						<menupopup id="tr_version" no_lang="1" options="Select one" needed="1"/>
+					</menulist>
+				</row>
+				<row class="row">
+					<description options=",,,tr_assigned" value="Assigned to"/>
+					<hbox options="0,0">
+						<menulist class="user_select">
+							<menupopup id="tr_assigned" options="Not assigned" no_lang="1"/>
+						</menulist>
+						<buttononly options="users" label="Select multiple" align="right" onclick="if (selectbox=document.getElementById(form::name('tr_assigned'))) { selectbox.size=3; selectbox.multiple=true; if(selectbox.options[0].value=='')selectbox.options[0]=null; selectbox.name+='[]';}  this.style.display = 'none'; return false;"/>
+					</hbox>
+					<description options="tr_priority" value="Priority"/>
+					<menulist>
+						<menupopup id="tr_priority"/>
+					</menulist>
+				</row>
+				<row class="row" disabled="!@tr_id">
+					<description options=",,,tr_status" value="Status"/>
+					<hbox options="0,0">
+						<menulist>
+							<menupopup id="tr_status" statustext="@status_help"/>
+						</menulist>
+						<date-time id="tr_closed" label=" "/>
+					</hbox>
+					<description value="Resolution" options=",,,tr_resolution"/>
+					<hbox options="0,0">
+						<menulist>
+							<menupopup id="tr_resolution"/>
+						</menulist>
+						<menulist class="leftPad5">
+							<menupopup type="select-percent" id="tr_completion"/>
+						</menulist>
+					</hbox>
+				</row>
+				<row class="row">
+					<description value="Cc" statustext="List of coma separated email address"/>
+					<textbox maxlength="254" id="tr_cc" class="inputFullWidth"/>
+					<description value="Group"/>
+					<menulist>
+						<menupopup no_lang="1" id="tr_group" statustext="Ownership of the ticket"/>
+					</menulist>
+				</row>
+				<row class="row">
+					<description options=",,,tr_summary" value="Summary"/>
+					<textbox maxlength="80" span="3" class="inputFullWidth" id="tr_summary" needed="1"/>
+				</row>
+				<row valign="top">
+					<tabbox span="all" id="tabs">
+						<tabs>
+							<tab label="Description" statustext="Description"/>
+							<tab label="Comments" statustext="Comments"/>
+							<tab label="Add comment" statustext="Add comment"/>
+							<tab label="Links" statustext="Attachments &amp; Links"/>
+							<tab label="Custom" statustext="Custom fields"/>
+							<tab label="History" statustext="History"/>
+							<tab label="Bounties" statustext="If this item is important for you, please consider to set a bounty for it!"/>
+						</tabs>
+						<tabpanels>
+							<template id="tracker.edit.description"/>
+							<template id="tracker.edit.comments"/>
+							<template id="tracker.edit.add_comment"/>
+							<template id="tracker.edit.links"/>
+							<template id="tracker.edit.custom"/>
+							<template id="tracker.edit.history"/>
+							<template id="tracker.edit.bounties"/>
+						</tabpanels>
+					</tabbox>
+				</row>
+				<row disabled="!@tr_id">
+					<description value="Created by"/>
+					<hbox options="0,0">
+						<menulist>
+							<menupopup type="select-account" id="tr_creator" readonly="true"/>
+						</menulist>
+						<date-time id="tr_created" label="," readonly="true"/>
+					</hbox>
+					<description value="Last modified"/>
+					<hbox options="0,0">
+						<menulist>
+							<menupopup type="select-account" id="tr_modifier" readonly="true"/>
+						</menulist>
+						<date-time id="tr_modified" label="," readonly="true"/>
+					</hbox>
+				</row>
+				<row>
+					<button label="Save" id="button[save]"/>
+					<hbox options="0,0">
+						<button label="Cancel" id="button[cancel]" onclick="@on_cancel"/>
+						<checkbox label="Do not notify of these changes" id="no_notifications"/>
+					</hbox>
+					<vbox options="0,0" align="right" span="2">
+						<button label="Vote for it!" id="button[vote]" statustext="If this item is important for you, please vote for it." align="right" onclick="return confirm('Do you want to vote for this item');"/>
+						<description id="no_vote" class="redItalic" no_lang="1" align="right"/>
+					</vbox>
+				</row>
+			</rows>
+		</grid>
+	</template>
+</overlay>

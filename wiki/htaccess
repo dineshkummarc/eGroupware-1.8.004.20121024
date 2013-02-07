@@ -1,0 +1,20 @@
+# .htaccess for the eGroupWare Wiki from ralfbecker@outdoor-training.de
+#
+# $Id: htaccess 16340 2004-08-09 18:09:10Z reinerj $
+#
+# If you want your URLs to look like this:
+#   http://mymachine.com/wiki/page1
+# instead of like this:
+#   http://mymachine.com/egroupware/wiki/index.php?page=page1
+# and you're running Apache, then customize and add
+# the below lines to your .htaccess file, or
+# copy this file to .htaccess.  Note that your
+# Apache web server needs to be setup to read
+# .htaccess files and allow use of the RewriteEngine
+# directive (AllowOverride FileInfo). 
+# you have to change the RewriteBase directive to the URI 
+# of your wiki install.
+# 
+RewriteEngine On
+RewriteBase /wiki
+RewriteRule ^([^/]*)$ ../egroupware/wiki/index.php?page=$1&{QUERY_STRING}

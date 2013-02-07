@@ -1,0 +1,222 @@
+id	sitemgr	id	ID
+no anonymous user accounts installed.  notify the administrator.	sitemgr	id	NO ANONYMOUS USER ACCOUNTS INSTALLED.  NOTIFY THE ADMINISTRATOR.
+there is no website configured for url %1.  notify the administrator.	sitemgr	id	THERE IS NO WEBSITE CONFIGURED FOR URL %1.  NOTIFY THE ADMINISTRATOR.
+1 day	common	id	1 Day
+1 hour	common	id	1 Hour
+1 month	common	id	1 Month
+1 week	common	id	1 Week
+actif	sitemgr	id	Actif
+actions	sitemgr	id	Actions
+add category	sitemgr	id	Add Category
+add page	sitemgr	id	Add Page
+add website	sitemgr	id	Add Website
+administration	sitemgr	id	Administration
+administrative menu	sitemgr	id	Administrative Menu
+administrators	sitemgr	id	administrators
+all categories	sitemgr	id	All categories
+all languages	sitemgr	id	all languages
+all sites	sitemgr	id	All Sites
+all words	sitemgr	id	All words
+amazon	sitemgr	id	Amazon
+anonymous	sitemgr	id	anonymous
+any words	sitemgr	id	Any words
+applet	sitemgr	id	Applet
+application	sitemgr	id	Application
+archived	sitemgr	id	archived
+archived content	sitemgr	id	Archived content
+as	common	id	as
+ask customer	sitemgr	id	Ask customer
+automatic index	sitemgr	id	Automatic index
+basic settings	sitemgr	id	Basic Settings
+block reloaded	sitemgr	id	Block reloaded
+block saved	sitemgr	id	Block saved
+bookmarks	sitemgr	id	Bookmarks
+calendar	sitemgr	id	Calendar
+category	sitemgr	id	Category
+category description	sitemgr	id	Category Description
+category manager	sitemgr	id	Category Manager
+category name	sitemgr	id	Category Name
+category saved	sitemgr	id	Category saved
+center	sitemgr	id	Center
+changes saved.	sitemgr	id	Changes saved.
+choose language	sitemgr	id	Choose language
+choose template	sitemgr	id	Choose template
+code file	sitemgr	id	Code file
+codebase url	sitemgr	id	Codebase URL
+collapse threads	sitemgr	id	Collapse Threads
+comment	sitemgr	id	Comment
+commit changes	sitemgr	id	Commit changes
+configure sitemgr	sitemgr	id	Configure SiteMgr
+configure website	sitemgr	id	Configure Website
+content areas	sitemgr	id	Content areas
+content blocks	sitemgr	id	Content blocks
+content manager	sitemgr	id	Content Manager
+contentarea	sitemgr	id	Contentarea
+contributor menu	sitemgr	id	Contributor Menu
+copyright	sitemgr	id	Copyright
+css styles	sitemgr	id	CSS styles
+current section	sitemgr	id	Current Section
+custom	sitemgr	id	custom
+default	sitemgr	id	Default
+define websites	common	id	Define websites
+delete block	sitemgr	id	Delete block
+delete category	sitemgr	id	Delete category
+delete page	sitemgr	id	Delete page
+delete version	sitemgr	id	Delete Version
+discussions	sitemgr	id	Discussions
+documentation	sitemgr	id	Documentation
+done	sitemgr	id	Done
+dont ask	sitemgr	id	Dont ask
+downloaded	sitemgr	id	downloaded
+draft	sitemgr	id	draft
+draft mode	sitemgr	id	Draft mode
+edit category	sitemgr	id	Edit Category
+edit mode	sitemgr	id	Edit mode
+edit notification	sitemgr	id	Edit notification
+edit page	sitemgr	id	Edit Page
+edit site	sitemgr	id	Edit Site
+edit website	sitemgr	id	Edit Website
+egw users	sitemgr	id	Egw users
+email address	sitemgr	id	Email address
+entry deleted	sitemgr	id	Entry deleted
+entry duplicated.	sitemgr	id	Entry duplicated.
+entry saved	sitemgr	id	Entry saved
+entry saved.	sitemgr	id	Entry saved.
+everybody	sitemgr	id	Everybody
+exact phrase	sitemgr	id	Exact Phrase
+file contents	sitemgr	id	File contents
+file download	sitemgr	id	File download
+filename	sitemgr	id	Filename
+flag symbols	sitemgr	id	Flag symbols
+footer editor	sitemgr	id	Footer Editor
+forever	common	id	Forever
+forum	sitemgr	id	Forum
+galerie	sitemgr	id	Galerie
+go	sitemgr	id	Go
+go to	sitemgr	id	Go to
+google	sitemgr	id	Google
+google search	sitemgr	id	Google Search
+group name	sitemgr	id	Group Name
+header editor	sitemgr	id	Header Editor
+headlines	sitemgr	id	Headlines
+hello	sitemgr	id	Hello
+hello world	sitemgr	id	Hello world
+horizontal	sitemgr	id	Horizontal
+html frame	sitemgr	id	HTML Frame
+html module	sitemgr	id	HTML module
+image type	sitemgr	id	image type
+index	sitemgr	id	Index
+knowledge base	sitemgr	id	Knowledge Base
+language:	sitemgr	id	Language:
+latest reply	sitemgr	id	Latest Reply
+login	sitemgr	id	Login
+login name	sitemgr	id	Login Name
+main content	sitemgr	id	Main content
+mains	sitemgr	id	Mains
+manage categories	sitemgr	id	Manage Categories
+manage content	sitemgr	id	Manage Content
+manage modules	sitemgr	id	Manage Modules
+manage notifications	sitemgr	id	Manage notifications
+manage pages	common	id	Manage Pages
+manage translations	sitemgr	id	Manage Translations
+message text:	sitemgr	id	Message text:
+module manager	sitemgr	id	Module manager
+move to	sitemgr	id	Move to
+name	sitemgr	id	Name
+new application	sitemgr	id	New application
+new guestbook	sitemgr	id	New guestbook
+not	common	id	not
+only gallery	sitemgr	id	Only gallery
+other websites	sitemgr	id	Other websites
+page	sitemgr	id	Page
+page content	sitemgr	id	Page Content
+page manager	sitemgr	id	Page Manager
+page name	sitemgr	id	Page Name
+page saved	sitemgr	id	Page saved
+page saved.	sitemgr	id	Page saved.
+page subtitle	sitemgr	id	Page Subtitle
+page title	sitemgr	id	Page Title
+pages	sitemgr	id	Pages
+pages:	sitemgr	id	Pages:
+parent	sitemgr	id	Parent
+parent directory	sitemgr	id	parent directory
+parent section:	sitemgr	id	Parent Section:
+password	sitemgr	id	Password
+path	sitemgr	id	Path
+paypal	sitemgr	id	Paypal
+percentage	sitemgr	id	Percentage
+plain selectbox	sitemgr	id	Plain selectbox
+prepublished	sitemgr	id	prepublished
+preunpublished	sitemgr	id	preunpublished
+previous	sitemgr	id	Previous
+production mode	sitemgr	id	Production mode
+published	sitemgr	id	published
+reactivate content	sitemgr	id	Reactivate content
+read permission	sitemgr	id	Read Permission
+redirection	sitemgr	id	Redirection
+refresh	sitemgr	id	Refresh
+reload	sitemgr	id	Reload
+remember me	common	id	remember me
+replies	sitemgr	id	Replies
+required	sitemgr	id	Required
+required fields	sitemgr	id	Required Fields
+reset	sitemgr	id	Reset
+save	sitemgr	id	Save
+save block	sitemgr	id	Save block
+saved	sitemgr	id	Saved
+scope	sitemgr	id	Scope
+search keyword	sitemgr	id	search keyword
+search modes	sitemgr	id	Search modes
+search with	sitemgr	id	Search with
+seen by	sitemgr	id	Seen by
+shipping address	sitemgr	id	Shipping address
+show path?	sitemgr	id	show path?
+show searchbox	sitemgr	id	Show searchbox
+show subcategories	sitemgr	id	Show subcategories
+site	sitemgr	id	Site
+site administrators	sitemgr	id	Site administrators
+site description	sitemgr	id	Site description
+site index	sitemgr	id	Site Index
+site language	sitemgr	id	Site Language
+site name	sitemgr	id	Site name
+site setup	common	id	Site Setup
+site wide	sitemgr	id	Site wide
+sitemgr	common	id	SiteMgr
+sitemgr manual	sitemgr	id	SiteMgr Manual
+sitemgr options	sitemgr	id	SiteMgr Options
+sitemgr websites	sitemgr	id	Sitemgr Websites
+sitemgr-link	common	id	Website
+size	sitemgr	id	Size
+sort order	sitemgr	id	Sort Order
+state	sitemgr	id	State
+subcategories	sitemgr	id	Subcategories
+subsections:	sitemgr	id	Subsections:
+subtitle	sitemgr	id	Subtitle
+template select	sitemgr	id	Template select
+text allignment	sitemgr	id	Text allignment
+textarea	sitemgr	id	textarea
+the web	sitemgr	id	the web
+this site	sitemgr	id	this site
+title	sitemgr	id	Title
+topic	sitemgr	id	Topic
+translate	sitemgr	id	Translate
+translate category	sitemgr	id	Translate Category
+translate page	sitemgr	id	Translate Page
+translation manager	sitemgr	id	Translation Manager
+translation status	sitemgr	id	Translation Status
+unsubscribe	sitemgr	id	Unsubscribe
+update notification	sitemgr	id	Update Notification
+user name	sitemgr	id	User Name
+validator	sitemgr	id	Validator
+vertical	sitemgr	id	Vertical
+view threads	sitemgr	id	View Threads
+viewed	sitemgr	id	viewed
+website	sitemgr	id	Website
+week	sitemgr	id	week
+wiki	sitemgr	id	Wiki
+wiki startpage	sitemgr	id	Wiki startpage
+write permission	sitemgr	id	Write Permission
+xml browser	sitemgr	id	XML browser
+your calendar	sitemgr	id	Your Calendar
+your comment	sitemgr	id	Your comment
+your name	sitemgr	id	Your name

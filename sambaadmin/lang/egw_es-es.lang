@@ -1,0 +1,25 @@
+%1 - %2 of %3	sambaadmin	es-es	%1 - %2 de %3
+add workstation	sambaadmin	es-es	añadir puesto de trabajo
+check ldap setup (experimental!!!)	admin	es-es	comprobar configuración ldap (experimental)
+computer group	admin	es-es	Grupo del ordenador
+computer ou	admin	es-es	ou del ordenador
+displayname	sambaadmin	es-es	Nombre en la red
+do you really want to delete selected workstation accounts?	sambaadmin	es-es	¿Realmente desea borrar las cuentas de los ordenadores seleccionados?
+homedrive	admin	es-es	Unidad del usuario
+homepath	sambaadmin	es-es	Ruta del directorio del usuario
+logonscript	admin	es-es	Script de inicio
+new account defaults	admin	es-es	Opciones predeterminadas de nuevas cuentas
+participants	sambaadmin	es-es	Participantes
+path to mkntpwd	admin	es-es	Ruta al fichero de contraseñas
+profilepath	admin	es-es	Ruta al perfil
+samba config	sambaadmin	es-es	Configuración de samba
+samba settings	common	es-es	Opciones de samba
+samba sid	admin	es-es	SID de Samba
+sambaadmin	common	es-es	Administrador de Samba
+smb homepath	admin	es-es	ruta al directorio smb
+workstation account for	sambaadmin	es-es	cuenta de estación de trabajo para
+workstation configuration	sambaadmin	es-es	configuración de la estación de trabajo
+workstation list	sambaadmin	es-es	lista de estaciones de trabajo
+workstation name	sambaadmin	es-es	nombre de la estación de trabajo
+workstationaccount active	sambaadmin	es-es	cuenta de la estación de trabajo activa
+workstations	sambaadmin	es-es	estaciones de trabajo

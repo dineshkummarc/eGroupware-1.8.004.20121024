@@ -1,0 +1,28 @@
+%1 bookmarks have been deleted	bookmarks	vi	%1 th&#7867; &#273;&#225;nh d&#7845;u &#273;&#227; &#273;&#432;&#7907;c x&#243;a
+%1 bookmarks imported from %2 successfully.	bookmarks	vi	%1 th&#7867; &#273;&#225;nh d&#7845;u &#273;&#432;&#7907;c nh&#7853;p xong t&#7915; %2
+(comma separate multiple addresses)	bookmarks	vi	(ph&#226;n c&#225;ch gi&#7919;a c&#225;c &#273;&#7883;a ch&#7881; b&#7857;ng d&#7845;u ph&#7849;y)
+<b>note:</b> this currently works with netscape bookmarks only	bookmarks	vi	<b>l&#432;u &#253;:</b> C&#225;c thao t&#225;c hi&#7879;n th&#7901;i ch&#7881; v&#7899;i th&#7867; &#273;&#225;nh d&#7845;u c&#7911;a Netscape
+all bookmarks	bookmarks	vi	T&#7845;t c&#7843; c&#225;c th&#7867; &#273;&#225;nh d&#7845;u
+and	bookmarks	vi	V&#224;
+append this message to mailed bookmarks	bookmarks	vi	G&#7855;n th&#244;ng &#273;i&#7879;p n&#224;y v&#224;o th&#7867; &#273;&#225;nh d&#7845;u &#273;&#432;&#7907;c e-mail
+ascending	bookmarks	vi	T&#259;ng d&#7847;n
+book marks	common	vi	&#272;&#225;nh d&#7845;u
+bookmark changed sucessfully	bookmarks	vi	Th&#7867; &#273;&#225;nh d&#7845;u &#273;&#227; &#273;&#432;&#7907;c hi&#7879;u ch&#7881;nh xong
+bookmark created successfully.	bookmarks	vi	Th&#7867; &#273;&#225;nh d&#7845;u &#273;&#227; &#273;&#432;&#7907;c t&#7841;o xong
+bookmark deleted successfully	bookmarks	vi	Th&#7867; &#273;&#225;nh d&#7845;u &#273;&#227; &#273;&#432;&#7907;c x&#243;a
+bookmark deleted successfully.	bookmarks	vi	tth&#7867; &#273;&#225;nh d&#7845;u &#273;&#227; &#273;&#432;&#7907;c x&#243;a
+bookmark not editable	bookmarks	vi	Th&#7867; &#273;&#225;nh d&#7845;u kh&#244;ng th&#7875; hi&#7879;u ch&#7881;nh
+bookmark not readable	bookmarks	vi	Th&#7867; &#273;&#225;nh d&#7845;u kh&#244;ng &#273;&#7885;c &#273;&#432;&#7907;c
+bookmarks	common	vi	C&#225;c th&#7867; &#273;&#225;nh d&#7845;u
+bookmarks settings	bookmarks	vi	Thi&#7871;t l&#7853;p cho c&#225;c th&#7867; &#273;&#225;nh d&#7845;u
+change bookmark	bookmarks	vi	Hi&#7879;u ch&#7881;nh th&#7867; &#273;&#225;nh d&#7845;u
+close this window to return	bookmarks	vi	&#273;&#243;ng c&#7917;a s&#7893; n&#224;y &#273;&#7875; quay l&#7841;i
+create bookmark	bookmarks	vi	T&#7841;o th&#7867; &#273;&#225;nh d&#7845;u
+create new bookmark	bookmarks	vi	T&#7841;o th&#7867; &#273;&#225;nh d&#7845;u m&#7899;i
+date added	bookmarks	vi	Ng&#224;y t&#7841;o
+date changed	bookmarks	vi	Ng&#224;y hi&#7879;u ch&#7881;nh
+date last updated	bookmarks	vi	Ng&#224;y c&#7853;p nh&#7853;t g&#7847;n nh&#7845;t
+date last visited	bookmarks	vi	Ng&#224;y xem g&#7847;n &#273;&#226;y nh&#7845;t
+descending	bookmarks	vi	Gi&#7843;m d&#7847;n
+edit bookmark	bookmarks	vi	Hi&#7879;u ch&#7881;nh th&#7867; &#273;&#225;nh d&#7845;u
+edit this bookmark	bookmarks	vi	Hi&#7879;u ch&#7881;nh th&#7867; &#273;&#225;nh d&#7845;u n&#224;y

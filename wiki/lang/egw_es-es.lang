@@ -1,0 +1,111 @@
+(don't offer the possibility)	admin	es-es	No ofrecer la posibilidad
+<em>but</em> display at least this many entries in recentchanges and other subscription lists:	wiki	es-es	<em>Pero</em> mostrar al menos estas entradas en Cambios recientes y otras listas de suscripción:
+add document to category	wiki	es-es	Añadir documento a la categoría
+added	wiki	es-es	Añadido
+administration features are disabled for this wiki.	wiki	es-es	Las características de administración estás desactivadas para este wiki
+admins	wiki	es-es	administradores
+after how many days should old versions of a page be removed (0 for never)	admin	es-es	¿Después de cuántos días deben borrarse las versiones antiguas de una página (0 para nunca)?
+allow anonymous access	admin	es-es	permitir acceso anónimo
+anonymous password	admin	es-es	Contraseña anónimo
+anonymous session type	admin	es-es	Tipo de sesión anónimo
+anonymous username	admin	es-es	usuario anónimo
+automatically convert pages with wiki-syntax to richtext (if edited)?	admin	es-es	¿Convertir páginas automáticamente con sintaxis de wiki a texto enriquecido (si se editan)?
+block	wiki	es-es	Bloquear
+block / unblock hosts	common	es-es	Bloquear / desbloquear máquinas
+blocked ip address ranges	wiki	es-es	Rangos de direcciones IP bloqueadas
+cancel without saving	wiki	es-es	Cancelar sin guardar
+changed	wiki	es-es	Modificada
+changes by last author	wiki	es-es	Cambios por el último autor
+choose your current time here, so the server may figure out what time zone you are in.	wiki	es-es	Elija aquí su hora actual, para que el servidor pueda calcular su zona horaria
+columns	wiki	es-es	Columnas
+compute difference	wiki	es-es	Calcular diferencia
+converts the page to richtext	wiki	es-es	Convierte la página a texto enriquecido
+current version	wiki	es-es	Versión actual
+deleted	wiki	es-es	Borrada
+deletes this page	wiki	es-es	Borra esta página
+difference between versions	wiki	es-es	Diferencia entre versiones
+differences in	wiki	es-es	Diferencias en
+different languages can have different titles	wiki	es-es	Puede haber distintos títulos en distintos idiomas
+document last modified	wiki	es-es	Ultima modificación del documento
+edit box	wiki	es-es	Recuadro de edición
+edit this <em>archive version</em> of this document	wiki	es-es	Editar esta <em>VERSION DEL ARCHIVO</em> de este documento
+edit this document	wiki	es-es	Editar este documento
+edit with preview	admin	es-es	Editar con vista previa
+editable	admin	es-es	editable
+editing	wiki	es-es	Edición de
+emailaddress administrator	admin	es-es	Correo del administrador
+enable free links	admin	es-es	Activar enlaces libres
+enable wiki links	admin	es-es	Activar enlaces wiki
+enter here the maximum number of entries to display in a document's history list.	wiki	es-es	Introduzca aquí el número máximo de entradas para mostrar en el historial de un documento
+enter here the number of days of edits to display on recentchanges or any other subscription list.  set this to zero if you wish to see all pages in recentchanges, regardless of how recently they were edited.	wiki	es-es	Introduzca aquí el número de días de ediciones a mostrar en RecentChanges o cualquier otra lista de suscripción. Ponga a cero si desea ver todas las páginas en RecentChanges, independientemente de si se editaron recientemente.
+enter ip address range in form <tt>12.*</tt>, <tt>34.56.*</tt>, or <tt>78.90.123.*</tt>	wiki	es-es	Introduzca el rango de direcciones IP en formato <tt>12.*</tt>, <tt>34.56.*</tt>, o <tt>78.90.123.*</tt>
+error creating temporary file.	wiki	es-es	Error al crear el fichero temporal
+error writing to temporary file.	wiki	es-es	Error al escribir el fichero temporal
+everyone	wiki	es-es	todos
+find	wiki	es-es	Buscar
+history	wiki	es-es	historial
+history display should show <em>all</em> changes made by the latest author.  otherwise, show only the last change made.	wiki	es-es	El historial debe mostrar <em>todos</em> los cambios realizados por el último autor. De lo contrario, mostrar sólo el último cambio.
+history lists	wiki	es-es	Listas de historial
+history of	wiki	es-es	Historial de
+interwikiprefix	admin	es-es	Prefijo InterWiki
+invalid page name.	wiki	es-es	El nombre de la página no es válido
+load	wiki	es-es	Cargar
+loads the named page in the given language, all change so far get lost !!!	wiki	es-es	Carga la página nombrada en el idioma indicado, por lo que ¡¡todos los cambios se pierden!!
+lock / unlock pages	common	es-es	Bloquear / desbloquear páginas
+locked	wiki	es-es	Bloqueada
+name wiki home link	admin	es-es	nombre del enlace de la página de inicio del wiki
+newer	wiki	es-es	Más reciente
+no never	admin	es-es	No, nunca
+no only on request	admin	es-es	No, sólo si se pide
+not set	wiki	es-es	no especificado
+older	wiki	es-es	Anterior
+on all pages	wiki	es-es	en todas las páginas
+only if browser supports a richtext-editor	admin	es-es	Sólo si el navegador soporta un editor de texto enriquecido
+only on the first page	wiki	es-es	sólo en la primera página
+page '%1' not found !!!	wiki	es-es	¡No se encontró la página '%1'!
+path of the upload directory (has to be writable by the webserver!)	admin	es-es	Ruta al directorio de subir ficheros (el servidor web debe tener derecho de escritura)
+picture upload via richtext editor (leave the upload directory empty to disable the upload)	admin	es-es	Subir ficheros con el editor de texto enriquecido (dejar el directorio de subir en blanco para desactivar)
+please contact the %1administrator%2 for assistance.	wiki	es-es	Por favor, póngase en contacto con el %1Administrator%2 para obtener ayuda.
+preview	wiki	es-es	Vista previa
+preview of current version	wiki	es-es	Vista previa de la versión actual
+rate control / ip blocking disabled	wiki	es-es	El control de transferencia o bloqueo de IP está desactivado
+readable by	wiki	es-es	De lectura para
+readonly	admin	es-es	sólo lectura
+recent changes	wiki	es-es	Cambios recientes
+renames page to the given name and language	wiki	es-es	Renombra la página al nombre e idioma indicados
+richtext	wiki	es-es	Texto enriquecido
+rows	wiki	es-es	Filas
+save the changes and exit	wiki	es-es	Guardar los cambios y salir
+saves and continues editing	wiki	es-es	Guarda y continúa editando
+search for	wiki	es-es	Buscar por
+see complete list (%1 entries)	wiki	es-es	Ver la lista completa (%1 entradas)
+show a search	wiki	es-es	Mostrar una búsqueda
+show the title of the wiki page	wiki	es-es	Mostrar el título de la página del wiki
+summary	wiki	es-es	Resumen
+summary of change	wiki	es-es	Resumen de cambios
+the search returned no result!	wiki	es-es	¡La búsqueda no produjo resultados!
+this page can not be edited.	wiki	es-es	Esta página no se puede editar
+twin pages	wiki	es-es	Páginas gemelas
+unblock	wiki	es-es	Desbloquear
+updates the preview	wiki	es-es	Actualiza la vista previa
+url of the upload directory	admin	es-es	URL del directorio para subir ficheros
+use this module for displaying wiki-pages	wiki	es-es	Use este módulo para mostrar las páginas del wiki
+users	wiki	es-es	usuarios
+view document history	wiki	es-es	Ver el historial del documento
+visit %1 to set your user name	wiki	es-es	Visite %1 para poner su nombre de usuario
+warning: since you started editing, this document has been changed by someone else.  please merge your edits into the current version of this document.	wiki	es-es	Aviso: desde que empezó a editar, este documento ha sido modificado por otra persona. Por favor, mezcle sus cambios en la versión actual de este documento.
+who should be able to edit this page	wiki	es-es	quién debe poder editar esta página
+who should be able to read this page	wiki	es-es	quén debe poder leer esta página
+wiki	common	es-es	Wiki
+wiki administration	wiki	es-es	Administración del wiki
+wiki menu	wiki	es-es	Menú wiki
+wiki startpage	wiki	es-es	Página de inicio del wiki
+writable by	wiki	es-es	De escritura para
+yes always	admin	es-es	Sí, siempre
+yes with navbar	admin	es-es	Sí, con barra de navegación
+you have been denied access to this site.	wiki	es-es	Le ha sido denegado el acceso a este sitio
+you have entered an invalid user name.	wiki	es-es	Ha introducido un nombre de usuario que no es válido
+you have exeeded the number of pages you are allowed to visit in a given period of time. please return later.	wiki	es-es	Ha excedido el número de páginas que se permite visitar durante un período de tiempo. Por favor, vuelva más tarde.
+you have no rights to view wiki content !!!	wiki	es-es	¡No tiene derechos para ver el contenido del wiki!
+your changes	wiki	es-es	Sus modificaciones
+your user name is "%1".	wiki	es-es	Su nombre de usuario es "%1"

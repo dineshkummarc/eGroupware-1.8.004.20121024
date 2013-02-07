@@ -1,0 +1,68 @@
+%1 bookmarks have been deleted	bookmarks	lv	%1 grāmatzīmes tika izdzēstas
+%1 bookmarks imported from %2 successfully.	bookmarks	lv	%1 grāmatzīmes tika veiksmīgi pārvietotas no %2
+(comma separate multiple addresses)	bookmarks	lv	(ar komatu atdalītas )
+<b>note:</b> this currently works with netscape bookmarks only	bookmarks	lv	<b>Piezīme:</b> Strādā tikai ar netscape grāmatzīmēm.
+all bookmarks	bookmarks	lv	Visas grāmatzīmes
+and	bookmarks	lv	Un
+append this message to mailed bookmarks	bookmarks	lv	PIevienot šo ziņojumu  sūtītajām grāmatzīmēm
+ascending	bookmarks	lv	Augošs
+book marks	common	lv	Grāmatzīmes
+bookmark changed sucessfully	bookmarks	lv	Grāmatzīme veiksmīgi nomainīta
+bookmark created successfully.	bookmarks	lv	Grāmatzīme veiksmīgi izveidota
+bookmark deleted successfully	bookmarks	lv	Grāmatzīme veiksmīgi izdzēsta
+bookmark not editable	bookmarks	lv	Grāmatzīme nav rediģējama
+bookmark not readable	bookmarks	lv	Grāmatzīme nav lasāma
+bookmarks	common	lv	Grāmatzīmes
+bookmarks settings	bookmarks	lv	Grāmatzīmes iestatījumi
+change bookmark	bookmarks	lv	Mainīt grāmatzīmi
+close this window to return	bookmarks	lv	aizvērt šo logu, lai atgrieztos
+create bookmark	bookmarks	lv	Izveidot grāmatzīmi
+create new bookmark	bookmarks	lv	Izveidot jaunu grāmatzīmi
+date added	bookmarks	lv	Pievienošanas datums
+date changed	bookmarks	lv	Izmaiņu veikšanas datums
+date last updated	bookmarks	lv	Pēdējo jauninājumu datums
+date last visited	bookmarks	lv	Pēdējais apmeklējuma datums
+descending	bookmarks	lv	Dilstošs
+edit bookmark	bookmarks	lv	Rediģēt grāmatzīmi
+edit this bookmark	bookmarks	lv	Rediģēt šo grāmatzīmi
+export bookmarks	common	lv	Pārsūtīt grāmatzīmes
+fewer	bookmarks	lv	Mazāk
+filter by	bookmarks	lv	FIltrēt pēc
+found a link you might like	bookmarks	lv	Atrast saiti , kura tev varētu patikt
+from	bookmarks	lv	No
+from category %1	bookmarks	lv	no kategorijas %1
+highest	bookmarks	lv	Augstākais
+i thought you would be interested in the following link(s):	bookmarks	lv	Es domāju, tevi varētu interesēt sekojošas saites:
+import bookmarks	common	lv	Importēt grāmatzīmes
+like	bookmarks	lv	kā
+list	bookmarks	lv	Saraksts
+lowest	bookmarks	lv	Zemākais
+mail this bookmark	bookmarks	lv	Sūtīt šo grāmatzīmi
+mail-this-link message sent to %1.	bookmarks	lv	sūtīt-šo-saiti ziņojums aizsūtīts %1.
+message from	bookmarks	lv	Ziņa no
+more	bookmarks	lv	Vēl
+name	bookmarks	lv	Vārds
+name is required	bookmarks	lv	Tiek prasīts vārds
+netscape bookmark file	bookmarks	lv	Netscape grāmatzīmes fails
+netscape bookmark filename is required!	bookmarks	lv	Tiek prasīts Netscape grāmatzīmes faila nosaukums
+new	bookmarks	lv	Jauna
+or	bookmarks	lv	vai
+please fill out <b>to e-mail address</b>, <b>subject</b>, and <b>message</b>!	bookmarks	lv	Lūdzu aizpildi <B>Kam: E-pasta adrese</B>, <B>Temats</B>, un <B>Vēstule</B>!
+please select the categories to export	bookmarks	lv	Lūdzu atzīmē kategorijas, kuras pārsūtīt
+query condition	bookmarks	lv	Pieprasījuma nosacījums
+rating	bookmarks	lv	Skaits
+search for:	bookmarks	lv	Meklēt
+select the format you would like to export to	bookmarks	lv	Atzīmē formātu, kurā vēlies pārsūtīt
+send bookmark	bookmarks	lv	Sūtīt grāmatzīmi
+sub category	bookmarks	lv	Apakšgrupa
+to address %1 invalid. format must be <strong>user@domain</strong> and domain must exist!	bookmarks	lv	Adrese %1 nav derīga. Formātam jābūt <strong>user@domain</strong> un domēnam jāeksistē!
+to e-mail addresses	bookmarks	lv	Uz e-pasta adresēm
+total visits	bookmarks	lv	kopējais apmeklējumu skaits
+tree view	bookmarks	lv	Koka skatījums
+unable to open temp file %1 for import.	bookmarks	lv	nevar atvērt importējamo īslaicīgo datni %1
+url is required.	bookmarks	lv	pieprasīts URL
+view bookmark	bookmarks	lv	Rādīt grāmatzīmes
+view this bookmark	bookmarks	lv	Radīt šo grāmatzīmi
+warning	bookmarks	lv	Brīdinājums
+you are viewing this site outside of egroupware	bookmarks	lv	Tu skaties šo lapu ārpus eGroupWare
+you must select a category	bookmarks	lv	Tev jāizvēlas kategorija

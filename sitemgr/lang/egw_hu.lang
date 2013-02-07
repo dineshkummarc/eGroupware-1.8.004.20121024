@@ -1,0 +1,335 @@
+%1 content manager	sitemgr	hu	%1 tartalom kezelő
+%1 module manager	sitemgr	hu	%1 modul kezelő
+'%1' is no valid sitemgr-site directory !!!	sitemgr	hu	A "%1" nem érvényes sitemgr-site könyvtár !!!
+(do not put spaces or punctuation in the name field.)	sitemgr	hu	(A névmezőbe ne írjon fehér karaktereket vagy írásjeleket.)
+(leave blank to allow insecure logins)	sitemgr	hu	(hagyja üresen a nem biztonságos belépés engedélyezéséhez)
+(only used in case of single file)	sitemgr	hu	(csak egy fájl esetében használatos)
+1 day	common	hu	1 Nap
+1 hour	common	hu	1 Óra
+1 month	common	hu	1 Hónap
+1 week	common	hu	1 Hét
+<b>autoregistration is not enabled / configured in the registration app !!!</b><br>you need to do so, to get the autoregistration link working.	sitemgr	hu	<b>Az auto regisztráció nincs engedélyezve/beállítva a Regisztráció alkalmazásban !!! </b><br>Ahhoz, hogy az automata regisztráció működjön, a fentieket végre kell hajtania.
+a simple picture galery	sitemgr	hu	Egyszerű kép galéria
+actif	sitemgr	hu	Aktív
+actions	sitemgr	hu	Műveletek
+add a category	sitemgr	hu	Kategória hozzáadása
+add a new application	sitemgr	hu	Új alkalmazás hozzáadása
+add a new guestbook	sitemgr	hu	Új vendégkönyv hozzáadása
+add block ...	sitemgr	hu	Blokk hozzáadása...
+add block to content area %1	sitemgr	hu	Blokk hozzáadása a %1
+add category	sitemgr	hu	Kategória hozzáadása
+add new page to this category	sitemgr	hu	Új oldal hozzáadása ehhez a kategóriához
+add page	sitemgr	hu	Oldal hozzáadása
+add page to category	sitemgr	hu	Oldal hozzáadása ehhez a kategóriához
+add website	sitemgr	hu	Website hozzáadása
+administration	sitemgr	hu	Adminisztráció
+administrative menu	sitemgr	hu	Adminisztrációs menü
+administrators	sitemgr	hu	adminisztrátorok
+all available languages	sitemgr	hu	Összes nyelv
+all categories	sitemgr	hu	Összes kategória
+all forums in category %1	sitemgr	hu	Összes fórum a %1 kategóriában
+all languages	sitemgr	hu	összes nyelv
+all sites	sitemgr	hu	Összes webhely
+all words	sitemgr	hu	összes kifejezés
+allignment of navigation elements	sitemgr	hu	Navigációs elemek rendezése
+allow posting of questions	sitemgr	hu	Kérdések feladásának lehetősége
+amazon	sitemgr	hu	Amazon
+amazon server (without www), eg. amazon.com	sitemgr	hu	Amazon szerver (www nélkül), pl. amazon.com
+an application directory	sitemgr	hu	Alkalmazás könyvtár
+anonymous	sitemgr	hu	anonymous
+anonymous user login domain	sitemgr	hu	Anonymus felhasználó belépési tartománya
+anonymous user's password	sitemgr	hu	Anonymous felhasználó jelszava
+anonymous user's username	sitemgr	hu	Anonymous felhasználó felhasználóneve
+any words	sitemgr	hu	Bármely kifejezés
+applet	sitemgr	hu	Kisalkalmazás
+application	sitemgr	hu	Alkalmazás
+application '%1' is not installed !!!<br>please install it, to be able to use the block.	sitemgr	hu	'%1' alkalmazás nincs telepítve!!!<br>Kérem telepítse, hogy a blokk használható legyen.
+apply permissions also to subcategories?	sitemgr	hu	Jogosultságok alkalmazása az alkategóriákra is?
+archived	sitemgr	hu	archivált
+archived content	sitemgr	hu	Archivált tartalom
+are you sure you want to delete site %1 and all its content? you cannot retrieve it if you continue.	sitemgr	hu	Biztosan törölni akarja a %1 website-ot és teljes tartalmát? A törlés után a törölt tartalom nem hozható már vissza.
+are you sure you want to delete the category %1 and all of its associated pages?  you cannot retrieve the deleted pages if you continue.	sitemgr	hu	Biztosan törölni akarja a %1 kategóriát és az összes hozzárendelt lapot/oldalt? A törölt lapokat/oldalakat nem lehet később visszaállítani.
+as	common	hu	mint
+attempt to edit non-editable block	sitemgr	hu	Megkísérel szerkeszteni egy nem szerkeszthető blokkot
+automatic index	sitemgr	hu	Automatikus index
+automatically generated notification	sitemgr	hu	Automatikusan generált értesítés
+back to module manager	sitemgr	hu	Vissza a modulkezelőhöz
+back to the list of languages	sitemgr	hu	Vissza a nyelvek listához
+basic settings	sitemgr	hu	Alapbeállítások
+block not found.	sitemgr	hu	Blokk nem található.
+block reloaded	sitemgr	hu	Blokk újratöltve
+block returned no content.	sitemgr	hu	A blokk nem tartalmaz adatot.
+block saved	sitemgr	hu	Blokk elmentve
+bookmarks	sitemgr	hu	Könyvjelzők
+buy at %1	sitemgr	hu	Itt vásárold meg: %1
+calendar	sitemgr	hu	Naptár
+can't open an url or execute a script, because allow_url_fopen is not set in your php.ini !!!	sitemgr	hu	URL nem nyitható meg vagy nem futtatható a szkript, mert az allow_ur_fopen nincs beállítva a php.ini konfigurációs állományban!!!
+cancel the delete	sitemgr	hu	Törlés visszavonása
+cannot move page until it has been saved.	sitemgr	hu	Amíg nincs elmentve az oldal, nem mozgatható.
+category	sitemgr	hu	Kategória
+category description	sitemgr	hu	Kategória leírás
+category manager	sitemgr	hu	Kategória kezelő
+category name	sitemgr	hu	Kategória név
+category saved	sitemgr	hu	Kategória elmentve
+center	sitemgr	hu	Középre
+changes saved.	sitemgr	hu	Változások elmentve.
+check here after every upgrade	sitemgr	hu	minden frissítés után ellenőrizze itt
+check to hide from condensed site index.	sitemgr	hu	Jelölje be, hogy elrejtse az oldal indexből.
+choose a category	sitemgr	hu	Kategória kiválasztása
+choose a format	sitemgr	hu	Formátum kiválasztása
+choose a guestbook	sitemgr	hu	Vendégkönyv kiválasztása
+choose language	sitemgr	hu	Nyelv választás
+choose template	sitemgr	hu	Sablon kiválasztása
+choose the categories to display	sitemgr	hu	Megjelenítendő kategória kiválasztása
+choose the valid html type (note: not all icons are available):	sitemgr	hu	ÉRVÉNYES HTML típus kiválasztása (megjegyzés: nem érhető el az összes ikon)
+choose your site's theme or template.  note that if you changed the above checkbox you need to save before choosing a theme or template.	sitemgr	hu	Válassza ki a webszájtja témáját vagy sablonját. Figyeljen arra, hogy ha a fenti checkbox értékét megváltoztatta, először el kell mentenie a változtatásoka, mielőtt témát/sablont választ.
+click here to login through a safe connection.	sitemgr	hu	Kattintson ide a biztonságos kapcsolaton keresztüli bejelentkezéshez
+code file	sitemgr	hu	Kód állomány
+codebase url	sitemgr	hu	Kódbázis URL
+collapse threads	sitemgr	hu	Szálak összevonása
+comment	sitemgr	hu	Hozzászólás
+commit changes	sitemgr	hu	Változások elfogadása
+common prefix of the image-name (a number starting with 1 will be appended)	sitemgr	hu	a kép nevének előtagja (az 1-essel kezdődő számozás ehhez lesz hozzáfűzve; pl. egy_kep)
+configure module properties	sitemgr	hu	Modul tulajdonságok beállítása
+configure sitemgr	sitemgr	hu	SiteManager beállítása
+configure website	sitemgr	hu	Weboldal beállítása
+contact the administrator.	sitemgr	hu	Lépjen kapcsolatba az adminisztrátorral.
+content areas	sitemgr	hu	Tartalom területei
+content blocks	sitemgr	hu	Tartalom blokkok
+content blocks for category	sitemgr	hu	Kategória tartalom blokkjai
+content manager	sitemgr	hu	Tartalomkezelő
+contentarea	sitemgr	hu	Tartalom területe
+contributor menu	sitemgr	hu	Külsős Menü
+copyright	sitemgr	hu	Szerzői jog
+create new version	sitemgr	hu	Új verzió készítése
+css styles	sitemgr	hu	CSS stílus
+current section	sitemgr	hu	Aktuális szekció
+custom	sitemgr	hu	Egyedi
+default	sitemgr	hu	Alapértelmezett
+default home page id number	sitemgr	hu	Alapértelmezett honlap ID azonosítója
+define websites	common	hu	Weboldal definiálás
+delete block	sitemgr	hu	Blokk törlése
+delete category	sitemgr	hu	Kategória törlése
+delete page	sitemgr	hu	Lap törlése
+delete this application	sitemgr	hu	Alkalmazás törlése
+delete this block	sitemgr	hu	Blokk törlése
+delete this guestbook	sitemgr	hu	Vendégkönyv törlése
+delete version	sitemgr	hu	Verzió törlése
+deleting all data for %1	sitemgr	hu	%1 összes adatának törlése
+details for language %1 (%2)	sitemgr	hu	%1 (%2) nyelv részletei
+discussions	sitemgr	hu	Megbeszélések
+display link to autoregistration below login form?	sitemgr	hu	Megjelenítse az automatikus regisztrációt a belépési ablak alatt?
+do you realy want to delete the selected categories (including all pages), pages and blocks?	sitemgr	hu	Biztosan törölni kívánja a kiválasztott Kategóriákat (összes lappal együtt), Oldalakat és Blokkokat?
+do you realy want to delete this block?	sitemgr	hu	Valóban törölni akarja ezt a blokkot?
+do you realy want to delete this page?	sitemgr	hu	Valóban törölni akarja ezt a lapot?
+do you want to delete them?	sitemgr	hu	Valóban törölni akarja ezeket?
+documentation	sitemgr	hu	Dokumentáció
+domain-name (offical dns-name eg. www.egroupware.org) if you want to give the user a choice between searching this site or the whole web. leaving it empty allows to search the web only.	sitemgr	hu	Tartomány név (hivatalos DNS név, pl. www.osbusiness.hu) ha a felhasználó meghatározhatja, hogy a weben vagy csak a weboldalon akar keresni. Ha üresen hagyja, akkor csak a teljes weben kereshet.
+don't have an account?	sitemgr	hu	Nincs még belépési azonosítója?
+done	sitemgr	hu	Kész
+download as zip-archiv	sitemgr	hu	letöltés ZIP archívumként
+downloaded	sitemgr	hu	letöltve
+draft	sitemgr	hu	vázlat
+draft mode	sitemgr	hu	Vázlat mód
+edit categories and permissions	common	hu	Kategóriák és jogosultságok szerkesztése
+edit category	sitemgr	hu	Kategória szerkesztése
+edit individual pages	common	hu	Egyéni (egyedi) oldalak szerkesztése
+edit mode	sitemgr	hu	Szerkesztő mód
+edit notification	sitemgr	hu	Értesítés szerkesztése
+edit notification message	sitemgr	hu	Értesítő üzenet szerkesztése
+edit page	sitemgr	hu	Oldal szerkesztése
+edit properties of module %1 for %2 with scope %3	sitemgr	hu	%1 modul tulajdonságainak törlése %2-höz %3-as érvényességi tartománnyal
+edit site	sitemgr	hu	Weboldal szerkesztése
+edit site header and footer	common	hu	Weboldal fejléc és lábléc szerkesztése
+edit this block	sitemgr	hu	Blokk szerkesztése
+edit website	sitemgr	hu	Weboldal szerkesztése
+egw users	sitemgr	hu	egw felhasználók
+element successfully deleted.	sitemgr	hu	Elem törölve.
+email address	sitemgr	hu	Email cím
+enter a name	sitemgr	hu	Név megadása
+enter the block content here	sitemgr	hu	A blokk tartalmának bevitele
+enter the email to be notified about changes of the website.	sitemgr	hu	A honlap változásakor értesítést küldünk a következő email címre:
+enter the email to be notified about changes of the website:	sitemgr	hu	A honlap változásakor értesítést küldünk a következő email címre:
+enter the page content here	sitemgr	hu	Az oldal tartalmának bevitele
+enterprise knowledge articles repository	sitemgr	hu	Vállalati Tudástár
+entry deleted	sitemgr	hu	Bejegyzés törölve
+entry duplicated.	sitemgr	hu	Bejegyzés duplikált.
+entry saved	sitemgr	hu	Bejegyzés elmentve
+entry saved.	sitemgr	hu	Bejegyzés elmentve.
+error accessing page	common	hu	Hiva a lap elérésekor
+error deleting the element.	sitemgr	hu	Hiba az elem törlésekor.
+error deleting the entry!!!	sitemgr	hu	Bejegyzés törlése közben hiba történt!!!
+error saving the entry!!!	sitemgr	hu	Bejegyzés mentése közben hiba történt!!!
+error writing to the database.	sitemgr	hu	Hiba az adatbázis írásakor.
+error writing to the database: %1.	sitemgr	hu	Hiba az adatbázis írásakor: %1.
+everybody	sitemgr	hu	mindenki
+exact phrase	sitemgr	hu	Pontos kifejezés
+expand current category	sitemgr	hu	Aktuális kategória kibontása
+file %1 is not readable by the webserver !!!	sitemgr	hu	%1 állomány nem olvasható a webszerverrel !!!
+file %1 is outside the docroot of the webserver !!!<br>this module does not allow - for security reasons - to open files outside the docroot.	sitemgr	hu	%1 fájl a webszerver dokumentumkönyvtárán kívül van!!!<br>Ez a modul biztonsági okokból nem alkalmas fájlok megnyitására ezen dokumentumkönyvtáron kívül.
+file contents	sitemgr	hu	Fájl tartalom
+file download	sitemgr	hu	Állomány letöltés
+filename	sitemgr	hu	Állománynév
+filesystem path of the directory where xml files are stored	sitemgr	hu	XML fájlok tárolására használt könyvtár fájlrendszer szintű elérési útja (pl. /var/lib/egroupware/xmlfiles)
+filesystem path of the image-directory	sitemgr	hu	Kép könyvtár fájlrendszer szintű elérési útja
+filesystem path to sitemgr-site directory	sitemgr	hu	A 'sitemgr-site' könyvtár fájlrendszer szintű elérési útja
+fill in permissions from parent category? if you check this, below values will be ignored	sitemgr	hu	Jogosultságok beállítása a szülő kategóriából? Ha ezt választja, az lent látható értékek figyelmen kívül maradnak.
+flag symbols	sitemgr	hu	Zászló szimbólumok
+footer editor	sitemgr	hu	Lábléc szerkesztő
+forever	common	hu	Örökké
+forum	sitemgr	hu	Fórum
+full path of the xslt file that should be applied to the xml files	sitemgr	hu	Az XSLT fájl abszolút elérési útja, amely fájlt az XML állományokra alkalmazzuk
+galerie	sitemgr	hu	Képtár
+gallery plus chooser	sitemgr	hu	Galéria és kiválasztó
+gallery plus chooser and download	sitemgr	hu	Galéria kiválasztóval és letöltési lehetőséggel
+gallery plus download	sitemgr	hu	Galéria letölltési lehetőséggel
+go	sitemgr	hu	Menj
+go back to page manager	sitemgr	hu	Visszatérés a Lap menedzserhez
+go back to the category manager.	sitemgr	hu	Visszatérés a kategória menedzserhez
+go to	sitemgr	hu	Ugorj ide
+go to page manager	sitemgr	hu	Ugrás a Lap menedzserhez
+google	sitemgr	hu	Google
+google search	sitemgr	hu	Google keresés
+group access permissions	sitemgr	hu	Csoport elérési jogosultságok
+group name	sitemgr	hu	Csoport neve
+header editor	sitemgr	hu	Fejléc szerkesztő
+headlines	sitemgr	hu	Hírösszefoglaló
+hello	sitemgr	hu	Helló
+hello world	sitemgr	hu	Helló világ
+helps you respect html/xhtml standards.	sitemgr	hu	Segít figyelembe venni a HTML/XHTML szabványokat.
+horizontal	sitemgr	hu	Vízszintes
+html frame	sitemgr	hu	HTML keret
+html module	sitemgr	hu	HTML modul
+i'm sorry, you do not have write permissions for any site categories.	sitemgr	hu	Önnek nincs írási jogosultsága szájt kategóriákhoz.
+id	sitemgr	hu	ID
+if nonsecure redirect to:	sitemgr	hu	Ha nem biztonságos, irányítson ide:
+image type	sitemgr	hu	kép típusa
+implies read permission	sitemgr	hu	olvasási jogosultságot biztosít
+index	sitemgr	hu	Index
+individual access permission	sitemgr	hu	Egyéni hozzáférési jogok
+individual access permissions	sitemgr	hu	Egyéni hozzáférési jogok
+interface to google website	sitemgr	hu	Interfész a google website-jára
+invalid template directory '%1' !!!	sitemgr	hu	'%1' érvénytelen sablon könyvtár !!!
+knowledge base	sitemgr	hu	Tudástár
+language:	sitemgr	hu	Nyelv:
+languages the site user can choose from	sitemgr	hu	A weboldal látogatója milyen nyelvek közül válogathat
+last entries to the guestbook	sitemgr	hu	Utolsó vendégkönyv bejegyzések
+latest reply	sitemgr	hu	Legutolsó üzenetek
+loged in as:	sitemgr	hu	Belépve mint:
+login	sitemgr	hu	Belépés
+login name	sitemgr	hu	Belépési név
+main content	sitemgr	hu	Fő tartalom
+manage archived content	sitemgr	hu	Archivált tartalom kezelése
+manage categories	sitemgr	hu	Kategóriák kezelése
+manage categories and pages	sitemgr	hu	Kategóriák és lapok kezelése
+manage category wide content	sitemgr	hu	Kategóriában érvényes tartalom kezelése
+manage category wide module properties	sitemgr	hu	Kategóriában érvényes modulbeállítások kezelése
+manage content	sitemgr	hu	Tartalom kezelése
+manage modules	sitemgr	hu	Modulok kezelése
+manage notifications	sitemgr	hu	Értesítések kezelése
+manage page specific content	sitemgr	hu	Lap specifikus tartalmak kezelése
+manage pages	common	hu	Lapok kezelése
+manage site content	sitemgr	hu	Weblap tartalom kezelése
+manage site-wide content	sitemgr	hu	Weblapon érvényes tartalmak kezelése
+manage site-wide module properties	sitemgr	hu	Weblapon érvényes modulbeállítások kezelése
+manage translations	sitemgr	hu	Fordítások kezelése
+manange notifications	sitemgr	hu	Értesítések kezelése
+migrating data for %1 to %2	sitemgr	hu	Adatok migrálása innen: %1 ide: %2
+module %1 is not permitted in this context!	sitemgr	hu	%1 modul nem engedélyezett ebben a környezetben!
+module manager	sitemgr	hu	Modulkezelő
+move block down (increase sort order)	sitemgr	hu	Blokk mozgatása lefelé (sorrendben hátrébb kerül)
+move block up (decrease sort order)	sitemgr	hu	Blokk mozgatása felfelé (sorrendben előrébb kerül)
+move to	sitemgr	hu	Mozgatás ide:
+name	sitemgr	hu	Név
+name has been translated to lower case	sitemgr	hu	Név kisbetűsre alakítva
+new application	sitemgr	hu	Új alkalmazás
+new guestbook	sitemgr	hu	Új vendégkönyv
+new sitemgr site	sitemgr	hu	Új Sitemgr webhely
+no additional arguments required	sitemgr	hu	További argumentumokra nincs szükség
+no content areas found in selected template	sitemgr	hu	A kiválasztott sablon nem rendelkezik 'Content'  területtel..
+no content found	sitemgr	hu	Tartalom nem található
+no groups defined.	sitemgr	hu	Nincsenek létrehozva csoportok.
+no link to full index	sitemgr	hu	Teljes indexre hivatkozás elrejtése
+no new modules found !!!	sitemgr	hu	Nem találhatóak új modulok!
+no options available.	sitemgr	hu	Nincsenek elérhető opciók.
+no pages available	sitemgr	hu	Nincsenek elérhető oldalak
+no sitelanguages configured	sitemgr	hu	Nincsenek nyelvek konfigurálva a webhelyhez
+no template file found.	sitemgr	hu	Nem található sablon fájl.
+no templates found.	sitemgr	hu	Nem találhatók sablonok.
+no thumbnail availible	sitemgr	hu	Bélyegkép nem található
+not	common	hu	nem
+on all pages	sitemgr	hu	összes oldalon
+only on the first page	sitemgr	hu	csak az első oldalon
+page	sitemgr	hu	Lap
+page content	sitemgr	hu	Lap tartalom
+page manager	sitemgr	hu	Lap menedzser
+page name	sitemgr	hu	Lap neve
+page saved	sitemgr	hu	Lap elmentve
+page saved.	sitemgr	hu	Lap elmentve.
+page subtitle	sitemgr	hu	Lap alcím
+page title	sitemgr	hu	Lap cím
+pages	sitemgr	hu	Lapok
+pages:	sitemgr	hu	Lapok:
+parent	sitemgr	hu	Szülő
+parent directory	sitemgr	hu	szülő könyvtár
+parent section:	sitemgr	hu	Szülő szekció:
+password	sitemgr	hu	Jelszó
+path	sitemgr	hu	Útvonal
+percentage	sitemgr	hu	Százalék
+plain selectbox	sitemgr	hu	Egyszerű kiválasztódoboz
+previous	sitemgr	hu	Előző
+production mode	sitemgr	hu	Éles mód
+published	sitemgr	hu	Publikálva
+reactivate content	sitemgr	hu	Tartalom újraaktiválása
+read permission	sitemgr	hu	Olvasási jog
+redirection	sitemgr	hu	Átirányítás
+refresh	sitemgr	hu	Frissít
+register new modules	sitemgr	hu	Új modul regisztrálása
+reload	sitemgr	hu	Újratölt
+remember me	common	hu	emlékezz rám
+replies	sitemgr	hu	Válaszok
+required	sitemgr	hu	Szükséges
+required fields	sitemgr	hu	Szükséges mezők
+reset	sitemgr	hu	Alaphelyzet visszaállítása
+save	sitemgr	hu	Mentés
+save block	sitemgr	hu	Blokk mentése
+saved	sitemgr	hu	Elmentve
+scope	sitemgr	hu	Hatókör
+select a category	sitemgr	hu	Kategória kiválasztása
+site	sitemgr	hu	Webhely
+sitemgr	common	hu	SiteManager
+sitemgr-link	common	hu	Webhely
+size	sitemgr	hu	Méret
+state	sitemgr	hu	Állapot
+subcategories	sitemgr	hu	Alkategóriák
+subsections:	sitemgr	hu	Alszekciók:
+subtitle	sitemgr	hu	Alcím
+table of contents	sitemgr	hu	Tartalomjegyzék
+template select	sitemgr	hu	Sablon választás
+text allignment	sitemgr	hu	Szöveg igazítása
+textarea	sitemgr	hu	szövegterület
+title	sitemgr	hu	Cím
+topic	sitemgr	hu	Téma
+translate	sitemgr	hu	Fordítás
+translation status	sitemgr	hu	Fordítások státusza
+unsubscribe	sitemgr	hu	Leiratkozás
+use this module for displaying wiki-pages	sitemgr	hu	Használja ezt a modult a wiki oldalak megjelenítéséhez
+user name	sitemgr	hu	Felhasználó név
+vertical	sitemgr	hu	Függőleges
+viewed	sitemgr	hu	megtekintett
+website	sitemgr	hu	Website
+week	sitemgr	hu	hét
+wiki	sitemgr	hu	Wiki
+wiki startpage	sitemgr	hu	Wiki kezdőoldal
+write permission	sitemgr	hu	Írási jogosultság
+xml browser	sitemgr	hu	XML böngésző
+yes, please delete it	sitemgr	hu	Igen, törölje
+your calendar	sitemgr	hu	Az ön naptárja
+your comment	sitemgr	hu	Az ön hozzászólása
+your connection is not safe.	sitemgr	hu	Az ön kapcsolata nem biztonságos.
+your name	sitemgr	hu	Az ön neve
+before the public web site can be viewed, you must configure the various locations and preferences.  please go to the sitemgr setup page by following this link:	sitemgr-link	hu	Mielőtt a nyilvános webhelyet megtekinthetné, több helyet és tulajdonságot be kell állítania. Kérem lépjen a SiteManager Beállítások oldalára követve a hivatkozást:
+note that you may get this message if your preferences are incorrect.  for example, if config.inc.php is not found in the directory that you specified.	sitemgr-link	hu	Megjegyzendő, hogy azért kaphatta ezt az üzenetet, mert a beállításai között valami hibásan szerepel. Például ha a config.inc.php nem található abban a könyvtárban, amit beállított webhelynek.
+sitemgr setup page	sitemgr-link	hu	SiteManager Beállítások oldala
+you need to make sure the sitemgr-link app is in the egroupware directory.  if you made a symbolic link... it isn't working.	sitemgr-link	hu	Biztosnak kell lenni abban, hogy a sitemgr-link modul az egroupware könyvtárban van. Ha ez egy szimbolikus link...... akkor ez bizony jelenleg nem működik (pedig jó lenne).
+your administrator has not yet setup the web content manager for public viewing.  go bug your administrator to get their butt in gear.	sitemgr-link	hu	Az ön adminisztrátora nem állított be működő webhelyet a nyilvánosság számára. Értesítse az adminisztrátort (és vágatlanul az eredeti, mert jó: "Go bug your administrator to get their butt in gear.")

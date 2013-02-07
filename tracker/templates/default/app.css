@@ -1,0 +1,33 @@
+/* $Id: app.css 25810 2008-07-29 12:40:55Z ralfbecker $ */
+
+.redItalic { color: red; font-style: italic; }
+.noWrap { white-space: nowrap; }
+.overdue,.bold { font-weight: bold; }
+.unseen { font-weight: bold; }
+.seen { font-weight: normal; }
+.leftPad5 { padding-left: 5px; }
+.trIdEdit { padding-left: 10px; }
+.trIdEdit:before { content: "#"; }
+.headertext { color: black; font-size: 120%; }
+.lpadding5 { padding-left: 5px; }
+.redItalic { color: red; font-style: italic; }
+.low,.low_done,.normal,.normal_done,.high,.high_done,.urgent,.urgent_done { font-weight: bold; }
+.low,.low_done { color:#606060; }
+.normal,.normal_done { color:black }
+.high { color:#cc0000; } 
+.high_done { color:#800000; }
+.urgent { color:#ff00ff; } 
+.urgent_done { color:#800080; }
+.overdue { color:#cc0000; font-weight:bold; }
+.private { font-style:italic; }
+.planned { font-style:italic; }
+table.fullWidth { width: 100%; }
+.infoId:before { content:"#" }
+.fixedHeight { line-height: 12px; }
+.noWrap { white-space: nowrap; }
+.user_filter select { width: 150px; }
+.user_select select { width: 230px; }
+.cat_select select  { width: 100%; }
+.status_filter select { width: 100px; }
+.indexPrio:first-letter { font-weight: bold; }
+.inputFullWidth input { width: 100%; }

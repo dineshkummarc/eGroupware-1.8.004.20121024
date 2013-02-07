@@ -1,0 +1,203 @@
+/* read the sitemgr template designer's manual before you read this */
+
+body {
+background-color: white;
+text-align: justify;
+text-justify: ideograph;
+font-size: 10.5pt;
+color: black;
+/* this is for Windows 2K+. Default Chinese Windows font is ugly fixed-width. */
+font-family: "Times New Roman"; 
+}
+
+td {
+/* by common sense td should inherit from body, which is why IE is insane. */
+font-size: 10.5pt;
+}
+
+h1 {
+text-align: center;
+margin: 0px;
+padding: 10px;
+}
+
+img {border: 0px}
+
+ul li {
+list-style: list-style-image;
+list-style-image: url(images/bullet.png);
+line-height: 150%;
+}
+
+/*************************** top bar ***************************************\
+*      logo                                      <h1>header</h1>            *
+*****************************************************************************
+
+************************** content bar **************************************
+*  contentarea_left        contentarea_center                               *
+* +----------------+ +------------------------------+    +----------------+ *
+* |    left_bt     | |         middle_bt            |    |    right_bt    | *
+* |+--------------+| |+----------------------------+|    |+--------------+| *
+* ||   title      || ||                            ||    ||    title     || *
+* ||  content     || ||      <h1>title</h1>        ||    ||   content    || *
+* |+--------------+| ||          ....              ||    |+--------------+| *
+* |    left_bt     | ||    <h3>sub-title</h3>      ||    |    right_bt    | *
+* |+--------------+| ||                            ||    |+--------------+| *
+* ||   title      || ||                            ||    ||    title     || *
+* ||  content     || ||         content            ||    ||   content    || *
+* |+--------------+| ||          ....              ||    |+--------------+| *
+* |    left_bt     | ||          ....              ||    |    right_bt    | *
+* |+--------------+| ||          ....              ||    |+--------------+| *
+* ||   title      || ||                            ||    ||    title     || *
+* ||  content     || ||                            ||    ||   content    || *
+* |+--------------+| |+----------------------------+|    |+--------------+| *
+* +----------------+ +------------------------------+    +----------------+ *
+\***************************************************************************/
+
+/*newly added*/
+.right_bt h3 { 
+	font-size: 12pt;
+	background-color: #f58220;
+	text-align: center;
+	color: white;
+	padding: 10px;
+	margin: 0px;
+}
+
+/* h3 is used by the block title bt */
+.left_bt h3 {
+	margin: 0px;
+	padding: 10px;
+}
+
+.left_bt p { 
+	   padding-left: 1em;
+	   padding-right: 1em;
+	   padding-top: 1em;
+	   color: white;
+	   margin: 0;
+ }
+
+.right_bt p { 
+	padding: 0.5em;
+	text-indent: 2em;
+	text-align: justify;
+	text-justify: ideograph;
+	line-height: 130%;
+}
+/*************/
+
+
+#middle_contentarea_container {
+}
+
+#contentarea_left {
+}
+
+#contentarea_center {
+width: 475px;
+}
+
+#contentarea_right {
+}
+
+.left_bt {
+width:161px;
+background-color: #f58020;
+background-image: url('images/left_bt_right.png');
+background-position: center right;
+background-repeat: repeat-y;
+color: white;
+font-size: 9.5pt;
+}
+
+.left_bt a:link          {color: white; text-decoration: none;}
+.left_bt a:active        {color: white; text-decoration: none;}
+.left_bt a:visited       {color: white; text-decoration: none;}
+.left_bt a:hover         {color: blue; text-decoration: none;}
+
+
+.right_bt {
+width: 150px;
+background-color: white;
+border: 1px solid #f58020;
+font-size: 10pt;
+}
+
+
+/* the middle_bt defined here applies to the major contents of the site */
+
+#middle_bt {
+width: 469px;
+border-left: 1px #f58020 solid;
+border-right: 1px #f58020 solid;
+}
+
+#middle_bt p {
+margin-left: 1em;
+margin-right: 1em;
+line-height: 150%;
+font-size: 10.5pt;
+}
+
+#middle_bt h2 {
+font-family: "黑体", "Arial Unicode MS", "Arial";
+font-size: 14pt;
+font-weight: normal;
+color: #f58220;
+margin: 10px;
+}
+
+#middle_bt ul.reference {
+float:right;
+width: 200px;
+}
+
+#middle_bt ul.reference li{
+list-style-image: none;
+list-style-type: none;
+background: url(images/reference_list-style-image.png) no-repeat center left;
+padding: 5px;
+}
+
+a				{border: 1px ; }
+a:hover         {border: 1px dotted blue; text-decoration: none;}
+
+/* below is from 3D-Fantasy */
+.title 		{BACKGROUND: none; COLOR: #000000; FONT-SIZE: 16px; FONT-WEIGHT: bold; FONT-FAMILY: Verdana, Helvetica; TEXT-DECORATION: none}
+.content 	{
+color: white;
+}
+
+.storytitle 	{BACKGROUND: none; COLOR: #363636; FONT-SIZE: 14px; FONT-WEIGHT: bold; FONT-FAMILY: Verdana, Helvetica; TEXT-DECORATION: none}
+.storycat	{BACKGROUND: none; COLOR: #000000; FONT-SIZE: 14px; FONT-WEIGHT: bold; FONT-FAMILY: Verdana, Helvetica; TEXT-DECORATION: underline}
+.boxtitle 	{BACKGROUND: none; COLOR: #363636; FONT-SIZE: 12px; FONT-WEIGHT: bold; FONT-FAMILY: Verdana, Helvetica; TEXT-DECORATION: none}
+.boxcontent 	{BACKGROUND: none; COLOR: #000000; FONT-SIZE: 12px; FONT-FAMILY: Verdana, Helvetica}
+.option 	{BACKGROUND: none; COLOR: #000000; FONT-SIZE: 14px; FONT-WEIGHT: bold; FONT-FAMILY: Verdana, Helvetica; TEXT-DECORATION: none}
+.tiny		{BACKGROUND: none; COLOR: #000000; FONT-SIZE: 10px; FONT-WEIGHT: normal; FONT-FAMILY: Verdana, Helvetica; TEXT-DECORATION: none}
+
+.rowon TD {
+  BACKGROUND:  #000000; 
+  COLOR: #FFFFFF;
+}
+.rowon A {
+   BACKGROUND:   #000000; 
+  COLOR: #FFFFFF;
+ }
+.rowon A:hover { 
+  BACKGROUND:  #FFFFFF;
+  COLOR: #000000; 
+ }
+
+.rowoff  TD {
+  BACKGROUND: #363636;
+  COLOR: #FFFFFF;
+}
+.rowoff A {
+  BACKGROUND: #363636;
+  COLOR: #FFFFFF;
+ }
+.rowoff A:hover { 
+  BACKGROUND: #FFFFFF; 
+  COLOR: #363636; 
+ }

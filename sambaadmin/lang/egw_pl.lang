@@ -1,0 +1,25 @@
+%1 - %2 of %3	sambaadmin	pl	%1 - %2 z %3
+add workstation	sambaadmin	pl	Dodaj stację roboczą
+check ldap setup (experimental!!!)	admin	pl	Sprawdź stan LDAP (eksperymentalne!!!)
+computer group	admin	pl	Grupa komputera
+computer ou	admin	pl	Ou komputera
+displayname	sambaadmin	pl	Nazwa wyświetlana
+do you really want to delete selected workstation accounts?	sambaadmin	pl	Naprawdę chcesz usunąć zaznaczone konta stacji roboczych?
+homedrive	admin	pl	Dysk twardy
+homepath	sambaadmin	pl	Katalog domowy
+logonscript	admin	pl	Skrypt logowania
+new account defaults	admin	pl	Nowe ustawienia domyślne kont
+participants	sambaadmin	pl	Uczestnicy
+path to mkntpwd	admin	pl	Scieżka do mkntpwd
+profilepath	admin	pl	Scieżka do profilu
+samba config	sambaadmin	pl	Konfiguracja SAMBA
+samba settings	common	pl	Ustawienia SAMBA
+samba sid	admin	pl	SID SAMBA
+sambaadmin	common	pl	SambaAdmin
+smb homepath	admin	pl	Scieżka do katalogu domowego SMB
+workstation account for	sambaadmin	pl	Konto stacji roboczej dla
+workstation configuration	sambaadmin	pl	Konfiguracja stacji roboczej
+workstation list	sambaadmin	pl	Lista stacji roboczych
+workstation name	sambaadmin	pl	Nazwa stacji roboczej
+workstationaccount active	sambaadmin	pl	Konto stacji roboczej aktywne
+workstations	sambaadmin	pl	Stacje robocze

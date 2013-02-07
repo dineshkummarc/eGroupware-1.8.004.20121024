@@ -1,0 +1,90 @@
+(don't offer the possibility)	admin	lv	(nepiedāvā iespēju)
+add document to category	wiki	lv	Pievienot dokumentu kategorijai
+added	wiki	lv	Pievienots
+administration features are disabled for this wiki.	wiki	lv	Administratīvās iespējas nav atļautas šim wiki
+admins	wiki	lv	administratori
+allow anonymous access	admin	lv	atļauj anonīmu piekļuvi
+anonymous password	admin	lv	Anonīmā parole
+anonymous session type	admin	lv	Anonīmās sesijas tips
+anonymous username	admin	lv	anonīmais lietotājvārds
+automatically convert pages with wiki-syntax to richtext (if edited)?	admin	lv	Automātiski pārveidot wiki-sintakses lapas uz RTF(ja rediģēts)
+block	wiki	lv	Bloks
+block / unblock hosts	common	lv	Bloķēt/ atbloķēt hostu
+blocked ip address ranges	wiki	lv	Bloķēt IP adreses rangus
+cancel without saving	wiki	lv	Atcelt bez saglabāšanas
+changed	wiki	lv	Mainīts
+choose your current time here, so the server may figure out what time zone you are in.	wiki	lv	Izvēlies konkrēto laiku šeit, lai serveris varētu noteikt, kurā laika zonā tu esi.
+columns	wiki	lv	Kolonnas
+compute difference	wiki	lv	Izskaitļot atšķirības
+converts the page to richtext	wiki	lv	Pārveido šo lapu RTF
+current version	wiki	lv	Patreizējā versija
+deleted	wiki	lv	Izdzēsts
+deletes this page	wiki	lv	Izdzēst šo lapu
+difference between versions	wiki	lv	Atšķirības starp versijām
+differences in	wiki	lv	Atšķirības
+different languages can have different titles	wiki	lv	dažādās valodās virsralsti var atšķirties
+document last modified	wiki	lv	Dokuments pēdējo reizi mainīts
+edit this <em>archive version</em> of this document	wiki	lv	Rediģēt <em>ARHĪVA VERSIJA</em> šim dokumentam
+edit this document	wiki	lv	Rediģēt šo dokumentu
+edit with preview	admin	lv	Rediģēt ar iepriekšapskati
+editable	admin	lv	rediģējams
+editing	wiki	lv	Rediģē
+emailaddress administrator	admin	lv	E-pasta adreses administrators
+enable free links	admin	lv	Atļaut brīvās saites
+enable wiki links	admin	lv	Atļaut wiki saites
+enter here the maximum number of entries to display in a document's history list.	wiki	lv	Norādi maksimālo ierakstu skaitu, ko parādīt dokumenta vēstures sarakstā
+enter ip address range in form <tt>12.*</tt>, <tt>34.56.*</tt>, or <tt>78.90.123.*</tt>	wiki	lv	Ievadi IP adreses rindu šāda formā  <tt>12.*</tt>, <tt>34.56.*</tt>, or <tt>78.90.123.*</tt>
+error creating temporary file.	wiki	lv	Kļūda veidojot īslaicīgās datnes
+error writing to temporary file.	wiki	lv	Kļūda rakstot īslaicīgajā datnē
+everyone	wiki	lv	ikviens
+find	wiki	lv	meklēt
+history	wiki	lv	vēsture
+history display should show <em>all</em> changes made by the latest author.  otherwise, show only the last change made.	wiki	lv	Vēsturei būtu jāparāda <em>visas</em>izmaiņas, ko veicis pēdējais lietotājs. Citādāk, rā�īs tikai pēdējās veiktās izmaiņas
+history lists	wiki	lv	Vestures saraksts
+history of	wiki	lv	Vesture
+invalid page name.	wiki	lv	Nederīgs lapas nosaukums
+load	wiki	lv	Ielādēt
+loads the named page in the given language, all change so far get lost !!!	wiki	lv	Ielādē nosaukto lapu dotajā valodā, visas līdz šim veiktas izmaiņas tiek pazaudētas!!!
+lock / unlock pages	common	lv	Slēgt/ atvērt lapas
+locked	wiki	lv	Slēgts
+name wiki home link	admin	lv	nosauc wiki mājas saiti
+newer	wiki	lv	Nekad
+no never	admin	lv	Nē, nekad
+no only on request	admin	lv	Nē, tikai pēc pieprasījuma
+not set	wiki	lv	nav uzstādīts
+older	wiki	lv	Vecāks
+only if browser supports a richtext-editor	admin	lv	Tikai, ja pārlūks atbalsta RTF redaktoru
+please contact the %1administrator%2 for assistance.	wiki	lv	Pēc palīdzības sazinies ar%1administratoru%2
+preview	wiki	lv	Priekšskatījums
+preview of current version	wiki	lv	Priekšskatīt esošo versiju
+rate control / ip blocking disabled	wiki	lv	Novērtēt kontroli/ IP bloķēšana nav atļauta
+readable by	wiki	lv	Lasāms
+readonly	admin	lv	tikai lasāms
+recent changes	wiki	lv	Nesenās izmaiņas
+renames page to the given name and language	wiki	lv	Pārsauc lapu dotajā nosaukumā un valodā
+richtext	wiki	lv	RTF
+rows	wiki	lv	Rindas
+save the changes and exit	wiki	lv	Saglabā izmaiņas un iziet
+saves and continues editing	wiki	lv	Saglaba un turpina rediģēšanu
+see complete list (%1 entries)	wiki	lv	Skatīt pabeigto sarakstu(%1 ieraksti)
+summary	wiki	lv	Kopsavilkums
+summary of change	wiki	lv	Izmaiņu kopsavilkums
+this page can not be edited.	wiki	lv	Šī lapa nevar tikt rediģēta
+twin pages	wiki	lv	Pāra lapas
+unblock	wiki	lv	Atbloķēt
+updates the preview	wiki	lv	Atjaunina priekšskatījumu
+users	wiki	lv	lietotāji
+view document history	wiki	lv	Rādīt dokumentu vēsturi
+visit %1 to set your user name	wiki	lv	Apmeklē %1, lai uzstādītu savu lietotājvārdu
+warning: since you started editing, this document has been changed by someone else.  please merge your edits into the current version of this document.	wiki	lv	Brīdinājums: kopš tu sāki rediģēt, šo dokumentu nomainīja kads cits. Lūdzu pavieno savus labojumus konkrētajai šai dokumenta versijai
+who should be able to edit this page	wiki	lv	kam vajadzētu rediģēt šo lapu?
+who should be able to read this page	wiki	lv	kam vajadzētu lasīt šo lapu?
+wiki	common	lv	Wiki
+wiki administration	wiki	lv	Wiki administrācija
+wiki menu	wiki	lv	Wiki izvēlne
+writable by	wiki	lv	Rakstāms ar
+yes always	admin	lv	Jā, vienmēr
+you have been denied access to this site.	wiki	lv	Tev liegta pieeja šai vietnei
+you have entered an invalid user name.	wiki	lv	Tu esi ievadījis nederīgu lietotājvardu
+your changes	wiki	lv	Tavas izmaiņas
+your user name is "%1".	wiki	lv	Tavs lietotājvārds ir "%1".

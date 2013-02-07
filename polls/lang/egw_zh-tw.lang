@@ -1,0 +1,39 @@
+actions	polls	zh-tw	動作
+add answer to poll	polls	zh-tw	新增投票的答案項目
+add answers	polls	zh-tw	新增答案項目
+add new poll question	polls	zh-tw	新增投票議題
+add questions	polls	zh-tw	新增議題
+administrators	polls	zh-tw	管理者
+allow users to vote more then once	polls	zh-tw	允許使用者複選
+allways use latest poll	polls	zh-tw	總是使用最新投票
+answer	polls	zh-tw	答案項目
+answer has been added to poll	polls	zh-tw	投票答案項目已經新增
+answer has been updated	polls	zh-tw	答案項目已經更新
+answers	polls	zh-tw	答案項目
+are you sure want to delete this answer ?	polls	zh-tw	您確定要刪除這個答案項目？
+are you sure want to delete this question ?	polls	zh-tw	您確定要刪除這個議題？
+current poll	polls	zh-tw	目前投票
+edit answer	polls	zh-tw	編輯答案項目
+edit poll question	polls	zh-tw	編輯投票議題
+egroupware users (non-anonymous)	polls	zh-tw	eGroupWare使用者（非匿名者）
+enter poll question	polls	zh-tw	輸入投票議題
+everyone incl. anonymous users	polls	zh-tw	所有人（包含匿名使用者）
+new poll has been added.  you should now add some answers for this poll	polls	zh-tw	新的投票已經新增，您必須為這個投票議題新增一些答案項目
+noone	polls	zh-tw	無
+poll question	polls	zh-tw	投票議題
+poll votable by	polls	zh-tw	可投票者
+polls	common	zh-tw	投票
+question has been updated	polls	zh-tw	議題已經更新
+result visible to	polls	zh-tw	可檢視結果者
+select current poll	polls	zh-tw	選擇目前的投票
+settings updated	polls	zh-tw	設定更新
+show answers	polls	zh-tw	顯示答案項目
+show questions	common	zh-tw	顯示議題
+total votes	polls	zh-tw	總數
+view poll	polls	zh-tw	瀏覽投票
+view results	polls	zh-tw	瀏覽結果
+vote	polls	zh-tw	投票
+voting booth admin	admin	zh-tw	投票站
+voting booth administration	polls	zh-tw	投票站管理
+which poll	polls	zh-tw	哪個投票
+you are not (yet) allowed view the result of this vote.	polls	zh-tw	您目前不被允許檢視投票結果。

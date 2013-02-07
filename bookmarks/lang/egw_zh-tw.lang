@@ -1,0 +1,75 @@
+%1 bookmarks have been deleted	bookmarks	zh-tw	%1個網站連結被刪除了
+%1 bookmarks imported from %2 successfully.	bookmarks	zh-tw	%1個網站連結成功的從%2匯入
+(comma separate multiple addresses)	bookmarks	zh-tw	(逗點分隔檔案)
+<b>note:</b> this currently works with netscape bookmarks only	bookmarks	zh-tw	<b>注意：</b> 這個功能目前只能夠在netscape的網站連結中使用
+all bookmarks	bookmarks	zh-tw	所有的網站連結
+and	bookmarks	zh-tw	且
+append this message to mailed bookmarks	bookmarks	zh-tw	在轉寄的網站連結中附加這個訊息
+ascending	bookmarks	zh-tw	小到大
+book marks	common	zh-tw	網站連結
+bookmark changed sucessfully	bookmarks	zh-tw	網站連結修改完成
+bookmark created successfully.	bookmarks	zh-tw	網站連結建立完成
+bookmark deleted successfully	bookmarks	zh-tw	網站連結刪除完成
+bookmark deleted successfully.	bookmarks	zh-tw	網站連結刪除完成
+bookmark not editable	bookmarks	zh-tw	無法編輯網站連結
+bookmark not readable	bookmarks	zh-tw	無法讀取網站連結
+bookmarks	common	zh-tw	網站連結
+bookmarks settings	bookmarks	zh-tw	網站連結設定
+change bookmark	bookmarks	zh-tw	修改網站連結
+close this window to return	bookmarks	zh-tw	關閉這個視窗並且返回
+create bookmark	bookmarks	zh-tw	建立網站連結
+create new bookmark	bookmarks	zh-tw	建立新網站連結
+date added	bookmarks	zh-tw	新增日期
+date changed	bookmarks	zh-tw	修改日期
+date last updated	bookmarks	zh-tw	最後更新日期
+date last visited	bookmarks	zh-tw	最後點選日期
+descending	bookmarks	zh-tw	大到小
+edit bookmark	bookmarks	zh-tw	編輯網站連結
+edit this bookmark	bookmarks	zh-tw	編輯這個網站連結
+enter the name of the netscape bookmark file<br>that you want imported into bookmarker below.	bookmarks	zh-tw	請在下面輸入您希望匯入的Netscape網站連結檔案名稱
+export bookmarks	common	zh-tw	匯出網站連結
+fewer	bookmarks	zh-tw	較少
+filter by	bookmarks	zh-tw	排序
+found a link you might like	bookmarks	zh-tw	找一個您或許喜歡的連結
+from	bookmarks	zh-tw	從
+from category %1	bookmarks	zh-tw	從資料夾%1
+global categories	bookmarks	zh-tw	全域類別
+highest	bookmarks	zh-tw	最高
+i thought you would be interested in the following link(s):	bookmarks	zh-tw	我猜您或許會喜歡下面這個(些)連結：
+import bookmarks	common	zh-tw	匯入網站連結
+like	bookmarks	zh-tw	如
+list view	bookmarks	zh-tw	列表
+lowest	bookmarks	zh-tw	最低
+mail this bookmark	bookmarks	zh-tw	轉寄此網站連結
+mail-this-link message sent to %1.	bookmarks	zh-tw	郵寄這個連結的訊息給 %1。
+mass update:	bookmarks	zh-tw	訊息更新：
+message from	bookmarks	zh-tw	來自
+more	bookmarks	zh-tw	更多
+name	bookmarks	zh-tw	姓名
+name is required	bookmarks	zh-tw	姓名是必填欄位
+netscape bookmark file	bookmarks	zh-tw	Netscape 網站連結檔案
+netscape bookmark filename is required!	bookmarks	zh-tw	必須填寫Netscape 網站連結檔案名稱！
+new	bookmark	zh-tw	新增
+new bookmark	bookmarks	zh-tw	新增網站連結
+or	bookmarks	zh-tw	或
+please fill out <b>to e-mail address</b>, <b>subject</b>, and <b>message</b>!	bookmarks	zh-tw	請填入<B>收件人 E-Mail </B>, <B>主題</B>與<B>訊息內容</B>！
+please select the categories to export	bookmarks	zh-tw	請選擇要匯出的類別
+query condition	bookmarks	zh-tw	搜尋條件
+rating	bookmarks	zh-tw	評分
+search for:	bookmarks	zh-tw	搜尋：
+select the format you would like to export to	bookmarks	zh-tw	請選擇您希望匯出的格式
+send bookmark	bookmarks	zh-tw	傳送網站連結
+sub category	bookmarks	zh-tw	子類別
+to address %1 invalid. format must be <strong>user@domain</strong> and domain must exist!	bookmarks	zh-tw	%1 位址錯誤，格式必須是<strong>user@domain</strong>，且網域名稱必須存在！
+to e-mail addresses	bookmarks	zh-tw	收件人E-Mail
+to which category should the imported folder hierarchy be attached	bookmarks	zh-tw	匯入的資料夾應該附屬在哪個類別下
+total visits	bookmarks	zh-tw	參觀次數
+tree view	bookmarks	zh-tw	樹狀檢視
+unable to open temp file %1 for import.	bookmarks	zh-tw	無法開啟暫存檔案%1匯入。
+url is required.	bookmarks	zh-tw	網址是必填欄位
+view bookmark	bookmarks	zh-tw	瀏覽網站連結
+view this bookmark	bookmarks	zh-tw	瀏覽這個網站連結
+warning	bookmarks	zh-tw	注意
+you are viewing this site outside of egroupware	bookmarks	zh-tw	您正在瀏覽egroupWare以外的網站
+you must select a category	bookmarks	zh-tw	您必須選取一個類別
+you need to select a category!	bookmarks	zh-tw	您必須選取一個類別！

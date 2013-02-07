@@ -1,0 +1,69 @@
+%1 entries updated.	tracker	hu	%1 bejegyzés frissítve.
+--> enter new name	tracker	hu	-> Adjon meg új nevet
+1 - lowest	tracker	hu	1 - legalacsonyabb
+5 - medium	tracker	hu	5 - közepes
+9 - highest	tracker	hu	9 - legmagasabb
+accepted	tracker	hu	Elfogadva
+actions	tracker	hu	Műveletek
+add comment	tracker	hu	Megjegyzés hozzáadása
+after how many days a not replied item should be marked overdue?	tracker	hu	A nem megválaszolt bejegyzést hány nap után jelöljük Lejártnak?
+after how many days pending items should be closed automatic	tracker	hu	A függőben lévő bejegyzést hány nap után zárjuk le automatikusan?
+allow bounties	tracker	hu	Pénzjutalom engedélyezve
+allow editing by	tracker	hu	Szerkeszthető általa:
+allow to assign groups to tracker items	tracker	hu	Tracker bejegyzések csoportokhoz rendelhetősége engedélyezve
+allow voting	tracker	hu	Szavazás engedélyezve
+allow voting on tracker items, show and sort after the votes	tracker	hu	Engedélyezi a Tracker bejegyzésekre szavazást, megjelenítést és rendezést a szavazás szerint
+amount	tracker	hu	Mennyiség
+assigned to	tracker	hu	Megbízva
+assigning groups	tracker	hu	Csoportokhoz rendelés
+attachments & links	tracker	hu	Mellékletek és hivatkozások
+autoassign to	tracker	hu	Auto hozzárendelés
+bounties	tracker	hu	Pénzjutalmak
+bounty confirmed	tracker	hu	Pénzjutalom megerősítve
+bounty deleted	tracker	hu	Pénzjutalom törölve
+bounty set	tracker	hu	Pénzjutalom beállítása
+canned response	tracker	hu	Instant válasz
+canned responses	tracker	hu	Instant válaszok
+categories, versions, canned responses	tracker	hu	Kategóriák, verziók, instant válaszok
+check all	tracker	hu	Összes kijelölése
+close pending	tracker	hu	Függő tétel lezárása
+closed	tracker	hu	Lezárt
+comment by %1 at %2:	tracker	hu	%1 megjegyzése ekkor %2:
+comments	tracker	hu	Megjegyzések
+completed	tracker	hu	Teljesítve
+configuration	tracker	hu	Konfiguráció
+configuration for all trackers	tracker	hu	Összes Tracker sor konfigurálása
+configuration updated.	tracker	hu	Konfiguráció frissítve.
+configuration, acl, notifications	tracker	hu	Konfiguráció, ACL, Értesítések
+confirm that you pay the specified bounty to implement or fix the issue	tracker	hu	Erősítse meg, hogy hajlandó kifizetni a jutalmat a megvalósításért vagy a hiba kijavításáért
+confirm the receipt of money for this bounty	tracker	hu	Erősítse meg a pénz átvételét ehhez a pénzjutalomhoz
+copy to	tracker	hu	Másold ide:
+create new links	tracker	hu	Új hivatkozások létrehozása
+created	tracker	hu	Létrehozva
+date opened	tracker	hu	Megnyitás dátuma
+delete this category	tracker	hu	Kategória törlése
+deleted	tracker	hu	Törölt
+duplicate	tracker	hu	Duplikál
+e-mail notifications	tracker	hu	Email értesítés
+edit %1	tracker	hu	%1 szerkesztése
+entry saved	tracker	hu	Bejegyzés elmentve
+error saving the entry!!!	tracker	hu	Hiba történt a bejegyzés mentése közben !!!
+everybody	tracker	hu	Mindenki
+existing links	tracker	hu	Létezõ hivatkozások
+field	tracker	hu	Mező
+history	tracker	hu	Történet
+id	tracker	hu	Azonosító
+invalid	tracker	hu	Érvénytelen
+last modified	tracker	hu	Utolsó módosítás
+later	tracker	hu	Később
+new %1	tracker	hu	Új %1
+new items	tracker	hu	Új tételek
+no change	tracker	hu	Nincs változás
+open	tracker	hu	Nyitott
+pending	tracker	hu	Függőben
+permission denied !!!	tracker	hu	Hozzáférés megtagadva!
+rejected	tracker	hu	Elutasított
+remind	tracker	hu	Emlékeztető
+resolution	tracker	hu	Határozat
+state	tracker	hu	Állapot
+summary	tracker	hu	Összefoglaló

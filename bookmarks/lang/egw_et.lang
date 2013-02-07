@@ -1,0 +1,59 @@
+all bookmarks	bookmarks	et	Kõik järjehoidjad
+and	bookmarks	et	Ja
+ascending	bookmarks	et	Kasvav
+bookmark changed sucessfully	bookmarks	et	JärJärjehoidja on täielikult muudetud.
+bookmark created successfully.	bookmarks	et	JärJärjehoidja on täielikult tehtud.
+bookmark deleted successfully	bookmarks	et	järjehoidja on täielikult kustutatud.
+bookmark deleted successfully.	bookmarks	et	järjehoidja täielikult kustutatud.
+bookmark not editable	bookmarks	et	Järjehoidja pole muudetav
+bookmark not readable	bookmarks	et	Järjehoidja pole loetav
+bookmarks	common	et	Järjehoidjad
+bookmarks settings	bookmarks	et	Järjehoidjate setingud
+change bookmark	bookmarks	et	Muuda järjehoidjat
+close this window to return	bookmarks	et	sule see agen tagasiminekuks
+create bookmark	bookmarks	et	Tee järjehoidja
+create new bookmark	bookmarks	et	Tee uus järjehoidja
+date added	bookmarks	et	Kuupäev lisatud
+date changed	bookmarks	et	Kuupäev muudetud
+date last updated	bookmarks	et	Kuupäev viimati uuendatud
+date last visited	bookmarks	et	Kuupäev viimati külastatud
+descending	bookmarks	et	Kahanev
+edit bookmark	bookmarks	et	Muuda järjehoidjat
+edit this bookmark	bookmarks	et	Muuda seda järjehoidjat
+export bookmarks	common	et	Ekspordi järjehoidjad
+fewer	bookmarks	et	Vähem
+filter by	bookmarks	et	Filtreeri
+found a link you might like	bookmarks	et	Leidsin järjehoida mis võibolla meeldib
+global categories	bookmarks	et	Globaalsed Kategooriad
+highest	bookmarks	et	Kõrgeim
+import bookmarks	common	et	Impordi järjehoidjad
+like	bookmarks	et	nagu
+list view	bookmarks	et	nimekirjavaade
+lowest	bookmarks	et	Madalaim
+mail this bookmark	bookmarks	et	Maili see järjehoidja
+mass update:	bookmarks	et	Massiline uuendamine:
+more	bookmarks	et	Rohkem
+name	bookmarks	et	Nimi
+name is required	bookmarks	et	Nimi on nõutav
+netscape bookmark file	bookmarks	et	Netskape järjehoidja fail
+netscape bookmark filename is required!	bookmarks	et	Netskape järjehoidja failinimi on nõutav!
+new	bookmark	et	Uus
+new bookmark	bookmarks	et	uus järjehoidja
+or	bookmarks	et	või
+please select the categories to export	bookmarks	et	Palun vali kategooriad mida eksportida
+rating	bookmarks	et	Reiting
+search for:	bookmarks	et	Otsi:
+select the format you would like to export to	bookmarks	et	Vali formaat millesse soovid eksportida
+send bookmark	bookmarks	et	Saada järjehoidja
+site configuration	bookmarks	et	Lehe Konfiguratsioon
+sub category	bookmarks	et	Alam-kategooria
+total visits	bookmarks	et	kokku külastusi
+tree view	bookmarks	et	Puuvaade
+unable to open temp file %1 for import.	bookmarks	et	Ei saa avada temp faili %1 impordijaoks.
+url is required.	bookmarks	et	URL on nõutav.
+view bookmark	bookmarks	et	Vaata järjehoidjat
+view this bookmark	bookmarks	et	Vaata seda järjehoidjat
+warning	bookmarks	et	Ettevaatust
+you are viewing this site outside of egroupware	bookmarks	et	Sa vaatad seda lehte väljaspool eGroupWare
+you must select a category	bookmarks	et	Sa pead valima kategooria
+you need to select a category!	bookmarks	et	Vajalik on valida kategooria !

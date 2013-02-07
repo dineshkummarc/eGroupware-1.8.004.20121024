@@ -1,0 +1,89 @@
+<li>the client wins and overwrites the server data.</li><li>the server wins and overwrites the client data (default). </li><li>duplicate entries are created from both versions.</li>	syncml	es-es	<li>El cliente gana y sobreescribe los datos del servidor.</li><li>El servidor gana y sobreescribe los datos del cliente (predeterminado). </li><li>Las entradas duplicadas se crean desde ambas versiones.</li>
+a duplicate infolog entry from a synchronization conflict will be assigned to this category.	syncml	es-es	Una entrada del registro duplicada desde un conflicto de sincronización se asignará a esta categoría.
+accepted	syncml	es-es	Acceptado
+addressbook conflict category	syncml	es-es	Categoría para conflictos de la libreta de direcciones
+addressbook synchronization options	syncml	es-es	Opciones de sincronización de la libreta de direcciones
+all incl. rejected	syncml	es-es	Todos, inluyendo los rechazados
+auto	syncml	es-es	auto
+calendar	common	es-es	Calendario
+calendar conflict category	syncml	es-es	Categoría para conflictos del calendario
+calendar filter	syncml	es-es	Filtro del calendario
+calendar future period	syncml	es-es	Período futuro del calendario
+calendar history period	syncml	es-es	Período histórico del calendario
+calendar synchronization options	syncml	es-es	Opciones de sincronización del calendario
+caltasks	syncml	es-es	Tareas del calendario
+card	syncml	es-es	tarjeta
+categories for conflict duplicates	syncml	es-es	Categorías para duplicados con conflicto
+client configuration	syncml	es-es	Configuración del cliente
+client wins	syncml	es-es	El cliente gana
+conflict categories for egroupware data types	syncml	es-es	Categorías de conflicto para tipos de datos de EGroupware
+conflict handling and server r/o options	syncml	es-es	Gestión de conflictos y opciones de R/O del servidor
+contacts	syncml	es-es	contactos
+content type	syncml	es-es	Tipo de contenido
+datastore name	syncml	es-es	nombre del almacén
+deny explicitly disabled devices	syncml	es-es	Denegar los servicios desactivados explícitamente
+deny unkown devices	syncml	es-es	Denegar los dispositivos denegados
+device history	common	es-es	Historial del dispositivo
+device specific settings	syncml	es-es	Configuración específica del dispositivo
+do you really want to delete the synchonization history of the selected datastores?	syncml	es-es	¿Desea realmente borrar el historial de la sincronización de los almacenes seleccionados?
+do you really want to delete the synchonization history of the selected devices?	syncml	es-es	¿Desea realmente borrar el historial de la sincronización de los dispositivos seleccionados?
+documentation	common	es-es	Documentación
+egroupware application	syncml	es-es	Aplicación de EGroupware
+enforce server	syncml	es-es	Forzar el servidor
+events	syncml	es-es	eventos
+events from selected calendars will be synchronized.	syncml	es-es	Se sincronizarán los eventos de los calendarios seleccionados.
+for <b>max entries</b> = 0 either <i>maxmsgsize</i> will be used or the default value 10.<br/>	syncml	es-es	Para <b>las extradas máximas</b> que sean igual a 0 o para el <i>tamaño máximo del mensaje</i> se usará el valor predeterminado, 10.<br/>
+for <b>max entries</b> = 0 either <i>maxmsgsize</i> will be used or the default value 10.<br/>with <b>non blocking allday events</b> set allday events will be nonblocking when imported from this device.<br/>the <b>uid extension</b> enables the preservation of vcalandar uids by appending them to <i>description</i> field for this device.<br/>the selected <b>time zone</b> is used for calendar event syncronization with the device. if not set, the timezones of the events are used.	syncml	es-es	Para <b>las extradas máximas</b> que sean igual a 0 o para el <i>tamaño máximo del mensaje</i> se usará el valor predeterminado, 10.<br/>Con los <b>Eventos que no bloquean y que duran todo el día</b> activos, los eventos que duran todo el día no bloquearán cuando se importen desde este dispositivo.<br/>La <b>extensión UID</b> activa la preservación de UIDs de calendario añadiéndolos al campo <i>Descripción</i> para este dispositivo.<br/>La <b>zona horaria</b> seleccionada se utiliza para la sincronización de eventos de calendario con el dispositivo. Si no está establecida, se usan las zonas horarias de los eventos.
+if enabled, egroupware will allow only devices which are allowed by the administrator.	syncml	es-es	Si se activa, EGroupware sólo permitirá los dispositivos permitidos por el administrador.
+if enabled, egroupware will ignore the mapping information of fromer sync-sessions during slowsyncs.	syncml	es-es	Si se activa, EGroupware ignorará la información de mapeo de anteriores sesiones de sincronización durante sincronizaciones lentas.
+if you select <b>duplicates</b> as conflict resolution, you may want to assign a certain <b>category</b> for these data items. if egroupware detects a collision, it will assign the old server item to the selected <i>conflict category</i> and replace the original item with the clients content.	syncml	es-es	Si se selecciona <b>duplicados</b> como solución del conflicto, puede desear asignar una determinada <b>categoría</b> para los datos de estos elementos. Si EGroupware detecta una colisión, asignará el elemento del servidor a la <i>categoría de conflicto</i> seleccionada y sustituirá el elemento original con el contenido del cliente.
+ignore client	syncml	es-es	Ignorar cliente
+infolog conflict category	syncml	es-es	Categoría de conflicto de registro
+items are changed on both &mdash; server and client side &mdash; before the next synchronization, this is called a conflict situation. you can configure the conflict handling of egroupware for every target individually. there are three different ways to handle colliding client changes:<br>	syncml	es-es	Los elementos se modifican tanto en el servidor como en el cliente antes de la siguiente sincronización, lo que se llama una situación de conflicto. Puede configurar la gestión de conflictos de EGroupware individualmente para cada destino. Hay tres formas distintas de gestionar los cambios de cliente con colisión:<br>
+jobs	syncml	es-es	trabajos
+merge data	syncml	es-es	Mezclar datos
+minimum accepted uid length	syncml	es-es	Longitud mínima aceptada del UID
+minimum uid length	syncml	es-es	Longitud mínima del UID
+not rejected	syncml	es-es	No rechazado
+note synchronization options	syncml	es-es	Opciones de sincronización para notas
+notes	syncml	es-es	notas
+notes (infolog)	syncml	es-es	Notas (registro)
+only entries from this addressbook (and the above list) will be synchronized.	syncml	es-es	Sólo se sincronizarán las entradas de esta libreta de direcciones (y la lista de arriba).
+only events matching this filter criteria will be synchronized.	syncml	es-es	Sólo se sincronizarán los eventos que cumplan con los criterios del filtro.
+only events up to this number of seconds in the future will be synchonized (65000000 seconds > 2 years).	syncml	es-es	Sólo se sincronizarán los eventos con el límite de segundos en el futuro (65000000 segundos > 2 años).
+only notes matching this filter criteria will be synchronized.	syncml	es-es	Sólo se sincronizarán las notas que cumplan los criterios del filtro.
+only tasks matching this filter criteria will be synchronized.	syncml	es-es	Sólo se sincronizarán las tareas que cumplan los criterios del filtro.
+owner too	syncml	es-es	También el propietario
+preferences for the syncml	syncml	es-es	Preferencias para SyncML
+preferences for the syncml conflict handling<br/>and server r/o options	syncml	es-es	Preferencias para la gestión de conflictos SyncML<br/>y opciones R/O del servidor
+primary group	syncml	es-es	Grupo principal
+remote database names	syncml	es-es	Nombres de la base de datos remota
+resolv with duplicates	syncml	es-es	Resolver con duplicados
+server location/url	syncml	es-es	Ubicación del servidor/URL
+server wins	syncml	es-es	El servidor gana
+settings for	syncml	es-es	Opciones para
+slowsync ignore map	syncml	es-es	Mapa de ignorar sincronización lenta
+synchronize this addressbook	syncml	es-es	Sincronizar esta libreta de direcciones
+synchronize this list	syncml	es-es	Sincronizar esta lista
+synchronize this selection	syncml	es-es	Sincronizar esta selección
+syncml preferences	syncml	es-es	Preferencias de SyncML
+syncronization calendars	syncml	es-es	Calendarios a sincronizar
+task (infolog)	syncml	es-es	Tarea (del registro)
+task synchronization options	syncml	es-es	Opciones de sincronización de tareas
+tasks	syncml	es-es	tareas
+the client and server data is unchanged (split brain).	syncml	es-es	Los datos del cliente y del servidor no han cambiado (split brain).
+the next two options will put the server in read only mode. if the client sends changes to the server, you can choose between:	syncml	es-es	Las dos opciones siguientes pondrán el servidor en modo de sólo lectura. Si el cliente envía cambios al servidor, puede elegir entre:
+the second option relies on the client's cooperation, though. if it gets a change, the server will send its own version of the data back to the client. the client is supposed to roll back the changes this way.	syncml	es-es	La segunda opción depende de la cooperación del cliente. Si recibe un cambio, el servidor enviará su propia versión de los datos de vuelta al cliente. De esta forma, se supone que el cliente revertirá los cambios.
+the server reverts all client changes.	syncml	es-es	El servidor revierte todos los cambios del cliente.
+the syncml application	syncml	es-es	La aplicación SyncML
+the syncml module provides some customization parameters for conflict handling which you can find in your	syncml	es-es	El módulo SyncML proporciona algunos parámetros para personalizar la gestión de conflictos que se puede encontrar en su
+there are certain settings of the client which you have to adjust for egroupware synchronization:	syncml	es-es	Hay ciertas opciones del cliente que tiene que ajustar para la sincronización de EGroupware:
+this address list of contacts will be synchronized.	syncml	es-es	Esta lista de contactos se sincronizará.
+this address list of contacts will be synchronized. if used together with the addressbook option, this list will appended.	syncml	es-es	Esta lista de contactos se sincronizará. Si se usa junto con la opción de libreta de direcciones, esta lista se añadirá.
+this application does not provide <i>frontend</i> functionality but implements synchronization of various content with external devices via the syncml/http protocol.<br/>this egroupware version does support syncml 1.0, 1.1 and 1.2.<br/>	syncml	es-es	Esta aplicación no proporciona la funcionalidad de un <i>frontend</i>, pero implementa la sincronización de diverso contenido con dispositivos externos mediante el protocolo SyncML/HTTP.<br/>Esta versión de EGroupware no soporta SyncML 1.0, 1.1 y 1.2.<br/>
+to this addressbook category a conflict duplicate will be added.	syncml	es-es	A esta categoría de la libreta de direcciones se le añadirá un conflicto de duplicado.
+to this calendar category a conflict duplicate will be added.	syncml	es-es	A esta categoría del calendario se le añadirá un conflicto de duplicado.
+vcard is the new format for sync and we recomment to use vcard instead of sif.	syncml	es-es	Vcard es el nuevo formato para sincronizar y recomendados que use vcard en vez de SIF.
+you can synchronize your<ul><li>addressbook</li><li>calendar</li><li>task (infolog)</li><li>notes (infolog)</li></ul>	syncml	es-es	Puede sincronizar:<ul><li>Libreta de direcciones</li><li>Calendario</li><li>Tareas (del registro)</li><li>Notas (del registro)<li></ul>
+your calendar will be synchronized up to this number of seconds in the past (2678400 seconds = 31 days).	syncml	es-es	Su calendario se sincronizará hasta esta número de segundos en el pasado (2678400 segundos = 31 días).
+your egroupware password	syncml	es-es	Su contraseña de EGroupware

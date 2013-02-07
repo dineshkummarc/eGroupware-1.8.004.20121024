@@ -1,0 +1,347 @@
+<?xml version="1.0"?>
+<!-- $Id$ -->
+<overlay>
+	<template id="tracker.admin.cats" template="" lang="" group="0" version="1.5.001">
+		<grid width="100%" height="450" overflow="auto">
+			<columns>
+				<column width="100"/>
+				<column/>
+				<column/>
+				<column width="30%"/>
+			</columns>
+			<rows>
+				<row class="row" valign="top">
+					<description value="Categories"/>
+					<grid width="100%" height="140" overflow="auto" id="cats">
+						<columns>
+							<column/>
+							<column/>
+							<column width="5%"/>
+						</columns>
+						<rows>
+							<row class="th">
+								<description value="Name"/>
+								<description value="Autoassign to"/>
+								<description value="Actions"/>
+							</row>
+							<row>
+								<textbox id="${row}[name]" size="60" maxlength="150" blur="--&gt; enter new name"/>
+								<menulist>
+									<menupopup options="Noone" id="${row}[autoassign]" no_lang="1"/>
+								</menulist>
+								<button image="delete" label="Delete" align="center" id="delete[$row_cont[id]]" onclick="return confirm('Delete this category');" statustext="Delete this category"/>
+							</row>
+						</rows>
+					</grid>
+				</row>
+				<row class="row" valign="top">
+					<description value="Versions"/>
+					<grid width="100%" height="100" overflow="auto" id="versions">
+						<columns>
+							<column/>
+							<column width="5%"/>
+						</columns>
+						<rows>
+							<row class="th">
+								<description value="Name"/>
+								<description value="Actions"/>
+							</row>
+							<row class="row">
+								<textbox id="${row}[name]" size="80" maxlength="150" blur="--&gt; enter new name"/>
+								<button image="delete" label="Delete" align="center" id="delete[$row_cont[id]]" onclick="return confirm('Delete this version');" statustext="Delete this version"/>
+							</row>
+						</rows>
+					</grid>
+				</row>
+				<row class="row" valign="top">
+					<description value="Status"/>
+					<grid width="100%" height="100" overflow="auto" id="statis">
+						<columns>
+							<column/>
+							<column width="5%"/>
+						</columns>
+						<rows>
+							<row class="th">
+								<description value="Name"/>
+								<description value="Actions"/>
+							</row>
+							<row class="row">
+								<textbox size="80" maxlength="150" blur="--&gt; enter new name" id="${row}[name]"/>
+								<button image="delete" label="Delete" align="center" id="delete[$row_cont[id]]" statustext="Delete this status" onclick="return confirm('Delete this status');"/>
+							</row>
+						</rows>
+					</grid>
+				</row>
+				<row class="row" valign="top">
+					<description value="Canned responses"/>
+					<grid width="100%" id="responses">
+						<columns>
+							<column/>
+							<column/>
+							<column width="5%"/>
+						</columns>
+						<rows>
+							<row class="th">
+								<description value="Name"/>
+								<description value="Canned response"/>
+								<description value="Actions"/>
+							</row>
+							<row class="row" valign="top">
+								<textbox size="30" id="${row}[name]" blur="--&gt; enter new name"/>
+								<textbox multiline="true" rows="3" cols="50" id="${row}[description]"/>
+								<button image="delete" label="Delete" align="center" id="delete[$row_cont[id]]" onclick="return confirm('Delete this canned response');" statustext="Delete this canned response"/>
+							</row>
+						</rows>
+					</grid>
+				</row>
+				<row class="row" valign="top" disabled="!@allow_defaultproject">
+					<description value="Assign to project"/>
+					<grid width="100%" height="90" overflow="auto" id="projects">
+						<columns>
+							<column/>
+							<column/>
+							<column/>
+						</columns>
+						<rows>
+							<row class="th">
+								<description value="Name"/>
+								<description value="Project selection"/>
+								<description value="Actions"/>
+							</row>
+							<row class="row" valign="top">
+								<textbox size="40" maxlength="40" id="${row}[name]" blur="--&gt; enter new name"/>
+								<projectmanager-select options="--&gt; choose a project from the drop-down list" no_lang="1" id="${row}[projectlist]"/>
+								<button image="delete" label="Delete" align="center" id="delete[$row_cont[id]]" onclick="return confirm('Delete this entry');" statustext="Delete this entry"/>
+							</row>
+						</rows>
+					</grid>
+				</row>
+			</rows>
+		</grid>
+	</template>
+	<template id="tracker.admin.priorities" template="" lang="" group="0" version="1.5.001">
+		<grid width="100%" height="450" id="priorities">
+			<columns>
+				<column/>
+				<column/>
+				<column/>
+			</columns>
+			<rows>
+				<row height="20">
+					<description options=",,,cat_id" value="Category"/>
+					<menulist span="all">
+						<menupopup options="All" id="cat_id" onchange="1" statustext="Changes made below will be lost, if not applied before!"/>
+					</menulist>
+				</row>
+				<row class="th" height="20">
+					<description value="Value" class="leftPad5"/>
+					<description value="Label"/>
+					<description value="Priorities with empty label are not available to the user" align="right"/>
+				</row>
+				<row class="row">
+					<description id="${row}[value]" readonly="true" class="leftPad5"/>
+					<textbox size="80" id="${row}[label]"/>
+					<description id="${row}[label]"/>
+				</row>
+			</rows>
+		</grid>
+	</template>
+	<template id="tracker.admin.staff" template="" lang="" group="0" version="1.5.001">
+		<grid width="100%" height="450" overflow="auto">
+			<columns>
+				<column width="100"/>
+				<column/>
+				<column/>
+				<column width="30%"/>
+			</columns>
+			<rows>
+				<row class="row">
+					<description value="Staff"/>
+					<description options=",,,users" id="queue_access_enabled_label" statustext="@queue_access_enabled_label_help"/>
+					<description options=",,,technicians" value="Technicians"/>
+					<description value="Tracker admins"/>
+				</row>
+				<row class="row" valign="top">
+					<description/>
+					<listbox type="select-account" id="users" rows="28" options="both"/>
+					<listbox type="select-account" id="technicians" rows="28" options="both"/>
+					<listbox type="select-account" rows="28" options="both" id="admins"/>
+				</row>
+			</rows>
+		</grid>
+	</template>
+	<template id="tracker.admin.config" template="" lang="" group="0" version="1.5.001">
+		<grid width="100%" height="450" overflow="auto">
+			<columns>
+				<column width="100"/>
+				<column/>
+				<column/>
+				<column width="40%"/>
+			</columns>
+			<rows>
+				<row class="th" disabled="@tracker">
+					<description span="all" value="Configuration for all trackers"/>
+				</row>
+				<row class="row" disabled="@tracker">
+					<description options=",,,allow_assing_groups" value="Assigning groups"/>
+					<menulist>
+						<menupopup id="allow_assign_groups" statustext="Allow to assign groups to tracker items" no_lang="1"/>
+					</menulist>
+					<description options=",,,allow_voting" value="Allow voting"/>
+					<menulist>
+						<menupopup id="allow_voting" statustext="Allow voting on tracker items, show and sort after the votes"/>
+					</menulist>
+				</row>
+				<row class="row" disabled="@tracker">
+					<description options=",,,allow_bounties" value="Allow bounties"/>
+					<menulist>
+						<menupopup id="allow_bounties"/>
+					</menulist>
+					<description options=",,,currency" value="Currency"/>
+					<textbox id="currency"/>
+				</row>
+				<row class="row" disabled="@tracker">
+					<description options=",,,overdue_days" value="Overdue after"/>
+					<menulist>
+						<menupopup type="select-number" options="Never,1,30" id="overdue_days" statustext="After how many days a not replied item should be marked overdue?"/>
+					</menulist>
+					<description options=",,,pending_close_days" value="Close pending"/>
+					<menulist>
+						<menupopup type="select-number" options="Never,1,30" id="pending_close_days" statustext="After how many days pending items should be closed automatic"/>
+					</menulist>
+				</row>
+				<row class="row" disabled="@tracker">
+					<description value="Html editing" options=",,,htmledit"/>
+					<checkbox statustext="Permit html editing in overview and comments" id="htmledit"/>
+					<description value="Activate users queue access control" options=",,,enabled_queue_acl_access"/>
+					<checkbox id="enabled_queue_acl_access" statustext="Activate users queue access control"/>
+				</row>
+				<row class="th" disabled="!@tracker">
+					<description value="Restrict tracker items to staff and:" span="all"/>
+				</row>
+				<row disabled="!@tracker">
+					<description options=",,,restricted" value="Group" statustext="Restict tracker items to the creators primary group and the staff only"/>
+					<checkbox statustext="Restict tracker items to the creators primary group and the staff only" id="restrictions[group]"/>
+					<description/>
+					<description/>
+				</row>
+				<row disabled="!@tracker">
+					<description options=",,,restricted" value="Creator" statustext="Restict tracker items to the creators primary group and the staff only"/>
+					<checkbox statustext="Restict tracker items to the creator and the staff only" id="restrictions[creator]"/>
+					<description/>
+					<description/>
+				</row>
+				<row class="th" disabled="@tracker">
+					<description span="all" value="ACL"/>
+				</row>
+				<row class="row" valign="top" disabled="@tracker">
+					<description value="Allow editing by"/>
+					<grid width="100%" height="200" overflow="auto" id="field_acl">
+						<columns>
+							<column/>
+							<column/>
+							<column/>
+							<column/>
+							<column/>
+							<column/>
+							<column/>
+							<column/>
+							<column/>
+						</columns>
+						<rows>
+							<row class="th">
+								<description value="Field"/>
+								<description value="Tracker admins" align="center"/>
+								<description value="Technicians" align="center"/>
+								<description value="Non-anonymous users" align="center"/>
+								<description value="Everybody" align="center"/>
+								<description value="Item creator" align="center"/>
+								<description value="Group"/>
+								<description value="Item assignee" align="center"/>
+								<description value="New items" align="center"/>
+							</row>
+							<row class="row">
+								<description id="${row}[label]" readonly="true"/>
+								<checkbox align="center" id="${row}[TRACKER_ADMIN]"/>
+								<checkbox align="center" id="${row}[TRACKER_TECHNICIAN]"/>
+								<checkbox align="center" id="${row}[TRACKER_USER]"/>
+								<checkbox align="center" id="${row}[TRACKER_EVERYBODY]"/>
+								<checkbox align="center" id="${row}[TRACKER_ITEM_CREATOR]"/>
+								<checkbox align="center" id="${row}[TRACKER_ITEM_GROUP]"/>
+								<checkbox align="center" id="${row}[TRACKER_ITEM_ASSIGNEE]"/>
+								<checkbox align="center" id="${row}[TRACKER_ITEM_NEW]"/>
+							</row>
+						</rows>
+					</grid>
+				</row>
+				<row class="th">
+					<description span="all" value="E-Mail notifications"/>
+				</row>
+				<row class="row">
+					<description options=",,,notification_sender" value="Sender address"/>
+					<textbox size="30" id="notification[sender]" statustext="Sender address for all notifications, eg. noreply@egroupware.org"/>
+					<description options=",,,notification_link" value="URL of the tracker"/>
+					<textbox size="30" id="notification[link]" statustext="URL to be included in the notification, eg. to the page with the SiteMgr module, default tracker inside eGW"/>
+				</row>
+				<row class="row">
+					<description value="Copy to"/>
+					<textbox size="30" statustext="E-Mail address to which a copy of all tracker-notifications should be send" id="notification[copy]"/>
+					<description value="Language" no_lang="1" options=",,,notification_lang"/>
+					<menulist>
+						<menupopup id="notification[lang]" statustext="Language for the copy" no_lang="1"/>
+					</menulist>
+				</row>
+			</rows>
+		</grid>
+	</template>
+	<template id="tracker.admin" template="" lang="" group="0" version="1.5.001">
+		<grid width="100%">
+			<columns>
+				<column width="1"/>
+				<column/>
+				<column/>
+			</columns>
+			<rows>
+				<row disabled="!@msg">
+					<description span="all" class="redItalic" align="center" id="msg" no_lang="1"/>
+					<description/>
+					<description/>
+				</row>
+				<row>
+					<description options=",,,tracker" value="tracker" class="bold" disabled="true"/>
+					<menulist class="bold">
+						<menupopup options="All" id="tracker" no_lang="1" onchange="1" label="Tracker Queue"/>
+					</menulist>
+					<hbox align="right">
+						<textbox id="add_name" blur="--&gt; enter new name" size="32" maxlength="150"/>
+						<button label="Add" id="button[add]"/>
+					</hbox>
+				</row>
+				<row>
+					<tabbox span="all">
+						<tabs>
+							<tab label="Categories" statustext="Categories, versions, canned responses"/>
+							<tab label="Priorities" statustext="Custom tracker priorities"/>
+							<tab label="Staff" statustext="Tracker admins &amp; technicians"/>
+							<tab label="Configuration" statustext="Configuration, ACL, Notifications"/>
+						</tabs>
+						<tabpanels>
+							<template id="tracker.admin.cats"/>
+							<template id="tracker.admin.priorities"/>
+							<template id="tracker.admin.staff"/>
+							<template id="tracker.admin.config"/>
+						</tabpanels>
+					</tabbox>
+				</row>
+				<row>
+					<hbox span="2">
+						<button label="Save" id="button[save]"/>
+						<button id="button[apply]" label="Apply"/>
+						<button label="Cancel" id="button[cancel]"/>
+					</hbox>
+					<button label="Delete" align="right" id="button[delete]" onclick="return confirm('Delete this tracker including all it's items and categories');"/>
+				</row>
+			</rows>
+		</grid>
+	</template>
+</overlay>

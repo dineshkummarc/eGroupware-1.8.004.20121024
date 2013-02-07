@@ -1,0 +1,137 @@
+%1 entries updated.	tracker	sv	%1 poster uppdaterade
+--> enter new name	tracker	sv	--> ny post
+1 - lowest	tracker	sv	1 - Lägst
+5 - medium	tracker	sv	5 - Medium
+9 - highest	tracker	sv	9 - Högst
+accepted	tracker	sv	Accepterad
+actions	tracker	sv	Åtgärder
+add comment	tracker	sv	Lägg till kommentar
+after how many days a not replied item should be marked overdue?	tracker	sv	Efter hur många dagar ska obesvarade ärenden markeras som förfallen?
+after how many days pending items should be closed automatic	tracker	sv	Efter hur många dagar som vilande ska ärenden automatiskt stängas?
+allow bounties	tracker	sv	Tillåt belöningar
+allow editing by	tracker	sv	Tillåt ändringar av
+allow to assign groups to tracker items	tracker	sv	Tillåt att tilldela grupper Tracker ärenden
+allow voting	tracker	sv	Tillåt röstning
+allow voting on tracker items, show and sort after the votes	tracker	sv	Tillåt röstning på Tracker ärenden, visa och sortera enligt antal röster
+amount	tracker	sv	Summa
+assigned to	tracker	sv	Tilldelad
+assigning groups	tracker	sv	Tilldela grupper
+attachments & links	tracker	sv	Bilagor och länkar
+autoassign to	tracker	sv	Automatiskt tilldelad
+bounties	tracker	sv	Belöningar
+bounty confirmed	tracker	sv	Belöningen bekräftad
+bounty confirmed.	tracker	sv	Belöningen bekräftad
+bounty deleted	tracker	sv	Belöningen raderad
+bounty deleted.	tracker	sv	Belöningen raderad
+bounty set	tracker	sv	Belöning
+canned response	tracker	sv	Sparade svar
+canned responses	tracker	sv	Sparade svar
+categories, versions, canned responses	tracker	sv	Kategorier, Versioner, Sparade svar
+check all	tracker	sv	Markera alla
+close pending	tracker	sv	Stäng vilande
+closed	tracker	sv	Stängt
+comment by %1 at %2:	tracker	sv	Kommentar av %1 den %2:
+comments	tracker	sv	Kommentarer
+completed	tracker	sv	Färdig
+configuration	tracker	sv	Alternativ
+configuration for all trackers	tracker	sv	Alternativ för Tracker köer
+configuration updated.	tracker	sv	Inställningar uppdaterade
+configuration, acl, notifications	tracker	sv	Alternativ, ACL, Meddelanden
+confirm that you pay the specified bounty to implement or fix the issue	tracker	sv	Bekräfta att du kommer att betala belöningen för funktionen eller problemlösningen!
+confirm the receipt of money for this bounty	tracker	sv	Bekräfta mottagandet av pengarna för belöningen
+confirmed	tracker	sv	Bekräftad
+copy to	tracker	sv	Kopia
+create new links	tracker	sv	Skapa ny länk
+created	tracker	sv	Skapat
+date opened	tracker	sv	Datum öppnat
+delete this bounty	tracker	sv	Radera belöningen
+delete this canned response	tracker	sv	Radera det sparade svaret
+delete this category	tracker	sv	Radera kategorin
+delete this tracker including all it's items and categories	tracker	sv	Radera Trackern inklusive alla ärenden och kategorier
+delete this version	tracker	sv	Radera versionen
+deleted	tracker	sv	Raderat
+donator name to show	tracker	sv	Donator namn som visas
+duplicate	tracker	sv	Dublett
+e-mail address to which a copy of all tracker-notifications should be send	tracker	sv	E-post adress till vilken kopior på alla Tracker meddelanden ska skickas
+e-mail notifications	tracker	sv	E-post meddelanden
+edit %1	tracker	sv	Ändra %1
+email address to contact you	tracker	sv	E-post adress för att kontakta dig
+entry saved	tracker	sv	Posten sparad
+error adding the new tracker!	tracker	sv	Kunde inte lägga till nytt ärende!
+error saving the entry!!!	tracker	sv	Kunde inte spara ärendet!
+everybody	tracker	sv	Alla
+existing links	tracker	sv	Befintliga länkar
+field	tracker	sv	Fält
+fixed	tracker	sv	Klar
+from	tracker	sv	Från
+history	tracker	sv	Historik
+id	tracker	sv	ID
+if this item is important for you, please consider to set a bounty for it!	tracker	sv	Om ärendet är viktigt för dig, överväg att utlysa en belöning
+if this item is important for you, please vote for it.	tracker	sv	Om ärendet är viktigt för dig, rösta på det.
+invalid	tracker	sv	Ogiltig
+item assignee	tracker	sv	Ärendet tilldelad
+item creator	tracker	sv	Ärendeägare
+language for the copy	tracker	sv	Kopians språk
+last modified	tracker	sv	Senast ändrad
+later	tracker	sv	Senare
+new %1	tracker	sv	Nytt %1
+new items	tracker	sv	Nytt ärende
+new tracker item submitted by %1 at %2	tracker	sv	Nytt Tracker ärende skapat av %1 den %2.
+no change	tracker	sv	Ingen ändring
+non-anonymous users	tracker	sv	Inloggade användare
+noone	tracker	sv	Ingen
+notification	tracker	sv	Meddelande
+open	tracker	sv	Öppet
+out of date	tracker	sv	Förfallen
+overdue after	tracker	sv	Förfaller efter
+pending	tracker	sv	Vilande
+pending items never get close automatic.	tracker	sv	Vilande ärenden stängs inte automatiskt
+pending items will be closed automatic after %1 days without response.	tracker	sv	Vilande ärenden stängs automatiskt efter %1 dagar utan svar.
+permission denied !!!	tracker	sv	Åtkomst nekas!
+postponed	tracker	sv	Framskjutet
+receive notifications about assigned tracker-items	tracker	sv	Mottag meddelanden om tilldelade Tracker ärenden
+receive notifications about created tracker-items	tracker	sv	Mottag meddelanden om skapade Tracker ärenden
+rejected	tracker	sv	Avvisat
+remind	tracker	sv	Påminn
+resolution	tracker	sv	Beslut
+sender address	tracker	sv	Avsändaradress
+sender address for all notifications, eg. noreply@egroupware.org	tracker	sv	Avsändaradress för alla meddelanden, ex. noreply@egroupware.org
+set an own bounty (in %s)	tracker	sv	Utlys belöning (i %s)
+set bounty	tracker	sv	Utlys belöning
+should the tracker send you notification mails, if tracker items assigned to you get updated?	tracker	sv	Ska Trackern skicka meddelanden till dig om dina tilldelade ärenden blir uppdaterade?
+should the tracker send you notification mails, if tracker items you created get updated?	tracker	sv	Ska Trackern skicka meddelanden till dig om dina skapade ärenden blir uppdaterade?
+staff	tracker	sv	Bemanning
+summary	tracker	sv	Rubrik
+technicians	tracker	sv	Tekniker
+thank you for setting this bounty.	tracker	sv	Tack för ditt bidrag till belöningen.
+thank you for voting.	tracker	sv	Tack för din röst.
+the bounty will not be shown, until the money is received.	tracker	sv	Belöningen visas INTE innan pengarna är överförda.
+the canned response will be prefix the text you type.	tracker	sv	Det sparade svaret blir inledning till det du skriver.
+this module displays information from the tracker.	tracker	sv	Modulen visar information från Trackern.
+this tracker item was closed automatically by the system. it was previously set to a pending status, and the original submitter did not respond within %1 days.	tracker	sv	Tracker ärendet stängdes automatiskt av systemet. Det var tidigare satt som i vilande status, och ägaren svarade inte inom %1 dagar.
+tracker	common	sv	Tracking System
+tracker added	tracker	sv	Tracker kö skapad
+tracker admins	tracker	sv	Administratörer
+tracker admins & technicians	tracker	sv	Tracker administratörer och tekniker
+tracker configuration	tracker	sv	Tracker alternativ
+tracker deleted	tracker	sv	Tracker kö raderad
+tracker item modified by %1 at %2	tracker	sv	Tracker ärende ändrat av %1 den %2
+tracker item not found !!!	tracker	sv	Tracker ärendet hittades inte
+tracker-%1 '%2' added.	tracker	sv	Tracker - %1 '%2' skapat
+tracker-%1 '%2' updated.	tracker	sv	Tracker - %1 '%2' uppdaterat
+tracker-%1 deleted.	tracker	sv	Tracker - %1 '%2' raderat
+url of the tracker	tracker	sv	URL till Tracker
+url to be included in the notification, eg. to the page with the sitemgr module, default tracker inside egw	tracker	sv	URL inkluderas i meddelandet. Ex. till sidan med Sajthanterings modulen, standard Tracker i eGW.
+versions	tracker	sv	Versioner
+vote for it!	tracker	sv	Rösta!
+votes	tracker	sv	Röster
+wont fix	tracker	sv	Ingen åtgärd
+works for me	tracker	sv	Fungerar för mig
+yes, display groups first	tracker	sv	Ja, visa grupper först
+yes, display users first	tracker	sv	Ja, visa användare först
+you can respond by visiting:	tracker	sv	Du kan svara genom att besöka:
+you need to enter a name	tracker	sv	Du måste ange ett namn
+you need to login to vote!	tracker	sv	Du måste vara inloggad för att rösta!
+you need to select something to change and some tracker items!	tracker	sv	Du måste välja något att ändra och något Tracker ärende!
+you need to specify amount, donators name and email address!	tracker	sv	Du måste ange summan, donatörens namn och e-postadress!
+you voted %1.	tracker	sv	Du röstade %1

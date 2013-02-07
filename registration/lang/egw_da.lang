@@ -1,0 +1,78 @@
+account password retrieval	registration	da	Glemt adgangskode
+account registration	registration	da	Konto registrering
+activate account	admin	da	Aktivere konto
+address	registration	da	Adresse
+after you enter your username, instructions to change your password will be sent to you by e-mail to the address you gave when you registered.	registration	da	Efter du indtaster dit brugernavn, instruktioner om at ændre din adgangskode vil blive sendt til din e-mail adresse du gav under registreringen.
+an error occured. please contact our technical support and let them know.	registration	da	Der skete en fejl. Underret venligst vores tekniske support.
+anonymous password	admin	da	Anonym adgangskode
+birthday	registration	da	Føselsdag
+change password for user	registration	da	Ændre adgangskode for bruger
+checkbox	registration	da	Valg box
+choose language	registration	da	Vælg sprog
+choose your language	registration	da	Vælg dit sprog
+city	registration	da	By
+close window	registration	da	Luk vindue
+country	registration	da	Land
+current fields:	registration	da	Nuværende felter:
+days until trial accounts expire	admin	da	Dage før prøvekonto udløber
+display terms of service?	admin	da	Vis betingelser?
+dropdown	registration	da	Dropdown boks
+email address to display for support	admin	da	E-mail adresse som vises for support
+email address to send notices from	admin	da	E-mail adresse som bruges til at sende system beskeder fra
+enable registration?	admin	da	Aktivere registrering
+enter your new password	registration	da	Indtast din nye adgangskode
+female	registration	da	Kvinde
+gender	registration	da	Køn
+http password	admin	da	HTTP adgangskode
+http username	admin	da	HTTP brugernavn
+i have read the terms and conditions and agree by them.	registration	da	Jeg har læst betingelsene og acceptere dem.
+if you did not request this account, simply ignore this message.	registration	da	Hvis du ikke har anmodet om denne konto, så ignorere denne meddelse.
+if you did not request this change, simply ignore this message.	registration	da	Hvis du ikke har anmodet om denne ændring, så ignorere denne meddelse.
+immediately	admin	da	Straks
+male	registration	da	Mand
+manage fields	admin	da	Administrere felter
+name (blank unless text, textarea, dropdown, checkbox; else alphanumeric only)	registration	da	Navn (blank hvis ikke Tekst, Tekstområde, Dropdown boks, Valg boks; ellers kun alfanumerisk)
+not a user yet? register now	login	da	Ikke en bruger endnu? Registrere nu
+on-line registration is not activated. please contact the site administrator for more information about registration.	registration	da	Online registrering er ikke aktiveret. Kontakt venligst systemadministratoren for mere information om registrering.
+order	registration	da	Rækkefølge
+password is	admin	da	Adgangskoden er
+phone	registration	da	Telefon
+re-enter password	registration	da	Genindtast adgangskode
+re-enter your password	registration	da	Genindtast din adgangskode
+register link at login screen?	admin	da	Link til registrering på login siden?
+registration	common	da	Registrering
+registration settings	admin	da	Registrerings indstillinger
+remove	registration	da	Fjern
+report all problems and abuse to	registration	da	Reportere alle problemer og misbrug til
+required	registration	da	Krævet
+send email	admin	da	Send e-mail
+sorry, that username does not exist.	registration	da	Beklager, det brugernavn findes ikke.
+sorry, that username is already taken.	registration	da	Beklager, det brugernavn er allerede brugt.
+sorry, we are having a problem activating your account. note that links sent by e-mail are only valid during two hours. if you think this delay was expired, just retry. otherwise, please contact the site administrator.	registration	da	Beklager, vi har problemer med at aktivere din konto. Vær opmærksom på at linkene sendt via e-mails kun er gyldige i 2 timer. Hvis du tror tiden er udløbet, så prøv igen. Eller, kontakt venligst systemadministratoren.
+state	registration	da	Stat
+subject for confirmation email	admin	da	Emne for bekræftelses e-mail
+terms of service	registration	da	Betingelser
+terms of service text	admin	da	Betingelses tekst
+text	registration	da	Tekst
+textarea	registration	da	Tekstområde
+the passwords you entered don't match	registration	da	Adgangskoderne du indtastede passede ikke
+the two passwords are not the same	registration	da	Adgangskoderne du indtastede er ikke ens
+this is a confirmation email for your new account.  click on the following link to finish activating your account. this link will expire in 2 hours.	registration	da	Dette er en bekræftelses e-mail for din nye konto. Klik på følgende link for at færdiggør aktiveringen af din konto. Dette link virker kun i 2 timer.
+type	registration	da	Type
+update/add	registration	da	Opdatere/Tilføj
+use html	admin	da	brug HTML
+use trial accounts?	admin	da	Brug prøvekontoer
+username is	admin	da	Brugernavnet er
+values (for dropdown only; comma separated)	registration	da	Værdier (til Dropdown boks kun; Komma separeret)
+we have sent a confirmation email to your email address. you must click on the link within 2 hours. if you do not, it may take a few days until your loginid will become available again.	registration	da	Vi har send en bekræftelses e-mail til din e-mail adresse. Du skal klikke på linket i e-mailen inden 2 timer. Hvis du ikke gør der kan det tage nogle dage før dit brugernavn vil være ledigt igen.
+we have sent a mail with instructions to change your password. you should follow the included link within two hours. if you do not, you will have to go to the lost password screen again.	registration	da	Vi har send en e-amil med instruktioner som at ændre din adgangskode. Du bør åbne linket i e-mail inden for 2 timer. Hvis du ikke gør det, vil du blive nød til at bruge gemt adgangskode igen.
+wrong session	registration	da	Forkert session
+you can go back to the login page	registration	da	Du kan gå tilbage til login siden.
+you have entered an invalid birthday	registration	da	Du har indtastet en ugyldig føselsdag
+you have entered an invalid email address	registration	da	Du har indtastet en ugyldig e-mail adresse
+you must enter a password	registration	da	Du skal indtaste en adgangskode
+you must enter a username	registration	da	Du skal indtaste et brugernavn
+you must fill in all of the required fields	registration	da	Du skal udfylde alle krævede felter
+you requested to change your password. please follow the url below to do so. this url will expire in two hours. after this delay you should go thru the lost password procedure again.	registration	da	Du har anmodet om at ændre din adgangskode. Brug venligst følgende link for at gøre det. Dette link virker kun i 2 timer. Efter den tid skal du igen anmode om at ændre adgangskoden igen.
+your password was changed.	registration	da	Din adgangskode er ændret.
+zip/postal	registration	da	Postnummer

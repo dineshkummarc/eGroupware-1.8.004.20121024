@@ -1,0 +1,110 @@
+(don't offer the possibility)	admin	el	(μην προσφέρετε την πιθανότητα)
+<em>but</em> display at least this many entries in recentchanges and other subscription lists:	wiki	el	<em>Αλλά</em> προβολή τουλάχιστον αυτών των πολλών εισόδων στο ΠρόσφατεςΑλλαγές και σε άλλες λίστες εγγραφής:
+add document to category	wiki	el	Προσθήκη εγγράφου στην κατηγορία
+added	wiki	el	Προστέθηκε
+administration features are disabled for this wiki.	wiki	el	Τα διαχεριστικά χαρακτηριστικά είναι απενεργοποιημένα για αυτό το wiki.
+admins	wiki	el	διαχειριστές
+after how many days should old versions of a page be removed (0 for never)	admin	el	Μετά από πόσες ημέρες θέλτε οι παλιές εκδόσεις μιας σελίδας να αφαιρούνται(0 για ποτέ)
+allow anonymous access	admin	el	επιτρέψτε την είσοδο των ανωνύμων
+anonymous password	admin	el	Κωδικός ανωνύμου
+anonymous session type	admin	el	Τύπος Συνεδρίας Ανωνύμου
+anonymous username	admin	el	username ανωνύμου
+automatically convert pages with wiki-syntax to richtext (if edited)?	admin	el	Αυτόματη μετατροπή σελίδων με wiki-σύνταξη σε richtext (αν έχει δημοσευθεί);
+block	wiki	el	Αποκλεισμός
+block / unblock hosts	common	el	Αποκλεισμός / Παύση αποκλεισμού ξενιστή
+blocked ip address ranges	wiki	el	Αποκλείστηκαν ζώνες IP διευθύνσεων
+cancel without saving	wiki	el	Ακύρωση χωρίς αποθήκευση
+changed	wiki	el	Έγινε αλλαγή
+changes by last author	wiki	el	Αλλαγές τελευταίου συγγραφέα
+choose your current time here, so the server may figure out what time zone you are in.	wiki	el	Επιλέξτε την τρέχουσα ώρα, για να μπορέσει ο server να υπολογίσει σε ποια ζώνη βρίσκεστε.
+columns	wiki	el	Στήλες
+compute difference	wiki	el	Διαφορές υπολογιστή
+converts the page to richtext	wiki	el	Μετατρέπει αυτή τη σελίδα σε richtext
+current version	wiki	el	Τρέχουσα έκδοση
+deleted	wiki	el	Διεγράφη
+deletes this page	wiki	el	Διαγράφει αυτή τη σελίδα
+difference between versions	wiki	el	Διαφορά μεταηύ των  εκδόσεων
+differences in	wiki	el	Διαφορές σε
+different languages can have different titles	wiki	el	διαφορετικές γλώσσες μπορεί να έχουν διαφορετικούς τίτλους
+document last modified	wiki	el	Τελευταία τροποποίηση εγγράφου
+edit box	wiki	el	Επεξεργασία κουτιού
+edit this <em>archive version</em> of this document	wiki	el	Επεξεργασία αυτού <em>ARCHIVE VERSION</em> αυτού του εγγράφου
+edit this document	wiki	el	Επεξεργασία αυτού του εγγράφου
+edit with preview	admin	el	Επεξεργασία με Προεπισκόπηση
+editable	admin	el	επεξεργάσιμο
+editing	wiki	el	Επεξεργάζεται
+emailaddress administrator	admin	el	Διαχειριστής διεύθυνσης email
+enable free links	admin	el	Ενεργοποίηση Ελεύθερων Συνδέσμων
+enable wiki links	admin	el	Ενεργοποίηση Wiki Συνδέσμων
+enter here the maximum number of entries to display in a document's history list.	wiki	el	Πληκτρολογήστε εδώ το μέγιστο αριθμό εισόδων προς προβολή στον Ιστορικό Κατάλογο του εγγράφου.
+enter here the number of days of edits to display on recentchanges or any other subscription list.  set this to zero if you wish to see all pages in recentchanges, regardless of how recently they were edited.	wiki	el	Πληκτρολογήστε εδώ το μέγιστο αριθμό ημερών των επεξεργασιών στις ΠρόσφατεςΑλλαγές ή σε οποιαδήποτε άλλη λίστα εγγραφής.
+enter ip address range in form <tt>12.*</tt>, <tt>34.56.*</tt>, or <tt>78.90.123.*</tt>	wiki	el	Πληκτρολογήστε τη ζώνη της IP διεύθυνσης στη φόρμα <tt>12.*</tt>, <tt>34.56.*</tt>, ή <tt>78.90.123.*</tt>
+error creating temporary file.	wiki	el	Σφάλμα κατά τη δημιουργία προσωρινού αρχείου.
+error writing to temporary file.	wiki	el	Σφάλμα κατά την εγγραφή  στο προσωρινό αρχείο.
+everyone	wiki	el	όλοι
+find	wiki	el	Αναζήτηση
+history	wiki	el	Ιστορικό
+history display should show <em>all</em> changes made by the latest author.  otherwise, show only the last change made.	wiki	el	Η προβολή του ιστορικού θα έπρεπε αν εφανίζει <em>all</em> αλλαγές που έγιναν από τον τελευταίο συγγραφέα. Διαφορετικά, προβολή μόνο της τελευταίας αλλαγής.
+history lists	wiki	el	Ιστορικός Κατάλογς
+history of	wiki	el	Ιστορικό του
+interwikiprefix	admin	el	InterWikiPrefix
+invalid page name.	wiki	el	Άκυρο όνομα σελίδας.
+load	wiki	el	Φόρτωση
+loads the named page in the given language, all change so far get lost !!!	wiki	el	Φορτώνει την ονοματιζόμενη σελίδα στη δοσμένη γλώσσα, όλες οι μέχρι τώρα αλλαγές θα χαθούν!!!
+lock / unlock pages	common	el	Κλείδωμα / Ξεκλείδωμα Σελίδων
+locked	wiki	el	Κλειδώθηκε
+name wiki home link	admin	el	ορίστε τη wiki ως αρχική σελίδα
+newer	wiki	el	Ποτέ
+no never	admin	el	Όχι ποτέ
+no only on request	admin	el	Όχι μόνο ύστερα από αίτηση
+not set	wiki	el	δεν έχει οριστεί
+older	wiki	el	Παλαιότερο
+on all pages	wiki	el	σε όλες τις σελίδες
+only if browser supports a richtext-editor	admin	el	Μόνο εάν ο browser υποστηρίζει richtext-εκδότη
+only on the first page	wiki	el	Μόνο στη πρώτη σελίδα
+page '%1' not found !!!	wiki	el	Η σελίδα '%1' δεν βρέθηκε !!1
+path of the upload directory (has to be writable by the webserver!)	admin	el	Μονοπάτι του φορτωμένου καταλόγου (πρέπει να είναι εγγράψιμο από τον webserver!)
+please contact the %1administrator%2 for assistance.	wiki	el	Παρακαλώ επικοινωνήστε με τον %1Διαχειριστή%2 για βοήθεια.
+preview	wiki	el	Προεπισκόπηση
+preview of current version	wiki	el	Προεπισκόπηση Τρέχουσας Έκδοσης
+rate control / ip blocking disabled	wiki	el	Ταχύτητα ελέγχου / Απενεργοποίηση αποκλεισμού IP
+readable by	wiki	el	Αναγνώσιμο από
+readonly	admin	el	μόνο ανάγνωση
+recent changes	wiki	el	Πρόσφατες Αλλαγές
+renames page to the given name and language	wiki	el	Μετονομάζει τη σελίδα στο δοθέν όνομα και γλώσσα
+richtext	wiki	el	Richtext
+rows	wiki	el	Γραμμές
+save the changes and exit	wiki	el	Αποθήκευση αλλαγών και έξοδος
+saves and continues editing	wiki	el	Αποθηκεύει και συνεχίζει την επεξεργασία
+search for	wiki	el	Αναζήτηση για
+see complete list (%1 entries)	wiki	el	Προβολή πλήρους λίστας (%1 είσοδοι)
+show a search	wiki	el	Προβολή μιας αναζήτησης
+show the title of the wiki page	wiki	el	Προβολή του τίτλου της σελίδας wiki
+summary	wiki	el	Περίληψη
+summary of change	wiki	el	Περίληψη αλλαγής
+the search returned no result!	wiki	el	Δεν υπάρχουν αποτελέσματα γι'αυτήν την αναζήτηση
+this page can not be edited.	wiki	el	Αυτή η σελίδα δεν μπορεί να επεξεργαστεί
+twin pages	wiki	el	Όμοιες σελίδες
+unblock	wiki	el	Παύση αποκλεισμού
+updates the preview	wiki	el	Ενημερώνει την προεπισκόπηση
+url of the upload directory	admin	el	URL του φορτωμένου καταλόγου
+use this module for displaying wiki-pages	wiki	el	Χρήση αυτής της ενότητας για προβολή  wiki-σελίδων
+users	wiki	el	χρήστες
+view document history	wiki	el	Προβολή ιστορικού εγγράφου
+visit %1 to set your user name	wiki	el	Επισκεφθείτε %1 για να ορίσετε το όνομα χρήστη σας
+warning: since you started editing, this document has been changed by someone else.  please merge your edits into the current version of this document.	wiki	el	Προσοχή: από το ξεκίνημα της επεξεργασίας, αυτό το έγγραφο έχει υποστεί αλλαγές από κάποιον άλλο. Παρακαλώ συγχωνεύστε τις επεξεργασίες σας στην τρέχουσα έκδοση του εγγράφου.
+who should be able to edit this page	wiki	el	ποιος θα έπρεπε να έχει τη δυνατότητα επεξεργασίας της σελίδας.
+who should be able to read this page	wiki	el	ποιος θα έπρεπε να έχει τη δυνατότητα ανάγνωσης της σελίδας.
+wiki	common	el	Wiki
+wiki administration	wiki	el	Διαχείριση Wiki
+wiki menu	wiki	el	Μενού Wiki
+wiki startpage	wiki	el	Αρχική σελίδα Wiki
+writable by	wiki	el	Εγγράψιμο από
+yes always	admin	el	Ναι πάντα
+yes with navbar	admin	el	Ναι με μπάρα πλοήγησης
+you have been denied access to this site.	wiki	el	Δεν σας επιτρέπεται η είσοδος σε αυτό το site.
+you have entered an invalid user name.	wiki	el	Έχετε πληκτρολογήσει άκυρο όνομα χρήστη
+you have exeeded the number of pages you are allowed to visit in a given period of time. please return later.	wiki	el	Έχετε υπερβεί τον αριθμό σελίδων που σας επιτρέπεται να επισκεφθείτε σε συγκεκριμένη χρονική περίοδο. Παρακαλώ επιστρέψτε αργότερα.
+you have no rights to view wiki content !!!	wiki	el	Δεν έχετε δικαιώματα προβολής του wiki περιεχομένου !!!
+your changes	wiki	el	Οι αλλαγές σας
+your user name is "%1".	wiki	el	Το όνομα χρήστη σας είναι "%1".

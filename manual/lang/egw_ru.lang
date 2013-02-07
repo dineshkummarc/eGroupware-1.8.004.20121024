@@ -1,0 +1,15 @@
+%1 manual page(s) added or updated	manual	ru	%1 страниц руководства добавлено или изменено
+allow anonymous access to the manual, only necessary to act as remote manual	admin	ru	Разрешить анонимный доступ к руководству, необходимо только в случае работы в качестве удаленного руководства
+anonymous password	admin	ru	Пароль анонимного доступа
+anonymous username	admin	ru	Имя входа для анонимного доступа
+download	manual	ru	получитть
+index	manual	ru	Индекс
+install or update the manual-pages	admin	ru	установить или изменить страницы руководства
+manual	common	ru	Справочник / Помощь
+page(s) %1 not found !!!	manual	ru	Страница(ы) %1 не найдена(ы)!!!
+remote egroupware url for the manual to use, empty for a local manual, default	admin	ru	Ссылка для удаленного использования руководства eGroupWare, по-умолчанию, для локального руковаодства, не заполнено
+search for	manual	ru	Поиск
+starting import from %1, this might take several minutes (specialy if you start it the first time) ...	manual	ru	Начинаем импорт из %1,  это может занять несколько минут (особенно если это делается в первый раз)
+the search returned no result!	manual	ru	Поиск не дал результа!
+update url for the local manual, default	admin	ru	Изменить ссылку для локального руководства, по-умолчанию
+wiki id for the local manual, default 1, 0 to use the wiki to edit the manual pages	admin	ru	Идентификатор Вики для локального руководства, по-умолчанию 1, 0 - для использования Вики для редактирования руководства

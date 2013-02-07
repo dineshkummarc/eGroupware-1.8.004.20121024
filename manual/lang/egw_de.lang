@@ -1,0 +1,15 @@
+%1 manual page(s) added or updated	manual	de	%1 Handbuchseite(n) zugefügt oder aktualisiert
+allow anonymous access to the manual, only necessary to act as remote manual	admin	de	Anonymen Zugriff auf das Handbuch erlauben, nur notwendig um als entferntes Handbuch zu agieren
+anonymous password	admin	de	Anonymous Passwort
+anonymous username	admin	de	Anonymous Benutzername
+download	manual	de	Herunterladen
+index	manual	de	Inhaltsverzeichnis
+install or update the manual-pages	admin	de	Installieren oder Aktualisieren der Handbuchseiten
+manual	common	de	Handbuch / Hilfe
+page(s) %1 not found !!!	manual	de	Seite(n) %1 nicht gefunden !!!
+remote egroupware url for the manual to use, empty for a local manual, default	admin	de	Entfernte eGroupWare Internetadresse (URL) für das Handbuch, leer lassen für ein lokales Handbuch, Vorgabe
+search for	manual	de	Suchen nach
+starting import from %1, this might take several minutes (specialy if you start it the first time) ...	manual	de	Beginne Import von %1, das kann einige Minuten dauern (speziell wenn Sie es zum ersten Mal starten) ...
+the search returned no result!	manual	de	Die Suche lieferte kein Ergebnis!
+update url for the local manual, default	admin	de	Aktualisierungsadresse (URL) für das lokale Handbuch, Vorgabe
+wiki id for the local manual, default 1, 0 to use the wiki to edit the manual pages	admin	de	Wiki Id für das lokale Handbuch, Vorgabe 1, 0 um das Wiki zur Bearbeitung der Seiten zu benutzen

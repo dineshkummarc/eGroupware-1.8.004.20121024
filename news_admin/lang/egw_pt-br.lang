@@ -1,0 +1,110 @@
+%1 module	news_admin	pt-br	módulo %1
+%1 news imported (%2 new).	news_admin	pt-br	%1 notícia(s) importada(s) (%2 nova(s))
+%s hours	news_admin	pt-br	%s horas
+actions	news_admin	pt-br	Ações
+active	news_admin	pt-br	Ativo
+add new article	news_admin	pt-br	Adicionar Artigo
+add new news	news_admin	pt-br	Adicionar Notícia
+add news item	news_admin	pt-br	Adicionar novo item
+all news	news_admin	pt-br	Todas as Notícias
+always	news_admin	pt-br	Disponíveis
+by date	news_admin	pt-br	Por data
+categories to displayed on main page?	news_admin	pt-br	Categorias a serem exibidas na página principal
+category deleted.	news_admin	pt-br	Categoria removida.
+category saved.	news_admin	pt-br	Categoria salva.
+choose a category	news_admin	pt-br	Escolha uma categoria
+configuration	news_admin	pt-br	Configuração
+configure access permissions	common	pt-br	Configurar Permissões de Acesso
+configure rss exports	common	pt-br	Configurar arquivos RSS para exportação
+contains html	news_admin	pt-br	Contém HTML
+content	news_admin	pt-br	Conteúdo
+count	news_admin	pt-br	Quantidade
+date and time	news_admin	pt-br	Data e horário
+delete this news	news_admin	pt-br	Remover esta notícia
+do you want to publish a rss feed for this news category	news_admin	pt-br	Deseja publicar um RSS para esta categoria de notícias
+edit news item	news_admin	pt-br	Editar item
+end	news_admin	pt-br	Fim
+error importing the feed!	news_admin	pt-br	Erro importando o feed!
+error saving the category!	news_admin	pt-br	Erro salvando a categoria!
+error saving the news!	news_admin	pt-br	Erro salvando a notícia!
+failed to add message	news_admin	pt-br	Publicação falhou
+format for links to items	news_admin	pt-br	Formatar itens para links
+format of export	news_admin	pt-br	Formatar para exportar
+from	news_admin	pt-br	De
+from all	news_admin	pt-br	De todos
+future	news_admin	pt-br	Futuro
+global categories	news_admin	pt-br	Categorias globais
+global news	news_admin	pt-br	Boletins Globais
+global_news	news_admin	pt-br	Boletins_Globais
+headline	news_admin	pt-br	Título
+headline with link	news_admin	pt-br	Título com link
+image link	news_admin	pt-br	Link da Imagem
+image title	news_admin	pt-br	Título da Imagem
+image url	news_admin	pt-br	URL da Imagem
+implies read permission	news_admin	pt-br	requer permissão de leitura
+import every	news_admin	pt-br	Importar tudo
+import now	news_admin	pt-br	Importar agora
+import url	news_admin	pt-br	URL de importação
+imported feeds can not be writable!	news_admin	pt-br	Escrita não permitida aos feeds importados!
+item has been deleted	news_admin	pt-br	O item foi apagado
+item not found	news_admin	pt-br	Item não encontrado
+last updated	news_admin	pt-br	Última atualização
+link	news_admin	pt-br	Link
+main	news_admin	pt-br	Principal
+maintain	news_admin	pt-br	Manutenção
+maintain news	admin	pt-br	Manutenção dos Boletins
+message has been added	news_admin	pt-br	Mensagem foi adicionada
+more news	news_admin	pt-br	Mais Boletins
+more news link	news_admin	pt-br	Mais links de notícias
+new item has been added	news_admin	pt-br	Novo item foi adicionado
+news	news_admin	pt-br	Boletins
+news admin	news_admin	pt-br	Boletins Internos
+news administration	news_admin	pt-br	Administração de Boletins
+news deleted.	news_admin	pt-br	Notícia removida
+news item has been added	news_admin	pt-br	Item adicionado
+news item has been updated	news_admin	pt-br	Item atualizado
+news saved.	news_admin	pt-br	Notícia salva
+news_admin	common	pt-br	Boletins Internos
+no entries found	news_admin	pt-br	nenhuma entrada encontrada
+no matching news item	news_admin	pt-br	Nenhuma notícia encontrada
+no news	news_admin	pt-br	Não existe boletins disponíveis para esta categoria
+no rss export	news_admin	pt-br	Não existe conteúdo RSS para exportar
+now	news_admin	pt-br	Agora
+number of articles to display on the main screen	news_admin	pt-br	Número de artigos a serem apresentados simultaneamente
+number of news items to be displayed on page	news_admin	pt-br	Número de novos itens a serem exibidos na página
+old	news_admin	pt-br	Velho
+on	news_admin	pt-br	em
+page-name the item should be displayed (empty = current page)	news_admin	pt-br	Nome da página que o item deverá ser exibido (vazio = página atual)
+parent	news_admin	pt-br	Pai
+picture upload (leave the upload directory empty to disable the upload)	admin	pt-br	Carregar figura (deixe o diretório vazio para desabilitar o carregamento)
+please select a category	news_admin	pt-br	Por favor, selecione uma categoria
+publish date	news_admin	pt-br	Data da Publicação
+read more	news_admin	pt-br	ler mais
+read news	news_admin	pt-br	Ler notícias
+read permissions	news_admin	pt-br	Permissões de leitura
+reload	news_admin	pt-br	Recarregar
+send mail to others	news_admin	pt-br	Enviar e-mail para Outros
+should news_admin display the latest article headlines on the main screen.	news_admin	pt-br	Boletim Internos mostra as manchetes dos últimos boletins na Tela Principal.
+show latest news articles?	news_admin	pt-br	Exibir últimos artigos?
+show news articles on main page?	news_admin	pt-br	Exibir novos artigos na página inicial?
+small view	news_admin	pt-br	Visão Condensada
+start	news_admin	pt-br	Início
+submitted by	common	pt-br	Enviado por
+submitted by %1 on %2	news_admin	pt-br	Enviado por %1 em %2
+submitted by and date	news_admin	pt-br	Enviado por e data
+teaser	news_admin	pt-br	Resumo
+teaser with read more link	news_admin	pt-br	Chamada com link "ler mais"
+the news content is missing	news_admin	pt-br	O conteúdo do boletim está faltando
+the number of articles to display on the main screen.	news_admin	pt-br	Número de artigos a serem apresentados na tela principal.
+the subject is missing	news_admin	pt-br	O assunto está faltando
+there no such translation.	news_admin	pt-br	Esta tradução não existe
+this module publishes news from the news_admin application on your website. be aware of news_admin's acl restrictions.	news_admin	pt-br	Este módulo publica notícias do aplicativo de notícias do seu site. Atente-se às ACL's.
+until	news_admin	pt-br	até
+url of the rss or atom feed, empty for own news feed	news_admin	pt-br	URL do feed RSS ou Atom, vazio para feed próprio.
+view this category	news_admin	pt-br	Exibir esta categoria
+visible	news_admin	pt-br	Visível
+webpage news admin	news_admin	pt-br	Página para administração de Boletins
+which information do you want to show (css class)	news_admin	pt-br	Que informação você deseja exibir (classe CSS)
+which news categories should be displayed on the main screen.	news_admin	pt-br	Quais categorias de notícias deverão ser exibidas na página principal.
+write	news_admin	pt-br	Escrever
+write permissions	news_admin	pt-br	Permissões para escrita

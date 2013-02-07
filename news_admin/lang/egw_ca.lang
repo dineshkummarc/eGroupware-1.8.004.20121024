@@ -1,0 +1,91 @@
+%1 module	news_admin	ca	%1 mòdul
+actions	news_admin	ca	Accions
+active	news_admin	ca	Actiu
+add new article	news_admin	ca	Afegir Nou Article
+add new news	news_admin	ca	Afegir noves notícies
+add news item	news_admin	ca	Afegir element de notícies
+all news	news_admin	ca	Totes les notícies
+always	news_admin	ca	Sempre
+by date	news_admin	ca	En data
+choose a category	news_admin	ca	Tria una categoria
+configuration	news_admin	ca	Configuració
+configure access permissions	common	ca	Configurar permissos d'accés
+configure rss exports	common	ca	Configurar exportació RSS
+contains html	news_admin	ca	Conté HTML
+content	news_admin	ca	Contingut
+date and time	news_admin	ca	Dia i hora
+delete this news	news_admin	ca	Elimina aquestes notícies
+do you want to publish a rss feed for this news category	news_admin	ca	Voleu publicar una senyal RSS per aquesta categoria de notícies?
+edit news item	news_admin	ca	Editar element de notícies
+end	news_admin	ca	Fi
+error saving the news!	news_admin	ca	Error desant les notícies!
+failed to add message	news_admin	ca	Error afegint missatge de notícies
+format for links to items	news_admin	ca	Format per enllaços als elements
+format of export	news_admin	ca	Format de exportació
+from	news_admin	ca	De
+from all	news_admin	ca	De tots
+future	news_admin	ca	Futur
+global categories	news_admin	ca	categories globals
+global news	news_admin	ca	Noticies globals
+global_news	news_admin	ca	Noticies globals
+headline	news_admin	ca	Titular
+headline with link	news_admin	ca	Titular amb enllaç
+image link	news_admin	ca	Enllaç a l'imatge
+image title	news_admin	ca	Títol de l'imatge
+image url	news_admin	ca	URL de l'imatge
+implies read permission	news_admin	ca	implica permís de lectura
+item has been deleted	news_admin	ca	Element esborrat
+item not found	news_admin	ca	Element no trobat
+link	news_admin	ca	Enllaç
+main	news_admin	ca	Principal
+maintain	news_admin	ca	Mantenir
+maintain news	admin	ca	Mantenir Notícies
+message has been added	news_admin	ca	Missatge afegit
+more news	news_admin	ca	Més notícies
+more news link	news_admin	ca	Més enllaços de notícies
+new item has been added	news_admin	ca	Afegit element nou
+news	news_admin	ca	Notícies
+news admin	news_admin	ca	Administrador de Notícies
+news administration	news_admin	ca	Administració de Notícies
+news deleted.	news_admin	ca	Notícies eliminades.
+news item has been added	news_admin	ca	Element de Notícies afegit
+news item has been updated	news_admin	ca	Element de Notícies actualitzat
+news saved.	news_admin	ca	Notícies desades.
+news_admin	common	ca	Administrador de Notícies
+no entries found	news_admin	ca	No s'han trobat entrades
+no matching news item	news_admin	ca	Cap element de relacionar notícies
+no news	news_admin	ca	Sense Notícies actualment disponible a la Categoria
+no rss export	news_admin	ca	No s'exporta a RSS
+now	news_admin	ca	Ara
+number of articles to display on the main screen	news_admin	ca	Nombre d'articles a mostrar a la pantalla principal
+number of news items to be displayed on page	news_admin	ca	Número de notícies mostrades per pàgina
+old	news_admin	ca	Antic
+on	news_admin	ca	en
+picture upload (leave the upload directory empty to disable the upload)	admin	ca	Penjar imatges (deixeu el directori buit per impossibilitar la càrrega)
+please select a category	news_admin	ca	Siusplau, seleccioneu una categoria
+publish date	news_admin	ca	Data de publicació
+read more	news_admin	ca	llegiu més
+read news	news_admin	ca	Llegiu notícies
+read permissions	news_admin	ca	Llegir permissos
+send mail to others	news_admin	ca	Envia e-Mail a Altres
+should news_admin display the latest article headlines on the main screen.	news_admin	ca	S'ha de mostrar el titular del darrer article a la pantalla principal?
+show latest news articles?	news_admin	ca	Mostrar els darrers articles de noticies?
+show news articles on main page?	news_admin	ca	Mostrar articles de noticies a la plana principal?
+small view	news_admin	ca	Vista reduïda
+start	news_admin	ca	Inici
+submitted by	common	ca	Enviat per
+submitted by %1 on %2	news_admin	ca	Enviat per %1 en %2
+submitted by and date	news_admin	ca	Enviat per i data
+teaser	news_admin	ca	Entradeta
+teaser with read more link	news_admin	ca	Entradeta amb link de llegeix més
+the news content is missing	news_admin	ca	Falta el contingut de les noticies
+the number of articles to display on the main screen.	news_admin	ca	El nombre d'articles a mostrar a la pantalla principal.
+the subject is missing	news_admin	ca	Falta l'assumpte
+this module publishes news from the news_admin application on your website. be aware of news_admin's acl restrictions.	news_admin	ca	Aquest mòdul publica notícies des de l'aplicació administrador de notícies del vostre web. Tingueu en compte les restriccions del ACL de l'administrador de notícies.
+until	news_admin	ca	Fins a
+view this category	news_admin	ca	Veure aquesta categoria
+visible	news_admin	ca	Visible
+webpage news admin	news_admin	ca	Administrador de noticies per plana web
+which information do you want to show (css class)	news_admin	ca	Quina informació voleu mostrar (tipus CSS)
+write	news_admin	ca	Escriure
+write permissions	news_admin	ca	Escriure permissos

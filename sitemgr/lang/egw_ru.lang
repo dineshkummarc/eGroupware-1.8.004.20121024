@@ -1,0 +1,582 @@
+%1 content manager	sitemgr	ru	%1 управление содержимым
+%1 module manager	sitemgr	ru	%1 управление модулями
+'%1' is no valid sitemgr-site directory !!!	sitemgr	ru	'%1' неправильная папка страницы менеджера сайта !!!
+(do not put spaces or punctuation in the name field.)	sitemgr	ru	(Не используйте пробелы и пунктуацию в поле Название)
+(leave blank to allow insecure logins)	sitemgr	ru	(оставьте незаполненным чтобы позволить незащищенный вход)
+(only used in case of single file)	sitemgr	ru	(используется только когда файл один)
+1 day	common	ru	1 День
+1 hour	common	ru	1 Час
+1 month	common	ru	1 Месяц
+1 week	common	ru	1 Неделя
+<b>autoregistration is not enabled / configured in the registration app !!!</b><br>you need to do so, to get the autoregistration link working.	sitemgr	ru	<b>Автоматическая регистрация не включена или не сконфигурирована в приложении регистрации!!</b><br>Вам следует это сделать чтобы ссылка на автоматическую регистрацию начала работать.
+<b>want more templates?</b><br />just download one from the template gallery at %1www.egroupware.org%2 or use a %3mambo open source%4 version 4.5 compatible template eg. from %5. unpack the downloaded template in your templates directory (%6).	sitemgr	ru	<b>Захотелось больше шаблонов?</b><br/>Вам следует всего лишь загрузить их из галереи шаблонов по адресу %1www.eGroupWare.org%2 либо использовать шаблоны %3Mambo Open Source%4 совместимые с версией 4.5 напр. из %5. Распакуйте полученные шаблоны в вашу папку шаблонов (%6).
+a simple picture galery	sitemgr	ru	Простая картинная галерея
+actif	sitemgr	ru	Активно (?)
+actions	sitemgr	ru	Действия
+add a category	sitemgr	ru	Добавить категорию
+add a new application	sitemgr	ru	Добавить новое приложение
+add a new guestbook	sitemgr	ru	Добавить новую Гостевую Книгу
+add block ...	sitemgr	ru	Добавить блок ...
+add block to content area %1	sitemgr	ru	Добавить блок в область содержимого %1
+add category	sitemgr	ru	Добавить Категорию
+add new page to this category	sitemgr	ru	Добавить новую страницу в данную категорию
+add page	sitemgr	ru	Добавить Страницу
+add page to category	sitemgr	ru	Добавить страницу в категорию
+add website	sitemgr	ru	Добавить Веб-сайт
+administration	sitemgr	ru	Администрирование
+administrative menu	sitemgr	ru	Меню Администратора
+administrators	sitemgr	ru	администраторы
+advanced plus google: also show google search	sitemgr	ru	Расширенный плюс google: Ко всему прочему показывает поисковик google
+all available languages	sitemgr	ru	Все доступные Языки
+all categories	sitemgr	ru	Все категории
+all forums in category %1	sitemgr	ru	Все форумы в категории %1
+all languages	sitemgr	ru	все языки
+all sites	sitemgr	ru	Все Сайты
+all words	sitemgr	ru	Все слова
+allignment of navigation elements	sitemgr	ru	Выравнивание элементов управления
+allow customer to input a note	sitemgr	ru	Позволить пользователю вводить сообщения
+allow posting of questions	sitemgr	ru	Позволять публикацию вопросов
+amazon	sitemgr	ru	Амазон
+amazon server (without www), eg. amazon.com	sitemgr	ru	Сервер Амазон (без www), напр. amazon.com
+an application directory	sitemgr	ru	Папка приложения
+anonymous	sitemgr	ru	анонимный
+anonymous user login domain	sitemgr	ru	Домен входа анонимного пользоателя
+anonymous user's password	sitemgr	ru	Пароль анонимного пользователя
+anonymous user's username	sitemgr	ru	Имя входа анонимного пользователя
+anvanced: show all search modes	sitemgr	ru	Дополнительно: Показать все режимы поиска
+any words	sitemgr	ru	Любое слово
+applet	sitemgr	ru	Апплет
+application	sitemgr	ru	Приложение
+application '%1' is not installed !!!<br>please install it, to be able to use the block.	sitemgr	ru	Приложение '%1' не установлено !!!<br>Пожалуйста, установите его чтобы стало возможным использовать блокировку
+application sitemgr_module_guestbook must be installed as a egroupware application for this module to run	sitemgr	ru	Для запуска модуля, приложение "гостевая книга менеджера сайта" должно быть установлено как приложение eGroupWare
+apply permissions also to subcategories?	sitemgr	ru	Применить разрешениятакже на подкатегории?
+archived	sitemgr	ru	архивировано
+archived content	sitemgr	ru	архивное содержимое
+are contributors allowed to define new guestbooks?	sitemgr	ru	Разрешено ли спонсорам определять новые гостевые книги?
+are you sure you want to delete site %1 and all its content? you cannot retrieve it if you continue.	sitemgr	ru	Вы уверенны, что желаете удалить сайт %1 и все его содержимое? Вы не сможете восстановить его если продолжите.
+are you sure you want to delete the category %1 and all of its associated pages?  you cannot retrieve the deleted pages if you continue.	sitemgr	ru	Вы уверенны, что желаете удалить категорию %1 и все назначенные ей страницы? Вы не сможете восстановить удаленные страницы если продолжите.
+as	common	ru	как
+asin[=title] pairs (title is optional)	sitemgr	ru	пары ASIN[=заголовок] (заголовок - необязательно)
+ask customer	sitemgr	ru	Спросить клиента (?)
+attempt to access information outside current website	sitemgr	ru	Попытка доступа к информации вне данного вебсайта
+attempt to edit non-editable block	sitemgr	ru	Попытка редактирования неизменяемого блока
+automatic index	sitemgr	ru	Автоматический индекс
+automatically generated notification	sitemgr	ru	Автоматически создаваемое напоминание
+back to module manager	sitemgr	ru	Назад к управлению модулями
+back to the list of languages	sitemgr	ru	Назад к списку языков
+basic settings	sitemgr	ru	Основные настройки
+before the public web site can be viewed, you must configure the various locations and preferences.  please go to the sitemgr setup page by following this link:	sitemgr	ru	Прежде чем публичный веб-сайт может быть просмотрен, вы должны настроить различные пути расположения и прочие параметры. Пожалуйста перейдите на страницу установки менеджера сайта по следующей ссылке:
+block not found.	sitemgr	ru	Блок не найден
+block reloaded	sitemgr	ru	Блок перезагружен
+block returned no content.	sitemgr	ru	Блок не возвратил содержимого
+block saved	sitemgr	ru	Блок сохранен
+bookmarks	sitemgr	ru	Закладки
+buy at %1	sitemgr	ru	Купить на %1
+calendar	sitemgr	ru	Календарь
+can't open an url or execute a script, because allow_url_fopen is not set in your php.ini !!!	sitemgr	ru	Не могу открыть ссылку(URL) для запуска скрипта, так-как в вашем файле php.ini не установлен параметр allow_url_fopen .
+cancel the delete	sitemgr	ru	Прервать удаление
+cannot move page until it has been saved.	sitemgr	ru	Не могу переместить страницу пока она не сохранена
+category	sitemgr	ru	Категория
+category description	sitemgr	ru	Описание Категории
+category manager	sitemgr	ru	Управление Категориями
+category name	sitemgr	ru	Имя Категории
+category saved	sitemgr	ru	Категория сохранена
+cats are numeric, pages strings	sitemgr	ru	категории - цифровые, страничные строки
+center	sitemgr	ru	По центру
+changes saved.	sitemgr	ru	Изменения сохранены.
+check here after every upgrade	sitemgr	ru	Отметьте здесь после каждого обновления
+check to hide from condensed site index.	sitemgr	ru	Отметьте для иключения из сокращенного индекса сайта
+choose a category	sitemgr	ru	Выбор категории
+choose a format	sitemgr	ru	Выбор формата
+choose a guestbook	sitemgr	ru	Выбирите Гостевую Книгу
+choose language	sitemgr	ru	Выбирите Язык
+choose template	sitemgr	ru	Выбирите шаблон
+choose the categories to display	sitemgr	ru	Выберите категории для показа
+choose the valid html type (note: not all icons are available):	sitemgr	ru	Выберите верный тип HTML (прим.: не все значки доступны):
+choose your site's theme or template.  note that if you changed the above checkbox you need to save before choosing a theme or template.	sitemgr	ru	Выберите тему или шаблон вашего сайта. Помните, что если вы изменили выбор выше, вам необходимо сохраниться перед выбором темы или шаблона.
+click here to login through a safe connection.	sitemgr	ru	Щелкните здесь для соединения по безопасному каналу
+code file	sitemgr	ru	Файл кода
+codebase url	sitemgr	ru	URL кодовой базы
+collapse threads	sitemgr	ru	Сворачиватьь треды
+comment	sitemgr	ru	Комментарий
+commit changes	sitemgr	ru	Применить изменения
+common prefix of the image-name (a number starting with 1 will be appended)	sitemgr	ru	общий префикс названия изображений (в конце будет добавляться цифра начиная с 1)
+configure module properties	sitemgr	ru	Настройка параметров модуля
+configure sitemgr	sitemgr	ru	Настройка МенеджераСайта(SitMgr)
+configure website	sitemgr	ru	Настройка веб-сайта
+contact the administrator.	sitemgr	ru	Связаться с администратором.
+content areas	sitemgr	ru	Области содержимого
+content blocks	sitemgr	ru	Блоки содержимого
+content blocks for category	sitemgr	ru	Блоки содержимого для категории
+content manager	sitemgr	ru	Управление Наполнением
+contentarea	sitemgr	ru	Область содержимого
+contributor menu	sitemgr	ru	Меню спонсора
+copyright	sitemgr	ru	Права
+create new version	sitemgr	ru	Создать новую версию
+css styles	sitemgr	ru	стили CSS
+currency code of the value specified in amount (eg. usd, eur)	sitemgr	ru	Код валюты значения указываемого в поле количества (amount) (напр. USD,EUR,RUR)
+current section	sitemgr	ru	Текущая Секция
+custom	sitemgr	ru	пользовательский
+default	sitemgr	ru	По умолчанию
+default home page id number	sitemgr	ru	Идентификационный номер домашней страницы по умолчанию
+define websites	common	ru	Определить веб-сайты
+delete block	sitemgr	ru	Удалить блок
+delete category	sitemgr	ru	Удалить категорию
+delete page	sitemgr	ru	Удалить страницу
+delete this application	sitemgr	ru	Удалит приложение
+delete this block	sitemgr	ru	Удалить данный блок
+delete this guestbook	sitemgr	ru	Удалить данную гостевую книгу
+delete version	sitemgr	ru	Удалить Версию
+deleting all data for %1	sitemgr	ru	Удаление всех данный %1
+details for language %1 (%2)	sitemgr	ru	Подробности для языка %1 (%2)
+directory is not writable by the webserver --> disabling upload	sitemgr	ru	У веб-сервера НЕТ прав на запись в папку --> отклчение публикации
+discussions	sitemgr	ru	Обсуждения (дискуссии)
+display link to autoregistration below login form?	sitemgr	ru	Показывать ссылку авторегстрации в нижней части формы входа?
+do you realy want to delete the selected categories (including all pages), pages and blocks?	sitemgr	ru	Вы уверены, что желаете удалить выбранные Категории (включая все страницы), Страницы и Блоки?
+do you realy want to delete this block?	sitemgr	ru	Вы правда желаете удалить этот блок?
+do you realy want to delete this page?	sitemgr	ru	Вы правда желаете удалить эту страницу?
+do you want to delete them?	sitemgr	ru	Вы желаете удалить их?
+documentation	sitemgr	ru	Документация
+domain-name (offical dns-name eg. www.egroupware.org) if you want to give the user a choice between searching this site or the whole web. leaving it empty allows to search the web only.	sitemgr	ru	Доменное имя (официальное DNS-имя напр. www/eGroupWare.ru) если вы желаете дать пользовател. выбор между поиском по этому сайту или в интернете. Оставьте пустым для поиска только в интернете.
+don't have an account?	sitemgr	ru	Нет учетной записи?
+don't use egroupware css ">" separator (for templates that uses images/simbols for lists)	sitemgr	ru	Не использовать разделитель egroupware css ">" (для шаблонов которые используют картинки/символы для списков)
+done	sitemgr	ru	Готово
+dont ask	sitemgr	ru	Не спрашивайте
+download as zip-archiv	sitemgr	ru	скачать как ZIP-архив
+downloaded	sitemgr	ru	скачано
+draft	sitemgr	ru	черновик
+draft mode	sitemgr	ru	Режим черновика
+edit categories and permissions	common	ru	Редактировать Категории и Разрешения
+edit category	sitemgr	ru	Редактировать Категорию
+edit individual pages	common	ru	Редактировать Личные Страницы
+edit mode	sitemgr	ru	Режим редактирования
+edit notification	sitemgr	ru	Редактирование напоминаний
+edit notification message	sitemgr	ru	Редактирование сообщения нопоминания
+edit page	sitemgr	ru	Редактировать страницу
+edit properties of module %1 for %2 with scope %3	sitemgr	ru	Редактировать свойства модуля %1 для %2 с (scope??) %3
+edit site	sitemgr	ru	Редактировать сайт
+edit site header and footer	common	ru	Редактирование Заголовка и Подписи Сайта
+edit this block	sitemgr	ru	Редактировать этот блок
+edit website	sitemgr	ru	Редактировать Веб-сайт
+egw users	sitemgr	ru	пользователи eGW
+element successfully deleted.	sitemgr	ru	Элемент успешно удален
+email address	sitemgr	ru	Адрес эл. почты
+email address of the paypal account selling the item	sitemgr	ru	Адрес эл. почты учетной записи PayPal продающей предмет
+enter a name	sitemgr	ru	Ведите имя
+enter the block content here	sitemgr	ru	Введите здесь содержимое блока
+enter the email to be notified about changes of the website.	sitemgr	ru	Введите адрес эл. почты на который следует посылать сообщения об изменениях на сайте
+enter the email to be notified about changes of the website:	sitemgr	ru	Введите адрес эл. почты на который следует посылать сообщения об изменениях на сайте
+enter the page content here	sitemgr	ru	Введите здесь содержимое страницы
+enterprise knowledge articles repository	sitemgr	ru	Хранилище статей Всеобщих Знаний
+entry deleted	sitemgr	ru	Запись удалена
+entry duplicated.	sitemgr	ru	Запись продублирована.
+entry saved	sitemgr	ru	Запись сохранена
+entry saved.	sitemgr	ru	Запись сохранена.
+error accessing page	common	ru	Ошибка доступа к старнице
+error deleting the element.	sitemgr	ru	Ошибка удаления элемента
+error deleting the entry!!!	sitemgr	ru	Ошибка удаления записи!!!
+error saving the entry!!!	sitemgr	ru	Ошибка сохранения записи!!!
+error writing to the database.	sitemgr	ru	Ошибка записи в базу данных
+error writing to the database: %1.	sitemgr	ru	Ошибка записи в базу данных: %1.
+everybody	sitemgr	ru	Каждый
+exact phrase	sitemgr	ru	Фраза полностью
+expand current category	sitemgr	ru	Раскрыть данную категорию
+file %1 is not readable by the webserver !!!	sitemgr	ru	Файл %1 не может быть прочитан веб-сервером !!!
+file %1 is outside the docroot of the webserver !!!<br>this module does not allow - for security reasons - to open files outside the docroot.	sitemgr	ru	Файл %1 находится вне корня документов веб-сервера !!! <br> Этот модуль в целях безопасности не позволяет открывать файлы вне корневой папки документов.
+file contents	sitemgr	ru	Содержимое файла
+file download	sitemgr	ru	Загрузка файлы
+filename	sitemgr	ru	имя файла
+filesystem path of the directory where xml files are stored	sitemgr	ru	Системный путь к папке хранения файлов XML
+filesystem path of the image-directory	sitemgr	ru	Системный путь к папке изображений
+filesystem path to sitemgr-site directory	sitemgr	ru	Системный путь к папке веб-сайта (sitemr-site)
+fill in permissions from parent category? if you check this, below values will be ignored	sitemgr	ru	Заполнить права доступа как в родительской категории? При включении, значения ниже учитываться не будут
+flag symbols	sitemgr	ru	Символы флага
+following new modules registed: %1	sitemgr	ru	Следующие новые модули зарегистрированы: %1
+footer editor	sitemgr	ru	Редактор нижнего колонтитула
+forever	common	ru	Навсегда
+forum	sitemgr	ru	Форум
+full path of the xslt file that should be applied to the xml files	sitemgr	ru	Полный путь к файлу XSLT который должен быть применен к XML-файлам
+galerie	sitemgr	ru	Галерея
+gallery plus chooser	sitemgr	ru	Галерея с выбором
+gallery plus chooser and download	sitemgr	ru	Галерея с выбором и публикацией
+gallery plus download	sitemgr	ru	Галерея с публикацией
+go	sitemgr	ru	Перейти
+go back to page manager	sitemgr	ru	Вернуться в Управление Страницами
+go back to the category manager.	sitemgr	ru	Вернуться к управлнию категориями
+go to	sitemgr	ru	Перейти к
+go to page manager	sitemgr	ru	Перейти к Управлению Страницей
+google	sitemgr	ru	Google
+google search	sitemgr	ru	Поиск в Гугле
+group access permissions	sitemgr	ru	Права Доступа Группы
+group name	sitemgr	ru	Название Группы
+header editor	sitemgr	ru	Редактор Заголовка
+headlines	sitemgr	ru	Заголовки
+hello	sitemgr	ru	Привет
+hello world	sitemgr	ru	Привет мир
+helps you respect html/xhtml standards.	sitemgr	ru	Помогает учитывать пожелания стандартов HTML/XHTML.
+horizontal	sitemgr	ru	Горизонтальный
+html frame	sitemgr	ru	Фрейм HTML
+html module	sitemgr	ru	Модуль HTML
+i'm sorry, you do not have write permissions for any site categories.	sitemgr	ru	Просим прощения, но у вас нет прав на запись в какую-либо категорию сайта.
+id	sitemgr	ru	ИД
+identifier you can use to track an internal inventory number	sitemgr	ru	Идентификатор, который вы можете использовать для отслеживания внутреннего инвентарного номера
+if nonsecure redirect to:	sitemgr	ru	Если не защищено, перенаправить в:
+if you haven't done so already, create a user that will be used for public viewing of the site.  recommended name: anonymous.	sitemgr	ru	Если вы до сих пор так не сделали, создайте пользователя для публичного просмотра сайта. Рекомендуемое имя: anonymous.
+image type	sitemgr	ru	тип изображения
+implies read permission	sitemgr	ru	подразумевает доступ на чтение
+index	sitemgr	ru	Индекс
+individual access permission	sitemgr	ru	Индивидуальные права на доступ
+individual access permissions	sitemgr	ru	Индивидуальные права на доступ
+interface to google website	sitemgr	ru	Интерфейс к сайту google
+invalid template directory '%1' !!!	sitemgr	ru	Папка шаблонов '%1' неверна !!!
+knowledge base	sitemgr	ru	База Знаний
+language:	sitemgr	ru	Язык:
+languages the site user can choose from	sitemgr	ru	Языки из которых может выбирать пользователь сайта
+last entries to the guestbook	sitemgr	ru	Последние записи в гостевой книге
+latest reply	sitemgr	ru	Последние отзывы
+links for the tabs (comma seperated)	sitemgr	ru	Ссылки на закладки (через запятую)
+list of permitted modules specific to content area %1	sitemgr	ru	Список разрешенных модулей для определенных (специальных) областей содержимого %1
+loged in as:	sitemgr	ru	Вошли как:
+login	sitemgr	ru	Вход
+login name	sitemgr	ru	Имя для Входа
+main content	sitemgr	ru	Основное содержимое
+mains	sitemgr	ru	Главная часть
+manage archived content	sitemgr	ru	Управление архивным содержимым
+manage categories	sitemgr	ru	Управление Категориями
+manage categories and pages	sitemgr	ru	Управление категориями и страницами
+manage category wide content	sitemgr	ru	Управление содержанием уровня категорий
+manage category wide module properties	sitemgr	ru	Управление свойствами модуля уровня категорий
+manage content	sitemgr	ru	Управление Наполнением
+manage modules	sitemgr	ru	Управление Модулями
+manage notifications	sitemgr	ru	Управление напоминаниями
+manage page specific content	sitemgr	ru	Управление содержимым привязанным к странице
+manage pages	common	ru	Управление Страницами
+manage site content	sitemgr	ru	Управление Наполнением Сайта
+manage site-wide content	sitemgr	ru	Управление наполнением всего сайта
+manage site-wide module properties	sitemgr	ru	Управление параметрами модулей всего сайта
+manage translations	sitemgr	ru	Управление переводами
+manange notifications	sitemgr	ru	Управление напоминаниями
+manange notifications messages	sitemgr	ru	Управление Сообщениями Напоминаний
+master list of permitted modules	sitemgr	ru	Базовый список разрешенных модулей
+maximal category depth to be shown	sitemgr	ru	Максимальная глубина показа категорий
+maximal page depth to be shown	sitemgr	ru	Максимальная глубина показа страниц
+message not found !!!	sitemgr	ru	Сообщение не найдено !!!
+message text:	sitemgr	ru	Текст сообщения:
+messages are defined for all site languages.	sitemgr	ru	Сообщения определены для всех языков сайта
+migrating data for %1 to %2	sitemgr	ru	Мигрирование данных для %1 на %2
+module %1 is not permitted in this context!	sitemgr	ru	Модуль %1 не допускается в этом контексте!
+module '%1' not found in: %2! --> exiting	sitemgr	ru	Модуль '%1' yе найден в: %2--> выход
+module manager	sitemgr	ru	Управление модулями
+module: %1, scope: %2, contentarea: %3, viewable: %4	sitemgr	ru	Модуль: %1, Охват: %2, Область содержимого: %3, Видимых: %4
+move block down (increase sort order)	sitemgr	ru	Сдвинуть блок вниз (увеличить номер по-порядку)
+move block up (decrease sort order)	sitemgr	ru	Сдвинуть блок вверх (уменьшить номер по-порядку)
+move to	sitemgr	ru	Переместить в
+name	sitemgr	ru	Имя
+name has been translated to lower case	sitemgr	ru	Имя было преобразованы в строчные буквы
+name of the item for sale	sitemgr	ru	Название предмета на продажу
+name of the tabs (comma seperated)	sitemgr	ru	Название закладок (разделенные запятыми)
+new application	sitemgr	ru	Новое приложение
+new guestbook	sitemgr	ru	Новая гостевая книга
+new sitemgr site	sitemgr	ru	Новый сайт в менеджере сайтов
+no additional arguments required	sitemgr	ru	Дополнительные параметры не требуются
+no anonymous user accounts installed.  notify the administrator.	sitemgr	ru	НЕ ОПРЕДЕЛЕН АНОНИМНЫЙ ПОЛЬЗОВАТЕЛЬ. СООБЩИТЕ АДМИНИСТРАТОРУ.
+no content areas found in selected template	sitemgr	ru	В выбранном шаблоне не обнаружены области для размещения содержимого
+no content found	sitemgr	ru	Содержимое не найдено
+no groups defined.	sitemgr	ru	Группы не определены.
+no link to full index	sitemgr	ru	Нет ссылки на полный индекс
+no modules permitted for this content area/category	sitemgr	ru	Нет модулей, разрешенных для этой области/категории содержимого
+no new modules found !!!	sitemgr	ru	Новые модули не найдены !!!
+no options available.	sitemgr	ru	Нет доступных настроек.
+no pages available	sitemgr	ru	Нет страниц для просмотра
+no sitelanguages configured	sitemgr	ru	Языки сайта не сконфигурированы
+no states defined	sitemgr	ru	Состояния не определены
+no template file found.	sitemgr	ru	Файл шаблона не найден.
+no templates found.	sitemgr	ru	Шаблон не найден.
+no thumbnail availible	sitemgr	ru	Нет доступного предварительного просмотра
+no users defined.	sitemgr	ru	Пользователи не определены.
+no websites defined	sitemgr	ru	Веб-сайты не определены
+no, chooser only (for side-areas)	sitemgr	ru	Нет, только селектор (для боковой области)
+no, chooser with preview	sitemgr	ru	Нет, селектор с предварительным просмотром
+not	common	ru	не
+not yet translated	sitemgr	ru	еще не переведено
+note that you may get this message if your preferences are incorrect.  for example, if config.inc.php is not found in the directory that you specified.	sitemgr	ru	Заметьте, что Вы можете получить это сообщение если ваши настройки - некорректны. Например, если config.inc.php не найден в папке, которую Вы указали.
+notification message not found !!!	sitemgr	ru	Сообщение Уведомления не найдено !!!
+notification not found !!!	sitemgr	ru	Уведомление не найдено !!!
+number of results	sitemgr	ru	Количество результатов
+on all pages	sitemgr	ru	на всех страницах
+only gallery	sitemgr	ru	Только галерея
+only on the first page	sitemgr	ru	только на первой странице
+options in search result page	sitemgr	ru	Параметры в странице результатов поиска
+or enter the title for a new guestbook	sitemgr	ru	или введите заголовок для новой гостевой книги
+other websites	sitemgr	ru	Другие веб-сайты
+overview of all available categories	sitemgr	ru	Полный просмотр всех доступных категорий
+overview of one specific category	sitemgr	ru	Обзор одной определенной категории
+own amazon partner-id or empty to donate to the egroupware project	sitemgr	ru	Собственный идентификатор партнера Амазон или пусто, чтобы пожертвовать gроекту eGroupWare
+page	sitemgr	ru	Страница
+page content	sitemgr	ru	Содержимое страницы
+page manager	sitemgr	ru	Управление страницей
+page name	sitemgr	ru	Название страницы
+page saved	sitemgr	ru	Страница сохранена
+page saved.	sitemgr	ru	Страница сохранена.
+page subtitle	sitemgr	ru	Подзаголовок страницы.
+page title	sitemgr	ru	Заголовок старницы
+pages	sitemgr	ru	Страницы
+pages:	sitemgr	ru	Страницы
+parent	sitemgr	ru	Родитель
+parent directory	sitemgr	ru	Родительская папка
+parent section:	sitemgr	ru	Родительская секция:
+password	sitemgr	ru	Пароль
+password that you assigned for the anonymous user account.	sitemgr	ru	Пароль, который Вы назначаете учетной записи анонимного пользователя.
+path	sitemgr	ru	Путь
+path to image-directory '%1' is not valid or readable by the webserver !!!	sitemgr	ru	Путь к папке с изображениями '%1' неверен или недоступен для чтения вебсервером !!!
+path to zip binary if not in path of the webserver	sitemgr	ru	Путь к бинарному zip-файлу если его нет в пути вебсервера
+pay with paypal	sitemgr	ru	Заплатить через PayPal
+paypal	sitemgr	ru	Paypal
+paypal pay now button	sitemgr	ru	Кнопка "заплатить сейчас" Paypal
+percentage	sitemgr	ru	Проценты
+phrases in total	sitemgr	ru	Всего фраз
+plain selectbox	sitemgr	ru	Плоская рамка выбора
+please enter a name for that site !	sitemgr	ru	Пожалуйста, введите имя этого сайта !
+please sign the guestbook	sitemgr	ru	Пожалуйста, подпишите гостевую книгу
+post a message to this thread	sitemgr	ru	Создать Сообщение В Этой Нити
+prepublished	sitemgr	ru	предварительно опубликовано
+preunpublished	sitemgr	ru	предварительно снято с публикации
+previous	sitemgr	ru	Предыдущий
+price of the item (empty allows buyer to choose, eg. for donations)	sitemgr	ru	Цена товара (пустое значение позволяет покупателю выбрать, напр. для пожертвований)
+production mode	sitemgr	ru	Режим проектирования
+published	sitemgr	ru	опубликовано
+quantity items (empty allows buyer to specify)	sitemgr	ru	Количество товара (пустое значение позволяет покупателю указать)
+reactivate content	sitemgr	ru	Реактивировать содержание
+read permission	sitemgr	ru	Разрешение на чтение
+redirection	sitemgr	ru	Перенаправление
+refresh	sitemgr	ru	Обновить
+register for one now.	sitemgr	ru	Регистрировать для одного сейчас же.
+register new modules	sitemgr	ru	Регистрация новых модулей
+reload	sitemgr	ru	Перезагрузить
+remember me	common	ru	запомнить меня
+replies	sitemgr	ru	Ответы
+required	sitemgr	ru	Требуется
+required fields	sitemgr	ru	Требуемые Поля
+reset	sitemgr	ru	Сброс
+return to forums	sitemgr	ru	Вернуться к форумам
+return to main menu.	sitemgr	ru	Вернуться в главное меню
+return to message list	sitemgr	ru	Вернуться к списку сообщений
+root site index	sitemgr	ru	Корневой индекс сайта
+save	sitemgr	ru	Сохранить
+save block	sitemgr	ru	Сохранить блок
+saved	sitemgr	ru	Сохранено
+scope	sitemgr	ru	Сфера(?)
+search keyword	sitemgr	ru	Поиск слова
+search language options	sitemgr	ru	Параметры языка при поиске
+search modes	sitemgr	ru	Режимы поиска
+search with	sitemgr	ru	Поиск с
+seen by	sitemgr	ru	Просмотрели
+select a category	sitemgr	ru	Выбор категории
+select a forum	sitemgr	ru	Выбор форума
+select allowed modules	sitemgr	ru	Выбор допустимых модулей
+select layout for lang selection	sitemgr	ru	Выбор слоя для выбора языка (?)
+select persons and groups that are entitled to configure the website.	sitemgr	ru	Выбрать человека и группу, которым дано право конфигурировать вебсайт.
+select the templates the user is allowed to see	sitemgr	ru	Выбор шаблонов которые разрешено видеть пользователям
+select type of navigation	sitemgr	ru	Выбор типа Навигации
+selected template %1 does not exist.	sitemgr	ru	Выбранный шаблон %1 не существует.
+selected theme %1 does not exist.	sitemgr	ru	Выбранная тема %1 не существует.
+seperate cats / pages of one tab by :	sitemgr	ru	Разделять Категории/Страницы на одной закладке с помощью:
+shipping address	sitemgr	ru	Адрес доставки
+should the file be viewed in the browser or downloaded	sitemgr	ru	Должен ли файл просматриваться в браузере или же скачиваться.
+show a template-gallery (thumbnail and informations)	sitemgr	ru	Показать галерею шаблонов (миниатюра и информация)
+show contents of a directory	sitemgr	ru	Показать содержимое папки
+show contents of a directory with subdirectories	sitemgr	ru	Показать содержимое папки с подпапками
+show current section only	sitemgr	ru	Показать только текущую секцию
+show details for the applications	sitemgr	ru	Показать подробности приложений
+show files including the ones from subdirectories	sitemgr	ru	Показать файлы включая файлы из подкаталогов
+show only (in the next field) selected templates	sitemgr	ru	Только показать (в следующем поле) выбранные шаблоны
+show path?	sitemgr	ru	показать путь?
+show searchbox	sitemgr	ru	Показать рамку поиска
+show site index	sitemgr	ru	Показать индекс Сайта
+show subcategories	sitemgr	ru	Показать подкатегории
+show the title of the wiki page	sitemgr	ru	Показать название страницы Вики
+simple: only selected mode, no more options displayed	sitemgr	ru	Просто: Толлько выбранный режим, не показывать больше параметров
+single file download	sitemgr	ru	Получение отдельного файла
+site	sitemgr	ru	Сайт
+site %1 has been added, you need to %2configure the site%3 now	sitemgr	ru	Был добавлен сайт %1, Вы должны сейчас %2конфигурировать этот сайт%2.
+site %1 has been updated	sitemgr	ru	Сайт %1 обновлен
+site administrators	sitemgr	ru	Администраторы сайта
+site description	sitemgr	ru	Описание сайта
+site format manager	sitemgr	ru	Управление Форматом Сайта
+site index	sitemgr	ru	Содержание Сайта
+site language	sitemgr	ru	Язык сайта
+site name	sitemgr	ru	Название сайта
+site setup	common	ru	Установка сайта
+site tree menu	sitemgr	ru	Древовидное меню сайта
+site wide	sitemgr	ru	На весь сайт
+sitemgr	common	ru	Управление Сайтом
+sitemgr manual	sitemgr	ru	Руководство по Управлению Сайтом
+sitemgr options	sitemgr	ru	Настройки Управления Сайтом
+sitemgr setup instructions	sitemgr	ru	Инструкции по установке Управления Сайтом
+sitemgr setup page	sitemgr	ru	страница установки управления сайтом
+sitemgr web content manager	common	ru	Управление веб-содержимым Управления Сайтом
+sitemgr websites	sitemgr	ru	Веб-сайты Управления Сайтом
+sitemgr-link	common	ru	Веб-сайт
+sitio	sitemgr	ru	Сайт (?)
+size	sitemgr	ru	Размер
+sorry, no content found for you search criteria	sitemgr	ru	Извините, но ничего не найдено по заданным критериям поиска
+sort order	sitemgr	ru	Порядок Сортировки
+state	sitemgr	ru	Состояние
+strip html from block content?	sitemgr	ru	Ободрать HTML из содержимого блока?
+subcategories	sitemgr	ru	Подкатегории
+subsections:	sitemgr	ru	Подсекции:
+subtext for image %1	sitemgr	ru	Подтекст для изображения %1
+subtitle	sitemgr	ru	Подзаголовок
+summary of one forum	sitemgr	ru	Итого одного форума
+suppress link to index (show all)	sitemgr	ru	Запрещать ссылку на индекс (показать все)
+suppress link to parent category	sitemgr	ru	Запрещать ссылку на родительскую категорию
+suppress main categories	sitemgr	ru	Запрещать главные категории
+suppress the current category	sitemgr	ru	Запретить текущую категорию
+suppress the current page	sitemgr	ru	Запрещать текущую страницу
+table of contents	sitemgr	ru	Содержание
+template based navigation module	sitemgr	ru	Модуль навигации основанный на шаблоне
+template select	sitemgr	ru	Выбор шаблона
+text allignment	sitemgr	ru	Выравнивание текста
+text of page links	sitemgr	ru	Текст страницы ссылок
+textarea	sitemgr	ru	область текста
+the category to display, 0 for complete table of contents	sitemgr	ru	Категория для показа, 0 для полного содержания
+the complete url or path to a file to be included	sitemgr	ru	Полный URL или путь к включаемому файлу
+the config.inc.php file needs to be edited to point to the egroupware directory. copy the config.inc.php.template file to config.inc.php and then edit it.	sitemgr	ru	Необходимо отредактировать файл config.inc.php, чтобы указать каталог eGroupWare. Скопируйте файл config.inc.php.template в config.inc.php и потом отредактируйте последний.
+the file to be downloaded	sitemgr	ru	файл для получения
+the filesystem path to your sitemgr-site directory '%1' is probably wrong. go to sitemgr --> define websites and edit/fix the concerned site.	sitemgr	ru	Путь в файловой системе к Вашему каталогу sitemgr-site '%1' возможно неверен. Зайдите в Управление Сайтом --> Упределить Вебсайты и отредактируйте/исправьте Сайт, которого это касается.
+the first directory to think about is sitemgr-link.  if you move this to the parent directory of sitemgr (your egroupware root directory) then you can use setup to install the app and everyone with access to the app will get an icon on their navbar that links them directly to the public web site.  if you don't want this icon, there's no reason to ever bother with the directory.	sitemgr	ru	Первый каталог, о котором идет речь - это sitemgr-link. Если Вы переместите его в родительский каталог каталога sitemgr (Ваш корневой каталог egroupware), то Вы сможете использовать установку, чтобы установить приложение и каждый, у кого будут права, получит пиктограмму в его панели навигации, которая свяжет его прямо с публичным веб-сайтом. Если Вам не нужна эта пиктограмма, то нет причин беспокоиться об этом каталоге.
+the messages for changes in this language will use the default text, if available.	sitemgr	ru	Сообщение для изменеий на этом языке бцдет использовать текст по-умолчанию, если это возможно.
+the name field cannot contain punctuation or spaces (field modified).	sitemgr	ru	Поле Имя не может содержать знаки пунктуации и пробелы (поле изменено).
+the page name must be unique.	sitemgr	ru	Название страницы должно быть уникально.
+the page was successfully saved.	sitemgr	ru	Страница успешно сохранена.
+the path to the file to be downloaded	sitemgr	ru	Путь к скачиваемому файлу
+the person to say hello to	sitemgr	ru	Человек, которого надо приветствовать
+the second directory is the sitemgr-site directory.  this can be moved <i>anywhere</i>.  it can also be named <i>anything</i>.  wherever it winds up, when you point a web browser to it, you will get the generated website.  assuming, of course, that you've accurately completed the setup fields below and also <b><i>edited the config.inc.php</i></b> file.	sitemgr	ru	Второй каталог - это каталог sitemgr-site/ Он может быть перемещен <i>куда угодно</i>. Он так же может быть назван <i>как угодно</i>. Где бы он не оказался, когда Вы зайдете на него браузером - Вы получите сгенерированный веб-сайт. Однако предполагается, что Вы аккуратно заполнили поля установки ниже и также <b><i>отредактировали файл config.inc.php</i></b>
+the text for the link, if empty the module returns the raw url (without a link)	sitemgr	ru	Текст для ссылки, если пустой - модуль возвращает сырой URL (без ссылки)
+the url can be relative or absolute.  name must end in a slash.	sitemgr	ru	URL может быть относительным и абсолютным. Имя должно заканчиваться слешем.
+the url must be absolute and end in a slash, for example http://mydomain.com/mysite/	sitemgr	ru	URL должен быть абсолютным и заканчиваться слешем, например http://mydomain.com/mysite/
+the url to display	sitemgr	ru	URL, который надо показать
+the url to redirect to	sitemgr	ru	URL, на который надо сделать редирект
+the web	sitemgr	ru	веб
+the website has changed. too see the change, follow this url: $url.	sitemgr	ru	Выбсайт был изменен. Чтобы увидеть изменения, проследуйте по ссылке: $URL.
+the whole page	sitemgr	ru	страница целиком
+the xml files' common name	sitemgr	ru	Общее имя файлов XML
+theme or template select	sitemgr	ru	Выбор темы или шаблона
+there are %1 elements in the list.	sitemgr	ru	В списке - %1 елементов
+there are no categories	sitemgr	ru	Нет категорий
+there are no forums in this category	sitemgr	ru	В этой категории нет форумов
+there are no pages in this section	sitemgr	ru	В этой секции нет страниц
+there are no properties defined for this module	sitemgr	ru	Нет параметров, определенных для этого модуля
+there are no sections available to you.	sitemgr	ru	Нет секций, разрешенных для Вас.
+there are two subdirectories off of your sitemgr directory that you should move before you do anything else.  you don't <i>have</i> to move either of these directories, although you will probably want to.	sitemgr	ru	Есть два подкаталога в Вашем каталоге sitemgr, которые Вы должны переместить перед тем, как что-либо делать. Вы не <i>должны</i> перемещать оба эти каталога, хотя Вы, вероятно, захотите сделать это.
+there can only be one version in (pre(un))published state, with the one exeption that one prepublished version can coexist with one preunpublished version	sitemgr	ru	Должны быть только одна версия в (предварительно (снято с)) опубликованном состоянии, с одним исключением - одна предварительно опубликованная версия может сосуществовать с одной предварительно снятой с публикации версией
+there is no website configured for url %1.  notify the administrator.	sitemgr	ru	НЕТ СКОНФИГУРИРОВАННЫХ СВЕБСАЙТОВ ДЛЯ URL %1. СООБЩИТЕ АДМИНИСТРАТОРУ.
+there is nothing to list.	sitemgr	ru	Нет ничего для списка.
+there was an error accessing the requested page. either you do not have permission to view this page, or the page does not exist.	common	ru	Случилась ошибка при доступе к запрашиваемой странице. Или же у Вас нет разрешения на просмотр страницы, или же страница не существует.
+there was an error writing to the database.	sitemgr	ru	Ошибка при записи в базу данных
+this block displays a javascript based tree menu	sitemgr	ru	Этот блок показывает дерево, основанное на javascript
+this block displays the current section's table of contents	sitemgr	ru	Этот блок показывает содержание текущей секции
+this category has no pages.	sitemgr	ru	У категории нет страниц.
+this is a simple sample module	sitemgr	ru	Это простой модуль для примера
+this is only used as an internal name for the website.	sitemgr	ru	Это используется только как внутреннее имя вебсайта.
+this is used chiefly for meta data and the title bar. if you change the site languages below you have to save before being able to set this preference for a new language.	sitemgr	ru	Это используется в основном для метаданных и заголовка. Если Вы изменяете язык сайта ниже - Вы должны записать перед тем, как будет возможно установить эту настройку для нового языка.
+this is used chiefly for meta data. if you change the site languages below you have to save before being able to set this preference for a new language.	sitemgr	ru	Это используется в основном для метаданных. If you change the site languages below you have to save before being able to set this preference for a new language.
+this module create a link for downloading a file from the vfs	sitemgr	ru	Этот модуль создает ссылку для скачивания файла с VFS
+this module create a link for downloading a file(s) from the vfs	sitemgr	ru	Этот модуль создает ссылку для скачивания файла(ов) с VFS
+this module demonstrates how handling data stored in xml and building an interacvite interface from it	sitemgr	ru	Этот модуль демонстрирует как обрабатываются данные, хранимые в XML, и как из них создаётся интерактивный интерфейс
+this module displays a login form	sitemgr	ru	Этот модуль показывает форму входа
+this module displays any kind of navigation element.	sitemgr	ru	Этот модуль показывает навигационный элемент любого типа.
+this module displays bookmarks in a javascript based tree	sitemgr	ru	Этот модуль показывает закладки и виде дерева, основанного на javascript'е
+this module displays the current month	sitemgr	ru	Этот модуль показывает текущий месяц
+this module displays the egw forums on the web site	sitemgr	ru	Этот модуль показывает на сайте форумы eGW
+this module displays the root categories in one block each, with pages and subcategories (incl. their pages if activated).	sitemgr	ru	Этот модуль показывает корневые категории каждую в одном блоке, со страницами и подкатегориями (включая их страницы, если активировано).
+this module displays the root categories, its pages and evtl. subcategories. it is meant for side areas	sitemgr	ru	Этот модуль показывает корневые категории, их страницы и, в конце концов, подкатегории. Это имеет значение боковых областей.
+this module includes the contents of an url or file (readable by the webserver and in its docroot !)	sitemgr	ru	Этот модуль включает содержимое URL'а или файла (читаемого веб-сервером и в его корне документов !)
+this module is a customisable navigation element	sitemgr	ru	Этот модуль - настраиваемый элемент навигации
+this module is a selectbox to change the mode (production, draft or edit) plus a link back to sitemgr and to log out. it is meant for registered users only	sitemgr	ru	Этот модуль - список выбора для изменения режима (окончательно, черновик или редактирование) плюс ссылка назад на Управление Сайтом и для выхода. Это имеет значение только для зарегистрированных пользователей.
+this module is a simple html editor	sitemgr	ru	Этот модуль - простой редактор HTML
+this module lets the users choose a template or shows a template gallery	sitemgr	ru	Этот модуль позволяет пользователям выбрать шаблон или показывает галерею шаблонов
+this module lets users choose language	sitemgr	ru	Этот модуль позволяет пользователям выбирать язык
+this module lets you define pages that redirect to another url, if you use it, there should be no other block defined for the page	sitemgr	ru	Этот модуль позволяет Вам определять страницы, которые переадресовываются на другой URL, если Вы это используете, не должно быть определено ни одного другого блока для этой страницы.
+this module lets you include an applet into the page.	sitemgr	ru	Этот модуль позволяет Вам включать аплет в страницу.
+this module lets you show a given url inside an iframe in the page.	sitemgr	ru	Этот модуль позволяет Вам показывать данный URL внутри IFRAME на странице.
+this module permits browsing through xml files stored in a directory, and transformed by xslt	sitemgr	ru	Этот модуль разрешает Вам просмотр XML файлов, сохраненных в каталоге, и преобразованных XSLT
+this module provides a complete table of contents, it is automatically used by the toc and category_id get parameters	sitemgr	ru	Этот модуль обеспечивает законченное содержание, он автоматически используется параметрами toc и category_id запроса GET
+this module provides a condensed table of contents, meant for side areas	sitemgr	ru	Этот модуль обеспечивает сжатое содержание, это имеет значение для боковых областей
+this module provides tabs	sitemgr	ru	Этот модуль предоставляет вкладки
+this module provides the path to the element currently shown	sitemgr	ru	Этот модуль обеспечивает путь к элементу, просматриваемому сейчас
+this module provides the site index, it is automatically used by the index get parameter	sitemgr	ru	Этот модуль обеспечивает индекс сайта, он автоматически используется параметром index GET-запроса
+this module search throw the content (page title/description and html content)	sitemgr	ru	Этот модуль ищет в содержимом (заголовок/определение Страницы и html-содержимое)
+this module show the status / percentage of the translation of egw	sitemgr	ru	Этот модуль показывает состояние / процент перевода eGW
+this must be an absolute directory location.  <b>no trailing slash</b>.	sitemgr	ru	Это должно быть абсолютное местоположение каталога. <b>Без конечного слеша</b>.
+this should be a comma-separated list of language-codes.	sitemgr	ru	Это должен быть разделенный запятыми список кодов языка.
+this should be a page that is readable by everyone. if you leave this blank, the site index will be shown by default.	sitemgr	ru	Это должна быть страница, читаемая всеми. Если Вы оставите это пустым, по-умолчанию будет показан индекс сайта.
+this site	sitemgr	ru	этот сайт
+title	sitemgr	ru	Название
+topic	sitemgr	ru	Статья
+translate	sitemgr	ru	Перевод
+translate category	sitemgr	ru	Перевод Категории
+translate page	sitemgr	ru	Перевод Страницы
+translate site-wide content blocks	sitemgr	ru	Перевод блока информации всего сайта
+translation manager	sitemgr	ru	Менеджер Переводов
+translation status	sitemgr	ru	Состояние Перевода
+unsubscribe	sitemgr	ru	Отключить подписку
+up to parent	sitemgr	ru	Наверх, к родителю
+up to table of contents	sitemgr	ru	Наверх, к содержанию
+update notification	sitemgr	ru	Изменить Напоминание
+updating to new category system	sitemgr	ru	Обновление до новой системыкатегорий
+url pointing to the image-directory	sitemgr	ru	Ссылка указывающая на папку изображений
+url to sitemgr-site	sitemgr	ru	ссылка на сайт
+use current user selected language	sitemgr	ru	Использовать язык выбранный текущим пользователем
+use phpnuke themes instead of templates	sitemgr	ru	Использовать темы hpuke dvtcnj if,kjyjd
+use this module for displaying book ads for the amazon web site	sitemgr	ru	Используйте этот модуль для показа книжных добавок для веб сайта амазон
+use this module for displaying wiki-pages	sitemgr	ru	Используйте этот модуль для показа веб-страниц
+user name	sitemgr	ru	Имя Пользователя
+validator	sitemgr	ru	Валидатор
+vertical	sitemgr	ru	Вертикально
+view administrative menu	sitemgr	ru	Просмотр Меню Администрирования
+view full index	sitemgr	ru	Просмотр полного индекса
+view generated site	sitemgr	ru	Просмотр Сгенерированного сайта
+view template on this site	sitemgr	ru	Просмотр шаблона этого сайта
+view threads	sitemgr	ru	Просмотр Нитей
+viewed	sitemgr	ru	просмотрено
+web content manager	common	ru	Управление содержимым  Веб-сайта
+web content manager administration	sitemgr	ru	Администрирование Управления содержимым  Веб-сайта
+web site manager	sitemgr	ru	Управление Веб-Сайтом
+website	sitemgr	ru	Веб-сайт
+week	sitemgr	ru	неделя
+what do you want to do with existing translations of categories and pages for this language?	sitemgr	ru	Что Вы хотите сделать с существующими переводами категорий и страниц для этого языка?
+when is a tab activated?	sitemgr	ru	Когда вкладка активирована
+which application should be executed after login?	sitemgr	ru	Какое приложение должно быть выполнено после входа?
+which main categories schuld be included (comma seperated list, empty for all)	sitemgr	ru	Какие главные категории должны быть включены (разделенный запятыми список, пусто для всех)
+wiki	sitemgr	ru	Вики
+wiki startpage	sitemgr	ru	Стартовая страница вики
+with which view should the module be displayed in the beginning?	sitemgr	ru	С каким видом должен быть показан модуль вначале?
+write permission	sitemgr	ru	Доступ на Запись
+xml browser	sitemgr	ru	Просмотр XML
+yes, please delete it	sitemgr	ru	Да, пожалуйста удалите это
+you are not entitled to change the scope of block %1 to cat %2 and page %3	sitemgr	ru	Вам не дано право изменять пределы блока %1 для Кат %2 и страницы %3
+you are not entitled to create module %1 on this scope	sitemgr	ru	Вам не дано право создавать модуль %1 в этих пределах
+you are not entitled to edit block %1	sitemgr	ru	Вам не дано право редактировать блок %1
+you can choose the modules that can be used on the site. the first list is a sort of master list, that is consulted if you do not configure lists specific to contentareas or (sub)categories. then you can choose lists specific to each content area. in the category manager these lists can be overriden for each (sub)category.	sitemgr	ru	Вы можете выбрать модули, которые могут быть использованы на этом сайте. Первый список - это вид основного списка, с которым можно снестись, если Вы не конфигурируете списки, определенные для областей содержимого или (под)категорий. Далее Вы можете выбрать списки, определенные для каждой области содержимого. В управлении категориями эти списки могут быть переопределены для каждой (под)категории.
+you can either migrate them to a new language or delete them	sitemgr	ru	Вы можете как перенести это на новый язык, так и удалить.
+you can override each content blocks default title. be aware that not in all content areas the block title will be visible.	sitemgr	ru	Вы можете переопределить заголовок по-умолчанию блоков содержимого. Отдавайте себе отчет, что не во всех областях содержимого блок заголовка будет виден
+you did not choose a module.	sitemgr	ru	Вы не выбрали модуль.
+you do not have access to any content on this site.	sitemgr	ru	У вас нет доступа к какому-либо содержимому этого сайта.
+you do not have write permissions for any site categories.	sitemgr	ru	У вас нет прав для записи ни в одну категорию сайта.
+you don't have permission to write in the category	sitemgr	ru	У вас нет прав для записи в категории.
+you don't have permission to write to that category.	sitemgr	ru	У вас нет прав для записи в эту категорию.
+you failed to fill in one or more required fields.	sitemgr	ru	Вы не заполнили одно или несколько требуемых полей.
+you have no rights to view wiki content or the wiki is not installed at all !!!	sitemgr	ru	У вас нет прав для просмотра содержимого википедии либо она вовсе не установлена !!!
+you may have deinstalled the used template '%1'. reinstall it or go to sitemgr --> configure website and select an other one.	sitemgr	ru	Вы должно быть удалили используемый шаблон '%1'. Установите его заново или перейдите на Уплавление Сайтом(SiteMgr) --> Настройка Веб-сайта и выберите другой шаблон.
+you must be an admin to edit categories.	sitemgr	ru	Вы должны быть администратором для редактирования категорий.
+you must be an admin to edit the site header and footer.	sitemgr	ru	Вы должны быть администратором для редактирования заголовка и нижней подписи сайта.
+you must be an admin to manage module properties.	sitemgr	ru	Вы должны быть администратором для управления параметрами модуля.
+you must be an administrator to setup the site manager.	sitemgr	ru	Вы должны быть адмиистратором для установки Управления Сайтом.
+you removed one ore more languages from your site languages.	sitemgr	ru	Вы удалили один или более языков из списка поддерживаемых вашим сайтом.
+you will remove the message in the following language from your notification system:	sitemgr	ru	Вы удалите из своей системы напоминаний сообщение на следующем языке.
+your administrator has not yet setup the web content manager for public viewing.  go bug your administrator to get their butt in gear.	sitemgr	ru	Ваш администратор еще не установил систему управления содержимым для публичного просмотра. Сообщите своему администратору чтобы он позаботился об этом.
+your calendar	sitemgr	ru	Ваш Календарь
+your comment	sitemgr	ru	Ваш комментарий
+your connection is not safe.	sitemgr	ru	Ваше подсоединение небезопасно.
+your name	sitemgr	ru	Ваше имя

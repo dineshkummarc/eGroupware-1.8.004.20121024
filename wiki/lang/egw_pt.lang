@@ -1,0 +1,110 @@
+(don't offer the possibility)	admin	pt	(não possibilitar)
+<em>but</em> display at least this many entries in recentchanges and other subscription lists:	wiki	pt	<em>Mas</em> apresenta pelo menos os registos das alterações recentes e outras listas de subscrição:
+add document to category	wiki	pt	Adicionar documento à categoria
+added	wiki	pt	Adicionado/a
+administration features are disabled for this wiki.	wiki	pt	As opções de administração não estão activas neste wiki.
+admins	wiki	pt	administradores
+after how many days should old versions of a page be removed (0 for never)	admin	pt	As versões antigas de uma página devem ser removidas após quantos dias (0 para nunca)?
+allow anonymous access	admin	pt	Permitir acesso anónimo
+anonymous password	admin	pt	Senha anónima
+anonymous session type	admin	pt	Tipo de sessão anónima
+anonymous username	admin	pt	Nome de utilizador anónimo
+automatically convert pages with wiki-syntax to richtext (if edited)?	admin	pt	Converter automaticamente as páginas com sintaxe wiki para texto (se editável)?
+block	wiki	pt	Bloquear
+block / unblock hosts	common	pt	Bloquear / Desbloquear servidores
+blocked ip address ranges	wiki	pt	Sequências de endereços IP bloqueadas
+cancel without saving	wiki	pt	Cancelar sem guardar
+changed	wiki	pt	Alterado/a
+changes by last author	wiki	pt	Alterações do último autor
+choose your current time here, so the server may figure out what time zone you are in.	wiki	pt	Escolha a sua hora actual aqui, para que o servidor possa descobrir o seu fuso horário.
+columns	wiki	pt	Colunas
+compute difference	wiki	pt	Processar diferenças
+converts the page to richtext	wiki	pt	Converte a página para texto
+current version	wiki	pt	Versão actual
+deleted	wiki	pt	Eliminado/a
+deletes this page	wiki	pt	Elimina esta página
+difference between versions	wiki	pt	Diferenças entre versões
+differences in	wiki	pt	Diferenças em
+different languages can have different titles	wiki	pt	Os diferentes idiomas podem ter títulos diferentes
+document last modified	wiki	pt	Última modificação do documento
+edit box	wiki	pt	Caixa de edição
+edit this <em>archive version</em> of this document	wiki	pt	Edite esta <em>versão de arquivo</em> deste documento
+edit this document	wiki	pt	Editar este documento
+edit with preview	admin	pt	Editar com pré-visualização
+editable	admin	pt	Editável
+editing	wiki	pt	Edição
+emailaddress administrator	admin	pt	Endereço de correio electrónico do administrador
+enable free links	admin	pt	Activar ligações livres
+enable wiki links	admin	pt	Activar ligações do Wiki
+enter here the maximum number of entries to display in a document's history list.	wiki	pt	Insira aqui o número máximo de registos a apresentar numa lista de histórico de documentos.
+enter here the number of days of edits to display on recentchanges or any other subscription list.  set this to zero if you wish to see all pages in recentchanges, regardless of how recently they were edited.	wiki	pt	Insira aqui o número de dias de edições a apresentar nas alterações recentes ou em qualquer outra lista de subscrição. Insira 0 se deseja ver todas as páginas nas alterações recentes, independentemente da altura em que foram editadas.
+enter ip address range in form <tt>12.*</tt>, <tt>34.56.*</tt>, or <tt>78.90.123.*</tt>	wiki	pt	Insira sequência de endereços IP da seguinte forma <tt>12.*</tt>, <tt>34.56.*</tt>, ou <tt>78.90.123.*</tt>
+error creating temporary file.	wiki	pt	Erro ao criar ficheiro temporário
+error writing to temporary file.	wiki	pt	Erro ao escrever em ficheiro temporário.
+everyone	wiki	pt	todos
+find	wiki	pt	Procurar
+history	wiki	pt	Histórico
+history display should show <em>all</em> changes made by the latest author.  otherwise, show only the last change made.	wiki	pt	A apresentação do histórico deve exibir <em>todas</em> as alterações efectuadas pelo último autor. Caso contrário, deve exibir apenas a última alteração efectuada.
+history lists	wiki	pt	Lista de histórico
+history of	wiki	pt	Histórico de
+interwikiprefix	admin	pt	Prefixo do Wiki interno
+invalid page name.	wiki	pt	Nome de página inválido.
+load	wiki	pt	Carregar
+loads the named page in the given language, all change so far get lost !!!	wiki	pt	Carrega a página num determinado idioma. Todas as alterações feitas até ao momento, serão perdidas !!!
+lock / unlock pages	common	pt	Trancar / Destrancar páginas
+locked	wiki	pt	Trancada
+name wiki home link	admin	pt	Nome da página inicial do Wiki
+newer	wiki	pt	Mais recente
+no never	admin	pt	Não, nunca
+no only on request	admin	pt	Não, apenas a pedido
+not set	wiki	pt	não definido
+older	wiki	pt	Mais antigo
+on all pages	wiki	pt	em todas as páginas
+only if browser supports a richtext-editor	admin	pt	Apenas se o navegador suportar um editor de texto
+only on the first page	wiki	pt	apenas na primeira página
+page '%1' not found !!!	wiki	pt	Página '%1' não encontrada !!!
+path of the upload directory (has to be writable by the webserver!)	admin	pt	Caminho para a directoria de envio (tem de ser editável pelo servidor Web!)
+picture upload via richtext editor (leave the upload directory empty to disable the upload)	admin	pt	Imagem enviada através do editor de texto (deixar a directoria de envio vazia para desactivar o envio)
+please contact the %1administrator%2 for assistance.	wiki	pt	Por favor, contacte o %1Administrador%2 para obter ajuda.
+preview	wiki	pt	Pré-visualização
+preview of current version	wiki	pt	Pré-visualização da versão actual
+rate control / ip blocking disabled	wiki	pt	Controlo de classificações / bloqueamento de IPs desactivados
+readable by	wiki	pt	Legível por
+readonly	admin	pt	Apenas para leitura
+recent changes	wiki	pt	Alterações recentes
+renames page to the given name and language	wiki	pt	Renomeia a página para o nome e idioma fornecidos
+richtext	wiki	pt	Texto
+rows	wiki	pt	Linhas
+save the changes and exit	wiki	pt	Guardar as alterações e sair
+saves and continues editing	wiki	pt	Guarda e continua a editar
+search for	wiki	pt	Pesquisar por
+see complete list (%1 entries)	wiki	pt	Ver lista completa (%1 registos)
+show a search	wiki	pt	Exibir uma pesquisa
+show the title of the wiki page	wiki	pt	Exibir o título na página do wiki
+summary	wiki	pt	Assunto
+summary of change	wiki	pt	Assunto da alteração
+the search returned no result!	wiki	pt	A pesquisa não obteve resultados!
+this page can not be edited.	wiki	pt	Esta página não pode ser editada.
+twin pages	wiki	pt	Répica de páginas
+unblock	wiki	pt	Desbloquear
+updates the preview	wiki	pt	Actualiza a pré-visualização
+url of the upload directory	admin	pt	URL da directoria de envio
+use this module for displaying wiki-pages	wiki	pt	Utilizar este módulo para apresentação de páginas wiki
+users	wiki	pt	utilizadores
+view document history	wiki	pt	Ver histórico de documentos
+visit %1 to set your user name	wiki	pt	Visite %1 para definir o seu nome de utilizador
+warning: since you started editing, this document has been changed by someone else.  please merge your edits into the current version of this document.	wiki	pt	Aviso: desde que iniciou a edição, este documento foi alterado por outra pessoa. Por favor, funda as suas edições com a versão actual deste documento.
+who should be able to edit this page	wiki	pt	quem deve conseguir editar esta página
+who should be able to read this page	wiki	pt	quem deve conseguir ler esta página
+wiki	common	pt	Wiki
+wiki administration	wiki	pt	Administração do Wiki
+wiki menu	wiki	pt	Menu do Wiki
+wiki startpage	wiki	pt	Página inicial do Wiki
+writable by	wiki	pt	Editável por
+yes always	admin	pt	Sim, sempre
+you have been denied access to this site.	wiki	pt	Não ttem acesso a este sítio
+you have entered an invalid user name.	wiki	pt	Inseriu um nome de utilizador inválido
+you have exeeded the number of pages you are allowed to visit in a given period of time. please return later.	wiki	pt	Excedeu o número de páginas que está autorizado a visitar por um determinado período de tempo. Por favor, volte mais tarde.
+you have no rights to view wiki content !!!	wiki	pt	Não tem permissão para ver conteúdo do wiki
+your changes	wiki	pt	As suas alterações
+your user name is "%1".	wiki	pt	O seu nome de utilizador é "%1".

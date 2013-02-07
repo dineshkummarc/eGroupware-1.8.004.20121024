@@ -1,0 +1,105 @@
+<br>please contact the site administrator.	registration	it	<br>Per favore contatta l'amministratore del sito.
+[unknown first name]	registration	it	[nome sconosciuto]
+[unknown last name]	registration	it	[cognome sconosciuto]
+account %1 record could not be found, report to site administrator	registration	it	Il record dell'account %1 non è stato trovato, avvisa l'amministratore del sito
+account password retrieval	registration	it	Recupero password account
+account registration	registration	it	Registrazione account
+activate account	admin	it	Attivazione account
+address	registration	it	Indirizzo
+after you enter your email address, the user accounts associated with this email address will be mailed to that address.	registration	it	Dopo aver inserito il tuo indirizzo email, gli account utente associati con questo indirizzo email saranno inviati a quell'indirizzo.
+after you enter your username, instructions to change your password will be sent to you by e-mail to the address you gave when you registered.	registration	it	Dopo aver inserito il tuo nome utente, le istruzioni per modificare la password saranno inviate all'indirizzo e-mail da te indicato in fase di registrazione.
+an error occured. please contact our technical support and let them know.	registration	it	E' avvenuto un errore. Per favore contatta il nostro supporto tecnico e faglielo sapere.
+anonymous password	admin	it	Password anonimo
+birthday	registration	it	Compleanno
+challenge question	registration	it	Domanda di verifica
+change password for user	registration	it	Cambia password per utente
+checkbox	registration	it	Checkbox
+choose language	registration	it	Scegli una lingua
+choose your language	registration	it	Scegli la tua lingua
+city	registration	it	Città
+click to log into your account	registration	it	Clicca su log per restare loggato
+close window	registration	it	Chiudi finestra
+country	registration	it	Stato
+current fields:	registration	it	Campi correnti:
+days until trial accounts expire	admin	it	Giorni prima della scadenza account di prova
+display terms of service?	admin	it	Visualizza termini del servizio?
+dropdown	registration	it	A discesa
+email address	registration	it	indirizzo email
+email address to display for support	admin	it	Indirizzo email da visualizzare per supporto
+email address to send notices from	admin	it	Indirizzo email da cui inviare notifiche
+enable registration?	admin	it	Abilita Registrazione?
+enter your new password	registration	it	Inserisci la tua nuova password
+female	registration	it	Femmina
+gender	registration	it	Sesso
+hi	registration	it	Ciao
+http password	admin	it	Password HTTP
+http username	admin	it	Username HTTP
+i have read the terms and conditions and agree by them.	registration	it	Ho letto i termini e le condizioni e li accetto.
+if you did not request this account, simply ignore this message.	registration	it	Se non hai richiesto questo account, semplicemente ignora questo messaggio.
+if you did not request this change, simply ignore this message.	registration	it	Se non hai richiesto questa modifica, semplicemente ignora questo messaggio.
+immediately	admin	it	Immediatamente
+lost login id	login	it	Id login persa
+lost password	login	it	Password persa
+lost password link at login screen?	admin	it	Collegamento Password persa in schermata login?
+lost user account retrieval	registration	it	Recupero account utente perso
+lost user id	registration	it	Id Utente persa
+lost user id link at login screen?	admin	it	Collegamento id utente persa in schermata login?
+lost_user_id_message	registration	it	Di seguito gli account utente associati con questo indirizzo email:
+male	registration	it	Maschio
+manage fields	admin	it	Gestisci campi
+name (blank unless text, textarea, dropdown, checkbox; else alphanumeric only)	registration	it	Nome (in bianco tranne Testo, Casella di Testo, A discesa, Checkbox; altrimenti solo alfanumerico)
+not a user yet? register now	login	it	Non sei ancora un utente? Registrati ora
+on-line registration is not activated. please contact the site administrator for more information about registration.	registration	it	La registrazione on-line non è attivata. Prego contatta gli amministratori del sito per maggiori informazioni circa la registrazione.
+order	registration	it	Ordine
+password is	admin	it	La password è
+phone	registration	it	Telefono
+problem sending email:	registration	it	Problema durante invio Email:
+re-enter password	registration	it	Re-inserisci password
+re-enter your password	registration	it	Re-inserisci la tua password
+register	common	it	Registrati
+register link at login screen?	admin	it	Link Registrati nella schermata di Login?
+registration	common	it	Registrazione
+registration settings	admin	it	Impostazioni Registrazione
+remove	registration	it	RImuovi
+report all problems and abuse to	registration	it	Comunica tutti i problemi e gli abusi a
+required	registration	it	Richiesto
+response	registration	it	Responso
+send email	admin	it	Invia email
+sorry, no account exists for	registration	it	Spiacente, non esistono account per
+sorry, that username does not exist.	registration	it	Spiacente, questo username non esiste.
+sorry, that username is already taken.	registration	it	Spiacente, questo username è già utilizzato.
+sorry, we are having a problem activating your account. note that links sent by e-mail are only valid during two hours. if you think this delay was expired, just retry. otherwise, please contact the site administrator.	registration	it	Spiacente, stiamo avendo dei problemi per attivare il tuo account. Nota che i collegamenti inviati tramite email sono validi solo per due ore. Se pensi che questo tempo sia già passato, semplicemente riprova. Altrimenti, per favore contatta l'amministratore del sito.
+state	registration	it	Stato
+subject for confirmation email	admin	it	Oggetto per la mail di conferma
+terms of service	registration	it	Termini di Servizio
+terms of service text	admin	it	Testo Termini di Servizio
+text	registration	it	Testo
+textarea	registration	it	Area di Testo
+the passwords you entered don't match	registration	it	Le password che hai inserito non corrispondono
+the two passwords are not the same	registration	it	Le due password non sono uguali
+this is a confirmation email for your new account.  click on the following link to finish activating your account. this link will expire in 2 hours.	registration	it	Questa è una mail di conferma per il tuo nuovo account. Clicca sul link seguente per terminare la procedura di attivazione del tuo account. Questo link scadrà tra 2 ore.
+type	registration	it	Tipo
+unable to send mail, contact your administrator	registration	it	Impossibile inviare posta, contatta il tuo amministratore.
+unknown first name	registration	it	Nome sconosciuto
+unknown last name	registration	it	Cognome sconosciuto
+update/add	registration	it	Aggiorna/Aggiungi
+use html	admin	it	usa HTML
+use trial accounts?	admin	it	Utilizzare account di prova?
+username is	admin	it	Il Nome Utente è
+values (for dropdown only; comma separated)	registration	it	Valori (Solo per A discesa; separati da virgole)
+we have sent a confirmation email to your email address. you must click on the link within 2 hours. if you do not, it may take a few days until your loginid will become available again.	registration	it	Abbiamo inviato una email di conferma al tuo indirizzo. Devi cliccare sul collegamento entro 2 ore. Se non lo fai, ci potranno volere alcuni giorni prima che la tua id login venga resa di nuovo disponibile.
+we have sent a mail to your email account: %s with your lost user ids.	registration	it	Abbiamo spedito una email alla tua casella : %s con il tuo nome utente che hai perso
+we have sent a mail with instructions to change your password. you should follow the included link within two hours. if you do not, you will have to go to the lost password screen again.	registration	it	Ti abbiamo spedito un'email con le istruzione per cambiare la tua password. Devi cliccare sul seguente link entro due ore . Se non seguirai queste istruzioni dovrai richiedere la procedura di cambio password.
+wrong session	registration	it	Sessione errata
+you can go back to the login page	registration	it	Puoi tornare alla pagine di login
+you have entered an invalid birthday	registration	it	Hai inserito un compleanno non valido
+you have entered an invalid email address	registration	it	Hai inserito un indirizzo email non valido
+you must enter a password	registration	it	Devi inserire una password
+you must enter a username	registration	it	Devi inserire un nome utente
+you must enter an email account	registration	it	Devi inserire un account email
+you must fill in all of the required fields	registration	it	Devi compilare tutti i campi richiesti
+you requested to change your password. please follow the url below to do so. this url will expire in two hours. after this delay you should go thru the lost password procedure again.	registration	it	Hai richiesto di cambiare la tua password. Per cortesia clicca su link di seguito . Questo link avrà una durata di due ore . Dopo questo tempo dovrai rifare la procedura per richiedere il cambio password.
+you specified a value for %1 that is not a choice	registration	it	Hai specificato un valore per 1% ma non è una scelta valida
+your account is now active!	registration	it	Il tuo account ora è attivo !
+your password was changed.	registration	it	La tua password è stata cambiata
+zip/postal	registration	it	ZIP/Postale

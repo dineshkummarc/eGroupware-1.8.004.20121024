@@ -1,0 +1,586 @@
+%1 content manager	sitemgr	zh	%1内容管理器
+%1 module manager	sitemgr	zh	%1模块管理器
+'%1' is no valid sitemgr-site directory !!!	sitemgr	zh	'%1'不是可用的 SiteMgr-站点目录！
+(do not put spaces or punctuation in the name field.)	sitemgr	zh	(在名称字段中不得有空格或标点符号。)
+(leave blank to allow insecure logins)	sitemgr	zh	(留空时允许通过非安全登录)
+(only used in case of single file)	sitemgr	zh	(在单一文件情况下使用)
+1 day	common	zh	1天
+1 hour	common	zh	1小时
+1 month	common	zh	1个月
+1 week	common	zh	1星期
+<b>autoregistration is not enabled / configured in the registration app !!!</b><br>you need to do so, to get the autoregistration link working.	sitemgr	zh	<b>自动注册功能未启用 / 请在注册应用程序中设置！</b>您必须完成相应设置后才能使得自动注册链接工作。
+<b>want more templates?</b><br />just download one from the template gallery at %1www.egroupware.org%2 or use a %3mambo open source%4 version 4.5 compatible template eg. from %5. unpack the downloaded template in your templates directory (%6).	sitemgr	zh	<b>希望有更多的模板？</b><br />只要从模板图库 %1www.egroupware.org%2 下载一个或使用一个 %3Mambo 开源 %4 版本 4.5 兼容的模板，如：从 %5。解压下载的模板到你的模板目录 (%6)。
+a simple picture galery	sitemgr	zh	一个简单的图库
+actif	sitemgr	zh	复活
+actions	sitemgr	zh	操作
+add a category	sitemgr	zh	添加类别
+add a new application	sitemgr	zh	添加应用程序
+add a new guestbook	sitemgr	zh	添加留言板
+add block ...	sitemgr	zh	添加块...
+add block to content area %1	sitemgr	zh	添加块到内容区域 %1
+add category	sitemgr	zh	添加类别
+add new page to this category	sitemgr	zh	添加新页面到该类别
+add page	sitemgr	zh	添加页面
+add page to category	sitemgr	zh	添加页面到类别
+add website	sitemgr	zh	添加网站
+administration	sitemgr	zh	系统管理
+administrative menu	sitemgr	zh	管理的菜单
+administrators	sitemgr	zh	系统管理员
+advanced plus google: also show google search	sitemgr	zh	Google 高级选项：同时显示 google 搜索
+all available languages	sitemgr	zh	所有可用语言
+all categories	sitemgr	zh	所有类别
+all forums in category %1	sitemgr	zh	类别 %1 的所有论坛
+all languages	sitemgr	zh	所有语言
+all sites	sitemgr	zh	所有站点
+all words	sitemgr	zh	所有文字
+allignment of navigation elements	sitemgr	zh	导航元素对齐方式
+allow customer to input a note	sitemgr	zh	允许客户输入记事
+allow posting of questions	sitemgr	zh	允许问题投稿
+amazon	sitemgr	zh	Amazon
+amazon server (without www), eg. amazon.com	sitemgr	zh	Amazon 服务器 (没有 www)，例如：amazon.com
+an application directory	sitemgr	zh	应用程序目录
+anonymous	sitemgr	zh	匿名
+anonymous user login domain	sitemgr	zh	匿名用户登录域
+anonymous user's password	sitemgr	zh	匿名用户的密码
+anonymous user's username	sitemgr	zh	匿名用户的用户名
+anvanced: show all search modes	sitemgr	zh	高级：显示所有搜索模式
+any words	sitemgr	zh	任意文字
+applet	sitemgr	zh	Java程序
+application	sitemgr	zh	应用程序
+application '%1' is not installed !!!<br>please install it, to be able to use the block.	sitemgr	zh	应用程序'%1'未安装！<br>请先安装应用程序，以便使用该区块。
+application sitemgr_module_guestbook must be installed as a egroupware application for this module to run	sitemgr	zh	必须作为 eGroupWare 的一个应用程序安装 sitemgr_module_guestbook 才能运行该模块
+apply permissions also to subcategories?	sitemgr	zh	同时将权限运用到子类别？
+archived	sitemgr	zh	存档
+archived content	sitemgr	zh	保存的内容
+are contributors allowed to define new guestbooks?	sitemgr	zh	投稿者可以定义心的留言簿吗？
+are you sure you want to delete site %1 and all its content? you cannot retrieve it if you continue.	sitemgr	zh	您确定要删除站点 %1 与它的所有内容？如果您继续，您将无法还原。
+are you sure you want to delete the category %1 and all of its associated pages?  you cannot retrieve the deleted pages if you continue.	sitemgr	zh	您确定您要删除类别 %1 与它的所有相关页面吗？如果您继续，您将无法还原被删除的页面。
+as	common	zh	象
+asin[=title] pairs (title is optional)	sitemgr	zh	ASIN[=标题] 巴黎 (标题为可选)
+ask customer	sitemgr	zh	询问用户
+attempt to access information outside current website	sitemgr	zh	试图访问的信息在当前网站以外
+attempt to edit non-editable block	sitemgr	zh	试图编辑不可编辑的区块
+automatic index	sitemgr	zh	自动索引
+automatically generated notification	sitemgr	zh	自动生成通知
+back to module manager	sitemgr	zh	回到模块管理器
+back to the list of languages	sitemgr	zh	回到语言列表
+basic settings	sitemgr	zh	基本设置
+before the public web site can be viewed, you must configure the various locations and preferences.  please go to the sitemgr setup page by following this link:	sitemgr	zh	在公开网站能够浏览查看之前，您必须配置不同的位置与参数选择。请继续通过以下链接到 SiteMgr 设置页面：
+block not found.	sitemgr	zh	找不到块。
+block reloaded	sitemgr	zh	区块已重新加载
+block returned no content.	sitemgr	zh	区块返回没有内容。
+block saved	sitemgr	zh	块已保存
+bookmarks	sitemgr	zh	书签
+buy at %1	sitemgr	zh	在%1购买
+calendar	sitemgr	zh	日历
+can't open an url or execute a script, because allow_url_fopen is not set in your php.ini !!!	sitemgr	zh	无法打开网址或是执行脚本，因为您的 php.ini 没有设定 allow_url_fopen！
+cancel the delete	sitemgr	zh	取消删除
+cannot move page until it has been saved.	sitemgr	zh	在页面被保存之前不能移动页面。
+category	sitemgr	zh	类别
+category description	sitemgr	zh	类别描述
+category manager	sitemgr	zh	类别管理器
+category name	sitemgr	zh	类别名称
+category saved	sitemgr	zh	类别已保存
+cats are numeric, pages strings	sitemgr	zh	类别是数字、页串
+center	sitemgr	zh	居中
+changes saved.	sitemgr	zh	更改已保存。
+check here after every upgrade	sitemgr	zh	在每次更新后勾选这里
+check to hide from condensed site index.	sitemgr	zh	从精简站点索引隐藏。
+choose a category	sitemgr	zh	选择类别
+choose a format	sitemgr	zh	选择格式
+choose a guestbook	sitemgr	zh	选留言板
+choose language	sitemgr	zh	选择语言
+choose template	sitemgr	zh	选择模板
+choose the categories to display	sitemgr	zh	选择要显示的分类
+choose the valid html type (note: not all icons are available):	sitemgr	zh	选择有效的 HTML 类型(注意：并非所有图标都可用)：
+choose your site's theme or template.  note that if you changed the above checkbox you need to save before choosing a theme or template.	sitemgr	zh	选择您的站点的主题或模板。注意，如果您改变了上述复选框您需要在选择主题或模板之前保存。
+click here to login through a safe connection.	sitemgr	zh	点击这里以通过安全连接登录。
+code file	sitemgr	zh	编码文件
+codebase url	sitemgr	zh	编码库网址
+collapse threads	sitemgr	zh	展开
+comment	sitemgr	zh	注释
+commit changes	sitemgr	zh	提交改变
+common prefix of the image-name (a number starting with 1 will be appended)	sitemgr	zh	图片名的通用前缀 (自动附加从 1 开始的数字)
+configure module properties	sitemgr	zh	设置模块属性
+configure sitemgr	sitemgr	zh	配置 SiteMgr
+configure website	sitemgr	zh	配置网站
+contact the administrator.	sitemgr	zh	联系系统管理员。
+content areas	sitemgr	zh	内容区域
+content blocks	sitemgr	zh	内容区块
+content blocks for category	sitemgr	zh	类别的内容区块
+content manager	sitemgr	zh	内容管理器
+contentarea	sitemgr	zh	内容区域
+contributor menu	sitemgr	zh	投稿者菜单
+copyright	sitemgr	zh	版权
+create new version	sitemgr	zh	创建新版本
+css styles	sitemgr	zh	CSS 样式
+currency code of the value specified in amount (eg. usd, eur)	sitemgr	zh	金额指定的货币代码(例如：USD、EUR)
+current section	sitemgr	zh	当前部份
+custom	sitemgr	zh	自定义
+default	sitemgr	zh	默认
+default home page id number	sitemgr	zh	默认主页 ID 编号
+define websites	common	zh	定义网站
+delete block	sitemgr	zh	删除块
+delete category	sitemgr	zh	删除类别
+delete page	sitemgr	zh	删除页面
+delete this application	sitemgr	zh	删除这个应用程序
+delete this block	sitemgr	zh	删除这个区块
+delete this guestbook	sitemgr	zh	删除这个留言板
+delete version	sitemgr	zh	删除版本
+deleting all data for %1	sitemgr	zh	删除 %1 的所有资料
+details for language %1 (%2)	sitemgr	zh	语言%1(%2)的细节
+directory is not writable by the webserver --> disabling upload	sitemgr	zh	Web服务器无法写入目录 --> 禁用上传
+discussions	sitemgr	zh	讨论
+display link to autoregistration below login form?	sitemgr	zh	在以下表单显示自动注册链接？
+do you realy want to delete the selected categories (including all pages), pages and blocks?	sitemgr	zh	您确定要删除选择的类别(包含所有页面)、页面与区块吗？
+do you realy want to delete this block?	sitemgr	zh	您确定要删除这个块？
+do you realy want to delete this page?	sitemgr	zh	您确定要删除这个页面？
+do you want to delete them?	sitemgr	zh	您确定要删除它们？
+documentation	sitemgr	zh	文档资料
+domain-name (offical dns-name eg. www.egroupware.org) if you want to give the user a choice between searching this site or the whole web. leaving it empty allows to search the web only.	sitemgr	zh	您想要提供给用户在搜寻这个站点或整个网络之间进行选择的域名(正式的域名，例如：www.eGroupWare.org)，留空只搜索网站。
+don't have an account?	sitemgr	zh	没有账户？
+don't use egroupware css ">" separator (for templates that uses images/simbols for lists)	sitemgr	zh	不要使用 egroupware css 的分隔符 ">" (模板使用图片/符号列表)
+done	sitemgr	zh	完成
+dont ask	sitemgr	zh	不要询问
+download as zip-archiv	sitemgr	zh	以 ZIP-档案格式下载
+downloaded	sitemgr	zh	已经下载
+draft	sitemgr	zh	草稿
+draft mode	sitemgr	zh	草稿模式
+edit categories and permissions	common	zh	编辑分类与权限
+edit category	sitemgr	zh	编辑类别
+edit individual pages	common	zh	编辑单独的页面
+edit mode	sitemgr	zh	编辑模式
+edit notification	sitemgr	zh	编辑通知
+edit notification message	sitemgr	zh	编辑通知讯息
+edit page	sitemgr	zh	编辑页面
+edit properties of module %1 for %2 with scope %3	sitemgr	zh	编辑 %2 在范围 %3 的模块 %1 属性
+edit site	sitemgr	zh	编辑站点
+edit site header and footer	common	zh	编辑站点页首与页脚
+edit this block	sitemgr	zh	编辑这个区块
+edit website	sitemgr	zh	编辑网站
+egw users	sitemgr	zh	eGW 用户
+element successfully deleted.	sitemgr	zh	成功删除元素。
+email address	sitemgr	zh	邮件地址
+email address of the paypal account selling the item	sitemgr	zh	用来作为 PayPal 帐号销售商品的信箱
+enter a name	sitemgr	zh	输入名称
+enter the block content here	sitemgr	zh	在此输入块内容
+enter the email to be notified about changes of the website.	sitemgr	zh	输入关于网站更改通知的收件人邮箱地址。
+enter the email to be notified about changes of the website:	sitemgr	zh	输入关于网站更改通知的收件人邮箱地址：
+enter the page content here	sitemgr	zh	在此输入页面内容
+enterprise knowledge articles repository	sitemgr	zh	企业知识文章储存库
+entry deleted	sitemgr	zh	条目被删除
+entry duplicated.	sitemgr	zh	条目重复。
+entry saved	sitemgr	zh	条目已保存
+entry saved.	sitemgr	zh	条目已保存。
+error accessing page	common	zh	访问页面错误
+error deleting the element.	sitemgr	zh	删除元素时发生错误。
+error deleting the entry!!!	sitemgr	zh	条目删除时发生错误！
+error saving the entry!!!	sitemgr	zh	保存条目时发生错误！
+error writing to the database.	sitemgr	zh	写入数据库时发生错误。
+error writing to the database: %1.	sitemgr	zh	写入数据库时发生错误：%1。
+everybody	sitemgr	zh	所有人
+exact phrase	sitemgr	zh	精确短语
+expand current category	sitemgr	zh	展开目前类别
+file %1 is not readable by the webserver !!!	sitemgr	zh	文件 %1 对于 Web服务器为不可读！
+file %1 is outside the docroot of the webserver !!!<br>this module does not allow - for security reasons - to open files outside the docroot.	sitemgr	zh	文件 %1 处在了 Web服务器根目录以外的地方！出于安全原因，该模块不允许开放根目录以外的文件。
+file contents	sitemgr	zh	文件内容
+file download	sitemgr	zh	文件下载
+filename	sitemgr	zh	文件名称
+filesystem path of the directory where xml files are stored	sitemgr	zh	XML文件储存目录所在文件系统的路径
+filesystem path of the image-directory	sitemgr	zh	图片目录的文件系统路径
+filesystem path to sitemgr-site directory	sitemgr	zh	SiteMgr--站点目录的文件系统路径
+fill in permissions from parent category? if you check this, below values will be ignored	sitemgr	zh	从上一层类别填写权限？如果您选中此项，下面的数值将被忽略
+flag symbols	sitemgr	zh	国旗符号
+following new modules registed: %1	sitemgr	zh	下列新模块注册：%1
+footer editor	sitemgr	zh	页尾编辑器
+forever	common	zh	始终
+forum	sitemgr	zh	论坛
+full path of the xslt file that should be applied to the xml files	sitemgr	zh	完整的 XSLT 文件路径将被应用到 XML 文件
+galerie	sitemgr	zh	图库
+gallery plus chooser	sitemgr	zh	图库附加选择器
+gallery plus chooser and download	sitemgr	zh	图库附加选择器与下载
+gallery plus download	sitemgr	zh	图库附加下载
+go	sitemgr	zh	去
+go back to page manager	sitemgr	zh	回到页面管理器
+go back to the category manager.	sitemgr	zh	回到类别管理器。
+go to	sitemgr	zh	转到
+go to page manager	sitemgr	zh	前往页面管理器
+google	sitemgr	zh	Google
+google search	sitemgr	zh	Google 搜索
+group access permissions	sitemgr	zh	群组访问权限
+group name	sitemgr	zh	群组名称
+header editor	sitemgr	zh	页首编辑器
+headlines	sitemgr	zh	头条新闻
+hello	sitemgr	zh	哈罗
+hello world	sitemgr	zh	哈罗，大家好
+helps you respect html/xhtml standards.	sitemgr	zh	帮助您注意 HTML/XHTML 标准。
+horizontal	sitemgr	zh	水平的
+html frame	sitemgr	zh	HTML框架
+html module	sitemgr	zh	HTML模块
+i'm sorry, you do not have write permissions for any site categories.	sitemgr	zh	抱歉，您没有写入任何网站类别的权限。
+id	sitemgr	zh	编号
+identifier you can use to track an internal inventory number	sitemgr	zh	你可以用来跟踪内部库存数字的标识符
+if nonsecure redirect to:	sitemgr	zh	如果不安全就重定向到：
+if you haven't done so already, create a user that will be used for public viewing of the site.  recommended name: anonymous.	sitemgr	zh	如果你还没有如此这样做，请创建一个用户将被用于站点的公开查看帐户。推荐名称：anonymous。
+image type	sitemgr	zh	图片类型
+implies read permission	sitemgr	zh	意味着读取权限
+index	sitemgr	zh	索引
+individual access permission	sitemgr	zh	个人访问权限
+individual access permissions	sitemgr	zh	个人访问权限
+interface to google website	sitemgr	zh	到 Google 网站的接口
+invalid template directory '%1' !!!	sitemgr	zh	错误的模板目录 '%1' ！
+knowledge base	sitemgr	zh	知识库
+language:	sitemgr	zh	语言：
+languages the site user can choose from	sitemgr	zh	网站用户能够选择的语言
+last entries to the guestbook	sitemgr	zh	留言板的最新条目
+latest reply	sitemgr	zh	最后回应
+links for the tabs (comma seperated)	sitemgr	zh	标签的链接(逗号分隔)
+list of permitted modules specific to content area %1	sitemgr	zh	具体到内容区域 %1 的允许模块列表
+loged in as:	sitemgr	zh	登录为：
+login	sitemgr	zh	登录
+login name	sitemgr	zh	登录名
+main content	sitemgr	zh	主要内容
+mains	sitemgr	zh	主要的
+manage archived content	sitemgr	zh	管理档案内容
+manage categories	sitemgr	zh	管理分类
+manage categories and pages	sitemgr	zh	管理分类与页面
+manage category wide content	sitemgr	zh	管理全部类别内容
+manage category wide module properties	sitemgr	zh	管理全部类别模块属性
+manage content	sitemgr	zh	管理内容
+manage modules	sitemgr	zh	管理模块
+manage notification messages	sitemgr	zh	管理通知讯息
+manage notifications	sitemgr	zh	管理通知
+manage page specific content	sitemgr	zh	管理页面具体内容
+manage pages	common	zh	管理页面
+manage site content	sitemgr	zh	管理站点内容
+manage site-wide content	sitemgr	zh	管理全站内容
+manage site-wide module properties	sitemgr	zh	管理全站模块属性
+manage translations	sitemgr	zh	管理翻译
+manange notifications	sitemgr	zh	管理通知
+manange notifications messages	sitemgr	zh	管理通知信息
+master list of permitted modules	sitemgr	zh	容许模块总表
+maximal category depth to be shown	sitemgr	zh	显示类别深度上限
+maximal page depth to be shown	sitemgr	zh	显示页面深度上限
+message not found !!!	sitemgr	zh	找不到讯息！
+message text:	sitemgr	zh	讯息文本：
+messages are defined for all site languages.	sitemgr	zh	讯息被定义为所有站点语言。
+migrating data for %1 to %2	sitemgr	zh	将数据从 %1 迁移到 %2
+module %1 is not permitted in this context!	sitemgr	zh	模块 %1 不允许在该上下文中！
+module '%1' not found in: %2! --> exiting	sitemgr	zh	在 %2 没找到模块 '%1' ！--> 退出
+module manager	sitemgr	zh	模块管理器
+module: %1, scope: %2, contentarea: %3, viewable: %4	sitemgr	zh	模块：%1，范围：%2，内容区：%3，可见的：%4
+move block down (increase sort order)	sitemgr	zh	块下移(增序)
+move block up (decrease sort order)	sitemgr	zh	块上移(降序)
+move to	sitemgr	zh	移动到
+name	sitemgr	zh	名称
+name has been translated to lower case	sitemgr	zh	名称被转换为小写
+name of the item for sale	sitemgr	zh	有关销售项目的名称
+name of the tabs (comma seperated)	sitemgr	zh	标签名称(逗号分隔)
+new application	sitemgr	zh	新建应用程序
+new guestbook	sitemgr	zh	新建留言板
+new sitemgr site	sitemgr	zh	新建 SiteMgr-站点
+no additional arguments required	sitemgr	zh	不需要另外的论据
+no anonymous user accounts installed.  notify the administrator.	sitemgr	zh	<b>没有设置匿名用户帐户，请通知系统管理员。</b>
+no content areas found in selected template	sitemgr	zh	在选择的模板中没有发现内容区域
+no content found	sitemgr	zh	找不到内容
+no groups defined.	sitemgr	zh	未定义任何群组。
+no link to full index	sitemgr	zh	没有链接到全部索引
+no modules permitted for this content area/category	sitemgr	zh	没有模块允许用于该内容区域/类别
+no new modules found !!!	sitemgr	zh	找不到新的模块！
+no options available.	sitemgr	zh	没有可用选项。
+no pages available	sitemgr	zh	没有可用页面
+no sitelanguages configured	sitemgr	zh	未设置站点语言
+no template file found.	sitemgr	zh	找不到模板文件。
+no templates found.	sitemgr	zh	找不到模板。
+no thumbnail availible	sitemgr	zh	没有可用的缩略图
+no users defined.	sitemgr	zh	未定义用户。
+no websites defined	sitemgr	zh	未定义网站
+no, chooser only (for side-areas)	sitemgr	zh	不，仅选择器(为侧边区域)
+no, chooser with preview	sitemgr	zh	不，选择器与预览
+not	common	zh	否
+not yet translated	sitemgr	zh	尚未翻译
+note that you may get this message if your preferences are incorrect.  for example, if config.inc.php is not found in the directory that you specified.	sitemgr	zh	注意，如果您的参数选择不正确您可能收到这则消息，例如：config.inc.php 不在您指定的目录中。
+notification message not found !!!	sitemgr	zh	找不到通知讯息！
+notification not found !!!	sitemgr	zh	找不到通知！
+number of results	sitemgr	zh	结果数量
+on all pages	sitemgr	zh	在所有页面
+only gallery	sitemgr	zh	只有图库
+only on the first page	sitemgr	zh	只在第一页上
+options in search result page	sitemgr	zh	搜索结果页面选项
+or enter the title for a new guestbook	sitemgr	zh	或输入新留言板的标题
+other websites	sitemgr	zh	其他网站
+overview of all available categories	sitemgr	zh	所有可用的类别概要
+overview of one specific category	sitemgr	zh	一指定类别概要
+own amazon partner-id or empty to donate to the egroupware project	sitemgr	zh	自己的 Amazon 伙伴编号或留空捐赠给 eGroupWare 项目
+page	sitemgr	zh	页
+page content	sitemgr	zh	网页内容
+page manager	sitemgr	zh	网页管理器
+page name	sitemgr	zh	页面名称
+page saved	sitemgr	zh	网页已保存
+page saved.	sitemgr	zh	网页已保存。
+page subtitle	sitemgr	zh	页面副标题
+page title	sitemgr	zh	页面标题
+pages	sitemgr	zh	网页
+pages:	sitemgr	zh	页：
+parent	sitemgr	zh	上一层
+parent directory	sitemgr	zh	上层目录
+parent section:	sitemgr	zh	上一层：
+password	sitemgr	zh	密码
+password that you assigned for the anonymous user account.	sitemgr	zh	您指派给匿名用户的帐户密码。
+path	sitemgr	zh	路径
+path to image-directory '%1' is not valid or readable by the webserver !!!	sitemgr	zh	图片目录路径'%1'不正确或 Web服务器无法读取！
+path to zip binary if not in path of the webserver	sitemgr	zh	ZIP 路径如果不在网络服务器的路径
+pay with paypal	sitemgr	zh	通过 Paypal 付款
+paypal	sitemgr	zh	Paypal
+paypal pay now button	sitemgr	zh	Paypal 立即付款按钮
+percentage	sitemgr	zh	百分比
+phrases in total	sitemgr	zh	所有短语
+plain selectbox	sitemgr	zh	空白的下拉菜单
+please enter a name for that site !	sitemgr	zh	请输入网站的名称！
+please sign the guestbook	sitemgr	zh	请留言
+post a message to this thread	sitemgr	zh	回复
+prepublished	sitemgr	zh	预发布
+preunpublished	sitemgr	zh	预未发布
+previous	sitemgr	zh	上一个
+price of the item (empty allows buyer to choose, eg. for donations)	sitemgr	zh	产品价格(留空表示买家可以选择，例如：赞助)
+production mode	sitemgr	zh	产品模式
+published	sitemgr	zh	发布
+quantity items (empty allows buyer to specify)	sitemgr	zh	产品数量(留空表示买家可以指定)
+reactivate content	sitemgr	zh	恢复内容
+read permission	sitemgr	zh	读取权限
+redirection	sitemgr	zh	转向
+refresh	sitemgr	zh	刷新
+register for one now.	sitemgr	zh	现在注册一个新的。
+register new modules	sitemgr	zh	注册新模块
+reload	sitemgr	zh	重新载入
+remember me	common	zh	记住我
+replies	sitemgr	zh	回应
+required	sitemgr	zh	必填
+required fields	sitemgr	zh	必填栏位
+reset	sitemgr	zh	重设
+return to forums	sitemgr	zh	回到论坛
+return to main menu.	sitemgr	zh	回到主要菜单。
+return to message list	sitemgr	zh	回到讯息列表
+root site index	sitemgr	zh	主要网站索引
+save	sitemgr	zh	保存
+save block	sitemgr	zh	保存块
+saved	sitemgr	zh	保存
+scope	sitemgr	zh	范围
+search keyword	sitemgr	zh	搜索关键字词
+search language options	sitemgr	zh	搜索语言选项
+search modes	sitemgr	zh	搜索模式
+search with	sitemgr	zh	搜索关键字
+seen by	sitemgr	zh	看到
+select a category	sitemgr	zh	选择一个类别
+select a forum	sitemgr	zh	选择一个论坛
+select allowed modules	sitemgr	zh	选择容许模块
+select layout for lang selection	sitemgr	zh	选择语言选项的布局
+select persons and groups that are entitled to configure the website.	sitemgr	zh	选择有权进行配置网站的人和群组。
+select the templates the user is allowed to see	sitemgr	zh	选择允许用户能够看到的模板
+select type of navigation	sitemgr	zh	选择导航类型
+selected template %1 does not exist.	sitemgr	zh	选择的模板 %1 不存在。
+selected theme %1 does not exist.	sitemgr	zh	选择的主题 %1 不存在。
+seperate cats / pages of one tab by :	sitemgr	zh	Seperate Cats / Pages of one tab by :
+shipping address	sitemgr	zh	发运地址
+should the file be viewed in the browser or downloaded	sitemgr	zh	如果文件在浏览器被查看或被下载
+show a template-gallery (thumbnail and informations)	sitemgr	zh	显示一个模板图库(缩图与信息)
+show contents of a directory	sitemgr	zh	显示一个目录的内容
+show contents of a directory with subdirectories	sitemgr	zh	显示一个目录与子目录的内容
+show current section only	sitemgr	zh	只显示当前部分
+show details for the applications	sitemgr	zh	显示应用程序的细节
+show only (in the next field) selected templates	sitemgr	zh	只显示 (在下一字段里) 选取的模板
+show path?	sitemgr	zh	显示路径？
+show searchbox	sitemgr	zh	显示搜索框
+show site index	sitemgr	zh	显示站点索引
+show subcategories	sitemgr	zh	显示子类别
+show the title of the wiki page	sitemgr	zh	显示 Wiki 页面的标题
+simple: only selected mode, no more options displayed	sitemgr	zh	简单的：只使用选择的模式，不显示其他选项
+single file download	sitemgr	zh	下载单一文件
+site	sitemgr	zh	站点
+site %1 has been added, you need to %2configure the site%3 now	sitemgr	zh	站点 %1 已添加，您现在必须到 %2 配置站点 %3
+site %1 has been updated	sitemgr	zh	站点 %1 已经更新
+site administrators	sitemgr	zh	站点管理员
+site description	sitemgr	zh	网站描述
+site format manager	sitemgr	zh	站点格式管理器
+site index	sitemgr	zh	站点索引
+site language	sitemgr	zh	站点语言
+site name	sitemgr	zh	站点名称
+site setup	common	zh	站点安装
+site tree menu	sitemgr	zh	站点树状菜单
+site wide	sitemgr	zh	站点范围
+sitemgr	common	zh	[SiteMgr]内容管理器
+sitemgr manual	sitemgr	zh	SiteMgr 使用指南
+sitemgr options	sitemgr	zh	SiteMgr 选项
+sitemgr setup instructions	sitemgr	zh	SiteMgr 安装指导
+sitemgr setup page	sitemgr	zh	Sitemgr 安装页面
+sitemgr web content manager	common	zh	SiteMgr 网站内容管理器
+sitemgr websites	sitemgr	zh	SiteMgr-网站
+sitemgr-link	common	zh	SiteMgr-网站
+sitio	sitemgr	zh	站点
+size	sitemgr	zh	大小
+sorry, no content found for you search criteria	sitemgr	zh	抱歉，您的搜索条件找不到任何内容
+sort order	sitemgr	zh	分类排序
+state	sitemgr	zh	州/省
+strip html from block content?	sitemgr	zh	移除块内容中的 HTML？
+subcategories	sitemgr	zh	子分类
+subsections:	sitemgr	zh	附属区：
+subtext for image %1	sitemgr	zh	图片 %1 的文字
+subtitle	sitemgr	zh	副标题
+summary of one forum	sitemgr	zh	一个论坛的概要
+suppress link to index (show all)	sitemgr	zh	抑制到索引页的链接 (显示全部)
+suppress link to parent category	sitemgr	zh	抑制链接到上级类别类
+suppress main categories	sitemgr	zh	抑制主要分类
+suppress the current category	sitemgr	zh	抑制当前类别
+suppress the current page	sitemgr	zh	抑制当前页面
+table of contents	sitemgr	zh	目录
+template based navigation module	sitemgr	zh	基于导航模块的模板
+template select	sitemgr	zh	模板选择
+text allignment	sitemgr	zh	文本对齐方式
+text of page links	sitemgr	zh	页面链接的文本
+textarea	sitemgr	zh	文本区
+the category to display, 0 for complete table of contents	sitemgr	zh	要显示的类别，0 表示完全目录
+the complete url or path to a file to be included	sitemgr	zh	要包含的文件的完全网址或路径
+the config.inc.php file needs to be edited to point to the egroupware directory. copy the config.inc.php.template file to config.inc.php and then edit it.	sitemgr	zh	需要编辑 config.inc.php 文件指向 eGroupWare 目录。复制 config.inc.php.template 样板文件为 config.inc.php 然后编辑它。
+the file to be downloaded	sitemgr	zh	被下载的文件
+the filesystem path to your sitemgr-site directory '%1' is probably wrong. go to sitemgr --> define websites and edit/fix the concerned site.	sitemgr	zh	文件系统路径到您的 SiteMgr-Site 目录'%1'可能有误，到 [SiteMgr]网站管理器 --> 定义网站并编辑或修复有关站点。
+the first directory to think about is sitemgr-link.  if you move this to the parent directory of sitemgr (your egroupware root directory) then you can use setup to install the app and everyone with access to the app will get an icon on their navbar that links them directly to the public web site.  if you don't want this icon, there's no reason to ever bother with the directory.	sitemgr	zh	首先第一个目录是 SiteMgr-Link，如果您将这个目录移到 SiteMgr 的上一层目录 (您的 eGroupWare 根目录)，然后您可以使用安装程序来安装该应用程序并且每个访问应用程序的人都会在导航条上看到一个图标，它直接链接到公开的网站。如果您不想要这个图标，没有理由操心这个目录。
+the messages for changes in this language will use the default text, if available.	sitemgr	zh	如果可能，在该语言中的更改信息将使用默认文本。
+the name field cannot contain punctuation or spaces (field modified).	sitemgr	zh	名称不能含有标点符号或空格(修改的字段)。
+the page name must be unique.	sitemgr	zh	页面名称必须是唯一的。
+the page was successfully saved.	sitemgr	zh	页面保存成功。
+the path to the file to be downloaded	sitemgr	zh	要下载的文件路径
+the person to say hello to	sitemgr	zh	访客名称
+the second directory is the sitemgr-site directory.  this can be moved <i>anywhere</i>. it can also be named <i>anything</i>.  wherever it winds up, when you point a web browser to it, you will get the generated website.  assuming, of course, that you've accurately completed the setup fields below and also <b><i>edited the config.inc.php</i></b> file.	sitemgr	zh	第二个目录是 SiteMgr-Site 目录，它可被移到<i>任何位置</i>，也可以被<i>重命名</i>。无论怎样，当您使用浏览器指向它时，您会看到生成的网站。当然这必须是在您已经正确地完成了以下字段的设置并编辑了 <b><i>config.inc.php</i></b> 文件。
+the text for the link, if empty the module returns the raw url (without a link)	sitemgr	zh	链接的文字，如果留空该模块返回原始的网址(没有链接)
+the url can be relative or absolute.  name must end in a slash.	sitemgr	zh	网址可以是相对或绝对地址，最后必须加上斜线。
+the url must be absolute and end in a slash, for example http://mydomain.com/mysite/	sitemgr	zh	网址必须是绝对地址，而且最后必须加上斜线，例如 http://mydomain.com/mysite/
+the url to display	sitemgr	zh	要显示的网址
+the url to redirect to	sitemgr	zh	重定向的网址
+the web	sitemgr	zh	网站
+the website has changed. too see the change, follow this url: $url.	sitemgr	zh	网站已经更改，使用该网址查看所作更改：$URL。
+the whole page	sitemgr	zh	完整页面
+the xml files' common name	sitemgr	zh	XML文件的通用名称
+theme or template select	sitemgr	zh	主题或模板选择
+there are %1 elements in the list.	sitemgr	zh	列表中有 %1 个元素。
+there are no categories	sitemgr	zh	没有类别
+there are no forums in this category	sitemgr	zh	这个类别中没有论坛
+there are no pages in this section	sitemgr	zh	这部分没有页面
+there are no properties defined for this module	sitemgr	zh	该模块没有定义属性
+there are no sections available to you.	sitemgr	zh	没有对于您有用的部分。
+there are two subdirectories off of your sitemgr directory that you should move before you do anything else.  you don't <i>have</i> to move either of these directories, although you will probably want to.	sitemgr	zh	在您的 SiteMgr 目录中有两个子目录，您应该在进行别的操作之前移动它们，但您并<i>没有</i>移动它们中的任一个，尽管您可能想要这么做。
+there can only be one version in (pre(un))published state, with the one exeption that one prepublished version can coexist with one preunpublished version	sitemgr	zh	只能够有一个版本是在(待(未))发布状态，但有一种例外就是一个预发布版本可以与一个未发布的待发布版本共存
+there is no website configured for url %1.  notify the administrator.	sitemgr	zh	<b>网址 %1 没有设置网站，请通知管理员。</b>
+there is nothing to list.	sitemgr	zh	这里没有任何列出。
+there was an error accessing the requested page. either you do not have permission to view this page, or the page does not exist.	common	zh	有访问请求的页面的错误发生。也许您没有查看该网页的权限或是网页根本就不存在。
+there was an error writing to the database.	sitemgr	zh	写入数据库时发生错误。
+this block displays a javascript based tree menu	sitemgr	zh	这个块显示一个基于Java语言的树型菜单
+this block displays the current section's table of contents	sitemgr	zh	这个块显示当前部分的目录
+this category has no pages.	sitemgr	zh	这个类别没有页面。
+this is a simple sample module	sitemgr	zh	这是一个简单的范例模块
+this is only used as an internal name for the website.	sitemgr	zh	这只是用来作为网站的一个内部名称。
+this is used chiefly for meta data and the title bar.  if you change the site languages below you have to save before being able to set this preference for a new language.	sitemgr	zh	这主要用于 meta data 和标题栏，如果您要在下面更改站点语言，您必须在开始为新语言设置此参数之前保存当前设置。
+this is used chiefly for meta data. if you change the site languages below you have to save before being able to set this preference for a new language.	sitemgr	zh	这主要用于 meta data，如果您要在下面更改站点语言，您必须在开始为新语言设置此参数之前保存当前设置。
+this module create a link for downloading a file from the vfs	sitemgr	zh	这个模块为从虚拟文件系统下载文件创建一个链接
+this module create a link for downloading a file(s) from the vfs	sitemgr	zh	这个模块为从虚拟文件系统下载文件创建一个链接
+this module demonstrates how handling data stored in xml and building an interacvite interface from it	sitemgr	zh	这个模块展示如何在XML中处理数据储存和从它建立一个交互式的界面
+this module displays a login form	sitemgr	zh	这个模块显示一个登录表单
+this module displays any kind of navigation element.	sitemgr	zh	这个模块显示任何导航元素的种类。
+this module displays bookmarks in a javascript based tree	sitemgr	zh	该模块在一个基于Java语言的树型菜单显示书签
+this module displays the current month	sitemgr	zh	这个模块显示当前月
+this module displays the egw forums on the web site	sitemgr	zh	这个模块在网站上显示 eGroupWare 论坛
+this module displays the root categories in one block each, with pages and subcategories (incl. their pages if activated).	sitemgr	zh	这个模块在页面的一个块中显示根分类的每一类别，以及子分类 (包含它们的活动的页面)。
+this module displays the root categories, its pages and evtl. subcategories. it is meant for side areas	sitemgr	zh	这个模块显示根分类、它的页面和可能的子分类。它注定了侧栏区域
+this module includes the contents of an url or file (readable by the webserver and in its docroot !)	sitemgr	zh	这个模块包含一个网址或文件的内容 (必须存放在网页根目录且网页服务器可以读取！)
+this module is a customisable navigation element	sitemgr	zh	这个模块是一个可自定义导航元素
+this module is a selectbox to change the mode (production, draft or edit) plus a link back to sitemgr and to log out. it is meant for registered users only	sitemgr	zh	这个模块是一个修改状态的下拉菜单 (产品、草稿或编辑)以及一个回到 SiteMgr 的链接来登出，只有注册的用户看的到
+this module is a simple html editor	sitemgr	zh	这个模块是一个简单的 HTML 编辑器
+this module lets the users choose a template or shows a template gallery	sitemgr	zh	这个模块让用户能够选择与浏览模板
+this module lets users choose language	sitemgr	zh	这个模块可以让用户选择语言
+this module lets you define pages that redirect to another url, if you use it, there should be no other block defined for the page	sitemgr	zh	这个模块让您可以定义页面重定向到另一个网址，如果您使用它，必须没有在该页定义任何其它块
+this module lets you include an applet into the page.	sitemgr	zh	这个模块可以让您在页面中加入小程序。
+this module lets you show a given url inside an iframe in the page.	sitemgr	zh	这个模块可以让您在页面中的 IFRAME 里显示指定网址。
+this module permits browsing through xml files stored in a directory, and transformed by xslt	sitemgr	zh	这个模块允许浏览通过XML文件的储存目录，和转换的XSLT文件
+this module provides a complete table of contents, it is automatically used by the toc and category_id get parameters	sitemgr	zh	这个模块提供一个完整的目录，它会自动被用在 GET 的 toc 与 category_id 参数中
+this module provides a condensed table of contents, meant for side areas	sitemgr	zh	这个模块提供一个压缩过的目录，将用于边栏区域
+this module provides tabs	sitemgr	zh	这个模块提供制表符
+this module provides the path to the element currently shown	sitemgr	zh	这个模块提供目前显示元素的路径
+this module provides the site index, it is automatically used by the index get parameter	sitemgr	zh	这个模块提供站点索引，它将自动使用索引得到的参数
+this module search throw the content (page title/description and html content)	sitemgr	zh	这个模块搜索需查找内容(页面标题/描述与html内容)
+this module show the status / percentage of the translation of egw	sitemgr	zh	这个模块显示 eGW 的翻译状态/百分比
+this must be an absolute directory location.  <b>no trailing slash</b>.	sitemgr	zh	这必须是一个本地绝对目录，<b>没有结尾斜线</b>。
+this should be a comma-separated list of language-codes.	sitemgr	zh	这应该是一个用逗号分隔的语言代码的列表。
+this should be a page that is readable by everyone. if you leave this blank, the site index will be shown by default.	sitemgr	zh	这应该是每个人都能够读取的页面，如果您留空，站点索引将以默认方式显示。
+this site	sitemgr	zh	这个站点
+title	sitemgr	zh	标题
+topic	sitemgr	zh	主题
+translate	sitemgr	zh	翻译
+translate category	sitemgr	zh	翻译类别
+translate page	sitemgr	zh	翻译页面
+translate site-wide content blocks	sitemgr	zh	翻译全站内容块
+translation manager	sitemgr	zh	翻译管理器
+translation status	sitemgr	zh	翻译状态
+unsubscribe	sitemgr	zh	取消订阅
+up to parent	sitemgr	zh	回到上一层
+up to table of contents	sitemgr	zh	回到目录
+update notification	sitemgr	zh	更新通知
+updating to new category system	sitemgr	zh	更新到新类别系统
+url pointing to the image-directory	sitemgr	zh	图片目录的网址
+url to sitemgr-site	sitemgr	zh	连到网站的网址
+use current user selected language	sitemgr	zh	使用目前用户选择的语言
+use phpnuke themes instead of templates	sitemgr	zh	用phpNuke的主题取代模板
+use this module for displaying book ads for the amazon web site	sitemgr	zh	使用这个模块来显示amazon 网站预定广告
+use this module for displaying wiki-pages	sitemgr	zh	使用这个模块来显示WIKI页面
+user name	sitemgr	zh	用户名
+validator	sitemgr	zh	校验
+vertical	sitemgr	zh	垂直
+view administrative menu	sitemgr	zh	查看管理菜单
+view full index	sitemgr	zh	查看完整索引
+view generated site	sitemgr	zh	查看生成的站点
+view template on this site	sitemgr	zh	查看这个站点上的模板
+view threads	sitemgr	zh	查看 Threads
+viewed	sitemgr	zh	浏览次数
+web content manager	common	zh	SiteMgr 网站内容管理器
+web content manager administration	sitemgr	zh	网站内容管理器管理
+web site manager	sitemgr	zh	网站管理器
+website	sitemgr	zh	网站
+week	sitemgr	zh	周
+what do you want to do with existing translations of categories and pages for this language?	sitemgr	zh	对于已经存在的类别的翻译与这一语言的页面您想要做什么？
+when is a tab activated?	sitemgr	zh	当选项卡被激活时？
+which application should be executed after login?	sitemgr	zh	应该在登录后执行那个应用程序？
+which main categories schuld be included (comma seperated list, empty for all)	sitemgr	zh	要包含哪个主要类别(逗号分隔，留空表示全部)
+wiki	sitemgr	zh	维基(Wiki)
+wiki startpage	sitemgr	zh	Wiki首页
+with which view should the module be displayed in the beginning?	sitemgr	zh	该模块在开始时应该以哪一种查看模式显示？
+write permission	sitemgr	zh	写权限
+xml browser	sitemgr	zh	XML浏览器
+yes, please delete it	sitemgr	zh	是，请删掉它
+you are not entitled to change the scope of block %1 to cat %2 and page %3	sitemgr	zh	您没有权限修改块 %1 到类别 %2 和页面 %3 的浏览范围
+you are not entitled to create module %1 on this scope	sitemgr	zh	您没有权限在这个浏览范围建立模块 %1
+you are not entitled to edit block %1	sitemgr	zh	您没有权限编辑块 %1
+you can choose the modules that can be used on the site. the first list is a sort of master list, that is consulted if you do not configure lists specific to contentareas or (sub)categories. then you can choose lists specific to each content area. in the category manager these lists can be overriden for each (sub)category.	sitemgr	zh	您可以选择能够应用在网站站点上的模块。第一个列表是一个主要类别的列表，如果您不设置具体到内容区域或(子)分类列表的话则可以是这一考虑。然后您可以选择具体到每个内容区域的列表。在类别管理器中这些列表可以覆盖每个(子)类别。
+you can either migrate them to a new language or delete them	sitemgr	zh	您可以移植它们到一个新的语言或是删除它们
+you can override each content blocks default title. be aware that not in all content areas the block title will be visible.	sitemgr	zh	您可以覆盖每个内容块默认的标题，但要知道并不是所有内容区域块标题都是可见的。
+you did not choose a module.	sitemgr	zh	您没有选择模块。
+you do not have access to any content on this site.	sitemgr	zh	您没有访问该网站上任何内容的权限。
+you do not have write permissions for any site categories.	sitemgr	zh	您没有写入任何站点分类的权限。
+you don't have permission to write in the category	sitemgr	zh	您没有在类别中写入的权限
+you don't have permission to write to that category.	sitemgr	zh	您没有写入到那个类别的权限。
+you failed to fill in one or more required fields.	sitemgr	zh	您未能填写一个或更多必需填写的字段。
+you have no rights to view wiki content or the wiki is not installed at all !!!	sitemgr	zh	您没有权限查看 Wiki 内容或是 Wiki 根本没有安装！
+you may have deinstalled the used template '%1'. reinstall it or go to sitemgr --> configure website and select an other one.	sitemgr	zh	您可能删除了所使用的模板'%1'。请重新安装或是到 SiteMgr-内容管理 --> 配置网站重新选择另一个。
+you must be an admin to edit categories.	sitemgr	zh	您必须具备管理员身份才能编辑类别。
+you must be an admin to edit the site header and footer.	sitemgr	zh	您必须具备管理员身份才能编辑站点页首与页尾。
+you must be an admin to manage module properties.	sitemgr	zh	您必须具备管理员身份才能管理模块属性。
+you must be an administrator to setup the site manager.	sitemgr	zh	您必须具备管理员身份才能设置站点管理器。
+you removed one ore more languages from your site languages.	sitemgr	zh	您已经从站点语言中移除了一个或多个语言。
+you will remove the message in the following language from your notification system:	sitemgr	zh	您将从您的通知系统中移除以下语言中的讯息：
+your administrator has not yet setup the web content manager for public viewing.  go bug your administrator to get their butt in gear.	sitemgr	zh	您的管理员还没有将网站内容管理器设置为供公开浏览查看，请敦促你们的系统管理员尽快介入并作相应处理。
+your calendar	sitemgr	zh	您的日历
+your comment	sitemgr	zh	您的注释
+your connection is not safe.	sitemgr	zh	您的连接不是安全的。
+your name	sitemgr	zh	您的名字
+before the public web site can be viewed, you must configure the various locations and preferences.  please go to the sitemgr setup page by following this link:	sitemgr-link	zh	在发布网站使其可被浏览之前，您必须配置不同的地址和选项。请通过以下链接前往 Sitemgr 设定页：
+note that you may get this message if your preferences are incorrect.  for example, if config.inc.php is not found in the directory that you specified.	sitemgr-link	zh	注意：如果您的参数不正确，您可能得到这个消息。例如，如果 config.inc.php(配置文件)不存在您所指定的目录。
+sitemgr setup page	sitemgr-link	zh	Sitemgr 设置页面
+you need to make sure the sitemgr-link app is in the egroupware directory.  if you made a symbolic link... it isn't working.	sitemgr-link	zh	您必须确保 Sitemgr-Link 应用程序是在 eGroupWare 目录里。如果您做了一个符号连接...，它是不会工作的。
+your administrator has not yet setup the web content manager for public viewing.  go bug your administrator to get their butt in gear.	sitemgr-link	zh	您的系统管理员还没有设置网页内容管理供公众浏览，将此告诉您的系统管理员以获得它们的相应链接。
